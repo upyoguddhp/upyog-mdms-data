@@ -26349,6 +26349,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "SYS_INTEGRATOR_GIS",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pg"
+    },	  
+    {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 701,
       "actioncode": "",
