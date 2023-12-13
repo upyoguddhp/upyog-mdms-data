@@ -18089,6 +18089,381 @@
       "name": "mh.shirolmunicipalcouncil",
       "active": true,
       "module": "NationalDashboard"
+    },{
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.adityapurmunicipalcorporation",
+      "name": "jh.adityapurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.basukinathnagarpanchayat",
+      "name": "jh.basukinathnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.bisharampurnagarpanchayat",
+      "name": "jh.bisharampurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.bundunagarpanchayat",
+      "name": "jh.bundunagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.chaibasanagarparishad",
+      "name": "jh.chaibasanagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.chakradharpurnagarparishad",
+      "name": "jh.chakradharpurnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.chasmunicipalcorporation",
+      "name": "jh.chasmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.chatranagarparishad",
+      "name": "jh.chatranagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.chirkundanagarpanchayat",
+      "name": "jh.chirkundanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.deogharmunicipalcorporation",
+      "name": "jh.deogharmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.dhanbadmunicipalcorporation",
+      "name": "jh.dhanbadmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.dumkanagarparishad",
+      "name": "jh.dumkanagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.garhwanagarparishad",
+      "name": "jh.garhwanagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.giridihnagarnigam",
+      "name": "jh.giridihnagarnigam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.goddanagarparishad",
+      "name": "jh.goddanagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.gumlanagarparishad",
+      "name": "jh.gumlanagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.hazaribaghnagarnigam",
+      "name": "jh.hazaribaghnagarnigam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.hussainabadnagarpanchayat",
+      "name": "jh.hussainabadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.jamtaranagarpanchayat",
+      "name": "jh.jamtaranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.jhumritilaiyanagarparishad",
+      "name": "jh.jhumritilaiyanagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.jugsalainagarparishad",
+      "name": "jh.jugsalainagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.khuntinagarpanchayat",
+      "name": "jh.khuntinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.kodermanagarpanchayat",
+      "name": "jh.kodermanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.lateharnagarpanchayat",
+      "name": "jh.lateharnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.lohardaganagarparishad",
+      "name": "jh.lohardaganagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.madhupurnagarparishad",
+      "name": "jh.madhupurnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.mangonagarnigam",
+      "name": "jh.mangonagarnigam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.manjhiaonnagarpanchayat",
+      "name": "jh.manjhiaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.medininagarnagarnigam",
+      "name": "jh.medininagarnagarnigam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.mihijhamnagarparishad",
+      "name": "jh.mihijhamnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.pakurnagarparishad",
+      "name": "jh.pakurnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.phusronagarparishad",
+      "name": "jh.phusronagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.rajmahalnagarpanchayat",
+      "name": "jh.rajmahalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.ramgarhnagarparishad",
+      "name": "jh.ramgarhnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.sahibganjnagarparishad",
+      "name": "jh.sahibganjnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.saraikelanagarpanchayat",
+      "name": "jh.saraikelanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.simdeganagarparishad",
+      "name": "jh.simdeganagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.nagaruttarinagarpanchayat",
+      "name": "jh.nagaruttarinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.chakulianagarpanchayat",
+      "name": "jh.chakulianagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.kapalinagarparishad",
+      "name": "jh.kapalinagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.domchanchnagarpanchayat",
+      "name": "jh.domchanchnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.barharwanagarpanchayat",
+      "name": "jh.barharwanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.chhattarpurnagarpanchayat",
+      "name": "jh.chhattarpurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.dhanwarnagarpanchayat",
+      "name": "jh.dhanwarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.hariharganjnagarpanchayat",
+      "name": "jh.hariharganjnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.barkisarainagarpanchayat",
+      "name": "jh.barkisarainagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.mahagamanagarpanchayat",
+      "name": "jh.mahagamanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
