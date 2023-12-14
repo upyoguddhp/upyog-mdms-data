@@ -666,6 +666,78 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "guardian",
+            "jsonPath": "guardian",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": [
+  
+        ]
+      },
+	        {
+        "model": "WaterDisconnectionReport",
+        "uniqueIdentifier": {
+          "name": "user_uuid",
+          "jsonPath": "/user_uuid"
+        },
+        "attributes": [
+          {
+            "name": "name",
+            "jsonPath": "name",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "guardian",
+            "jsonPath": "guardian",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": [
+  
+        ]
+      },
+	    {
+        "model": "WaterConnectionReport",
+        "uniqueIdentifier": {
+          "name": "user_uuid",
+          "jsonPath": "/user_uuid"
+        },
+        "attributes": [
+          {
+            "name": "name",
+            "jsonPath": "name",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "guardian",
+            "jsonPath": "guardian",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
@@ -788,6 +860,24 @@
       },
       {
         "model": "StateTradeLicenseCancelledRegistryReport",
+        "uniqueIdentifier": {
+          "name": "uuid",
+          "jsonPath": "/uuid"
+        },
+        "attributes": [
+          {
+            "name": "name",
+            "jsonPath": "name",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": [
+  
+        ]
+      },
+    {
+        "model": "FSMDailyCollectionReport",
         "uniqueIdentifier": {
           "name": "uuid",
           "jsonPath": "/uuid"
