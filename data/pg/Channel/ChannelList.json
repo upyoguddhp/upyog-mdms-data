@@ -81,7 +81,7 @@
         "EMAIL",
         "EVENT"
       ]
-    },	
+    },
     {
       "businessService": "PT.UPDATE",
       "module": "PT",
@@ -825,8 +825,12 @@
     {
       "businessService": "WS.CREATE",
       "module": "WS",
-      "action" : "EXECUTE_DISCONNECTION",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "WS.CREATE",
@@ -841,14 +845,22 @@
     {
       "businessService": "WS.CREATE",
       "module": "WS",
-      "action" : "SEND_BACK_TO_CITIZEN_FI",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "SEND_BACK_TO_CITIZEN_FI",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "WS.CREATE",
       "module": "WS",
-      "action" : "SEND_BACK_TO_CITIZEN_AP",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "SEND_BACK_TO_CITIZEN_AP",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "WS.CREATE",
@@ -923,8 +935,12 @@
     {
       "businessService": "WS.CREATE",
       "module": "WS",
-      "action" : "APPROVE_FOR_DISCONNECTION",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "APPROVE_FOR_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "WS.CREATE",
@@ -1059,8 +1075,12 @@
     {
       "businessService": "SW.CREATE",
       "module": "SW",
-      "action" : "APPROVE_FOR_DISCONNECTION",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "APPROVE_FOR_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "SW.CREATE",
@@ -1075,14 +1095,22 @@
     {
       "businessService": "SW.CREATE",
       "module": "SW",
-      "action" : "SEND_BACK_TO_CITIZEN_FI",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "SEND_BACK_TO_CITIZEN_FI",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "SW.CREATE",
       "module": "SW",
-      "action" : "SEND_BACK_TO_CITIZEN_AP",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "SEND_BACK_TO_CITIZEN_AP",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "SW.CREATE",
@@ -1157,8 +1185,12 @@
     {
       "businessService": "SW.CREATE",
       "module": "SW",
-      "action" : "EXECUTE_DISCONNECTION",
-      "channelNames": ["SMS", "EMAIL", "EVENT"]
+      "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     },
     {
       "businessService": "SW.CREATE",
@@ -1264,6 +1296,76 @@
       "businessService": "MCOLLECT.CREATE",
       "module": "MCOLLECT",
       "action": "PAYMENT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "ASSIGN",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "RESOLVE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "WSReconnection",
+      "module": "WS.CREATE",
+      "action": "ACTIVATE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "DisconnectWSConnection",
+      "module": "WS.CREATE",
+      "action": "EXECUTE_DISCONNECTION",
       "channelNames": [
         "SMS",
         "EMAIL",

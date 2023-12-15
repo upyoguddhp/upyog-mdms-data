@@ -7,8 +7,16 @@
       "minAmount": null,
       "applicableAfterDays": 0,
       "flatAmount": null,
-      "fromFY": "2019-20",
-      "startingDay": "1/01/2019"
+      "fromFY": "2023-24",
+      "startingDay": "16"
+    },
+     {
+      "rate": 15,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "30"
     }
   ]
 }
