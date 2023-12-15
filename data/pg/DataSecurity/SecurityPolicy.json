@@ -711,7 +711,23 @@
           }
         ],
         "roleBasedDecryptionPolicy": [
+   	{
+            "roles": [
+              "WS_CEMP",
+              "WS_DOC_VERIFIER",
+              "WS_FIELD_INSPECTOR",
+              "WS_APPROVER",
+              "WS_CLERK",
+              "SW_CEMP",
+              "SW_DOC_VERIFIER",
+              "SW_FIELD_INSPECTOR",
+              "SW_APPROVER",
+              "SW_CLERK"
+            ],
+            "attributeAccessList": [
   
+            ]
+          }
         ]
       },
 	    {
@@ -741,7 +757,23 @@
           }
         ],
         "roleBasedDecryptionPolicy": [
+  	 {
+            "roles": [
+              "WS_CEMP",
+              "WS_DOC_VERIFIER",
+              "WS_FIELD_INSPECTOR",
+              "WS_APPROVER",
+              "WS_CLERK",
+              "SW_CEMP",
+              "SW_DOC_VERIFIER",
+              "SW_FIELD_INSPECTOR",
+              "SW_APPROVER",
+              "SW_CLERK"
+            ],
+            "attributeAccessList": [
   
+            ]
+          }
         ]
       },
       {
@@ -891,7 +923,21 @@
           }
         ],
         "roleBasedDecryptionPolicy": [
+   {
+            "roles": [
+              "FSM_CREATOR_EMP",
+              "FSM_DSO",
+              "WS_FIELD_INSPECTOR",
+              "FSM_EDITOR_EMP",
+              "FSM_ADMIN",
+              "FSM_COLLECTOR",
+              "FSM_EMP_FSTPO",
+              "FSM_VIEW_EMP"
+            ],
+            "attributeAccessList": [
   
+            ]
+          }
         ]
       },
       {
