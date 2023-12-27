@@ -3204,8 +3204,8 @@
 },
 {
 "category": "TAX",
-"service": "TX.ADVT.Outdoor_Media_Display_Fee",
-"name": "TX.ADVT.Outdoor_Media_Display_Fee_TAX",
+"service": "ADVT.Outdoor_Media_Display_Fee",
+"name": "ADVT.Outdoor_Media_Display_Fee_TAX",
 "code": "ADVT.Outdoor_Media_Display_Fee_TAX",
 "isDebit": false,
 "isActualDemand": true,
@@ -3220,7 +3220,7 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "1",
-"isRequired": false
+"isRequired": true
 },
 {
 "category": "TAX",
@@ -3230,7 +3230,7 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "0",
-"isRequired": false
+"isRequired": true
 },
 {
 "category": "TAX",
@@ -3240,20 +3240,8 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "0",
-"isRequired": false
+"isRequired": true
 },
-
-
-
-
-
-
-
-
-
-
-
-
 {
 "category": "TAX",
 "service": "RT.Tower_Installation",
@@ -5678,14 +5666,14 @@
   "isDiscountApplicable": false
 },
 {
-  "category": "CHARGES",
+  "category": "TAX",
   "service": "DEATH_CERT",
   "name": "DEATH_CERT_FEE",
   "code": "DEATH_CERT_FEE",
   "isDebit": false,
   "isActualDemand": false,
   "order": "0",
-  "isRequired": false,
+  "isRequired": true,
   "isDiscountApplicable": false
 },
 	   {
