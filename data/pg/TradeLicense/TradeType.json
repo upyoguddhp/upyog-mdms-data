@@ -173,7 +173,7 @@
     {
       "name":"Bricks or tiles by mechanical power",
       "code": "GOODS.MANUFACTURE.TST-14",
-      "uom": "GROSSUNITS,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
