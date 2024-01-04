@@ -2973,7 +2973,7 @@
     {
       "name":"marble, cutting, grinding dressing polishing",
       "code": "GOODS.RETAIL.TST-114",
-      "uom": "GROSSUNITS,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
