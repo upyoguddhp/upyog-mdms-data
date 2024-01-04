@@ -173,7 +173,7 @@
     {
       "name":"Bricks or tiles by mechanical power",
       "code": "GOODS.MANUFACTURE.TST-14",
-      "uom": "GROSSUNITS,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2973,7 +2973,7 @@
     {
       "name":"marble, cutting, grinding dressing polishing",
       "code": "GOODS.RETAIL.TST-114",
-      "uom": "GROSSUNITS,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
