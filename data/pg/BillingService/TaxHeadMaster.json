@@ -1521,6 +1521,46 @@
     },
     {
       "category": "TAX",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_TAX",
+      "code": "TB.Challan_Under_section_156_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_FIELD_FEE",
+      "code": "TB.Challan_Under_section_156_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_CGST",
+      "code": "TB.Challan_Under_section_156_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_SGST",
+      "code": "TB.Challan_Under_section_156_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
       "service": "WF.Contractor_Enlistment",
       "name": "WF.Contractor_Enlistment_TAX",
       "code": "WF.Contractor_Enlistment_TAX",
