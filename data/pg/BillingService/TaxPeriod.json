@@ -1086,7 +1086,7 @@
       "fromDate": 1617215400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "Tehbazaari Fee.Challan_Under_section_156",
+      "service": "TB.Challan_Under_section_156",
       "code": "TXPTAN2021",
       "financialYear": "2021-24"
     },
