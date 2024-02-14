@@ -53,14 +53,14 @@
       "module": "NationalDashboard"
     },
 	{	
-      "name": "Recretional",
-      "code": "Recretional",
+      "name": "Recreational",
+      "code": "Recreational",
       "active": true,
       "module": "NationalDashboard"
     },
 	{	
       "name": "Vacant land",
-      "code": "Vacant Land",
+      "code": "Vacant land",
       "active": true,
       "module": "NationalDashboard"
     }
