@@ -48,11 +48,13 @@
         },
         {
           "code": "OWNER.ADDRESSPROOF.VOTERID",
-          "active": false
+          "active": true,
+          "digiLockerFetch": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.DRIVING",
-          "active": false
+          "active": true,
+          "digiLockerFetch": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.PASSPORT",
@@ -95,11 +97,13 @@
         },
         {
           "code": "OWNER.IDENTITYPROOF.VOTERID",
-          "active": true
+          "active": true,
+          "digiLockerFetch": true
         },
         {
           "code": "OWNER.IDENTITYPROOF.DRIVING",
-          "active": true
+          "active": true,
+          "digiLockerFetch": true
         },
         {
           "code": "OWNER.IDENTITYPROOF.PAN",

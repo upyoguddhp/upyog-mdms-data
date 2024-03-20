@@ -657,6 +657,21 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
+	{
+      "code": "PT_REPORT_VIEWER",
+      "name": "PT Report Viewer",
+      "description": "PT User that can view tabular reports"
+    },
+	{
+      "code": "PGR_REPORT_VIEWER",
+      "name": "PGR Report Viewer",
+      "description": "PGR User that can view tabular reports"
+    },
+	{
+      "code": "MCOLLECT_REPORT_VIEWER",
+      "name": "MCollect Report Viewer",
+      "description": "MCollect User that can view tabular reports"
+    },
     {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",

@@ -12,7 +12,7 @@
       "taxPeriodTo": 1685577599000,
       "demandGenerationDateMillis": 345600000
     },
-	 {
+     {
       "active": true,
       "connectionType": "Metered",
       "billingCycle": "monthly",

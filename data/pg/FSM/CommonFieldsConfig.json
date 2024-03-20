@@ -3,23 +3,94 @@
   "moduleName": "FSM",
   "CommonFieldsConfig": [
     {
-      "head": "ES_NEW_APPLICATION_PROPERTY_DETAILS",
+      "head": "",
       "body": [
         {
-          "label": "ES_NEW_APPLICATION_PROPERTY_ID",
-          "isMandatory": true,
           "type": "component",
-          "route": "property-id",
-          "key": "propertyID",
-          "component": "SelectPropertyID",
+          "route": "know-your-property",
+          "isMandatory": true,
+          "component": "CPTKnowYourProperty",
           "texts": {
-            "headerCaption": "",
-            "header": "CS_FILE_APPLICATION_PROPERTY_ID_LABEL",
-            "cardText": "CS_FILE_APPLICATION_PROPERTY_ID_TEXT",
+            "header": "PT_DO_YOU_KNOW_YOUR_PROPERTY",
             "submitBarLabel": "CS_COMMON_NEXT"
           },
-          "nextStep": "property-type"
+          "key": "knowyourproperty",
+          "isCreateEnabled": true,
+          "withoutLabel": true,
+          "nextStep": {
+            "TL_COMMON_YES": "search-property",
+            "TL_COMMON_NO": "create-property"
+          },
+          "hideInEmployee": true
         },
+        {
+          "type": "component",
+          "route": "search-property",
+          "isMandatory": true,
+          "component": "CPTSearchProperty",
+          "key": "cptsearchproperty",
+          "withoutLabel": true,
+          "nextStep": "search-results",
+          "hideInEmployee": true
+        },
+        {
+          "type": "component",
+          "route": "search-results",
+          "isMandatory": true,
+          "component": "CPTSearchResults",
+          "key": "cptsearchresults",
+          "withoutLabel": true,
+          "nextStep": "property-type",
+          "hideInEmployee": true
+        },
+        {
+          "type": "component",
+          "route": "create-property",
+          "isMandatory": true,
+          "component": "CPTCreateProperty",
+          "key": "cptcreateproperty",
+          "withoutLabel": true,
+          "isSkipEnabled": true,
+          "nextStep": "acknowledge-create-property",
+          "hideInEmployee": true
+        },
+        {
+          "type": "component",
+          "route": "acknowledge-create-property",
+          "isMandatory": true,
+          "component": "CPTAcknowledgement",
+          "key": "cptacknowledgement",
+          "withoutLabel": true,
+          "nextStep": "property-type",
+          "hideInEmployee": true
+        },
+        {
+          "type": "component",
+          "route": "property-details",
+          "isMandatory": true,
+          "component": "CPTPropertyDetails",
+          "key": "propertydetails",
+          "withoutLabel": true,
+          "nextStep": "property-type",
+          "hideInEmployee": true
+        }
+      ]
+    },
+    {
+      "head": "FSM_NEW_APPLICATION_PROPERTY",
+      "body": [
+        {
+          "component": "CPTPropertySearchNSummary",
+          "withoutLabel": true,
+          "key": "cpt",
+          "type": "component",
+          "hideInCitizen": true
+        }
+      ]
+    },
+    {
+      "head": "ES_NEW_APPLICATION_PROPERTY_DETAILS",
+      "body": [
         {
           "label": "ES_NEW_APPLICATION_PROPERTY_TYPE",
           "isMandatory": true,
@@ -229,7 +300,7 @@
             "submitBarLabel": "CS_COMMON_NEXT",
             "skipLabel": "CS_COMMON_SERVICE_SKIP_INFO"
           },
-          "nextStep": "property-id"
+          "nextStep": "search-property"
         },
         {
           "label": "a",

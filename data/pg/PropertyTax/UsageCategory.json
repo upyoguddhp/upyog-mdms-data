@@ -262,7 +262,7 @@
     },
     {
       "name": "College",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGES",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGE",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -649,8 +649,8 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "School",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVT.SCHOOL",
+      "name": "Schools",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVT.SCHOOLS",
       "active": "True",
       "fromFY": "2015-16"
     },

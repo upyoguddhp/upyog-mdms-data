@@ -315,10 +315,16 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
-  
+			
         ]
       },
       {
@@ -902,6 +908,12 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
@@ -970,11 +982,25 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
-  
-        ]
+		{
+            "roles": [
+			"TL_CEMP",
+			"EMPLOYEE"
+        ],
+            "attributeAccessList": [
+
+            ]
+		}
+		]
       },
       {
         "model": "TradeLicenseDailyCollectionReport",

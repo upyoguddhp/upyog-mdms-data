@@ -254,6 +254,12 @@
                 "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
             }
           ]
         },
@@ -271,6 +277,12 @@
                 "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
             }
           ]
         },
@@ -286,6 +298,51 @@
             {
               "attribute": {
                 "jsonPath": "*/lastassignedto"
+              },
+              "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+	    {
+      "key": "StateTradeLicenseCancelledRegistryReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
               },
               "accessType": "PLAIN"
             }
@@ -470,8 +527,24 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/mobilenumber",
-                "maskingTechnique": "mobile"
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+		        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
               },
               "accessType": "PLAIN"
             }
@@ -1411,6 +1484,13 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },            
+			{
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             }

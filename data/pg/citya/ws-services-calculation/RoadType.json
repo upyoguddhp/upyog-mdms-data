@@ -7,7 +7,7 @@
       "name": "Premix Carpet",
       "code": "PREMIXCARPET",
       "unitCost": 290.4,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 2,
@@ -28,35 +28,35 @@
       "name": "Brick Paving",
       "code": "BRICKPAVING",
       "unitCost": 72.6,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 5,
       "name": "CC Road",
       "code": "CCROAD",
       "unitCost": 290.4,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 6,
       "name": "Interlocking Paver Block",
       "code": "INTERLOCKINGPAVERBLOCK",
       "unitCost": 434.5,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 7,
       "name": "Under Scheme",
       "code": "UNDERSCHEME",
       "unitCost": 0,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 8,
       "name": "Open Pipe",
       "code": "OPENPIPE",
       "unitCost": 0,
-      "isActive": true
+      "isActive": false
     }
   ]
 }

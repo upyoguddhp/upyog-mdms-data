@@ -3,7 +3,7 @@
   "tenantId": "pg",
   "moduleName": "sw-services-calculation",
   "Interest": [
-    {
+   {
       "rate": 5,
       "minAmount": null,
       "applicableAfterDays":0,
