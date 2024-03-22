@@ -2379,6 +2379,23 @@
           "employeeUrl": "/inbox"
         }
       ]
+    },
+    {
+      "code": "pet-services",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "petservice-receipt",
+      "billKey": "petservice-bill",
+      "pdfModule":"pet-services",
+      "cancelReceipt": false,
+      "cancelBill": false,
+      "arrears": false,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/petservice-citizen/home",
+          "employeeUrl": "/petservice/search"
+        }
+      ]
     }
   ]
 }

@@ -5735,6 +5735,16 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
-    }
+    },
+    {
+        "category": "FEE",
+        "service": "pet-services",
+        "name": "Pet Registration Fee",
+        "code": "PET_REGISTRATION_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      }
   ]
 }
