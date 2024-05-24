@@ -1,0 +1,22 @@
+{
+    "tenantId": "hp",
+    "moduleName": "Workflow",
+    "BusinessServiceMasterConfig": [
+      {
+        "businessService": "NewTL",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+	  {
+        "businessService": "BPA",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+      {
+        "businessService": "PGR",
+        "active": "true",
+        "isStatelevel": "true"
+      }
+        
+    ]
+  }
