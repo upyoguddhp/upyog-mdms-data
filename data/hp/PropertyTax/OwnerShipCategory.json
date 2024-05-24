@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "hp",
   "moduleName": "PropertyTax",
   "OwnerShipCategory":
   [
@@ -31,11 +31,6 @@
     {
       "name": "Private Company",
       "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": true
-    },
-    {
-      "name": "Other Private Institution",
-      "code": "INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
       "active": true
     },
     {
