@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Manali",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Dhungri",
+      "code": "11425",
+	  "active":"true"
+    },
+    {
+      "name": "Bhajugi",
+      "code": "11426",
+	  "active":"true"
+    },
+    {
+      "name": "School area",
+      "code": "11427",
+	  "active":"true"
+    },
+    {
+      "name": "Modal Town",
+      "code": "11428",
+	  "active":"true"
+    },
+    {
+      "name": "Manu Market",
+      "code": "11429",
+	  "active":"true"
+    },
+    {
+      "name": "Gompa Area",
+      "code": "11430",
+	  "active":"true"
+    },
+    {
+      "name": "Police Station area",
+      "code": "11431",
+	  "active":"true"
+    }
+  ]
+}

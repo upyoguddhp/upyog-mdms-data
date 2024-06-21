@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Nurpur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Chogan",
+      "code": "11281",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Chogan",
+      "code": "11282",
+	  "active":"true"
+    },
+    {
+      "name": "Jharoli",
+      "code": "11283",
+	  "active":"true"
+    },
+    {
+      "name": "Rampuri",
+      "code": "11284",
+	  "active":"true"
+    },
+    {
+      "name": "Gollu Athian",
+      "code": "11285",
+	  "active":"true"
+    },
+    {
+      "name": "Kakrola Mandi Attar Singh",
+      "code": "11286",
+	  "active":"true"
+    },
+    {
+      "name": "Niazpur Jasalta",
+      "code": "11287",
+	  "active":"true"
+    },
+	{
+      "name": "BTC",
+      "code": "11288",
+	  "active":"true"
+    },
+	{
+      "name": "Niazpur West",
+      "code": "11289",
+	  "active":"true"
+    }
+  ]
+}

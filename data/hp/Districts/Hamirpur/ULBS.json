@@ -1,0 +1,26 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Hamirpur",
+  "ULBS": [
+    {
+      "name": "Hamirpur",
+      "code":"248229",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Sujanpur",
+      "code":"248227",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Nadaun",
+      "code":"248228",
+      "type": "Nagar Panchayat"
+    },
+{
+      "name": "Bhota",
+      "code":"248230",
+      "type": "Nagar Panchayat"
+    }		
+]
+}

@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.citya",
+  "tenantId": "hp.MCShimla",
   "moduleName": "TradeLicense",
-  "AccessoriesCategoryPart2": [
+  "Category2": [
     {
       "code": "ASAFOOTIDA(HING)",
       "uom": "HP",

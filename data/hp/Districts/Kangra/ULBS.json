@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Kangra",
+  "ULBS": [
+    {
+      "name": "Dharamshala",
+      "code":"248211",
+      "type": "Municipal Corporation"
+    },
+	{
+      "name": "Palampur",
+      "code":"248217",
+      "type": "Municipal Corporation"
+    },
+	{
+      "name": "Kangra",
+      "code":"248213",
+      "type": "Municipal Council"
+    },
+    {
+      "name": "Nurpur",
+      "code":"248210",
+      "type": "Municipal Council"
+    },
+    {
+      "name": "Nagrota",
+      "code":"248214",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Jawalamukhi",
+      "code":"248216",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Baijnath- Paprola",
+      "code":"274797",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Jawali",
+      "code":"275535",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Shahpur",
+      "code":"297015",
+      "type": "Nagar Panchayat"
+    }
+]
+}

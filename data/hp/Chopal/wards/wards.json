@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Chopal",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Dhadhu Bus Stand",
+      "code": "8841",
+	  "active":"true"
+    },
+    {
+      "name": "Lankarvir Mandir",
+      "code": "8842",
+	  "active":"true"
+    },
+    {
+      "name": "Charvir Court Road",
+      "code": "8843",
+	  "active":"true"
+    },
+    {
+      "name": "Club House",
+      "code": "2513245",
+	  "active":"true"
+    },
+    {
+      "name": "Shrigul Mandir",
+      "code": "8845",
+	  "active":"true"
+    },
+    {
+      "name": "Chhawanivir Hospital",
+      "code": "8846",
+	  "active":"true"
+    },
+    {
+      "name": "Talab area",
+      "code": "8847",
+	  "active":"true"
+    }
+  ]
+}

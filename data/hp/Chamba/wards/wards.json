@@ -1,0 +1,66 @@
+{
+  "tenantId": "hp.Chamba",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Sultanpur",
+      "code": "11270",
+	  "active":"true"
+    },
+    {
+      "name": "Julakari",
+      "code": "11279",
+	  "active":"true"
+    },
+    {
+      "name": "Hardaspura",
+      "code": "11280",
+	  "active":"true"
+    },
+    {
+      "name": "Kasakra",
+      "code": "11271",
+	  "active":"true"
+    },
+    {
+      "name": "Chowgan",
+      "code": "11272",
+	  "active":"true"
+    },
+    {
+      "name": "Hatnala",
+      "code": "11273",
+	  "active":"true"
+    },
+    {
+      "name": "Jansali",
+      "code": "11274",
+	  "active":"true"
+    },
+	{
+      "name": "Chountra",
+      "code": "11275",
+	  "active":"true"
+    },
+	{
+      "name": "Jansali",
+      "code": "11274",
+	  "active":"true"
+    },
+	{
+      "name": "Surara",
+      "code": "11276",
+	  "active":"true"
+    },
+	{
+      "name": "Sapri",
+      "code": "11277",
+	  "active":"true"
+    },
+	{
+      "name": "Dharog",
+      "code": "11278",
+	  "active":"true"
+    }
+  ]
+}

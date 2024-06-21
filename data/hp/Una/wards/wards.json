@@ -1,0 +1,61 @@
+{
+  "tenantId": "hp.Una",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Muhalla Gurusar",
+      "code": "11518",
+	  "active":"true"
+    },
+    {
+      "name": "Muhalla Hakima",
+      "code": "11527",
+	  "active":"true"
+    },
+    {
+      "name": "Muhalla Neelaghat",
+      "code": "11528",
+	  "active":"true"
+    },
+    {
+      "name": "Muhalla Dharamshal Bhai Nirmal Singh",
+      "code": "11519",
+	  "active":"true"
+    },
+    {
+      "name": "Muhalla Galua",
+      "code": "11520",
+	  "active":"true"
+    },
+    {
+      "name": "Muhalla Khadpar",
+      "code": "11521",
+	  "active":"true"
+    },
+    {
+      "name": "Muhalla Nakian",
+      "code": "11522",
+	  "active":"true"
+    },
+	{
+      "name": "Muhalla Purian",
+      "code": "11523",
+	  "active":"true"
+    },
+	{
+      "name": "Muhalla Damdama",
+      "code": "11524",
+	  "active":"true"
+    },
+	{
+      "name": "Muhalla Machlan",
+      "code": "11525",
+	  "active":"true"
+    },
+	{
+      "name": "Muhalla Bag",
+      "code": "11526",
+	  "active":"true"
+    }
+  ]
+}

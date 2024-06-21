@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Nalagarh",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Hospital Wala  Ward",
+      "code": "11572",
+	  "active":"true"
+    },
+    {
+      "name": "Fatakwala",
+      "code": "11573",
+	  "active":"true"
+    },
+    {
+      "name": "Harizana Wala Ward",
+      "code": "11574",
+	  "active":"true"
+    },
+    {
+      "name": "Miyansahib wala",
+      "code": "11575",
+	  "active":"true"
+    },
+    {
+      "name": "Jainiawala",
+      "code": "11576",
+	  "active":"true"
+    },
+    {
+      "name": "Bajajan Wala",
+      "code": "11577",
+	  "active":"true"
+    },
+	{
+      "name": "Ghaiyan Wala",
+      "code": "11578",
+	  "active":"true"
+    },
+	{
+      "name": "Bassiyan Wala",
+      "code": "11579",
+	  "active":"true"
+    },
+	{
+      "name": "Vaida Wala",
+      "code": "11580",
+	  "active":"true"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "tenantId": "hp.Bajinath-Paprola",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Kasba Baijnath",
+      "code": "1297049",
+	  "active":"true"
+    },
+    {
+      "name": "Paprola",
+      "code": "1297058",
+	  "active":"true"
+    },
+    {
+      "name": "Paproal Khas",
+      "code": "1297059",
+	  "active":"true"
+    },
+    {
+      "name": "Baijnath-I",
+      "code": "1297050",
+	  "active":"true"
+    },
+    {
+      "name": "Baijnath-II",
+      "code": "1297051",
+	  "active":"true"
+    },
+    {
+      "name": "Ghirtholi",
+      "code": "1297052",
+	  "active":"true"
+    },
+    {
+      "name": "Pantehar",
+      "code": "1297053",
+	  "active":"true"
+    },
+	{
+      "name": "Ustehar",
+      "code": "1297054",
+	  "active":"true"
+    },
+	{
+      "name": "Kasba Paprola-I",
+      "code": "1297055",
+	  "active":"true"
+    },
+	{
+      "name": "Kasba Paprola-II",
+      "code": "1297056",
+	  "active":"true"
+    },
+	{
+      "name": "Kothi",
+      "code": "1297057",
+	  "active":"true"
+    }
+  ]
+}

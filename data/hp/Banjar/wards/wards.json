@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Banjar",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Darudhar",
+      "code": "68096",
+	  "active":"true"
+    },
+    {
+      "name": "Dualla",
+      "code": "68097",
+	  "active":"true"
+    },
+    {
+      "name": "Main Bazar",
+      "code": "68098",
+	  "active":"true"
+    },
+    {
+      "name": "Lower Sheglu",
+      "code": "68099",
+	  "active":"true"
+    },
+    {
+      "name": "Gedigad",
+      "code": "68100",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Sheglu",
+      "code": "68101",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Banjar",
+      "code": "68102",
+	  "active":"true"
+    }
+  ]
+}

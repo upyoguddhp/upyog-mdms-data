@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Rewalsar",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Rewalsar-1",
+      "code": "68116",
+	  "active":"true"
+    },
+    {
+      "name": "Rewalsar-2",
+      "code": "68117",
+	  "active":"true"
+    },
+    {
+      "name": "Rewalsar-3",
+      "code": "68118",
+	  "active":"true"
+    },
+    {
+      "name": "Rewalsar-4",
+      "code": "68119",
+	  "active":"true"
+    },
+    {
+      "name": "Rewalsar-5",
+      "code": "68120",
+	  "active":"true"
+    },
+    {
+      "name": "Rewalsar-6",
+      "code": "68121",
+	  "active":"true"
+    },
+    {
+      "name": " Rewalsar-7",
+      "code": "68122",
+	  "active":"true"
+    }
+  ]
+}

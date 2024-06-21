@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Amb",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Adarsh Nagar",
+      "code": "2513237",
+	  "active":"true"
+    },
+    {
+      "name": "Amb-1",
+      "code": "2513233",
+	  "active":"true"
+    },
+    {
+      "name": "Amb-2",
+      "code": "2513234",
+	  "active":"true"
+    },
+    {
+      "name": "Heeranagar1",
+      "code": "2513235",
+	  "active":"true"
+    },
+    {
+      "name": "Heeranagar2",
+      "code": "2513236",
+	  "active":"true"
+    },
+    {
+      "name": "Polian Jaswaln",
+      "code": "2513232",
+	  "active":"true"
+    },
+	{
+      "name": "Pratap Nagar1",
+      "code": "2513238",
+	  "active":"true"
+    },
+	{
+      "name": "Pratap Nagar2",
+      "code": "2513239",
+	  "active":"true"
+    },
+	{
+      "name": "Pratap Nagar3",
+      "code": "2513240",
+	  "active":"true"
+    }
+  ]
+}

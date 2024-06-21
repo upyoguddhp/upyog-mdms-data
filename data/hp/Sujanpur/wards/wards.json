@@ -1,0 +1,46 @@
+{
+  "tenantId": "hp.Sujanpur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Chowatta Mohalla & Porian Mohalla",
+      "code": "11477",
+	  "active":"true"
+    },
+    {
+      "name": "Nai Basi/Baba Swroopgir Mohalla",
+      "code": "11478",
+	  "active":"true"
+    },
+    {
+      "name": "Mohalla Babaswroopgir, Jogi/Doli",
+      "code": "11480",
+	  "active":"true"
+    },
+    {
+      "name": "Mohalla Harizan Basti, Darian",
+      "code": "11481",
+	  "active":"true"
+    },
+    {
+      "name": "Mohalla Zhiber, Chargen/Balla",
+      "code": "11482",
+	  "active":"true"
+    },
+    {
+      "name": "Mohalla Brahampuri-I",
+      "code": "11483",
+	  "active":"true"
+    },
+    {
+      "name": "Mohalla Brahampuri-II",
+      "code": "11484",
+	  "active":"true"
+    },
+	{
+      "name": "Mohalla Chowatta /Jain & Dhangoo",
+      "code": "11485",
+	  "active":"true"
+    }
+  ]
+}

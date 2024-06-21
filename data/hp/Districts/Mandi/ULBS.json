@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Mandi",
+  "ULBS": [
+    {
+      "name": "Mandi",
+      "code":"248225",
+      "type": "Municipal Corporation"
+    },
+	{
+      "name": "Sundernagar",
+      "code":"248224",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Ner Chowk",
+      "code":"274794",
+      "type": "Municipal Council"
+    },
+    {
+      "name": "Jogindernagar",
+      "code":"248222",
+      "type": "Municipal Council"
+    },
+    {
+      "name": "Sarkaghat",
+      "code":"248223",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Rewalsar",
+      "code":"248226",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Karsog",
+      "code":"276625",
+      "type": "Nagar Panchayat"
+    }
+]
+}

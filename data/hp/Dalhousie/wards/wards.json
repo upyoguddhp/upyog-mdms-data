@@ -1,0 +1,52 @@
+{
+  "tenantId": "hp.Dalhousie",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bakrota",
+      "code": "11261",
+	  "active":"true"
+    },
+    {
+      "name": "Lohali",
+      "code": "11262",
+	  "active":"true"
+    },
+    {
+      "name": "GPO",
+      "code": "11263",
+	  "active":"true"
+    },
+    {
+      "name": "Hindu Lane",
+      "code": "11264",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Sadar Bazar",
+      "code": "11265",
+	  "active":"true"
+    },
+    {
+      "name": "Kathlag",
+      "code": "11266",
+	  "active":"true"
+    },
+    {
+      "name": "Convent School",
+      "code": "11267",
+	  "active":"true"
+    },
+	{
+      "name": "Moti Tibba",
+      "code": "11268",
+	  "active":"true"
+    },
+	{
+      "name": "Dalhousie Club",
+      "code": "11269",
+	  "active":"true"
+    }
+	
+  ]
+}

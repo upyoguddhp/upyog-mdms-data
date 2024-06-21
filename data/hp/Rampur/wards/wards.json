@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Rampur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Pipty Muhalla",
+      "code": "11623",
+	  "active":"true"
+    },
+    {
+      "name": "Padam Nagar",
+      "code": "11624",
+	  "active":"true"
+    },
+    {
+      "name": "Raghunath Muhalla  Satyanarayan Muhalla",
+      "code": "11625",
+	  "active":"true"
+    },
+    {
+      "name": "Narsingh Muhalla Mahaveer Muhalla",
+      "code": "11626",
+	  "active":"true"
+    },
+    {
+      "name": "Akhara Temple",
+      "code": "11627",
+	  "active":"true"
+    },
+    {
+      "name": "Lower Dakolar",
+      "code": "11628",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Dakolar",
+      "code": "11629",
+	  "active":"true"
+    },
+	{
+      "name": "Chuhabag and Racholi",
+      "code": "1296880",
+	  "active":"true"
+    },
+	{
+      "name": "Khaneri",
+      "code": "1296881",
+	  "active":"true"
+    }
+  ]
+}

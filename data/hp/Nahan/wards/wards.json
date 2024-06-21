@@ -1,0 +1,76 @@
+{
+  "tenantId": "hp.Nahan",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Dhabon",
+      "code": "11610",
+	  "active":"true"
+    },
+    {
+      "name": "Kacha Tank",
+      "code": "11619",
+	  "active":"true"
+    },
+    {
+      "name": "Jagannath Mandir",
+      "code": "11620",
+	  "active":"true"
+    },
+    {
+      "name": "Navni ka Bag",
+      "code": "11621",
+	  "active":"true"
+    },
+    {
+      "name": "Balmiki Basti",
+      "code": "11622",
+	  "active":"true"
+    },
+    {
+      "name": "Haripur",
+      "code": "11611",
+	  "active":"true"
+    },
+    {
+      "name": "Shantisangam",
+      "code": "11612",
+	  "active":"true"
+    },
+	{
+      "name": "Shamshergang",
+      "code": "11613",
+	  "active":"true"
+    },
+	{
+      "name": "Amarpur",
+      "code": "11614",
+	  "active":"true"
+    },
+	{
+      "name": "Naya Bazar",
+      "code": "11615",
+	  "active":"true"
+    },
+	{
+      "name": "Upar ki Toli",
+      "code": "11616",
+	  "active":"true"
+    },
+	{
+      "name": "Ranital",
+      "code": "11617",
+	  "active":"true"
+    },
+	{
+      "name": "Rajpur",
+      "code": "2513089",
+	  "active":"true"
+    },
+	{
+      "name": "Miyan Mandir",
+      "code": "11618",
+	  "active":"true"
+    }
+  ]
+}

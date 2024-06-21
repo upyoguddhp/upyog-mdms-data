@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Narkanda",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Kali Mitti",
+      "code": "11630",
+	  "active":"true"
+    },
+    {
+      "name": "Durga Mandir",
+      "code": "11631",
+	  "active":"true"
+    },
+    {
+      "name": "Circuit House",
+      "code": "11632",
+	  "active":"true"
+    },
+    {
+      "name": "Ridge Narkanda",
+      "code": "11633",
+	  "active":"true"
+    },
+    {
+      "name": "Purana Bazar",
+      "code": "11634",
+	  "active":"true"
+    },
+    {
+      "name": "Lal Kothi",
+      "code": "11635",
+	  "active":"true"
+    },
+    {
+      "name": "Mela Maidan",
+      "code": "11636",
+	  "active":"true"
+    }
+  ]
+}

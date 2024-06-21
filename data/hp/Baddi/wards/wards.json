@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Baddi",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Harijan Basti",
+      "code": "68144",
+	  "active":"true"
+    },
+    {
+      "name": "Baddi Bazar",
+      "code": "68145",
+	  "active":"true"
+    },
+    {
+      "name": "Suraj Mazra Labana-I",
+      "code": "68146",
+	  "active":"true"
+    },
+    {
+      "name": "Suraj Mazra Labana-II",
+      "code": "68147",
+	  "active":"true"
+    },
+    {
+      "name": "Suraj Mazra Gujran Juddi Khurd",
+      "code": "68148",
+	  "active":"true"
+    },
+    {
+      "name": "Juddi Kalan Katha Bhatoli Kalan",
+      "code": "68149",
+	  "active":"true"
+    },
+	{
+      "name": "Vardhman, Birla&DCM",
+      "code": "68150",
+	  "active":"true"
+    },
+	{
+      "name": "Billanwali Labana ",
+      "code": "68151",
+	  "active":"true"
+    },
+	{
+      "name": "Housing Board Phase-III Billanwali Labana",
+      "code": "68152",
+	  "active":"true"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tenantId": "hp.Palampur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Alma",
+      "code": "11421",
+	  "active":"true"
+    },
+    {
+      "name": "Banuri",
+      "code": "2513092",
+	  "active":"true"
+    },
+    {
+      "name": "Bindraban",
+      "code": "11424",
+	  "active":"true"
+    },
+    {
+      "name": "Chowki",
+      "code": "2513087",
+	  "active":"true"
+    },
+    {
+      "name": "Ghuggar Khilru",
+      "code": "11423",
+	  "active":"true"
+    },
+    {
+      "name": "Ghughar Tanda",
+      "code": "2513090",
+	  "active":"true"
+    },
+    {
+      "name": "Holta",
+      "code": "2513093",
+	  "active":"true"
+    },
+	{
+      "name": "Khalet",
+      "code": "2513086",
+	  "active":"true"
+    },
+	{
+      "name": "Lohna",
+      "code": "11418",
+	  "active":"true"
+    },
+	{
+      "name": "Maranda",
+      "code": "2513088",
+	  "active":"true"
+    },
+	{
+      "name": "Palampur Khas",
+      "code": "11420",
+	  "active":"true"
+    },
+	{
+      "name": "Palampur Upper",
+      "code": "11419",
+	  "active":"true"
+    },
+	{
+      "name": "Rajpur",
+      "code": "2513089",
+	  "active":"true"
+    },
+	{
+      "name": "Suggar",
+      "code": "11422",
+	  "active":"true"
+    },
+	{
+      "name": "Tanda",
+      "code": "2513091",
+	  "active":"true"
+    }
+  ]
+}

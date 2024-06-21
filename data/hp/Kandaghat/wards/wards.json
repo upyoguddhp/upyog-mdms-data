@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Kandaghat",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bijeshwar Mahadev",
+      "code": "2513203",
+	  "active":"true"
+    },
+    {
+      "name": "Dolag",
+      "code": "2513200",
+	  "active":"true"
+    },
+    {
+      "name": "Himuda",
+      "code": "2513198",
+	  "active":"true"
+    },
+    {
+      "name": "Lower Bazar",
+      "code": "2513202",
+	  "active":"true"
+    },
+    {
+      "name": " Padav",
+      "code": "2513199",
+	  "active":"true"
+    },
+    {
+      "name": "Rajeshwaree",
+      "code": "2513201",
+	  "active":"true"
+    },
+	{
+      "name": "Silharee",
+      "code": "2513197",
+	  "active":"true"
+    }
+  ]
+}

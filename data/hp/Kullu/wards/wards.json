@@ -1,0 +1,61 @@
+{
+  "tenantId": "hp.Kullu",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Ramshila",
+      "code": "11432",
+	  "active":"true"
+    },
+    {
+      "name": "Kahudhar",
+      "code": "11441",
+	  "active":"true"
+    },
+    {
+      "name": "Gandhi Nagar",
+      "code": "11442",
+	  "active":"true"
+    },
+    {
+      "name": "Akhara Bazar",
+      "code": "11433",
+	  "active":"true"
+    },
+    {
+      "name": "Beasa Moad",
+      "code": "11434",
+	  "active":"true"
+    },
+    {
+      "name": "Sultanpur",
+      "code": "11435",
+	  "active":"true"
+    },
+    {
+      "name": "Sarwari",
+      "code": "11436",
+	  "active":"true"
+    },
+	{
+      "name": "Khori Ropa",
+      "code": "11437",
+	  "active":"true"
+    },
+	{
+      "name": "Shishamatti",
+      "code": "11438",
+	  "active":"true"
+    },
+	{
+      "name": "Dhalpur",
+      "code": "11439",
+	  "active":"true"
+    },
+	{
+      "name": "Lower Dhalpur",
+      "code": "11440",
+	  "active":"true"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Shimla",
+  "ULBS": [
+    {
+      "name": "Shimla",
+      "code":"248248",
+      "type": "Municipal Corporation"
+    },
+	{
+      "name": "Rampur",
+      "code":"248245",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Theog",
+      "code":"248249",
+      "type": "Municipal Council"
+    },
+    {
+      "name": "Rohru",
+      "code":"248253",
+      "type": "Municipal Council"
+    },
+    {
+      "name": "Narkanda",
+      "code":"248246",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Sunni",
+      "code":"248247",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Chopal",
+      "code":"248250",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Kotkhai",
+      "code":"248252",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Jubbal",
+      "code":"248251",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Nerwa",
+      "code":"297014",
+      "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Chirgaon",
+      "code":"297013",
+      "type": "Nagar Panchayat"
+    }
+	
+]
+}
