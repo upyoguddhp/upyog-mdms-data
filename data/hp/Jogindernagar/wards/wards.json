@@ -1,0 +1,46 @@
+{
+  "tenantId": "hp.Jogindernagar",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Laxmi Bazar",
+      "code": "11450",
+	  "active":"true"
+    },
+    {
+      "name": "Garoru",
+      "code": "11451",
+	  "active":"true"
+    },
+    {
+      "name": "College area",
+      "code": "11452",
+	  "active":"true"
+    },
+    {
+      "name": "Samlot",
+      "code": "2513271",
+	  "active":"true"
+    },
+    {
+      "name": "Samlot",
+      "code": "11453",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Seri",
+      "code": "11454",
+	  "active":"true"
+    },
+    {
+      "name": "Lower Seri",
+      "code": "11455",
+	  "active":"true"
+    },
+	{
+      "name": "Shanan",
+      "code": "11456",
+	  "active":"true"
+    }
+  ]
+}

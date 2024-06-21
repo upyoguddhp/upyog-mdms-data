@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Nirmand",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bhiunta",
+      "code": "2513268",
+	  "active":"true"
+    },
+    {
+      "name": "Bishnu",
+      "code": "2513270",
+	  "active":"true"
+    },
+    {
+      "name": "Deem",
+      "code": "2513269",
+	  "active":"true"
+    },
+    {
+      "name": "Pokhtu",
+      "code": "2513271",
+	  "active":"true"
+    },
+    {
+      "name": "Shigauli",
+      "code": "2513266",
+	  "active":"true"
+    },
+    {
+      "name": "Sirkoti",
+      "code": "2513265",
+	  "active":"true"
+    },
+    {
+      "name": "Sunarla",
+      "code": "2513267",
+	  "active":"true"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Chirgaon",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bhonda Bazar",
+      "code": "2513246",
+	  "active":"true"
+    },
+    {
+      "name": "Bhonda colony",
+      "code": "2513247",
+	  "active":"true"
+    },
+    {
+      "name": "Chirgaon-I",
+      "code": "2513244",
+	  "active":"true"
+    },
+    {
+      "name": "Chirgaon-II",
+      "code": "2513245",
+	  "active":"true"
+    },
+    {
+      "name": "Mandli",
+      "code": "2513250",
+	  "active":"true"
+    },
+    {
+      "name": "Sundha",
+      "code": "2513249",
+	  "active":"true"
+    },
+    {
+      "name": "Upper and Lower Bhonda",
+      "code": "2513248",
+	  "active":"true"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "tenantId": "hp.Hamirpur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Hira Nagar",
+      "code": "11493",
+	  "active":"true"
+    },
+    {
+      "name": "Ram Nagar",
+      "code": "11502",
+	  "active":"true"
+    },
+    {
+      "name": "Subhash Nagar",
+      "code": "11503",
+	  "active":"true"
+    },
+    {
+      "name": "Krishna Nagar",
+      "code": "11494",
+	  "active":"true"
+    },
+    {
+      "name": "Partap Nagar",
+      "code": "11495",
+	  "active":"true"
+    },
+    {
+      "name": "Shiv Nagar",
+      "code": "11496",
+	  "active":"true"
+    },
+    {
+      "name": "Brij Nagar",
+      "code": "11497",
+	  "active":"true"
+    },
+	{
+      "name": "Brij Nagar",
+      "code": "11497",
+	  "active":"true"
+    },
+	{
+      "name": "Gandhi Nagar",
+      "code": "11498",
+	  "active":"true"
+    },
+	{
+      "name": "Dev Nagar",
+      "code": "11499",
+	  "active":"true"
+    },
+	{
+      "name": "Naya Nagar",
+      "code": "11500",
+	  "active":"true"
+    },
+	{
+      "name": "Roop Nagar",
+      "code": "11501",
+	  "active":"true"
+    }
+  ]
+}

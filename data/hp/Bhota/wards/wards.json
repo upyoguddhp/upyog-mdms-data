@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Bhota",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Ravi Dass Nagar",
+      "code": "68123",
+	  "active":"true"
+    },
+    {
+      "name": "Indira Nagar",
+      "code": "68124",
+	  "active":"true"
+    },
+    {
+      "name": " Krishna Nagar",
+      "code": "68125",
+	  "active":"true"
+    },
+    {
+      "name": "Narain Nagar",
+      "code": "68126",
+	  "active":"true"
+    },
+    {
+      "name": "Rajeev Nagar",
+      "code": "68127",
+	  "active":"true"
+    },
+    {
+      "name": "Lohiya Nagar",
+      "code": "68128",
+	  "active":"true"
+    },
+    {
+      "name": "Jwala Nagar",
+      "code": "68129",
+	  "active":"true"
+    }
+  ]
+}

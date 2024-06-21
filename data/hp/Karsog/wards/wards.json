@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Karsog",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Jagatkhana",
+      "code": "1297080",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Nayara",
+      "code": "1297081",
+	  "active":"true"
+    },
+    {
+      "name": "Nayara",
+      "code": "1297082",
+	  "active":"true"
+    },
+    {
+      "name": " Karsog Sadar",
+      "code": "1297083",
+	  "active":"true"
+    },
+    {
+      "name": "Purana Bazar",
+      "code": "1297084",
+	  "active":"true"
+    },
+    {
+      "name": "Karsog Bazar",
+      "code": "1297085",
+	  "active":"true"
+    },
+    {
+      "name": "Baral",
+      "code": "1297086",
+	  "active":"true"
+    }
+  ]
+}

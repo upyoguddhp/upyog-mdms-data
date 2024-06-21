@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Bhuntar",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Shamshi",
+      "code": "11443",
+	  "active":"true"
+    },
+    {
+      "name": "Chhoti Shamshi",
+      "code": "11444",
+	  "active":"true"
+    },
+    {
+      "name": "Chhoti Shamshi-II",
+      "code": "11445",
+	  "active":"true"
+    },
+    {
+      "name": "Bhuntar  byepass",
+      "code": "11446",
+	  "active":"true"
+    },
+    {
+      "name": "Bhuntar Middle area",
+      "code": "11447",
+	  "active":"true"
+    },
+    {
+      "name": "Bhuntar lower area",
+      "code": "11448",
+	  "active":"true"
+    },
+    {
+      "name": "Parla Bhuntar",
+      "code": "11449",
+	  "active":"true"
+    }
+  ]
+}

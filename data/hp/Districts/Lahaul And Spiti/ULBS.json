@@ -1,0 +1,11 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Lahaul And Spiti",
+  "ULBS": [
+    {
+      "name": "Lahaul And Spiti",
+      "code":"21",
+      "type": "Municipal Corporation"
+    }
+]
+}

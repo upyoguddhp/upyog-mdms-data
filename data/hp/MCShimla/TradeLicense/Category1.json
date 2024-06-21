@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp",
+  "tenantId": "hp.MCShimla",
   "moduleName": "TradeLicense",
-  "AccessoriesCategory": [
+  "Category1": [
     {
       "code": "ACC-1",
       "uom": "HP",

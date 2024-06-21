@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Dehra",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Rajgarh",
+      "code": "1297038",
+	  "active":"true"
+    },
+    {
+      "name": "Amarpuri",
+      "code": "1297039",
+	  "active":"true"
+    },
+    {
+      "name": "Hanuman Mandir",
+      "code": "1297040",
+	  "active":"true"
+    },
+    {
+      "name": "Gaytri Mandir",
+      "code": "1297041",
+	  "active":"true"
+    },
+    {
+      "name": "Dandeya-da-Peepal",
+      "code": "1297042",
+	  "active":"true"
+    },
+    {
+      "name": "Shiv Mandir",
+      "code": "1297043",
+	  "active":"true"
+    },
+    {
+      "name": "Kanju Peer",
+      "code": "1297044",
+	  "active":"true"
+    }
+  ]
+}

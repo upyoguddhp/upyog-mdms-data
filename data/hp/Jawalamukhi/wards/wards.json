@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Jawalamukhi",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Devi Talab",
+      "code": "11411",
+	  "active":"true"
+    },
+    {
+      "name": "Arjun Naga",
+      "code": "11412",
+	  "active":"true"
+    },
+    {
+      "name": "Maliwara Mohalla",
+      "code": "11413",
+	  "active":"true"
+    },
+    {
+      "name": "Geeta Bhawan",
+      "code": "11414",
+	  "active":"true"
+    },
+    {
+      "name": "Ganesh Colony",
+      "code": "11415",
+	  "active":"true"
+    },
+    {
+      "name": "Ast Bhuja",
+      "code": "11416",
+	  "active":"true"
+    },
+    {
+      "name": "Indira Colony",
+      "code": "11417",
+	  "active":"true"
+    }
+  ]
+}

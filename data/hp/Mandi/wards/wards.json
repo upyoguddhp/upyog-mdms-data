@@ -1,0 +1,81 @@
+{
+  "tenantId": "hp.Mandi",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Behna",
+      "code": "2513047",
+	  "active":"true"
+    },
+    {
+      "name": "Bhagwahan",
+      "code": "11475",
+	  "active":"true"
+    },
+    {
+      "name": "Doundhi",
+      "code": "2513048",
+	  "active":"true"
+    },
+    {
+      "name": "Khaliyar",
+      "code": "11464",
+	  "active":"true"
+    },
+    {
+      "name": "Mangwain",
+      "code": "11468",
+	  "active":"true"
+    },
+    {
+      "name": "Nela",
+      "code": "11467",
+	  "active":"true"
+    },
+    {
+      "name": "Paddal",
+      "code": "11466",
+	  "active":"true"
+    },
+	{
+      "name": "Palace ColonyI",
+      "code": "11471",
+	  "active":"true"
+    },
+	{
+      "name": "Palace ColonyIi",
+      "code": "11472",
+	  "active":"true"
+    },
+	{
+      "name": "Purani Mandi",
+      "code": "11465",
+	  "active":"true"
+    },
+	{
+      "name": "Samkheter",
+      "code": "11474",
+	  "active":"true"
+    },
+	{
+      "name": "Sanyahrad",
+      "code": "11469",
+	  "active":"true"
+    },
+	{
+      "name": "Suhra",
+      "code": "11473",
+	  "active":"true"
+    },
+	{
+      "name": "Talyahar",
+      "code": "11470",
+	  "active":"true"
+    },
+	{
+      "name": "Thanehra",
+      "code": "11476",
+	  "active":"true"
+    }
+  ]
+}

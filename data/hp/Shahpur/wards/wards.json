@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Shahpur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Chandroon",
+      "code": "2513276",
+	  "active":"true"
+    },
+    {
+      "name": "Gorda",
+      "code": "2513277",
+	  "active":"true"
+    },
+    {
+      "name": "Hara",
+      "code": "2513273",
+	  "active":"true"
+    },
+    {
+      "name": "Jhullar",
+      "code": "2513274",
+	  "active":"true"
+    },
+    {
+      "name": "Manjhiar",
+      "code": "2513278",
+	  "active":"true"
+    },
+    {
+      "name": "Shahpur",
+      "code": "2513275",
+	  "active":"true"
+    },
+    {
+      "name": "Siholpuri",
+      "code": "2513272",
+	  "active":"true"
+    }
+  ]
+}

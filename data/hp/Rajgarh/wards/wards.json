@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Rajgarh",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Colony Ward",
+      "code": "11603",
+	  "active":"true"
+    },
+    {
+      "name": "Bus Stand Ward",
+      "code": "11604",
+	  "active":"true"
+    },
+    {
+      "name": "Radha Krishan Mandir",
+      "code": "11605",
+	  "active":"true"
+    },
+    {
+      "name": "Nehru Maidan",
+      "code": "11606",
+	  "active":"true"
+    },
+    {
+      "name": "School Ward",
+      "code": "11607",
+	  "active":"true"
+    },
+    {
+      "name": "Police Thana",
+      "code": "11608",
+	  "active":"true"
+    },
+	{
+      "name": "Gaon Kotly",
+      "code": "11609",
+	  "active":"true"
+    }
+  ]
+}

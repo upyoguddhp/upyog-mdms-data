@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Una",
+  "ULBS": [
+    {
+      "name": "Una",
+      "code":"248233",
+      "type": "Municipal Corporation"
+    },
+	{
+	   "name": "Santokhgarh",
+      "code":"248235",
+      "type": "Municipal Council"
+    },
+	{
+	  "name": "Mehatpur-Basdehr",
+      "code":"248234",
+      "type": "Municipal Council"
+    },	
+	{
+	  "name": "Gagret",
+      "code":"248232",
+      "type": "Nagar Panchayat"
+    },
+	{
+	  "name": "Daulatpur",
+      "code":"248231",
+      "type": "Nagar Panchayat"
+    },
+	{
+	  "name": "Tahliwal",
+      "code":"276639",
+      "type": "Nagar Panchayat"
+    },
+	{
+	  "name": "Amb",
+      "code":"297009",
+      "type": "Nagar Panchayat"
+    }
+]
+}

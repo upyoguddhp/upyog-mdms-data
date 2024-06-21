@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Chowari",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Kuther",
+      "code": "1296823",
+	  "active":"true"
+    },
+    {
+      "name": "Bhalara",
+      "code": "1296824",
+	  "active":"true"
+    },
+    {
+      "name": "Trimth",
+      "code": "1296825",
+	  "active":"true"
+    },
+    {
+      "name": "Sudli",
+      "code": "1296826",
+	  "active":"true"
+    },
+    {
+      "name": "Medical Colony",
+      "code": "1296827",
+	  "active":"true"
+    },
+    {
+      "name": "Kasba Chowari-I",
+      "code": "1296828",
+	  "active":"true"
+    },
+    {
+      "name": "Kasba Chowari-II",
+      "code": "1296829",
+	  "active":"true"
+    }
+  ]
+}

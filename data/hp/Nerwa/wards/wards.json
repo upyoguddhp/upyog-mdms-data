@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Nerwa",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bhawani Nagar (Bhathinala)",
+      "code": "2513254",
+	  "active":"true"
+    },
+    {
+      "name": "Civil Hospital",
+      "code": "2513252",
+	  "active":"true"
+    },
+    {
+      "name": "Dundi Mandir",
+      "code": "2513256",
+	  "active":"true"
+    },
+    {
+      "name": "Jakhoo(Nerwa)",
+      "code": "2513255",
+	  "active":"true"
+    },
+    {
+      "name": "Lambardar Basti Nerwa-II",
+      "code": "2513251",
+	  "active":"true"
+    },
+    {
+      "name": "Old Nerwa",
+      "code": "2513253",
+	  "active":"true"
+    },
+    {
+      "name": "Sheekyar",
+      "code": "2513257",
+	  "active":"true"
+    }
+  ]
+}

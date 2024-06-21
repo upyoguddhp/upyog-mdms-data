@@ -1,0 +1,11 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Kinnaur",
+  "ULBS": [
+    {
+      "name": "Kinnaur",
+      "code":"19",
+      "type": "Municipal Corporation"
+    }
+]
+}

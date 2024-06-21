@@ -1,0 +1,71 @@
+{
+  "tenantId": "hp.PoantaSahib",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bhantawali Bhuppur",
+      "code": "68153",
+	  "active":"true"
+    },
+    {
+      "name": "Devinagar-I",
+      "code": "68521",
+	  "active":"true"
+    },
+    {
+      "name": "Devinagar-II",
+      "code": "68522",
+	  "active":"true"
+    },
+    {
+      "name": "Shubhkhera",
+      "code": "1296819",
+	  "active":"true"
+    },
+    {
+      "name": "Heerpur",
+      "code": "1296820",
+	  "active":"true"
+    },
+    {
+      "name": "Bhuppur Kedarpur",
+      "code": "68154",
+	  "active":"true"
+    },
+	{
+      "name": "Badripur",
+      "code": "68155",
+	  "active":"true"
+    },
+	{
+      "name": "Taruwala",
+      "code": "68156",
+	  "active":"true"
+    },
+	{
+      "name": "Shamsherpur",
+      "code": "68157",
+	  "active":"true"
+    },
+	{
+      "name": "Byepass",
+      "code": "68158",
+	  "active":"true"
+    },
+	{
+      "name": "Hospital",
+      "code": "68159",
+	  "active":"true"
+    },
+	{
+      "name": "Bus Stand",
+      "code": "68160",
+	  "active":"true"
+    },
+	{
+      "name": "Kahar Basti",
+      "code": "68161",
+	  "active":"true"
+    }
+  ]
+}

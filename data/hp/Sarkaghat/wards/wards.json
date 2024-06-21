@@ -1,0 +1,36 @@
+{
+  "tenantId": "hp.Sarkaghat",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Tatih",
+      "code": "11457",
+	  "active":"true"
+    },
+    {
+      "name": "Ram Nagar",
+      "code": "11458",
+	  "active":"true"
+    },
+    {
+      "name": "Jamsai",
+      "code": "11459",
+	  "active":"true"
+    },
+    {
+      "name": "Kalas",
+      "code": "11460",
+	  "active":"true"
+    },
+    {
+      "name": "Kunlag",
+      "code": "11461",
+	  "active":"true"
+    },
+    {
+      "name": "Ropa Colony",
+      "code": "11462",
+	  "active":"true"
+    }
+  ]
+}

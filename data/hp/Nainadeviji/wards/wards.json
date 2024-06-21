@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Nainadeviji",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Devi Ward",
+      "code": "11547",
+	  "active":"true"
+    },
+    {
+      "name": "Tara Ward",
+      "code": "11548",
+	  "active":"true"
+    },
+    {
+      "name": "Kalika Ward",
+      "code": "11549",
+	  "active":"true"
+    },
+    {
+      "name": "Durga Ward",
+      "code": "11550",
+	  "active":"true"
+    },
+    {
+      "name": "Sheetla Ward",
+      "code": "11551",
+	  "active":"true"
+    },
+    {
+      "name": "Shakti Ward",
+      "code": "11552",
+	  "active":"true"
+    },
+    {
+      "name": "Ambika Ward",
+      "code": "11553",
+	  "active":"true"
+    }
+  ]
+}

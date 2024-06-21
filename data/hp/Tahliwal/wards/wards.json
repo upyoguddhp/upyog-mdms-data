@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Tahliwal",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "1",
+      "code": "1297022",
+	  "active":"true"
+    },
+    {
+      "name": "2",
+      "code": "1297023",
+	  "active":"true"
+    },
+    {
+      "name": "3",
+      "code": "1297024",
+	  "active":"true"
+    },
+    {
+      "name": "4",
+      "code": "1297025",
+	  "active":"true"
+    },
+    {
+      "name": "5",
+      "code": "1297026",
+	  "active":"true"
+    },
+    {
+      "name": "6",
+      "code": "1297027",
+	  "active":"true"
+    },
+    {
+      "name": "7",
+      "code": "1297028",
+	  "active":"true"
+    }
+  ]
+}

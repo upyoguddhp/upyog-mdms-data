@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Arki",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Mahlaat-I",
+      "code": "11565",
+	  "active":"true"
+    },
+    {
+      "name": "Miyanpur",
+      "code": "11566",
+	  "active":"true"
+    },
+    {
+      "name": "Jhinwar Muhalla",
+      "code": "11567",
+	  "active":"true"
+    },
+    {
+      "name": "Chaugan",
+      "code": "11568",
+	  "active":"true"
+    },
+    {
+      "name": "Laxmi Narayan Temple",
+      "code": "11569",
+	  "active":"true"
+    },
+    {
+      "name": "Titla Muhalla",
+      "code": "11570",
+	  "active":"true"
+    },
+	{
+      "name": "Shilla Kakkar",
+      "code": "11571",
+	  "active":"true"
+    }
+  ]
+}

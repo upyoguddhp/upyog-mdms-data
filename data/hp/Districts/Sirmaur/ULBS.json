@@ -1,0 +1,21 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Sirmaur",
+  "ULBS": [
+    {
+      "name": "Nahan",
+      "code":"248043",
+      "type": "Municipal Council"
+    },
+	{
+	   "name": "Poanta Sahib",
+      "code":"248045",
+      "type": "Municipal Council"
+    },
+	{
+	  "name": "Rajgarh",
+      "code":"248047",
+      "type": "Municipal Council"
+    }	
+]
+}

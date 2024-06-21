@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Talai",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Ghatti Wali Sath",
+      "code": "68137",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Wali Sath",
+      "code": "68138",
+	  "active":"true"
+    },
+    {
+      "name": "Nichali Sath",
+      "code": "68139",
+	  "active":"true"
+    },
+    {
+      "name": "Talai Bazar",
+      "code": "68140",
+	  "active":"true"
+    },
+    {
+      "name": "Baryah",
+      "code": "68141",
+	  "active":"true"
+    },
+    {
+      "name": "Gurnajhari",
+      "code": "68142",
+	  "active":"true"
+    },
+    {
+      "name": "Sew",
+      "code": "68143",
+	  "active":"true"
+    }
+  ]
+}

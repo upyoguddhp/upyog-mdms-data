@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Gagret",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "1",
+      "code": "11511",
+	  "active":"true"
+    },
+    {
+      "name": "2",
+      "code": "11512",
+	  "active":"true"
+    },
+    {
+      "name": "3",
+      "code": "11513",
+	  "active":"true"
+    },
+    {
+      "name": "4",
+      "code": "11514",
+	  "active":"true"
+    },
+    {
+      "name": "5",
+      "code": "11515",
+	  "active":"true"
+    },
+    {
+      "name": "6",
+      "code": "11516",
+	  "active":"true"
+    },
+	{
+      "name": "7",
+      "code": "11517",
+	  "active":"true"
+    }
+  ]
+}

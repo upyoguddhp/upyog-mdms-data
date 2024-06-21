@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Nadaun",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Hospital ward",
+      "code": "11486",
+	  "active":"true"
+    },
+    {
+      "name": "Pattan Bazar Ward",
+      "code": "11487",
+	  "active":"true"
+    },
+    {
+      "name": "Jain Mohalla Ward",
+      "code": "11488",
+	  "active":"true"
+    },
+    {
+      "name": "Durbhasan Kendar/Dak Ghar Mohalla Ward",
+      "code": "11489",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Bazar",
+      "code": "11490",
+	  "active":"true"
+    },
+    {
+      "name": "Inder Pal Bus Stand",
+      "code": "11491",
+	  "active":"true"
+    },
+    {
+      "name": "Doligharana & Nagarra ward",
+      "code": "11492",
+	  "active":"true"
+    }
+  ]
+}

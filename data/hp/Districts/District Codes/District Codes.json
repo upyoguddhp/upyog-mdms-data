@@ -1,0 +1,54 @@
+	{
+  "tenantId": "hp.Districts",
+  "moduleName": "District Codes",
+  "Districts": [
+    {
+      "name": "Bilaspur",
+      "code":"15"
+    },
+	{
+      "name": "Chamba",
+      "code":"16"
+    },
+	{
+      "name": "Hamirpur",
+      "code":"17"
+    },
+	{
+      "name": "Kangra",
+      "code":"18"
+    },
+	{
+      "name": "Kinnaur",
+      "code":"19"
+    },
+	{
+      "name": "Kullu",
+      "code":"20"
+    },
+	{
+      "name": "Lahaul And Spiti",
+      "code":"21"
+    },
+	{
+      "name": "Mandi",
+      "code":"22"
+    },
+	{
+      "name": "Shimla",
+      "code":"23"
+    },
+	{
+      "name": "Sirmaur",
+      "code":"24"
+    },
+	{
+      "name": "Solan",
+      "code":"25"
+    },
+	{
+      "name": "Una",
+      "code":"26"
+    }
+]
+}

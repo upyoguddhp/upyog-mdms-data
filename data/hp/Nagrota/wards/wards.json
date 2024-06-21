@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Nagrota",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "G.G.S.S.School",
+      "code": "68087",
+	  "active":"true"
+    },
+    {
+      "name": "Dewan Bagh",
+      "code": "68088",
+	  "active":"true"
+    },
+    {
+      "name": "Narda Sharda Mandir",
+      "code": "68089",
+	  "active":"true"
+    },
+    {
+      "name": "Railway Station",
+      "code": "68090",
+	  "active":"true"
+    },
+    {
+      "name": "Hospital Ward",
+      "code": "68091",
+	  "active":"true"
+    },
+    {
+      "name": "Sharotri Ward",
+      "code": "68092",
+	  "active":"true"
+    },
+    {
+      "name": "Radha Krishan Ward",
+      "code": "68093",
+	  "active":"true"
+    }
+  ]
+}
