@@ -1,161 +1,71 @@
 {
-  "tenantId": "mh",
+  "tenantId": "hp",
   "moduleName": "common-masters",
   "Department": [
-  {
-  "id":"1",
-  "name":"Assessment Department",
-  "code":"AS",
-  "active":"true",
-  "tenantId":"mh"
-  },
     {
-  "id":"2",
-  "name":"Asset Department",
-  "code":"AT",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Street Lights",
+      "code": "DEPT_1",
+      "active": true
+    },
     {
-  "id":"3",
-  "name":"Computer Department",
-  "code":"CD",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Building & Roads",
+      "code": "DEPT_2",
+      "active": true
+    },
     {
-  "id":"4",
-  "name":"CFC",
-  "code":"CFC",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Health & Sanitation",
+      "code": "DEPT_3",
+      "active": true
+    },
     {
-  "id":"5",
-  "name":"Legal Services Department",
-  "code":"CO",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Operation & Maintenance",
+      "code": "DEPT_4",
+      "active": true
+    },
     {
-  "id":"6",
-  "name":"Establishment Department",
-  "code":"ED",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Horticulture",
+      "code": "DEPT_5",
+      "active": true
+    },
     {
-  "id":"7",
-  "name":"Election Department",
-  "code":"EL",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Building Branch",
+      "code": "DEPT_6",
+      "active": true
+    },
     {
-  "id":"8",
-  "name":"Fire Brigade Department",
-  "code":"FB",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Citizen service desk",
+      "code": "DEPT_7",
+      "active": true
+    },
     {
-  "id":"9",
-  "name":"Accounts",
-  "code":"FM",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Complaint Cell",
+      "code": "DEPT_8",
+      "active": true
+    },
     {
-  "id":"10",
-  "name":"General Administration Department",
-  "code":"GED",
-  "active":"true",
-  "tenantId":"mh"
-
-  },
+      "name": "Executive Branch",
+      "code": "DEPT_9",
+      "active": true
+    },
     {
-  "id":"11",
-  "name":"Health Department",
-  "code":"HD",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Others",
+      "code": "DEPT_10",
+      "active": true
+    },
     {
-  "id":"12",
-  "name":"License Department",
-  "code":"LD",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Tax Branch",
+      "code": "DEPT_13",
+      "active": true
+    },
     {
-  "id":"13",
-  "name":"Light Department",
-  "code":"LT",
-  "active":"true",
-  "tenantId":"mh"
-  },
+      "name": "Accounts Branch",
+      "code": "DEPT_25",
+      "active": true
+    },
     {
-  "id":"14",
-  "name":"Market License Department",
-  "code":"ML",
-  "active":"true",
-  "tenantId":"mh"
-  },
-    {
-  "id":"15",
-  "name":"Marriage Registration Department",
-  "code":"MRD",
-  "active":"true",
-  "tenantId":"mh"
-  },
-    {
-  "id":"16",
-  "name":"Office Suprident Departmet",
-  "code":"OD",
-  "active":"true",
-  "tenantId":"mh"
-  },
-    {
-  "id":"17",
-  "name":"Record Department",
-  "code":"RE",
-  "active":"true",
-  "tenantId":"mh"
-  },
-    {
-  "id":"18",
-  "name":"Store Department",
-  "code":"SD",
-  "active":"true",
-  "tenantId":"mh"
-  },
-    {
-  "id":"19",
-  "name":"Suvarna Jayanti Shahari Rojgar Yojana",
-  "code":"SJY",
-  "active":"true",
-  "tenantId":"mh"
-  },
-    {
-  "id":"20",
-  "name":"Town Planning",
-  "code":"TP",
-  "active":"true",
-  "tenantId":"mh"
-  },
-   {
-  "id":"21",
-  "name":"Inward Outward Department",
-  "code":"UWM",
-  "active":"true",
-  "tenantId":"mh"
-   },
-   {
-  "id":"22",
-  "name":"Water Department",
-  "code":"WT",
-  "active":"true",
-  "tenantId":"mh"
-  }
-]
+      "name": "Works Branch",
+      "code": "DEPT_35",
+      "active": true
+    }
+  ]
 }
