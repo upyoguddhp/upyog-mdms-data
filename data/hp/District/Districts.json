@@ -1,0 +1,66 @@
+{
+  "tenantId": "hp.District",
+  "moduleName": "District",
+  "District": [
+    {
+      "name": "Bilaspur",
+      "code":"15",
+      "active":"true"
+    },
+	{
+      "name": "Chamba ",
+      "code":"16",
+      "active":"true"
+    },
+	{
+      "name": "Hamirpur",
+      "code":"17",
+      "active":"true"
+    },
+	{
+      "name": "Kangra",
+      "code":"18",
+      "active":"true"
+    },
+	{
+      "name": "Kinnaur",
+      "code":"19",
+      "active":"true"
+    },
+	{
+      "name": "Kullu",
+      "code":"20",
+      "active":"true"
+    },
+	{
+      "name": "Lahaul And Spiti",
+      "code":"21",
+      "active":"true"
+    },
+	{
+      "name": "Mandi",
+      "code":"22",
+      "active":"true"
+    },
+	{
+      "name": "Shimla",
+      "code":"23",
+      "active":"true"
+    },
+	{
+      "name": "Sirmaur",
+      "code":"24",
+      "active":"true"
+    },
+	{
+      "name": "Solan",
+      "code":"25",
+      "active":"true"
+    },
+	{
+      "name": "Una",
+      "code":"26",
+      "active":"true"
+    }
+]
+}
