@@ -313,6 +313,11 @@
       "description": "Trade license field inspector"
     },
     {
+      "code": "TL_FIELD_SUPERINTENDENT",
+      "name": "TL Field Superintendent",
+      "description": "Trade license field superintendent"
+    },
+    {
       "code": "TL_DOC_VERIFIER",
       "name": "TL doc verifier",
       "description": "Trade license document verifier"
