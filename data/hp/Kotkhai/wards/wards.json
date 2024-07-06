@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Kotkhai",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Chhol",
+      "code": "8855",
+	  "active":"true"
+    },
+    {
+      "name": "Bawari Vala",
+      "code": "8856",
+	  "active":"true"
+    },
+    {
+      "name": "Sarai Bhawan Ward",
+      "code": "8857",
+	  "active":"true"
+    },
+    {
+      "name": "Stadium Ward",
+      "code": "8858",
+	  "active":"true"
+    },
+    {
+      "name": "Giri Ward",
+      "code": "8859",
+	  "active":"true"
+    },
+    {
+      "name": "Ram Bazar",
+      "code": "8860",
+	  "active":"true"
+    },
+    {
+      "name": "Forest, Police & Tehsil  complex ward",
+      "code": "8861",
+	  "active":"true"
+    }
+  ]
+}

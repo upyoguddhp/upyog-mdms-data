@@ -1,0 +1,21 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Chamba",
+  "ULBS": [
+    {
+      "name": "Chamba",
+      "code":"248046",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Dalhousie",
+      "code":"248044",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Chowari",
+      "code":"276627",
+      "type": "Nagar Panchayat"
+    }	
+]
+}

@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Jubbal",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Purana Jubbal",
+      "code": "8848",
+	  "active":"true"
+    },
+    {
+      "name": "Tehsil Colony",
+      "code": "8849",
+	  "active":"true"
+    },
+    {
+      "name": "Palace",
+      "code": "8850",
+	  "active":"true"
+    },
+    {
+      "name": "Post Office",
+      "code": "8851",
+	  "active":"true"
+    },
+    {
+      "name": "Forest Colony",
+      "code": "8852",
+	  "active":"true"
+    },
+    {
+      "name": "Hospital ward",
+      "code": "8853",
+	  "active":"true"
+    },
+    {
+      "name": "Devra",
+      "code": "8854",
+	  "active":"true"
+    }
+  ]
+}

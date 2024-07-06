@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Santokhgarh",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "1",
+      "code": "11538",
+	  "active":"true"
+    },
+    {
+      "name": "2",
+      "code": "11539",
+	  "active":"true"
+    },
+    {
+      "name": "3",
+      "code": "11540",
+	  "active":"true"
+    },
+    {
+      "name": "4",
+      "code": "11541",
+	  "active":"true"
+    },
+    {
+      "name": "5",
+      "code": "11542",
+	  "active":"true"
+    },
+    {
+      "name": "6",
+      "code": "11543",
+	  "active":"true"
+    },
+    {
+      "name": "7",
+      "code": "11544",
+	  "active":"true"
+    },
+	{
+      "name": "8",
+      "code": "11545",
+	  "active":"true"
+    },
+	{
+      "name": "9",
+      "code": "11546",
+	  "active":"true"
+    }
+  ]
+}

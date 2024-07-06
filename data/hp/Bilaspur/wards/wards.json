@@ -1,0 +1,61 @@
+{
+  "tenantId": "hp.Bilaspur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Nihal",
+      "code": "11554",
+	  "active":"true"
+    },
+    {
+      "name": "Dholra",
+      "code": "11563",
+	  "active":"true"
+    },
+    {
+      "name": "Lakhanpur",
+      "code": "11564",
+	  "active":"true"
+    },
+    {
+      "name": "Stadium",
+      "code": "11555",
+	  "active":"true"
+    },
+    {
+      "name": "Roura",
+      "code": "11556",
+	  "active":"true"
+    },
+    {
+      "name": "Gurudwara",
+      "code": "11557",
+	  "active":"true"
+    },
+    {
+      "name": "Main Market",
+      "code": "11558",
+	  "active":"true"
+    },
+	{
+      "name": "Koserian",
+      "code": "11559",
+	  "active":"true"
+    },
+	{
+      "name": "Changer",
+      "code": "11560",
+	  "active":"true"
+    },
+	{
+      "name": "Laxmi Narayan Mandir",
+      "code": "11561",
+	  "active":"true"
+    },
+	{
+      "name": "Town Hall",
+      "code": "11562",
+	  "active":"true"
+    }
+  ]
+}

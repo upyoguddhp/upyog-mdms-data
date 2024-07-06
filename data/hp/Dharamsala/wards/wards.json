@@ -1,0 +1,91 @@
+{
+  "tenantId": "hp.Dharamsala",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Forsythganj",
+      "code": "11290",
+	  "active":"true"
+    },
+    {
+      "name": "Shaymnagar",
+      "code": "11299",
+	  "active":"true"
+    },
+    {
+      "name": "Ramnagar",
+      "code": "11300",
+	  "active":"true"
+    },
+    {
+      "name": "Badol",
+      "code": "1296813",
+	  "active":"true"
+    },
+    {
+      "name": "Dari",
+      "code": "1296814",
+	  "active":"true"
+    },
+    {
+      "name": "Kand",
+      "code": "1296815",
+	  "active":"true"
+    },
+    {
+      "name": "Khaniara",
+      "code": "1296816",
+	  "active":"true"
+    },
+	{
+      "name": "Sidhpur",
+      "code": "1296817",
+	  "active":"true"
+    },
+	{
+      "name": "Sidhbari",
+      "code": "1296818",
+	  "active":"true"
+    },
+	{
+      "name": "Bhagsunag",
+      "code": "11291",
+	  "active":"true"
+    },
+	{
+      "name": "Mcleodganj",
+      "code": "11292",
+	  "active":"true"
+    },
+	{
+      "name": "Kashmir House",
+      "code": "11293",
+	  "active":"true"
+    },
+	{
+      "name": "Khanjnchi Mohalla",
+      "code": "11294",
+	  "active":"true"
+    },
+	{
+      "name": "Kotwali Bazar",
+      "code": "11295",
+	  "active":"true"
+    },
+	{
+      "name": "Secretariat",
+      "code": "11296",
+	  "active":"true"
+    },
+	{
+      "name": "Khel Parisar",
+      "code": "11297",
+	  "active":"true"
+    },
+	{
+      "name": "Sakoh",
+      "code": "11298",
+	  "active":"true"
+    }
+  ]
+}

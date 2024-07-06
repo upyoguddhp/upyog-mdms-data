@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Theog",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Janog",
+      "code": "8838",
+      "active": "true"
+    },
+    {
+      "name": "Premghat",
+      "code": "8839",
+      "active": "true"
+    },
+    {
+      "name": "Naya Bazar",
+      "code": "8840",
+      "active": "true"
+    },
+    {
+      "name": "Ram Bazar",
+      "code": "11644",
+      "active": "true"
+    },
+    {
+      "name": "Shaili Bazar,Krishna Galli",
+      "code": "11645",
+      "active": "true"
+    },
+    {
+      "name": "Chhaidhala",
+      "code": "11646",
+      "active": "true"
+    },
+    {
+      "name": "Rahighat",
+      "code": "11647",
+      "active": "true"
+    }
+  ]
+}

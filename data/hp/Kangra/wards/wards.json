@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Kangra",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Mahatma Gandhi Memorial Municipal Library",
+      "code": "11301",
+	  "active":"true"
+    },
+    {
+      "name": "Labheshber Mahadev",
+      "code": "11302",
+	  "active":"true"
+    },
+    {
+      "name": "Ujjari Mahadev",
+      "code": "11303",
+	  "active":"true"
+    },
+    {
+      "name": "Gupt Ganga",
+      "code": "11304",
+	  "active":"true"
+    },
+    {
+      "name": "Mission",
+      "code": "11305",
+	  "active":"true"
+    },
+    {
+      "name": "Shakti Gali",
+      "code": "11306",
+	  "active":"true"
+    },
+    {
+      "name": "Brajeshwari Devi",
+      "code": "11307",
+	  "active":"true"
+    },
+	{
+      "name": "Arya Samaj Mandir",
+      "code": "11308",
+	  "active":"true"
+    },
+	{
+      "name": "Tehsil",
+      "code": "11309",
+	  "active":"true"
+    }
+  ]
+}

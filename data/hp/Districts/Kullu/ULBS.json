@@ -1,0 +1,31 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Kullu",
+  "ULBS": [
+    {
+      "name": "Kullu",
+      "code":"248219",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Manali",
+      "code":"248218",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Bhuntar",
+      "code":"248220",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Banjar",
+      "code":"248221",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Nirmand",
+      "code":"297011",
+      "type": "Nagar Panchayat"
+    }
+]
+}

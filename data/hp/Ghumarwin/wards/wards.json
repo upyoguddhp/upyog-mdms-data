@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Ghumarwin",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Baddu Ward",
+      "code": "68130",
+	  "active":"true"
+    },
+    {
+      "name": "Indira Market Ward",
+      "code": "68131",
+	  "active":"true"
+    },
+    {
+      "name": "Ambedkar Ward",
+      "code": "68132",
+	  "active":"true"
+    },
+    {
+      "name": "Kalyana Ward",
+      "code": "68133",
+	  "active":"true"
+    },
+    {
+      "name": "Bajouha Ward",
+      "code": "68134",
+	  "active":"true"
+    },
+    {
+      "name": "Tikkari Ward",
+      "code": "68135",
+	  "active":"true"
+    },
+    {
+      "name": "Dakari Ward",
+      "code": "68136",
+	  "active":"true"
+    }
+  ]
+}

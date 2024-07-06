@@ -1,0 +1,16 @@
+{
+    "tenantId": "hp.cityc",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "hp.cityc"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "hp.cityc"
+        }
+    ]
+}

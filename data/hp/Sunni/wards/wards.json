@@ -1,0 +1,36 @@
+{
+  "tenantId": "hp.Sunni",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Dashlani",
+      "code": "8862",
+      "active": "true"
+    },
+    {
+      "name": "Upper Bazar",
+      "code": "8863",
+      "active": "true"
+    },
+    {
+      "name": "Main Bazar",
+      "code": "8864",
+      "active": "true"
+    },
+    {
+      "name": "Seri & Samala",
+      "code": "8865",
+      "active": "true"
+    },
+    {
+      "name": "Block Area",
+      "code": "8867",
+      "active": "true"
+    },
+    {
+      "name": "Court Road Area",
+      "code": "8868",
+      "active": "true"
+    }
+  ]
+}

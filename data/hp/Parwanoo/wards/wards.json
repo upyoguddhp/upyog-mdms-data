@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Parwanoo",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Working Woman Hostel",
+      "code": "11581",
+	  "active":"true"
+    },
+    {
+      "name": "HRTC Workshop",
+      "code": "11582",
+	  "active":"true"
+    },
+    {
+      "name": "Eicher",
+      "code": "11583",
+	  "active":"true"
+    },
+    {
+      "name": "Gabriel",
+      "code": "11584",
+	  "active":"true"
+    },
+    {
+      "name": "Housing Board Rest House",
+      "code": "11585",
+	  "active":"true"
+    },
+    {
+      "name": "Shopping Centre",
+      "code": "11586",
+	  "active":"true"
+    },
+	{
+      "name": "EWS Ward",
+      "code": "11587",
+	  "active":"true"
+    },
+	{
+      "name": "Industrial Ward",
+      "code": "11588",
+	  "active":"true"
+    },
+	{
+      "name": "Circuit House",
+      "code": "11589",
+	  "active":"true"
+    }
+  ]
+}

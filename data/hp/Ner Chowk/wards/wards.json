@@ -1,0 +1,61 @@
+{
+  "tenantId": "hp.NerChowk",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Dhangu-I",
+      "code": "1297060",
+	  "active":"true"
+    },
+    {
+      "name": " ",
+      "code": "1297069",
+	  "active":"true"
+    },
+    {
+      "name": " ",
+      "code": "1297070",
+	  "active":"true"
+    },
+    {
+      "name": "Dhangu-II",
+      "code": "1297061",
+	  "active":"true"
+    },
+    {
+      "name": "Ner-I",
+      "code": "1297062",
+	  "active":"true"
+    },
+    {
+      "name": "Ner-II",
+      "code": "1297063",
+	  "active":"true"
+    },
+    {
+      "name": " Bhangrotu",
+      "code": "1297064",
+	  "active":"true"
+    },
+	{
+      "name": "Maghethal-I",
+      "code": "1297065",
+	  "active":"true"
+    },
+	{
+      "name": "Maghethal-II",
+      "code": "1297066",
+	  "active":"true"
+    },
+	{
+      "name": " Ner-III",
+      "code": "1297067",
+	  "active":"true"
+    },
+	{
+      "name": "Dadour",
+      "code": "1297068",
+	  "active":"true"
+    }
+  ]
+}

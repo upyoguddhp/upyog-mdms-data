@@ -1,0 +1,91 @@
+{
+  "tenantId": "hp.Solan",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Basal Patti Kather Ward",
+      "code": "2513060",
+	  "active":"true"
+    },
+    {
+      "name": "Chambaghat Salogra Ward",
+      "code": "11593",
+	  "active":"true"
+    },
+    {
+      "name": "Chaurni Ghati Ward",
+      "code": "11599",
+	  "active":"true"
+    },
+    {
+      "name": "Degree College Ward",
+      "code": "11600",
+	  "active":"true"
+    },
+    {
+      "name": "Dehun Ghat Saproon Ward",
+      "code": "11590",
+	  "active":"true"
+    },
+    {
+      "name": "Housing Board Ward",
+      "code": "1296821",
+	  "active":"true"
+    },
+	{
+      "name": "Jawahar Park Ward",
+      "code": "11595",
+	  "active":"true"
+    },
+	{
+      "name": "Khater Ward",
+      "code": "11592",
+	  "active":"true"
+    },
+	{
+      "name": "Kaleen Ward",
+      "code": "11602",
+	  "active":"true"
+    },
+	{
+      "name": "Lower Bazar Ward",
+      "code": "11594",
+	  "active":"true"
+    },
+	{
+      "name": "Madhuwan Colony Ward",
+      "code": "11598",
+	  "active":"true"
+    },
+	{
+      "name": "Raboun-Angi Ward",
+      "code": "2513059",
+	  "active":"true"
+    },
+	{
+      "name": "Railway Station Ward",
+      "code": "11591",
+	  "active":"true"
+    },
+	{
+      "name": "Shilly Road Ward",
+      "code": "11597",
+	  "active":"true"
+    },
+	{
+      "name": "Sunny Side Ward",
+      "code": "11601",
+	  "active":"true"
+    },
+	{
+      "name": "Tehsil Patwar Ward",
+      "code": "1296822",
+	  "active":"true"
+    },
+	{
+      "name": "Thodo Ground Ward",
+      "code": "11596",
+	  "active":"true"
+    }
+  ]
+}

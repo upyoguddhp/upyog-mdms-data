@@ -1,0 +1,41 @@
+{
+  "tenantId": "hp.Daulatpur",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "1",
+      "code": "11504",
+	  "active":"true"
+    },
+    {
+      "name": "2",
+      "code": "11505",
+	  "active":"true"
+    },
+    {
+      "name": "3",
+      "code": "11506",
+	  "active":"true"
+    },
+    {
+      "name": "4",
+      "code": "11507",
+	  "active":"true"
+    },
+    {
+      "name": "5",
+      "code": "11508",
+	  "active":"true"
+    },
+    {
+      "name": "6",
+      "code": "11509",
+	  "active":"true"
+    },
+	{
+      "name": "7",
+      "code": "11510",
+	  "active":"true"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "tenantId": "hp.shimla",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bharari",
+      "code": "68523",
+	  "active":"true"
+    },
+    {
+      "name": " Tutikandi",
+      "code": "68532",
+	  "active":"true"
+    },
+    {
+      "name": "Nabha",
+      "code": "68533",
+	  "active":"true"
+    },
+    {
+      "name": "Phagli",
+      "code": "68534",
+	  "active":"true"
+    },
+    {
+      "name": "Krishnanagar",
+      "code": "68535",
+	  "active":"true"
+    },
+    {
+      "name": "Ram Bazar,Ganj",
+      "code": "68536",
+	  "active":"true"
+    },
+    {
+      "name": "Lower Bazar",
+      "code": "68537",
+	  "active":"true"
+    },
+    {
+      "name": "Jakhoo",
+      "code": "68538",
+	  "active":"true"
+    },
+    {
+      "name": "Bainmour",
+      "code": "68539",
+	  "active":"true"
+    },
+    {
+      "name": "Engine Ghar",
+      "code": "68540",
+	  "active":"true"
+    },
+    {
+      "name": "Sanjauli Chowk",
+      "code": "68541",
+	  "active":"true"
+    },
+    {
+      "name": "Ruldu-Bhatta",
+      "code": "68524",
+	  "active":"true"
+    },
+    {
+      "name": "Upper Dhalli",
+      "code": "68542",
+	  "active":"true"
+    },
+    {
+      "name": "Lower Dhalli",
+      "code": "68543",
+	  "active":"true"
+    },
+    {
+      "name": "Shanti Vihar",
+      "code": "68544",
+	  "active":"true"
+    },
+    {
+      "name": "Bhatta Kuffar",
+      "code": "68545",
+	  "active":"true"
+    },
+    {
+      "name": "Sangati",
+      "code": "68546",
+	  "active":"true"
+    },
+    {
+      "name": "Malyana",
+      "code": "68547",
+	  "active":"true"
+    },
+    {
+      "name": "Panthaghati",
+      "code": "1296801",
+	  "active":"true"
+    },
+    {
+      "name": "Kasumpati",
+      "code": "1296802",
+	  "active":"true"
+    },
+    {
+      "name": "Chota Shimla",
+      "code": "1296803",
+	  "active":"true"
+    },
+    {
+      "name": "Vikas Nagar",
+      "code": "1296804",
+	  "active":"true"
+    },
+    {
+      "name": "Kaithu",
+      "code": "68525",
+	  "active":"true"
+    },
+    {
+      "name": "Kagna Dhar",
+      "code": "1296805",
+	  "active":"true"
+    },
+    {
+      "name": "Patyog",
+      "code": "1296806",
+	  "active":"true"
+    },
+    {
+      "name": "New Shimla",
+      "code": "1296807",
+	  "active":"true"
+    },
+    {
+      "name": "Khalini",
+      "code": "1296808",
+	  "active":"true"
+    },
+    {
+      "name": "Kanlog",
+      "code": "1296809",
+	  "active":"true"
+    },
+    {
+      "name": "Anadale",
+      "code": "68526",
+	  "active":"true"
+    },
+    {
+      "name": "Summer-Hill",
+      "code": "68527",
+	  "active":"true"
+    },
+    {
+      "name": " Totu",
+      "code": "68528",
+	  "active":"true"
+    },
+    {
+      "name": "Majhiyat",
+      "code": "68529",
+	  "active":"true"
+    },
+    {
+      "name": "Boileauganj",
+      "code": "68530",
+	  "active":"true"
+    },
+    {
+      "name": "Kachi Ghati",
+      "code": "68531",
+	  "active":"true"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "tenantId": "hp.Districts",
+  "moduleName": "Bilaspur",
+  "ULBS": [
+    {
+      "name": "Bilaspur",
+      "code":"248239",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Nainadeviji",
+      "code":"248238",
+      "type": "Municipal Council"
+    },
+	{
+      "name": "Ghumarwin",
+      "code":"248236",
+      "type": "Municipal Council"
+    },
+	
+	{
+      "name": "Talai",
+      "code":"248237",
+      "type": "Nagar Panchayat"
+    }	
+]
+}

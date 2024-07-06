@@ -1,0 +1,51 @@
+{
+  "tenantId": "hp.Mehatpur-Basdehr",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Industrial Area",
+      "code": "11529",
+	  "active":"true"
+    },
+    {
+      "name": "Main Bazar",
+      "code": "11530",
+	  "active":"true"
+    },
+    {
+      "name": "Bhardwaj-Tarkhana",
+      "code": "11531",
+	  "active":"true"
+    },
+    {
+      "name": "Tibbi-Baskan",
+      "code": "11532",
+	  "active":"true"
+    },
+    {
+      "name": "Ramdasia",
+      "code": "11533",
+	  "active":"true"
+    },
+    {
+      "name": "Rajputan",
+      "code": "11534",
+	  "active":"true"
+    },
+    {
+      "name": "Kaushal-Rattan",
+      "code": "11535",
+	  "active":"true"
+    },
+	{
+      "name": "Harijana",
+      "code": "11536",
+	  "active":"true"
+    },
+	{
+      "name": "Molian Minhas",
+      "code": "11537",
+	  "active":"true"
+    }
+  ]
+}
