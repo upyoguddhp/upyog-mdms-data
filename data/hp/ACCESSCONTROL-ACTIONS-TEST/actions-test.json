@@ -10161,6 +10161,19 @@
       "serviceCode": "FILE_METADATA",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1484,
+      "name": "Search Trade License",
+      "url": "/tl-services/v1/NewTL/_search",
+      "displayName": "Search Trade License",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
