@@ -1281,7 +1281,7 @@
     },
     {
       "category": "TAX",
-      "service": "LCF.Trade_License_Fee",
+      "service": "TL",
       "name": "LCF.Trade_License_Fee_TAX",
       "code": "LCF.Trade_License_Fee_TAX",
       "isDebit": false,
