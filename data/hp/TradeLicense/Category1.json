@@ -1,7 +1,7 @@
 {
   "tenantId": "hp",
   "moduleName": "TradeLicense",
-  "AccessoriesCategoryPart1": [
+  "Category1": [
     {
       "code": "BANKING",
       "uom": "HP",
@@ -502,6 +502,3 @@
     }
   ]
 }
-
-
-

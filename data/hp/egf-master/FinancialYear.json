@@ -575,6 +575,48 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "FIRENOC"
+    },
+	{
+      "id": "41",
+      "tenantId": "hp",
+      "finYearRange": "2024-29",
+      "name": "2024-29",
+      "code": "2024-29",
+      "startingDate": 1711909800000,
+      "endingDate": 1914432000000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+	{
+      "id": "42",
+      "tenantId": "hp",
+      "finYearRange": "2024-34",
+      "name": "2024-34",
+      "code": "2024-34",
+      "startingDate": 1711909800000,
+      "endingDate": 2318380800000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+	{
+      "id": "43",
+      "tenantId": "hp",
+      "finYearRange": "2024-39",
+      "name": "2024-39",
+      "code": "2024-39",
+      "startingDate": 1711909800000,
+      "endingDate": 2524665600000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
     }
   ]
 }
