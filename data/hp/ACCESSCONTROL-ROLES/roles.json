@@ -293,6 +293,11 @@
       "description": "Approver who verifies and approves the TL application"
     },
     {
+      "code": "TL_VERIFIER",
+      "name": "TL Verifier",
+      "description": "Verifier who only verifies TL application"
+    },
+    {
       "code": "EMPLOYEE_FINANCE",
       "name": "Employee Finance",
       "description": "All Employees who use Finance application"
