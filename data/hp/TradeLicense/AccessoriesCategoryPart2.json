@@ -1,0 +1,521 @@
+{
+  "tenantId": "hp",
+  "moduleName": "TradeLicense",
+  "AccessoriesCategoryPart2": [
+    {
+      "code": "ASAFOOTIDA(HING)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "ASHES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "BAMBOOS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "BIDI OR BIDI LEAVES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "BLASTING POWDER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "BLOOD",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "BONES,BONE MEAL OR BONE POWDER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CAMPHOR",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CARBIDE OF CALCIUM",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CARDBOARD",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CELLULOID OR CELLULOID GOODS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CEMENT",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CHARCOAL",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CHEMICAL LIQUID",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CHEMICALS, NON-LIQUID",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CHILLIES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CHLORATE MIXTURE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CINEMATOGRAPH FILMS,NON-INFLAMMABLE OR ACETATE OR SAFETY BASE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CLOTH IN PRESSED BALES OR BORAS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CLOTH OR CLOTHES OF COTTON,WOOL,SILK,ART SILK ETC.",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COAL",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COCONUT FIBRE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COKE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COMPOUND GAS,SUCH AS OXYGEN GAS,HYDROGEN GAS,NITROGEN GAS,CARBONDIOXIDE GAS,SULPHUR DIOXIDE GAS,CHLORINE GAS,ACETYALOM GAS ETC",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COPRA",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COSMETICS AND TOILET NEEDS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COTTON INCLUDING KAHOK,SURGICAL COTTON AND SILKY COTTON",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COTTON REFUSE OR WASTE OR COTTON YARN REFUSE OR WASTE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "COTTON SEED",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "DETONATERS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "DRY LEAVES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "DYNAMITE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "EXPLOSIVE PAINT SUCH AS NITROCELLULOSE PAINT,LACQUER PAINT,ENAMEL PAINT ETC.",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FAT",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FELT",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FINS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FIRE-WOOD",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FIRE-WORKS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FISH(DRIED)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FLAX",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FULMINATE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FULMINATE OF MERCURY",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "FULMINATE OF SILVER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "GOLATINO",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "GOLIGNITE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "GRASS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "GUN-COTTON",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "GUN-POWDER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "GUNNY BAGS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HAIR",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HAY OR FODDER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HEMP",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HESSIAN CLOTH(GUNNY BAG CLOTH)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HIDES(DRIED)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HIDES(RAW)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HOOFS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HORNS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "INCENSE OR ESAS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "JUTE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "KHOKAS,BOXES,BARRELS,FURNITURE OR ANY OTHER ARTICLE OF WOOD",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "LACQUER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "LEATHER,LEATHER CLOTH,RAXINE CLOTH AND WATER PROOF CLOTH",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "MATCHES FOR LIGTHING,(INCLUDING BENGAL MATCHES)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "MATHYLATED SPIRIT,DENATURED SPIRIT OR FRENCH POLISH",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "NITRO-CELLULOSE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "NITRO-COMPOUND",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "NITRO-GLYCERINE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "NITRO-MIXTURE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "OFFAL",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "OIL,OTHER THEN PETROLEUM",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "OILSEEDS INCLUDING ALMONDS,BUT EXCLUDING COTTON-SEEDS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "OLD PAPER OR WASTE PAPER INCLUDING OLD NEWSPAPERS,PERIODICAL MAGAZINES ETC",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PACKING STUFF(PAPER CUTTING)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PAINTS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PAPER  OTHER THEN OLD PAPER IN PRESSED BALES OR LOOSE OR IN REAMS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PETROLEUM,OTHER THEN DANGEROUS PETROLEUM,AS DEFINED IN THE PETROLEUM ACT,1934",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PHOSPHOROUS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PHARMACEUTICAL OR MEDICAL GOODS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PHOTOSTAT,CYCLOSTYLING,TYPING AND PRINTING MACHINES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PLASTIC AND PLASTIC GOODS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PLYWOOD",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "RAGS,INCLUDING SMALL PIECES OR CUTTING OF CLOTH,HESSIAN CLOTH,GUNNY BAG CLOTH,SILK,ART SILK OR WOOLLEN CLOTH",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "RESIN OR DAMMAR BATTAR OTHERWISE KNOWN AS RAL",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "RUBBER AND RUBBER GOODS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SAFETY FUSES,FEG SIGNALS,CARTRIDGES ETC.",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SALTPETRE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SANDALWOOD",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SANITARY-WARE,HARDWARE AND OTHER ARTICLES MADE OF IRON,IRON-SHEETS,PIPES,IRON ANGLES AND G.I. PIPES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SHOES INCLUDING LEATHER,PVC CANVAS RUBBER AND PLASTIC SHOES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SILK WASTE OR SILK YARN,ART SILK WASTE OR ART SILK YARN WASTE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SISAL FIBRE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SKINS(RAW OR DRIED)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "STRAW",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SULPHUR",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "TALLOW",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "TAR,DITCH,DAMMAR OR BITUMEN",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "TARPHLIN",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "THINNER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "TIMBER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "TURPENTINE,UTENSILS,CROCKERY,CHINA AND EARTHERN-WARE,ALUMINIUM WARE,STAINLESS STEEL AND IRON GOODS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "VARNISH",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "WOOL(RAW)",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "YARN OTHER THEN WASTE YARN",
+      "uom": "HP",
+      "active": true
+    }
+  ]
+}

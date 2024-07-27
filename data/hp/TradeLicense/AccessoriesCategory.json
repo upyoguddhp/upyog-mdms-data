@@ -1,0 +1,504 @@
+{
+  "tenantId": "hp",
+  "moduleName": "TradeLicense",
+  "AccessoriesCategory": [
+    {
+      "code": "BANKING",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "SHOOTING OFF CINEMATOGRAPH FILMS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "TREATING OFF CINEMATOGRAPH FILMS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "CHILLY MASALA SEEDS GRINDING BY MECHANICAL MEANS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "DYE PRINTING OF CLOTH YARN LEATHER",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "BLEACHING OF CLOTH YARN",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "EATING HOUSE OR CATERING ESTABLSIHMENT",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "GRAIN PARCHING",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "PARCHING GROUNDNUT SEEDS, TAMARING OR ANY OTHER SEEDS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HAIR DRESSING SALOON OR BARBER'S SHOP",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "HIDES OR SKINS,RAW OR DRIED TANNING,PRESSING OR PACKING",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "lAUNDRY SHOP",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "lEATHER GOODS MANUFACTURING BY MECHANICAL MEANS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "KEEPING OF A LITHO PRESS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "KEEPING OF A LODING HOUSE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "METAL CASTING",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "REFINING OR RECOVERING PRECIOUS METALS FROM EMBROIDERIES",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "KEEPING OF A PRINTING PRESS",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "code": "KEEPING OF A SWEETMEATS SHOP EXCEPT IN PREMISES ALREADY LICENSED AS AN EATING HOUSE",
+      "uom": "HP",
+      "active": true
+    },
+    {
+      "CARRYING ON THE TRADE OR BUSINESS OF OR ANY OPERATION CONNECTED WITH THE TRADE OF": [
+        {
+          "code": "AUTOCAR OR AUTOCYCLE SERVICING OR REPAIRING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BLACKSMITHY",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "COPPERSMITHY",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "ELECTROPLATING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GLASS BEVELLING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GLASS CUTTING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GLASS POLISHING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GOLDSMITHY",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "MARBLE CUTTING,GRINDING,DRESSING OR POLISHING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "METAL(FERROUS OR NON FERROUS OR ANTIMONY BUT EXCLUDING PRECIOUS METAL) CUTTING OR TREATING METAL BY HARMORING DRILLING,PRESSING,FILLING,POLISHING,HEATING OR BY ANY OTHER PROCESS WHATEVER OR ASSEMBLING PARTS OF METAL",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "PHOTOGARPHY STUDIO",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "RADIO(WIRELESS RECEIVING SET) SELLING,REPAIRING,SERVICING OR MANUFACTURING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "SILVERSMITHY",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "SPINNING OR WEAVING COTTON SILK,ART SILK, OR JUTE OR WOOL WITH THE AID OF POWER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "STONE GRINDING,CUTTING,DRESSING OR POLISHING",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "TIMBER OR WOOD SAWING OR CUTTING, BY MECHANICAL OR ELECTRICAL POWER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "TINSMITHY",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "WASHERMAN'S TRADE",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "WELDING OF METAL BY ELECTRIC, GAS OR ANY PROCESS WHARTSOEVER",
+          "uom": "HP",
+          "active": true
+        }
+      ]
+    },
+    {
+      "MANUFACTURING,PARCHING,PACKING,PRESSING,CLEANING,CLEANSING,BOILING,MOULTING,GRINDING OR PERPARING BY ANY PROCESS WHATEVER ANY OF THE FOLLOWING ARTICLES": [
+        {
+          "code": "AERATED WATER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BAKELITE GOODS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BIDIS(INDIGENOUS CIGARETTES)SNUFF,CIGARS OR CIGARETTES",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BITUMEN",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BLASTING POWDER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BONES",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BRICKS OR TILES BY HAND POWER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BRICKS OR TILES BY MECHANICAL POWER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "BRUSHES",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "CANDLES",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "CATGUT",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "CELLULOID OR CELLULOID GOODS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "CEMENT CONCRETE DESIGNS OR MODELS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "CHARCOAL",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "CHEMICALS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "CINEMATOGRAPH FILMS STRIPPING IN CONNECTION WITH ANY TRADE",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "COSMETICS OR TOILET GOODS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "COTTON,COTTON REFUSE,COTTON WASTE,COTTON YARN,SILK,SILK YARN,",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "SILK INCLUSIVE OF WASTE YARN,ART SILK,ART SILK WASTE,ART SILK YARN",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "WOOL OR WOOLEN REFUSE OR WASTE",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "COTTON SEEDS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "DAMMAR",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "DYNAMITE",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "FAT",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "FIREWORKS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "FLAX",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "INK FOR PRINTING,WRITING,STAMPING ETC.",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GAS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GHEE",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GLASS OR ARTICLES",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "GUNPOWDER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "HEMP",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "ICE(INCLUDING DRY ICE)",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "INSECTICIDE OR DISINFECTANTS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "LEATHER CLOTH OR REXIN CLOTH OR WATER PROOF CLOTH",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "LIME",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "LINESEED OIL",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": ",ATCHES FOR LIGHTING(INCLUDING BENGAL MATCHES)",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "MATTRESSES AND PILLOWS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "OFFAL",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "OIL CLOTH",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "OIL AND OTHER PETROLEUM(EITHER BY MECHANICAL POWER OR BY HAND POWER OR GHANI DRIVEN BY BULLOCK CART OR ANY OTHER ANIMAL)",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "PHARMACEUTICAL OR MEDICAL PRODUCTS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "RUBBER OR RUBBER GOODS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "PAINTS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "PAPER OR CARDBOARDS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "PICKERS FROM HIDES",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "PITCH",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "PLASTIC GOODS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "POTTERY BY HAND POWER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "POTTERY BY HAND POWER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "POTTERY BY MECHANICAL OR ANY POWER OTHER THAN HAAND POWER",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "SANITARY-WARE OR CHINA-WARE",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "SOAP",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "SUGAR",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "SWEETMEAT AND CONFECTIONARY GOODS",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "TALLOW",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "TAR",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "VARNISHES",
+          "uom": "HP",
+          "active": true
+        },
+        {
+          "code": "WOODEN FURNITURE,BOXES,BARRELS,KHOKAS OR OTHER ARTICLES OF WOOD OR OF PLYWOOD OR OF SANDAL WOOD",
+          "uom": "HP",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
