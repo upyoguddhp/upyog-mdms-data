@@ -1,7 +1,7 @@
 {
   "tenantId": "hp",
   "moduleName": "TradeLicense",
-  "AccessoriesCategory": [
+  "Category2": [
     {
       "code": "ASAFOOTIDA(HING)",
       "uom": "HP",
