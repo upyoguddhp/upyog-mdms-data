@@ -1,0 +1,25 @@
+{
+    "tenantId": "hp",
+    "moduleName": "TradeLicense",
+    "ScaleOfBusiness": [
+      {
+        "code": "Small",
+        "fee": "100",
+        "active": true
+
+      },
+      {
+        "code": "Medium",
+        "fee": "100",
+        "active": true
+
+      }
+      ,
+      {
+        "code": "Large",
+        "fee": "100",
+        "active": true
+
+      }
+    ]
+}

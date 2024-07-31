@@ -1,0 +1,31 @@
+{
+    "tenantId": "hp",
+    "moduleName": "TradeLicense",
+    "LicenseCategories": [
+      {
+        "code": "Category-1",
+        "active": true
+
+      },
+      {
+        "code": "Category-2",
+        "active": true
+
+      },
+      {
+        "code": "Category-3",
+        "active": true
+
+      },
+      {
+        "code": "Category-4",
+        "active": true
+
+      },
+      {
+        "code": "Category-5",
+        "active": true
+
+      }
+    ]
+}
