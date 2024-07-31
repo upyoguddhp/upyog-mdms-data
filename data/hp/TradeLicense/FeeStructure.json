@@ -1,0 +1,44 @@
+{
+  "tenantId": "hp",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "scaleOfBusiness",
+		"type": "small",
+		"periodOfLicense": 1,
+		"price": 150
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "scaleOfBusiness",
+		"type": "small",
+		"periodOfLicense": 5,
+		"price": 1000
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "tradeCategory",
+		"type": "cat1",
+		"price": 1000
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "tradeCategory",
+		"type": "cat2",
+		"price": 2000
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "zone",
+		"type": "zone1",
+		"price": 500
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "zone",
+		"type": "zone2",
+		"price": 600
+	}
+  ]
+}
