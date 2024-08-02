@@ -1,0 +1,1278 @@
+{
+  "tenantId": "hp",
+  "moduleName": "TradeLicense",
+  "Categories": [
+    {
+      "id": "1",
+      "sector": "Agriculture",
+      "trade": "Farm Machinery Sale",
+      "subcategory": "Farm Machinery Sale",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "2",
+      "sector": "Agriculture",
+      "trade": "Agriculture Use Products Retails",
+      "subcategory": "Sprays (insecticide, Fungicide, disinfectants, Fertilizers, Lime, Urea)",
+      "remarks": "Additional regulatory approvals from other regulatory bodies may be required",
+      "active": "true"
+    },
+    {
+      "id": "3",
+      "sector": "Agriculture",
+      "trade": "Nursery",
+      "subcategory": "Nursery",
+      "remarks": "Additional regulatory approvals from other regulatory bodies may be required",
+      "active": "true"
+    },
+    {
+      "id": "4",
+      "sector": "Agriculture",
+      "trade": "Florists",
+      "subcategory": "Florists",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "5",
+      "sector": "Agriculture",
+      "trade": "Agriculture Produce Wholesale",
+      "subcategory": "Agriculture Produce Wholesale",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "6",
+      "sector": "Agriculture",
+      "trade": "Agriculture Produce Retails",
+      "subcategory": "Agriculture Produce Retails",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "7",
+      "sector": "Agriculture",
+      "trade": "Farm Machinery Repair",
+      "subcategory": "Farm Machinery Repair",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "8",
+      "sector": "Automotive",
+      "trade": "Tire Puncture Repair",
+      "subcategory": "Tire Puncture Repair",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "9",
+      "sector": "Automotive",
+      "trade": "Tire Sale, Repair & Services",
+      "subcategory": "Tire Sale, Repair & Services",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "10",
+      "sector": "Automotive",
+      "trade": "Four Wheeler/Two Wheeler Sales",
+      "subcategory": "Four Wheeler/Two Wheeler Sales",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "11",
+      "sector": "Automotive",
+      "trade": "Four Wheeler/Two Wheeler Repair",
+      "subcategory": "Four Wheeler/Two Wheeler Repair",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "12",
+      "sector": "Automotive",
+      "trade": "Four Wheeler/Two Wheeler Sale, Repair & Spare Part",
+      "subcategory": "Four Wheeler/Two Wheeler Sale, Repair & Spare Part",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "13",
+      "sector": "Automotive",
+      "trade": "Four Wheeler/Two Wheeler Repair & Spare Parts",
+      "subcategory": "Four Wheeler/Two Wheeler Repair & Spare Parts",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "14",
+      "sector": "Banking Finance Services Insurance (BFSI)",
+      "trade": "Banking",
+      "subcategory": "Commercial Bank",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "15",
+      "sector": "Banking Finance Services Insurance (BFSI)",
+      "trade": "Financial Services",
+      "subcategory": "Financial Services",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "16",
+      "sector": "Banking Finance Services Insurance (BFSI)",
+      "trade": "Insurance",
+      "subcategory": "General Insurance",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "17",
+      "sector": "Banking Finance Services Insurance (BFSI)",
+      "trade": "Insurance",
+      "subcategory": "Medical Insurance",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "18",
+      "sector": "Banking Finance Services Insurance (BFSI)",
+      "trade": "Insurance",
+      "subcategory": "Life Insurance",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "19",
+      "sector": "Banking Finance Services Insurance (BFSI)",
+      "trade": "Insurance",
+      "subcategory": "Multiple Insurance",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "20",
+      "sector": "Common Trades",
+      "trade": "Shops & Merchants",
+      "subcategory": "Small Stores",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "21",
+      "sector": "Common Trades",
+      "trade": "Shops & Merchants",
+      "subcategory": "SuperStores (A superstore, may typically refers to a large retail establishment that sells a wide variety of goods These goods can include groceries, clothing, electronics, household items, and more Superstores are usually larger than regular small retail stores and aim to offer a one-stop shopping experience)",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "22",
+      "sector": "Common Trades",
+      "trade": "Clothes & Apparel",
+      "subcategory": "Laundry shop and Dry cleaners",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "23",
+      "sector": "Common Trades",
+      "trade": "Clothes & Apparel",
+      "subcategory": "Tailoring shop",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "24",
+      "sector": "Common Trades",
+      "trade": "Media, Entertainment & Advertisement",
+      "subcategory": "Cinematograph of films/ Photostudio/ Photo Studio Labs",
+      "remarks": "Per Day Permission for shooting in ULB Location is different from Trade License Fees",
+      "active": "true"
+    },
+    {
+      "id": "25",
+      "sector": "Common Trades",
+      "trade": "Media, Entertainment & Advertisement",
+      "subcategory": "Theaters/ Multiplexes",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "26",
+      "sector": "Common Trades",
+      "trade": "Printing & Publishing",
+      "subcategory": "Photocopy Shop Photocopy Shop, Cyclostyling, Typing and Printing machines",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "27",
+      "sector": "Common Trades",
+      "trade": "Printing & Publishing",
+      "subcategory": "Printing Press",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "28",
+      "sector": "Common Trades",
+      "trade": "Printing & Publishing",
+      "subcategory": "Book Publisher/ Book Retailer & Stationery",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "29",
+      "sector": "Common Trades",
+      "trade": "Printing & Publishing",
+      "subcategory": "Paper in pressed bales or loose or in reams",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "30",
+      "sector": "Common Trades",
+      "trade": "Printing & Publishing",
+      "subcategory": "Paper cutting, Binding",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "31",
+      "sector": "Common Trades",
+      "trade": "Printing & Publishing",
+      "subcategory": "Stationery, Ink for printing, writing, stamping,  etc",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "32",
+      "sector": "Common Trades",
+      "trade": "Printing & Publishing",
+      "subcategory": "Flex Printing, Hoardings printing",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "33",
+      "sector": "Common Trades",
+      "trade": "Food & Beverage",
+      "subcategory": "Vegetable & Fruit",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "34",
+      "sector": "Common Trades",
+      "trade": "Food & Beverage",
+      "subcategory": "Sweetmeats & confectionery",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "35",
+      "sector": "Common Trades",
+      "trade": "Food & Beverage",
+      "subcategory": "Aerated Drinks (Non-Alchoholic)",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "36",
+      "sector": "Common Trades",
+      "trade": "Food & Beverage",
+      "subcategory": "Groceries (Including Fast Moving Consumer Goods)",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "37",
+      "sector": "Common Trades",
+      "trade": "Clothes & Apparel",
+      "subcategory": "Cloth or clothes of cotton, wool, silk, art silk, organic fibers etc",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "38",
+      "sector": "Common Trades",
+      "trade": "Clothes & Apparel",
+      "subcategory": "Cloths wholesale ",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "39",
+      "sector": "Common Trades",
+      "trade": "Clothes & Apparel",
+      "subcategory": "Dyeing/ Bleaching or printing of, Cloth, Yarns",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "40",
+      "sector": "Common Trades",
+      "trade": "Clothes & Apparel",
+      "subcategory": "Oil Cloth",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "41",
+      "sector": "Common Trades",
+      "trade": "Clothes & Apparel",
+      "subcategory": "Shoes including leather, PVC Canvas rubber and plastic shoes",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "42",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Clinics / Healthcare Service / Labs/ Hospitals",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "43",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Pharmaceutical or medical goods / Chemists",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "44",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Hair Dressing Saloon or a Barber's shop",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "45",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Cosmetics (Retails)",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "46",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Spa & Wellness",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "47",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Beauty Culture & Hair Dressing",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "48",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Naturopathy",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "49",
+      "sector": "Common Trades",
+      "trade": "Electronics & Electricals",
+      "subcategory": "Electronics & Electricals (Sales)",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "50",
+      "sector": "Common Trades",
+      "trade": "Electronics & Electricals",
+      "subcategory": "Mobile Sales",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "51",
+      "sector": "Common Trades",
+      "trade": "Electronics & Electricals",
+      "subcategory": "Mobile Sales & Repairs",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "52",
+      "sector": "Common Trades",
+      "trade": "Electronics & Electricals",
+      "subcategory": "Watch Sales & Repair",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "53",
+      "sector": "Common Trades",
+      "trade": "Electronics & Electricals",
+      "subcategory": "Electronic items sales & Repairs",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "54",
+      "sector": "Common Trades",
+      "trade": "Electronics & Electricals",
+      "subcategory": "Electronics-Home appliances (Sales & Repairs)",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "55",
+      "sector": "Common Trades",
+      "trade": "Shops & Merchants",
+      "subcategory": "Private Offices",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "56",
+      "sector": "Common Trades",
+      "trade": "Shops & Merchants",
+      "subcategory": "E-Commere",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "57",
+      "sector": "Common Trades",
+      "trade": "Food & Beverage",
+      "subcategory": "Cloud Kitchen",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "58",
+      "sector": "Common Trades",
+      "trade": "Food & Beverage",
+      "subcategory": "Food Processing Plants",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority Industry Department & other Regulatory Licenses may also be applicable",
+      "active": "true"
+    },
+    {
+      "id": "59",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Gym & Fitness center, Yoga & Meditation centers",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "60",
+      "sector": "Common Trades",
+      "trade": "Healthcare, Beauty & Wellness",
+      "subcategory": "Wellness products/ supplements (Retail)",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "61",
+      "sector": "Common Trades",
+      "trade": "Media, Entertainment & Advertisement",
+      "subcategory": "Digital Advertisements & Digital Hoardings",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "62",
+      "sector": "Common Trades",
+      "trade": "Media, Entertainment & Advertisement",
+      "subcategory": "Event Management",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "63",
+      "sector": "Common Trades",
+      "trade": "Shops & Merchants",
+      "subcategory": "Pet Shops & Pet Food",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "64",
+      "sector": "Common Trades",
+      "trade": "Scrap Management",
+      "subcategory": "Old paper or waste paper including old newspapers, periodicals magazines, etc",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "65",
+      "sector": "Common Trades",
+      "trade": "Scrap Management",
+      "subcategory": "Metal, Plastic, Glass, Paper waste",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "66",
+      "sector": "Common Trades",
+      "trade": "Scrap Management",
+      "subcategory": "Silk waste or silk yarn waste, art silk waste or art silk yarn waste",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "67",
+      "sector": "Common Trades",
+      "trade": "Scrap Management",
+      "subcategory": "Cotton refuse or waste or cotton yarn refuse or waste",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "68",
+      "sector": "Common Trades",
+      "trade": "Scrap Management",
+      "subcategory": "Organic Waste",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "69",
+      "sector": "Education, Skills & Development",
+      "trade": "Private Educational Institutions",
+      "subcategory": "Upto 100 Students",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "70",
+      "sector": "Education, Skills & Development",
+      "trade": "Private Educational Institutions",
+      "subcategory": "More than 100 Students",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "71",
+      "sector": "Education, Skills & Development",
+      "trade": "Private Day Cares / Creche",
+      "subcategory": "Upto 50 Students",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "72",
+      "sector": "Education, Skills & Development",
+      "trade": "Private Day Cares / Creche",
+      "subcategory": "More than 50 Students",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "73",
+      "sector": "Education, Skills & Development",
+      "trade": "Tution Centers/ Coaching Classes",
+      "subcategory": "Upto 100 Students",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "74",
+      "sector": "Education, Skills & Development",
+      "trade": "Tution Centers/ Coaching Classes",
+      "subcategory": "More than 100 Students",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "75",
+      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "trade": "Food Vans/ Food Stalls",
+      "subcategory": "Food Vans/ Food Stalls",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "76",
+      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "trade": "Book Stalls",
+      "subcategory": "Book Stalls",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "77",
+      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "trade": "Handicraft Stalls",
+      "subcategory": "Handicraft Stalls",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "78",
+      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "trade": "Handloom Stalls",
+      "subcategory": "Handloom Stalls",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "79",
+      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "trade": "Other Stalls/ Fun Fairs",
+      "subcategory": "Other Stalls/ Fun Fairs",
+      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
+      "active": "true"
+    },
+    {
+      "id": "80",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handloom",
+      "subcategory": "Silk Weaves",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "81",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handloom",
+      "subcategory": "Cotton Weaves",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "82",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handloom",
+      "subcategory": "Woolen Weaves",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "83",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handloom",
+      "subcategory": "Linen Weaves",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "84",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handloom",
+      "subcategory": "Blended Weaves",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "85",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handloom",
+      "subcategory": "Other Weaves",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "86",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Pottery & Ceramics",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "87",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Textile Crafts",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "88",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Wood Crafts",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "89",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Metal Crafts",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "90",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Basketry & Weaving",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "91",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Leather Crafts/ Cobbler",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "92",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Stone Crafts",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "93",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Paper Mache",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "94",
+      "sector": "Handloom & Handicrafts",
+      "trade": "Handicrafts",
+      "subcategory": "Glass Crafts",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "95",
+      "sector": "IT/ ITES Services",
+      "trade": "Call Centers",
+      "subcategory": "BPOs, KPOs, Helpdesks, Customer Care",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "96",
+      "sector": "IT/ ITES Services",
+      "trade": "Computer Hardware & Peripherals",
+      "subcategory": "Sales",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "97",
+      "sector": "IT/ ITES Services",
+      "trade": "Computer Hardware & Peripherals",
+      "subcategory": "Repairs",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "98",
+      "sector": "IT/ ITES Services",
+      "trade": "Digital Services",
+      "subcategory": "Software/ Website/ App /Social Media Marketing",
+      "remarks": "NA",
+      "active": "true"
+    },
+    {
+      "id": "99",
+      "sector": "Luxury Goods",
+      "trade": "Gems & Jewellery",
+      "subcategory": "Precious metals (Refining or Recovery)",
+      "remarks": "Gold, Silver, Platinum",
+      "active": "true"
+    },
+    {
+      "id": "100",
+      "sector": "Luxury Goods",
+      "trade": "Gems & Jewellery",
+      "subcategory": "Goldsmithy",
+      "remarks": "Gold & Gemstones",
+      "active": "true"
+    },
+    {
+      "id": "101",
+      "sector": "Luxury Goods",
+      "trade": "Gems & Jewellery",
+      "subcategory": "Silversmithy",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "102",
+      "sector": "Luxury Goods",
+      "trade": "Gems & Jewellery",
+      "subcategory": "Precious Metals/ Precious Stones/ Pearls Jwellers (sales)",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "103",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Leather & Skins",
+      "subcategory": "Tanning, pressing or packing Hides or skins, whether raw or dried",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "104",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Leather & Skins",
+      "subcategory": "Leather, leather cloth, raxine cloth and water proof cloth",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "105",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Leather & Skins",
+      "subcategory": "Leather goods manufacturing",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "106",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Leather & Skins",
+      "subcategory": "Celluloid or celluloid goods",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "107",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Metal Casting",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "108",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Litho Press",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "109",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Blacksmithy",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "110",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Coppersmithy",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "111",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Electroplating",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "112",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Metal-Cutting, Treating, Drilling, Assembly  (ferrous or non-ferrous or antimony, excluding precious metal)",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "113",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Tinsmity",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "114",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Clothes Manufacturing",
+      "subcategory": "Power Looms",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "115",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Metal Works (Non-Precious Metals Only)",
+      "subcategory": "Welding of metal by electric, gas or any process whatsoever",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "116",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Timber & Woodworks",
+      "subcategory": "Timber, Bamboos Sawmill",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "117",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Timber & Woodworks",
+      "subcategory": "Plywood",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "118",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Timber & Woodworks",
+      "subcategory": "Sandalwood",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "119",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Timber & Woodworks",
+      "subcategory": "Manufacturing & Sales of Wooden furniture and plywood / sandal wood",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "120",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Timber & Woodworks",
+      "subcategory": "Manufacturing & Sales of Cardboard boxes, barrels, khokas or other articles of wood or plywood or sandal wood",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "121",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Hardware Store, Sanitary-ware, and other articles made of iron, iron-sheets, pipes, iron angles and GI Pipes etc",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "122",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Cement",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "123",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Charcoal",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "124",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Glass bevelling, Glass cutting, Glass Polishing",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "125",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Marble, stone cutting, grinding, dressing or polishing",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "126",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Road Construction, (Bitumen, Tar, ditch, dammar, Ral)",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "127",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Cement concrete designs or models Bricks or tiles by mechanical power/ hand power",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "128",
+      "sector": "Manufacturing, Industries and Industrial Materials",
+      "trade": "Infrastructure & Construction",
+      "subcategory": "Paints, Varnishes, Lacquer",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "129",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Blood Banks",
+      "subcategory": "Blood Banks",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "130",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Bones, bone meal or bone powder",
+      "subcategory": "Bones, bone meal or bone powder",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "131",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Chemicals & Gases",
+      "subcategory": "Compound gas, such as oxygen gas, hydrogen gas, nitrogen gas, carbondioxide gas, sulpher dioxide gas, chlorine gas, acetyalom gas etc",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "132",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Chemicals & Gases",
+      "subcategory": "Plastic Goods (Manufacture)",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "133",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Chemicals & Gases",
+      "subcategory": "Rubber Goods (Manufacture)",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "134",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Chemicals & Gases",
+      "subcategory": "Chlorate mixture, Chemical liquid, Chemicals (non-liquid), Phosphorous, Saltpetre, Sulphur, Insecticide & Disinfectants",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "135",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Petroleum, other than dangerous petroleum, as defined in the Petroleum Act, 1934",
+      "subcategory": "Petroleum, other than dangerous petroleum, as defined in the Petroleum Act, 1934",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "136",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "CNG Pump & Electric Charging Station",
+      "subcategory": "CNG Pump & Electric Charging Station",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "137",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Liquified Petroleum Gas",
+      "subcategory": "Liquified Petroleum Gas",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "138",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Prohibited Substances (Tobacco & Tobacco Products)",
+      "subcategory": "Trading  in Bidi / Bidi leaves",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "139",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Prohibited Substances (Tobacco & Tobacco Products)",
+      "subcategory": "Bidis (indigenous cigarettes) snuff, cigars or cigarettes",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "140",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Alcohol",
+      "subcategory": "Liquor Stores Wholesale/ retail",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "141",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Alcohol Manufacture",
+      "subcategory": "Brewery / Micro-Brewery",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "142",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Flameables & Explosives",
+      "subcategory": "Detonaters, Dynamite, Fulminate, Fulminate of mercury, Fulminate of silver,Golatino, Golignite, Gun-cotton,",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "143",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Flameables & Explosives",
+      "subcategory": "Fire-works wholesale/ retail",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "144",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Flameables & Explosives",
+      "subcategory": "Mathylated spirit, denatured spirit or french polish",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "145",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Flameables & Explosives",
+      "subcategory": "Nitro-cellulose, Nitro-compound, Nitro-glycerine, Nitro-mixture, Blasting powder",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "146",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Flameables & Explosives",
+      "subcategory": "Matches for lighting (including Bengal matches)",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "147",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Meat Shop",
+      "subcategory": "Chicken & Fish",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "148",
+      "sector": "Petroleum, Chemicals & Other Regulated Products",
+      "trade": "Meat Shop",
+      "subcategory": "Mutton & Other Raw meats",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "149",
+      "sector": "Tourism & Hospitality",
+      "trade": "Restaurants",
+      "subcategory": "Pub, RestroBar, Fine Dine , Breweries",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "150",
+      "sector": "Tourism & Hospitality",
+      "trade": "Restaurants",
+      "subcategory": "Eateries (Food Production & or Distribution)/ Eateries (Food Distribution only)",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "151",
+      "sector": "Tourism & Hospitality",
+      "trade": "Hotels",
+      "subcategory": "Upto 3 Star facility",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "152",
+      "sector": "Tourism & Hospitality",
+      "trade": "Hotels",
+      "subcategory": "4 Star facility",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "153",
+      "sector": "Tourism & Hospitality",
+      "trade": "Hotels",
+      "subcategory": "5 Star facility",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "154",
+      "sector": "Tourism & Hospitality",
+      "trade": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategory": "Upto 10 Rooms,",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "155",
+      "sector": "Tourism & Hospitality",
+      "trade": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategory": "More than 10 Rooms",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "156",
+      "sector": "Transportation & Logistics",
+      "trade": "Transportation",
+      "subcategory": "Transportation",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "157",
+      "sector": "Transportation & Logistics",
+      "trade": "Warehouses",
+      "subcategory": "Warehouses",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "158",
+      "sector": "Transportation & Logistics",
+      "trade": "Transport & Warehouse",
+      "subcategory": "Transport & Warehouse",
+      "remarks": "",
+      "active": "true"
+    },
+    {
+      "id": "159",
+      "sector": "Transportation & Logistics",
+      "trade": "Courier Services",
+      "subcategory": "Courier Services",
+      "remarks": "",
+      "active": "true"
+    }
+  ]
+}
