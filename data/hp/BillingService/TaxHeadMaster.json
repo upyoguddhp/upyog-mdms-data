@@ -1290,6 +1290,16 @@
       "isRequired": true
     },
     {
+      "category": "ADVANCE_COLLECTION",
+      "service": "NewTL",
+      "name": "LCF.New_Trade_License_Fee_TAX",
+      "code": "LCF.New_Trade_License_Fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
       "category": "CHARGES",
       "service": "LCF.Trade_License_Fee",
       "name": "LCF.Trade_License_Fee_FIELD_FEE",

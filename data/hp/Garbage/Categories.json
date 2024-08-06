@@ -1,0 +1,534 @@
+{
+    "tenantId": "hp",
+    "moduleName": "Garbage",
+    "Categories": [
+        {
+            "id": "1",
+            "categories": "Residential",
+            "subcategories": "Household Owner",
+            "active": "true"
+        },
+        {
+            "id": "2",
+            "categories": "Residential",
+            "subcategories": "Household Tenant ",
+            "active": "true"
+        },
+        {
+            "id": "3",
+            "categories": "Commercial",
+            "subcategories": "Shops",
+            "active": "true"
+        },
+        {
+            "id": "4",
+            "categories": "Commercial",
+            "subcategories": "Private Restaurants",
+            "active": "true"
+        },
+        {
+            "id": "5",
+            "categories": "Commercial",
+            "subcategories": "Govt Restaurants",
+            "active": "true"
+        },
+        {
+            "id": "6",
+            "categories": "Commercial",
+            "subcategories": "Private Hotels",
+            "active": "true"
+        },
+        {
+            "id": "7",
+            "categories": "Commercial",
+            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+            "active": "true"
+        },
+        {
+            "id": "8",
+            "categories": "Commercial",
+            "subcategories": "Govt Hotel",
+            "active": "true"
+        },
+        {
+            "id": "9",
+            "categories": "Commercial",
+            "subcategories": "Eateries (Food Production & Distribution)",
+            "active": "true"
+        },
+        {
+            "id": "10",
+            "categories": "Commercial",
+            "subcategories": "Eateries (Food Distribution Only)",
+            "active": "true"
+        },
+        {
+            "id": "11",
+            "categories": "Commercial",
+            "subcategories": "Clubs",
+            "active": "true"
+        },
+        {
+            "id": "12",
+            "categories": "Commercial",
+            "subcategories": "Slaughterhouse",
+            "active": "true"
+        },
+        {
+            "id": "13",
+            "categories": "Commercial",
+            "subcategories": "Meat & Fish Shops",
+            "active": "true"
+        },
+        {
+            "id": "14",
+            "categories": "Commercial",
+            "subcategories": "Private Offices",
+            "active": "true"
+        },
+        {
+            "id": "15",
+            "categories": "Commercial",
+            "subcategories": "Private Schools/ Institutions",
+            "active": "true"
+        },
+        {
+            "id": "16",
+            "categories": "Commercial",
+            "subcategories": "Private Kindergarten / Day Cares",
+            "active": "true"
+        },
+        {
+            "id": "17",
+            "categories": "Commercial",
+            "subcategories": "Workshops & Garages",
+            "active": "true"
+        },
+        {
+            "id": "18",
+            "categories": "Commercial",
+            "subcategories": "Street Vendors ",
+            "active": "true"
+        },
+        {
+            "id": "19",
+            "categories": "Commercial",
+            "subcategories": "Street Hawkers",
+            "active": "true"
+        },
+        {
+            "id": "20",
+            "categories": "Commercial",
+            "subcategories": "Govt Marriage Halls.",
+            "active": "true"
+        },
+        {
+            "id": "21",
+            "categories": "Commercial",
+            "subcategories": "Private Marriage Halls",
+            "active": "true"
+        },
+        {
+            "id": "22",
+            "categories": "Industries",
+            "subcategories": "Micro Industry",
+            "active": "true"
+        },
+        {
+            "id": "23",
+            "categories": "Industries",
+            "subcategories": "Small Industry",
+            "active": "true"
+        },
+        {
+            "id": "24",
+            "categories": "Industries",
+            "subcategories": "Medium Industry",
+            "active": "true"
+        },
+        {
+            "id": "25",
+            "categories": "Industries",
+            "subcategories": "Large Industry",
+            "active": "true"
+        },
+        {
+            "id": "26",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Govt Hospitals",
+            "active": "true"
+        },
+        {
+            "id": "27",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Govt Dispensary",
+            "active": "true"
+        },
+        {
+            "id": "28",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Nursing Homes",
+            "active": "true"
+        },
+        {
+            "id": "29",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Rehabilitation Center",
+            "active": "true"
+        },
+        {
+            "id": "30",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Old Age Homes",
+            "active": "true"
+        },
+        {
+            "id": "31",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Hospital",
+            "active": "true"
+        },
+        {
+            "id": "32",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Clinics",
+            "active": "true"
+        },
+        {
+            "id": "33",
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Dealers in Drugs & Chemical Preparations",
+            "active": "true"
+        },
+        {
+            "id": "34",
+            "categories": "Others",
+            "subcategories": "Residential",
+            "active": "true"
+        },
+        {
+            "id": "35",
+            "categories": "Others",
+            "subcategories": "Household Owner",
+            "active": "true"
+        },
+        {
+            "id": "36",
+            "categories": "Others",
+            "subcategories": "Household Tenant ",
+            "active": "true"
+        },
+        {
+            "id": "37",
+            "categories": "Others",
+            "subcategories": "Commercial",
+            "active": "true"
+        },
+        {
+            "id": "38",
+            "categories": "Others",
+            "subcategories": "Shops",
+            "active": "true"
+        },
+        {
+            "id": "39",
+            "categories": "Others",
+            "subcategories": "Private Restaurants",
+            "active": "true"
+        },
+        {
+            "id": "40",
+            "categories": "Others",
+            "subcategories": "Govt Restaurants",
+            "active": "true"
+        },
+        {
+            "id": "41",
+            "categories": "Others",
+            "subcategories": "Private Hotels",
+            "active": "true"
+        },
+        {
+            "id": "42",
+            "categories": "Others",
+            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+            "active": "true"
+        },
+        {
+            "id": "43",
+            "categories": "Others",
+            "subcategories": "Govt Hotel",
+            "active": "true"
+        },
+        {
+            "id": "44",
+            "categories": "Others",
+            "subcategories": "Eateries (Food Production & Distribution)",
+            "active": "true"
+        },
+        {
+            "id": "45",
+            "categories": "Others",
+            "subcategories": "Eateries (Food Distribution Only)",
+            "active": "true"
+        },
+        {
+            "id": "46",
+            "categories": "Others",
+            "subcategories": "Clubs",
+            "active": "true"
+        },
+        {
+            "id": "47",
+            "categories": "Others",
+            "subcategories": "Slaughterhouse",
+            "active": "true"
+        },
+        {
+            "id": "48",
+            "categories": "Others",
+            "subcategories": "Meat & Fish Shops",
+            "active": "true"
+        },
+        {
+            "id": "49",
+            "categories": "Others",
+            "subcategories": "Private Offices",
+            "active": "true"
+        },
+        {
+            "id": "50",
+            "categories": "Others",
+            "subcategories": "Private Schools/ Institutions",
+            "active": "true"
+        },
+        {
+            "id": "51",
+            "categories": "Others",
+            "subcategories": "Private Kindergarten / Day Cares",
+            "active": "true"
+        },
+        {
+            "id": "52",
+            "categories": "Others",
+            "subcategories": "Workshops & Garages",
+            "active": "true"
+        },
+        {
+            "id": "53",
+            "categories": "Others",
+            "subcategories": "Street Vendors ",
+            "active": "true"
+        },
+        {
+            "id": "54",
+            "categories": "Others",
+            "subcategories": "Street Hawkers",
+            "active": "true"
+        },
+        {
+            "id": "55",
+            "categories": "Others",
+            "subcategories": "Govt Marriage Halls.",
+            "active": "true"
+        },
+        {
+            "id": "56",
+            "categories": "Others",
+            "subcategories": "Private Marriage Halls",
+            "active": "true"
+        },
+        {
+            "id": "57",
+            "categories": "Others",
+            "subcategories": "Industries",
+            "active": "true"
+        },
+        {
+            "id": "58",
+            "categories": "Others",
+            "subcategories": "Micro Industry",
+            "active": "true"
+        },
+        {
+            "id": "59",
+            "categories": "Others",
+            "subcategories": "Small Industry",
+            "active": "true"
+        },
+        {
+            "id": "60",
+            "categories": "Others",
+            "subcategories": "Medium Industry",
+            "active": "true"
+        },
+        {
+            "id": "61",
+            "categories": "Others",
+            "subcategories": "Large Industry",
+            "active": "true"
+        },
+        {
+            "id": "62",
+            "categories": "Others",
+            "subcategories": "Hospitals & Health Care",
+            "active": "true"
+        },
+        {
+            "id": "63",
+            "categories": "Others",
+            "subcategories": "Govt Hospitals",
+            "active": "true"
+        },
+        {
+            "id": "64",
+            "categories": "Others",
+            "subcategories": "Govt Dispensary",
+            "active": "true"
+        },
+        {
+            "id": "65",
+            "categories": "Others",
+            "subcategories": "Nursing Homes",
+            "active": "true"
+        },
+        {
+            "id": "66",
+            "categories": "Others",
+            "subcategories": "Rehabilitation Center",
+            "active": "true"
+        },
+        {
+            "id": "67",
+            "categories": "Others",
+            "subcategories": "Old Age Homes",
+            "active": "true"
+        },
+        {
+            "id": "68",
+            "categories": "Others",
+            "subcategories": "Private Hospital",
+            "active": "true"
+        },
+        {
+            "id": "69",
+            "categories": "Others",
+            "subcategories": "Private Clinics",
+            "active": "true"
+        },
+        {
+            "id": "70",
+            "categories": "Others",
+            "subcategories": "Dealers in Drugs & Chemical Preparations",
+            "active": "true"
+        },
+        {
+            "id": "71",
+            "categories": "Others",
+            "subcategories": "Others",
+            "active": "true"
+        },
+        {
+            "id": "72",
+            "categories": "Others",
+            "subcategories": "Charitable Trust / NGO / any other Registered Group",
+            "active": "true"
+        },
+        {
+            "id": "73",
+            "categories": "Others",
+            "subcategories": "Private Garden",
+            "active": "true"
+        },
+        {
+            "id": "74",
+            "categories": "Others",
+            "subcategories": "Public Garden",
+            "active": "true"
+        },
+        {
+            "id": "75",
+            "categories": "Others",
+            "subcategories": "State Govt Office",
+            "active": "true"
+        },
+        {
+            "id": "76",
+            "categories": "Others",
+            "subcategories": "Central Govt Office",
+            "active": "true"
+        },
+        {
+            "id": "77",
+            "categories": "Others",
+            "subcategories": "ULB Office",
+            "active": "true"
+        },
+        {
+            "id": "78",
+            "categories": "Others",
+            "subcategories": "Govt Primary School",
+            "active": "true"
+        },
+        {
+            "id": "79",
+            "categories": "Others",
+            "subcategories": "Govt Middle School",
+            "active": "true"
+        },
+        {
+            "id": "80",
+            "categories": "Others",
+            "subcategories": "Govt Senior/ Senior Secondary School",
+            "active": "true"
+        },
+        {
+            "id": "81",
+            "categories": "Others",
+            "subcategories": "Govt Angan Wadi",
+            "active": "true"
+        },
+        {
+            "id": "82",
+            "categories": "Others",
+            "subcategories": "Orphanages",
+            "active": "true"
+        },
+        {
+            "id": "83",
+            "categories": "Others",
+            "subcategories": "Heritage Site",
+            "active": "true"
+        },
+        {
+            "id": "84",
+            "categories": "Others",
+            "subcategories": "Religious Site",
+            "active": "true"
+        },
+        {
+            "id": "85",
+            "categories": "Others",
+            "subcategories": "Dairy Cattle and Animal Sheds",
+            "active": "true"
+        },
+        {
+            "id": "86",
+            "categories": "Others",
+            "subcategories": "Pet Shops",
+            "active": "true"
+        },
+        {
+            "id": "87",
+            "categories": "Others",
+            "subcategories": "Construction & Demolition Waste Site",
+            "active": "true"
+        },
+        {
+            "id": "88",
+            "categories": "Others",
+            "subcategories": "Others",
+            "active": "true"
+        }
+    ]
+}
