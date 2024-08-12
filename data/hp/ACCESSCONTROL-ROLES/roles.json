@@ -736,6 +736,16 @@
       "code": "PTR_VERIFIER",
       "name": "Pet Document Verifier",
       "description": "Pet Application Document Verifier"
+    },
+    {
+      "code": "GB_VERIFIER",
+      "name": "GB Verifier",
+      "description": "Verifier who only verifies Garbage application"
+    },
+    {
+      "code": "GB_APPROVER",
+      "name": "GB Approver",
+      "description": "Approver who only approves Garbage application"
     }
   ]
 }
