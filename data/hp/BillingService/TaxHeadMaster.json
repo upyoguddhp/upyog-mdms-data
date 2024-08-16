@@ -5777,6 +5777,16 @@
       "isActualDemand": true,
       "order": "3",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "GB",
+      "name": "LCF.Garbage_Collection_Fee",
+      "code": "LCF.Garbage_Collection_Fee",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
     }
   ]
 }
