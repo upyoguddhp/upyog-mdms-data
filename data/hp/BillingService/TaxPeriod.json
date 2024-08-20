@@ -370,6 +370,14 @@
       "financialYear": "2016-17"
     },
     {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "ANNUAL",
+      "service": "NewTL",
+      "code": "NEWTL2024",
+      "financialYear": "2024-29"
+    },
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "TWOYEARS",
@@ -1641,6 +1649,14 @@
       "service": "pet-services",
       "code": "PET10YRS2019",
       "financialYear": "2019-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "GB",
+      "code": "GB2024",
+      "financialYear": "2024-29"
     }
   ]
 }

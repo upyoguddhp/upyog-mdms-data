@@ -202,6 +202,40 @@
       },
       "address": "State Municipal Corporation",
       "contactNumber": "0978-7645345"
+    },
+    {
+      "code": "hp.Shimla",
+      "name": "Shimla",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "shimlawrong@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Shimla",
+        "localName": null,
+        "districtCode": "SHIMLA",
+        "districtName": null,
+        "districtTenantCode": "hp.Shimla",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8722642,
+        "latitude": 36.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "110",
+        "ddrName": "DDR SHIMLA"
+      },
+      "address": "Shimla Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
     }
    ]
 }

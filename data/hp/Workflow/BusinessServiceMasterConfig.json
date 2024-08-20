@@ -16,7 +16,16 @@
         "businessService": "PGR",
         "active": "true",
         "isStatelevel": "true"
-      }
-        
+      },
+	  {
+        "businessService": "GarbageCollection",
+        "active": "true",
+        "isStatelevel": "false"
+      },
+	  {
+        "businessService": "PTR",
+        "active": "true",
+        "isStatelevel": "false"
+      }        
     ]
   }
