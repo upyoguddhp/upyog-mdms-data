@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Shimla",
+  "tenantId": "hp",
   "moduleName": "TradeLicense",
-  "AccessoriesCategory": [
+  "AccessoriesCategoryPart2": [
     {
       "code": "ASAFOOTIDA(HING)",
       "uom": "HP",
