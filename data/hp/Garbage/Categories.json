@@ -4,22 +4,100 @@
     "Categories": [
         {
             "id": "1",
+			"tenantId": "hp",
             "categories": "Residential",
-            "subcategories": "Household Owner",
+            "subcategories": "Household",
+            "childcategories": "Area less than 2000 Sq. Feet",
             "active": "true"
         },
         {
             "id": "2",
+			"tenantId": "hp",
             "categories": "Residential",
-            "subcategories": "Household Tenant ",
+            "subcategories": "Household",
+            "childcategories": "Area more than 2000 Sq. Feet",
             "active": "true"
         },
         {
             "id": "3",
+			"tenantId": "hp",
             "categories": "Commercial",
             "subcategories": "Shops",
+            "childcategories": "Pan Shop",
             "active": "true"
         },
+        {
+            "id": "3",
+			"tenantId": "hp",
+            "categories": "Commercial",
+            "subcategories": "Shops",
+            "childcategories": "Tea Shop",
+            "active": "true"
+        },
+		{
+			"id": "5",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Confectionery & Veg Shop",
+			"active": "true"
+		},
+		{
+			"id": "6",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Vegetable & Fruit Shops (Wholesale)",
+			"active": "true"
+		},
+		{
+			"id": "7",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Vegetable & Fruit Shops (Retail)",
+			"active": "true"
+		},
+		{
+			"id": "8",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Groceries & Daily Needs Shop",
+			"active": "true"
+		},
+		{
+			"id": "9",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Clothes Shop",
+			"active": "true"
+		},
+		{
+			"id": "10",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Eateries (Food Production & Distribution)",
+			"active": "true"
+		},
+		{
+			"id": "11",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Eateries (Food Distribution Only)",
+			"active": "true"
+		},
+		{
+			"id": "12",
+			"tenantId": "hp",
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"childcategories": "Meat & Fish Shops",
+			"active": "true"
+		},
         {
             "id": "4",
             "categories": "Commercial",
