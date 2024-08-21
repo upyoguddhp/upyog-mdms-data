@@ -6,37 +6,43 @@
       "name": "Labrador Retriever",
       "code": "LABRADOR_RETRIEVER",
       "active": true,
-      "PetType": "DOG"
+      "PetType": "DOG",
+	  "fee": 100.00
     },
     {
       "name": "German Shepherd",
       "code": "GERMAN_SHEPHARD",
       "active": true,
-      "PetType": "DOG"
+      "PetType": "DOG",
+	  "fee": 100.00
     },
     {
       "name": "Golden Retriever",
       "code": "GOLDEN_RETRIEVER",
       "active": true,
-      "PetType": "DOG"
+      "PetType": "DOG",
+	  "fee": 100.00
     },
     {
       "name": "Indian Billi",
       "code": "INDIAN_BILLI",
       "active": true,
-      "PetType": "CAT"
+      "PetType": "CAT",
+	  "fee": 100.00
     },
     {
       "name": "Bengal Cat",
       "code": "BENGAL_CAT",
       "active": true,
-      "PetType": "CAT"
+      "PetType": "CAT",
+	  "fee": 100.00
     },
     {
       "name": "Bombay Cat",
       "code": "BOMBAY_CAT",
       "active": true,
-      "PetType": "CAT"
+      "PetType": "CAT",
+	  "fee": 100.00
     }
   ]
 }
