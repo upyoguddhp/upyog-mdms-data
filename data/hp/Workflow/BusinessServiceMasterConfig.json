@@ -18,7 +18,7 @@
         "isStatelevel": "true"
       },
 	  {
-        "businessService": "GarbageCollection",
+        "businessService": "GB",
         "active": "true",
         "isStatelevel": "false"
       },
