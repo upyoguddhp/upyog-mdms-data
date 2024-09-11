@@ -5787,6 +5787,16 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT",
+      "name": "LCF.Advertisement_Canopy_Fee",
+      "code": "LCF.Advertisement_Canopy_Fee",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
     }
   ]
 }
