@@ -1,38 +1,38 @@
 {
-  "tenantId": "hp",
+  "tenantId": "hp.Shimla",
   "moduleName": "ASSET",
   "ModeOfAcquisition": [
     {
       "id": 1,
-      "tenantId": "hp",
+      "tenantId": "hp.Shimla",
       "code": "ACQUIRED",
       "name": "Acquired",
       "isActive": true
     },
     {
       "id": 2,
-      "tenantId": "hp",
+      "tenantId": "hp.Shimla",
       "code": "CONSTRUCTION",
       "name": "Construction",
       "isActive": true
     },
     {
       "id": 3,
-      "tenantId": "hp",
+      "tenantId": "hp.Shimla",
       "code": "PURCHASE",
       "name": "Purchase",
       "isActive": true
     },
     {
       "id": 4,
-      "tenantId": "hp",
+      "tenantId": "hp.Shimla",
       "code": "TENDER",
       "name": "Tender",
       "isActive": true
     },
     {
       "id": 5,
-      "tenantId": "hp",
+      "tenantId": "hp.Shimla",
       "code": "DONATION",
       "name": "Donation",
       "isActive": true
