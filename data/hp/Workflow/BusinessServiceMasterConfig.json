@@ -18,14 +18,19 @@
         "isStatelevel": "true"
       },
 	  {
-        "businessService": "GarbageCollection",
+        "businessService": "GB",
         "active": "true",
         "isStatelevel": "false"
       },
 	  {
-        "businessService": "PTR",
+        "businessService": "pet-services",
         "active": "true",
         "isStatelevel": "false"
-      }        
+      },
+	  {
+          "businessService": "ADVT",
+          "active": "true",
+          "isStatelevel": "false"
+      }
     ]
   }
