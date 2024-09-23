@@ -405,7 +405,7 @@
     {
       "id": "51",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Nursing Homes",
       "subcategorytype": "51 to 100 Beds",
       "fee":"60.00",
       "active": "true"
@@ -413,7 +413,7 @@
     {
       "id": "52",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "fee":"60.00",
       "active": "true"
@@ -429,7 +429,7 @@
     {
       "id": "54",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
       "fee":"60.00",
       "active": "true"
@@ -437,7 +437,7 @@
     {
       "id": "55",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
       "fee":"60.00",
       "active": "true"
@@ -453,7 +453,7 @@
     {
       "id": "57",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
       "fee":"60.00",
       "active": "true"
@@ -461,7 +461,7 @@
     {
       "id": "58",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Old Age Homes",
       "subcategorytype": "More than 100 Beds",
       "fee":"60.00",
       "active": "true"
@@ -477,7 +477,7 @@
     {
       "id": "60",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Private Hospital",
       "subcategorytype": "51 to 100 Beds",
       "fee":"60.00",
       "active": "true"
@@ -485,7 +485,7 @@
     {
       "id": "61",
       "categories": "Hospitals & Health Care",
-      "subcategories": "",
+      "subcategories": "Private Hospital",
       "subcategorytype": "More than 100 Beds",
       "fee":"60.00",
       "active": "true"
