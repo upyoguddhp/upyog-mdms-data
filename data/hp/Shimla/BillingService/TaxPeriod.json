@@ -1657,14 +1657,6 @@
       "service": "GB",
       "code": "GB2024",
       "financialYear": "2024-29"
-    },
-	{
-      "fromDate": 1690736733460,
-      "toDate": 1893456000000,
-      "periodCycle": "YEARLY",
-      "service": "chb-services",
-      "code": "chb-services2024",
-      "financialYear": "2024-29"
     }
   ]
 }

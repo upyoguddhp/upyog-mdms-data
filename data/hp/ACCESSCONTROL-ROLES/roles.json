@@ -746,6 +746,31 @@
       "code": "GB_APPROVER",
       "name": "GB Approver",
       "description": "Approver who only approves Garbage application"
+    },
+    {
+      "code": "ASSESTS_INITIATOR",
+      "name": "Asset Initiator",
+      "description": "Initiator who only creates asset"
+    },
+    {
+      "code": "ASSESTS_APPROVER",
+      "name": "Asset Approver",
+      "description": "Approver who only approves asset"
+    },
+    {
+      "code": "CHB_CEMP",
+      "name": "Hall Counter Employee",
+      "description": "Counter Employee in Hall Application who files application on behalf of the citizen"
+    },
+    {
+      "code": "CHB_APPROVER",
+      "name": "Hall Approver",
+      "description": "Hall Application Approver"
+    },
+    {
+      "code": "CHB_VERIFIER",
+      "name": "Hall Document Verifier",
+      "description": "Hall Application Document Verifier"
     }
   ]
 }

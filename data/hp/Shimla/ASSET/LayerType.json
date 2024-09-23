@@ -1,10 +1,10 @@
 {
-  "tenantId": "hp",
+  "tenantId": "hp.Shimla",
   "moduleName": "ASSET",
   "LayerType": [
     {
       "id": 1,
-      "tenantId": "hp",
+      "tenantId": "hp.Shimla",
       "name": "FAKE LAYER 1",
       "description": "./temp/images/headerLogo.png",
       "numberOfLayers": 2,
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "tenantId": "hp",
+      "tenantId": "hp.Shimla",
       "name": "FAKE LAYER 2",
       "description": "./temp/images/mortarlessPavement.jpg",
       "numberOfLayers": 4,
@@ -21,11 +21,20 @@
       "isActive": true
     },
     {
-      "id": 3,
-      "tenantId": "hp",
-      "name": "FAKE LAYER 3",
+      "id": 4,
+      "tenantId": "hp.Shimla",
+      "name": "FAKE LAYER 4",
       "description": "./temp/images/mortarlessPavement.jpg",
-      "numberOfLayers": 2,
+      "numberOfLayers": 4,
+      "layeSize": 3,
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "tenantId": "hp.Shimla",
+      "name": "FAKE LAYER 5 ",
+      "description": "./temp/images/mortarlessPavement.jpg",
+      "numberOfLayers": 3,
       "layeSize": 2,
       "isActive": true
     }
