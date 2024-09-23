@@ -771,6 +771,17 @@
       "code": "CHB_VERIFIER",
       "name": "Hall Document Verifier",
       "description": "Hall Application Document Verifier"
+    },
+	{
+      "code": "SITE_APPROVER",
+      "name": "Site Approver",
+      "description": "SITE Application Approver"
+    },
+    {
+      "code": "SITE_VERIFIER",
+      "name": "SITE Verifier",
+      "description": "Site Application Document Verifier"
     }
+	
   ]
 }
