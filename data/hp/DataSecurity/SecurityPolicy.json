@@ -1151,6 +1151,162 @@
         "roleBasedDecryptionPolicy": [
   
         ]
-      }
+      },
+	  {
+      "model": "CHBApplicantDetailDecrypDisabled",
+      "uniqueIdentifier": {
+        "name": "applicantDetailId",
+        "jsonPath": "applicantDetailId"
+      },
+      "attributes": [
+        {
+          "name": "applicantName",
+          "jsonPath": "applicantName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantMobileNo",
+          "jsonPath": "applicantMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantAlternateMobileNo",
+          "jsonPath": "applicantAlternateMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantEmailId",
+          "jsonPath": "applicantEmailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }, 
+        {
+          "name": "accountNumber",
+          "jsonPath": "accountNumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "ifscCode",
+          "jsonPath": "ifscCode",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankName",
+          "jsonPath": "bankName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankBranchName",
+          "jsonPath": "bankBranchName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountHolderName",
+          "jsonPath": "accountHolderName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },
+	{
+      "model": "CHBApplicantDetail",
+      "uniqueIdentifier": {
+        "name": "applicantDetailId",
+        "jsonPath": "applicantDetailId"
+      },
+      "attributes": [
+        {
+          "name": "applicantName",
+          "jsonPath": "applicantName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantMobileNo",
+          "jsonPath": "applicantMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantAlternateMobileNo",
+          "jsonPath": "applicantAlternateMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantEmailId",
+          "jsonPath": "applicantEmailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }, 
+        {
+          "name": "accountNumber",
+          "jsonPath": "accountNumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "ifscCode",
+          "jsonPath": "ifscCode",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankName",
+          "jsonPath": "bankName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankBranchName",
+          "jsonPath": "bankBranchName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountHolderName",
+          "jsonPath": "accountHolderName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    }
     ]
   }

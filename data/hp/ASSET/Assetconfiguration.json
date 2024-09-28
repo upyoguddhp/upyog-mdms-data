@@ -1,5 +1,5 @@
 {
-  "tenantId": "mh",
+  "tenantId": "hp",
   "moduleName": "ASSET",
   "Assetconfiguration": [{
       "id": 1,
@@ -15,7 +15,7 @@
       "id": 2,
       "keyname": "AssetRevaluationVoucherName",
       "description": "Voucher Name for Asset Revaluation",
-      "tenantid": "mh",
+      "tenantid": "hp",
       "values": [{
         "value": "Asset Revaluation",
         "effectivefrom": 1509950058
@@ -25,7 +25,7 @@
       "id": 3,
       "keyname": "AssetRevaluationVoucherDescription",
       "description": "Voucher Description for Asset Revaluation",
-      "tenantid": "mh",
+      "tenantid": "hp",
       "values": [{
         "value": "Asset Revaluation Journal Voucher",
         "effectivefrom": 1509950058

@@ -39,6 +39,24 @@
 		"feeStructureOf": "zone",
 		"type": "zone2",
 		"price": 600
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "zone",
+		"type": "zone3",
+		"price": 700
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "zone",
+		"type": "zone4",
+		"price": 800
+	},
+	{
+		"tenantId": "hp.Shimla",
+		"feeStructureOf": "zone",
+		"type": "zone5",
+		"price": 900
 	}
   ]
 }

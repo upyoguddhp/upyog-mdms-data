@@ -595,46 +595,6 @@
       "active": "true"
     },
     {
-      "id": "75",
-      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "trade": "Food Vans/ Food Stalls",
-      "subcategory": "Food Vans/ Food Stalls",
-      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
-      "active": "true"
-    },
-    {
-      "id": "76",
-      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "trade": "Book Stalls",
-      "subcategory": "Book Stalls",
-      "remarks": "NA",
-      "active": "true"
-    },
-    {
-      "id": "77",
-      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "trade": "Handicraft Stalls",
-      "subcategory": "Handicraft Stalls",
-      "remarks": "NA",
-      "active": "true"
-    },
-    {
-      "id": "78",
-      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "trade": "Handloom Stalls",
-      "subcategory": "Handloom Stalls",
-      "remarks": "NA",
-      "active": "true"
-    },
-    {
-      "id": "79",
-      "sector": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "trade": "Other Stalls/ Fun Fairs",
-      "subcategory": "Other Stalls/ Fun Fairs",
-      "remarks": "If PFA goods are sold, the licensee will have to apply for PFA license separately from concerned regulatory authority",
-      "active": "true"
-    },
-    {
       "id": "80",
       "sector": "Handloom & Handicrafts",
       "trade": "Handloom",
@@ -782,7 +742,7 @@
       "id": "98",
       "sector": "IT/ ITES Services",
       "trade": "Digital Services",
-      "subcategory": "Software/ Website/ App /Social Media Marketing",
+      "subcategory": "Software/ Website/ App /Social Media Marketing/Consulting",
       "remarks": "NA",
       "active": "true"
     },
