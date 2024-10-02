@@ -27833,6 +27833,12 @@
       "actioncode": "",
       "tenantId": "hp"
     },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1484,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
 	{
         "rolecode": "CITIZEN",
         "actionid": 1485,
