@@ -28270,6 +28270,42 @@
       "actionid": 1515,
       "actioncode": "",
       "tenantId": "hp"
+    },
+    {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1516,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1516,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 1517,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 1517,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1518,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1518,
+      "actioncode": "",
+      "tenantId": "hp"
     }
   ]
 }
