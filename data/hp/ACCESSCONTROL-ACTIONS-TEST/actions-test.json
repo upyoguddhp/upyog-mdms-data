@@ -10616,6 +10616,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1519,
+      "name": "Workflow Transition",
+      "url": "/hpud-dms-service/dms/fetchServiceDocMapping",
+      "displayName": "Workflow Transition",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
