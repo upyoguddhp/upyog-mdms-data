@@ -10577,6 +10577,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1516,
+      "name": "Workflow Create",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_create",
+      "displayName": "Workflow Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1517,
+      "name": "Workflow Business Search",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+      "displayName": "Workflow Business Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1518,
+      "name": "Workflow Transition",
+      "url": "/egov-workflow-v2/egov-wf/process/_transition",
+      "displayName": "Workflow Transition",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
