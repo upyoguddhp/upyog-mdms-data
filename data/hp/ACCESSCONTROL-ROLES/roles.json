@@ -734,8 +734,8 @@
     },
     {
       "code": "PTR_VERIFIER",
-      "name": "Pet Document Verifier",
-      "description": "Pet Application Document Verifier"
+      "name": "Pet Verifier",
+      "description": "Pet Application Verifier"
     },
     {
       "code": "GB_VERIFIER",
@@ -778,9 +778,19 @@
       "description": "SITE Application Approver"
     },
     {
-      "code": "SITE_VERIFIER",
-      "name": "SITE Verifier",
-      "description": "Site Application Document Verifier"
+      "code": "SITE_CREATOR",
+      "name": "SITE CREATOR",
+      "description": "Site Application Creator"
+    },
+    {
+      "code": "SITE_WF_REVIEWER",
+      "name": "SITE REVIEWERr",
+      "description": "Site Application Verifier"
+    },
+    {
+      "code": "SITE_WF_APPROVER",
+      "name": "SITE WF Approver",
+      "description": "Site Application Approver"
     }
 	
   ]
