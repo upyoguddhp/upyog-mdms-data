@@ -791,6 +791,11 @@
       "code": "SITE_WF_APPROVER",
       "name": "SITE WF Approver",
       "description": "Site Application Approver"
+    },
+    {
+      "code": "SITE_WF_CREATOR",
+      "name": "Site WF Creator",
+      "description": "Site Application Creator"
     }
 	
   ]
