@@ -28011,6 +28011,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1498,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SITE_CREATOR",
       "actionid": 1498,
       "actioncode": "",
@@ -28029,7 +28035,19 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1499,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SITE_APPROVER",
+      "actionid": 1499,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_APPROVER",
       "actionid": 1499,
       "actioncode": "",
       "tenantId": "hp"
@@ -28053,7 +28071,19 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1500,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SITE_APPROVER",
+      "actionid": 1500,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_APPROVER",
       "actionid": 1500,
       "actioncode": "",
       "tenantId": "hp"
@@ -28077,7 +28107,19 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1501,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SITE_APPROVER",
+      "actionid": 1501,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_APPROVER",
       "actionid": 1501,
       "actioncode": "",
       "tenantId": "hp"
@@ -28107,6 +28149,24 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1503,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_APPROVER",
+      "actionid": 1503,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1503,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 1504,
       "actioncode": "",
@@ -28120,6 +28180,18 @@
     },
     {
       "rolecode": "SITE_APPROVER",
+      "actionid": 1504,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1504,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_APPROVER",
       "actionid": 1504,
       "actioncode": "",
       "tenantId": "hp"
@@ -28143,6 +28215,18 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1505,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_APPROVER",
+      "actionid": 1505,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SITE_APPROVER",
       "actionid": 1505,
       "actioncode": "",
@@ -28161,7 +28245,19 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "SITE_WF_CREATOR",
+      "actionid": 1506,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SITE_APPROVER",
+      "actionid": 1506,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_APPROVER",
       "actionid": 1506,
       "actioncode": "",
       "tenantId": "hp"
@@ -28210,6 +28306,12 @@
     },
     {
       "rolecode": "SITE_CREATOR",
+      "actionid": 1509,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "SITE_WF_CREATOR",
       "actionid": 1509,
       "actioncode": "",
       "tenantId": "hp"
