@@ -725,6 +725,10 @@
         {
             "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "pet-services.receipt.id"
+        },
+        {
+            "format": "TRX//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "newtl.receipt.id"
         }
     ]
 }
