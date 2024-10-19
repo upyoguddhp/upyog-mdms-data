@@ -28423,6 +28423,48 @@
       "actionid": 1519,
       "actioncode": "",
       "tenantId": "hp"
-    }
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 1521,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 1521,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1521,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	   {
+      "rolecode": "CITIZEN",
+      "actionid": 1522,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 1522,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 1522,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1522,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
   ]
 }
