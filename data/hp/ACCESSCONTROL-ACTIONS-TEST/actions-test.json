@@ -10319,19 +10319,6 @@
         "path": ""
     },
     {
-        "id": 1520,
-        "name": "Search Pet Registration",
-        "url": "/pet-services/pet-registration/_search",
-        "displayName": "Search Pet Registration",
-        "orderNumber": 1,
-        "queryParams": null,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "ADMIN",
-        "code": "null",
-        "path": ""
-    },
-    {
         "id": 1497,
         "name": "Update Pet Registration",
         "url": "/pet-services/pet-registration/_update",
@@ -10629,6 +10616,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+        "id": 1520,
+        "name": "Search Pet Registration",
+        "url": "/pet-services/pet-registration/_search",
+        "displayName": "Search Pet Registration",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+	{
+        "id": 1521,
+        "name": "Search Pet Registration",
+        "url": "/pet-services/pet-registration/fetch/ACTIONS",
+        "displayName": "Search Pet Registration",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+	{
+      "id": 1521,
+      "name": "Workflow Transition",
+      "url": "/pet-services/pet-registration/fetch/CALCULATEFEE",
+      "displayName": "Workflow Transition",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
