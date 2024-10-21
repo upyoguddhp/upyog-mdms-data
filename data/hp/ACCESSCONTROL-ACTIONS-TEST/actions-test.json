@@ -10542,7 +10542,7 @@
     {
       "id": 1514,
       "name": "Search Garbage Accounts",
-      "url": "/garbage-services/garbage-accounts/_create",
+      "url": "/garbage-service/garbage-accounts/_create",
       "displayName": "Search Garbage Accounts",
       "orderNumber": 1,
       "queryParams": null,
