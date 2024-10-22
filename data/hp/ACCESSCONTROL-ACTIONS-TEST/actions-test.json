@@ -10293,19 +10293,6 @@
         "path": ""
     },
     {
-        "id": 1494,
-        "name": "Calculate Trade License Fee",
-        "url": "/tl-services/v1/fetch/CALCULATEFEE",
-        "displayName": "Calculate Trade License Fee",
-        "orderNumber": 1,
-        "queryParams": null,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "ADMIN",
-        "code": "null",
-        "path": ""
-    },
-    {
         "id": 1495,
         "name": "Create Pet Registration",
         "url": "/pet-services/pet-registration/_create",
