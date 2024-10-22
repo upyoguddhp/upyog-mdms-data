@@ -27957,6 +27957,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1492,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 1493,
       "actioncode": "",
@@ -27977,24 +27983,6 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1493,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1494,
-      "actioncode": "", 
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "TL_VERIFIER",
-      "actionid": 1494,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1494,
       "actioncode": "",
       "tenantId": "hp"
     },
