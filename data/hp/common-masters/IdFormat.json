@@ -719,12 +719,16 @@
             "idname": "sewerageservice.disconnection.id"
         },
         {
-            "format": "PG-PTR-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
+            "format": "HP-PTR-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
             "idname": "ptr.registrationid"
         },
         {
             "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "pet-services.receipt.id"
+        },
+        {
+            "format": "TRX//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "newtl.receipt.id"
         }
     ]
 }
