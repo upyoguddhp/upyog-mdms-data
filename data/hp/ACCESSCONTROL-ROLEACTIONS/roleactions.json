@@ -10676,6 +10676,17 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 696,
+      "actioncode": "",
+      "tenantId": "hp"
+    },  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 696,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SYS_INTEGRATOR_WATER_SEW",
       "actionid": 1694,
       "actioncode": "",
