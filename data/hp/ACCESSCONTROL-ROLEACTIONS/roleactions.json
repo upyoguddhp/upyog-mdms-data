@@ -28542,6 +28542,42 @@
       "actionid": 1522,
       "actioncode": "",
       "tenantId": "hp"
+    },
+	{
+      "rolecode": "ASSET_WF_CREATOR",
+      "actionid": 1523,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "ASSET_WF_CREATOR",
+      "actionid": 1524,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "ASSET_WF_CREATOR",
+      "actionid": 1525,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "ASSET_WF_APPROVER",
+      "actionid": 1525,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 1525,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 1525,
+      "actioncode": "",
+      "tenantId": "hp"
     }
   ]
 }
