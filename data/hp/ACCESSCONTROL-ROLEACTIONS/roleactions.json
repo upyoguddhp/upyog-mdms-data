@@ -10676,6 +10676,17 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 696,
+      "actioncode": "",
+      "tenantId": "hp"
+    },  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 696,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SYS_INTEGRATOR_WATER_SEW",
       "actionid": 1694,
       "actioncode": "",
@@ -28059,6 +28070,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1498,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "SITE_WF_REVIEWER",
       "actionid": 1499,
       "actioncode": "",
@@ -28168,6 +28185,12 @@
     },
     {
       "rolecode": "SITE_WF_APPROVER",
+      "actionid": 1501,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 1501,
       "actioncode": "",
       "tenantId": "hp"
