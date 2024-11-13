@@ -1,0 +1,10 @@
+{
+  "tenantId": "hp.Nadaun",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    }
+  ]
+}	
