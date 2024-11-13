@@ -1,0 +1,14 @@
+{
+  "tenantId": "hp.Rampur",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    },
+    {
+      "name": "B",
+	  "active":"true"
+    }
+  ]
+}	
