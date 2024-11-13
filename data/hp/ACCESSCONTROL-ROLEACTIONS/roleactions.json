@@ -28550,7 +28550,19 @@
       "tenantId": "hp"
     },
 	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 1523,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
       "rolecode": "ASSET_WF_CREATOR",
+      "actionid": 1524,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+	{
+      "rolecode": "EMPLOYEE",
       "actionid": 1524,
       "actioncode": "",
       "tenantId": "hp"
