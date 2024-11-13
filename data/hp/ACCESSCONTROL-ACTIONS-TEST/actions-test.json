@@ -10642,6 +10642,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 1523,
+      "name": "Asset Create",
+      "url": "/asset-services/v1/assets/_create",
+      "displayName": "Asset Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 1524,
+      "name": "Asset Update",
+      "url": "/asset-services/asset-services/v1/assets/_update",
+      "displayName": "Asset Update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+		{
+      "id": 1525,
+      "name": "Asset Search",
+      "url": "/asset-services/asset-services/v1/assets/_search",
+      "displayName": "Asset Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
