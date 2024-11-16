@@ -796,7 +796,11 @@
       "code": "SITE_WF_CREATOR",
       "name": "Site WF Creator",
       "description": "Site Application Creator"
-    }
-	
+    },
+    {
+      "code": "SECRETARY",
+      "name": "Secretary",
+      "description": "Secretary"
+    }	
   ]
 }
