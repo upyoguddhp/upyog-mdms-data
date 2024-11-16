@@ -1,0 +1,10 @@
+{
+  "tenantId": "hp.Nagrota",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    }
+  ]
+}	

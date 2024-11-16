@@ -1,0 +1,18 @@
+{
+  "tenantId": "hp.Bajinath-Paprola",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    },
+    {
+      "name": "B",
+	  "active":"true"
+    },
+    {
+      "name": "C",
+	  "active":"true"
+    }
+  ]
+}	
