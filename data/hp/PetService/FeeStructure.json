@@ -1,0 +1,31 @@
+{
+  "tenantId": "hp",
+  "moduleName": "PetService",
+  "FeeStructure": [
+	{
+		"tenantId": "hp.Shimla",
+		"price": 1500
+	},
+	{
+		"tenantId": "hp.Solan",
+		"price": 1000
+	},
+	{
+		"tenantId": "hp.Rohru",
+		"price": 1000
+	},
+	{
+		"tenantId": "hp.Sunni",
+		"price": 1000
+	},
+	{
+		"tenantId": "hp.Arki",
+		"price": 2000
+	},
+	{
+		"tenantId": "hp.Nadaun",
+		"price": 5000
+	}
+	
+  ]
+}
