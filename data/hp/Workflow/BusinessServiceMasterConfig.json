@@ -41,6 +41,11 @@
           "businessService": "SITE",
           "active": "true",
           "isStatelevel": "true"
+      },
+	  {
+          "businessService": "ASSET",
+          "active": "true",
+          "isStatelevel": "true"
       }
     ]
   }

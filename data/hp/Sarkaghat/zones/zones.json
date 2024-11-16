@@ -1,0 +1,22 @@
+{
+  "tenantId": "hp.Sarkaghat",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    },
+    {
+      "name": "B",
+	  "active":"true"
+    },
+    {
+      "name": "C",
+	  "active":"true"
+    },
+    {
+      "name": "D",
+	  "active":"true"
+    }
+  ]
+}	
