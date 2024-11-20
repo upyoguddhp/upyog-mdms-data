@@ -1,5 +1,5 @@
 {
-  "tenantId": "hp.Dharamsala",
+  "tenantId": "hp.Baijnath-Paprola",
   "moduleName": "zones",
   "zones": [
     {
@@ -8,6 +8,10 @@
     },
     {
       "name": "B",
+	  "active":"true"
+    },
+    {
+      "name": "C",
 	  "active":"true"
     }
   ]
