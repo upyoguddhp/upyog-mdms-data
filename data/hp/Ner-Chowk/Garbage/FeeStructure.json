@@ -1,5 +1,5 @@
 {
-	"tenantId": "hp.Ner Chowk",
+	"tenantId": "hp.Ner-Chowk",
 	"moduleName": "Garbage",
 	"FeeStructure": [
 		{
@@ -8,7 +8,7 @@
 			"subcategories": "Household",
 			"subcategorytype": "Area less than 2000 Sq. Feet",
 			"fee": "50",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -17,7 +17,7 @@
 			"subcategories": "Household",
 			"subcategorytype": "Area more than 2000 Sq. Feet",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -26,7 +26,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Pan Shop",
 			"fee": "80",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -35,7 +35,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Tea Shop",
 			"fee": "80",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -44,7 +44,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Confectionery & Veg Shop  ",
 			"fee": "250",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -53,7 +53,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Vegetable & Fruit Shops (Wholesale)",
 			"fee": "1000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -62,7 +62,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Vegetable & Fruit Shops (Retail)",
 			"fee": "250",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -71,7 +71,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Groceries & Daily Needs Shop",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -80,7 +80,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Clothes Shop",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -89,7 +89,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Eateries (Food Production & Distribution)",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -98,7 +98,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Eateries (Food Distribution Only)",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -107,7 +107,7 @@
 			"subcategories": "Shops",
 			"subcategorytype": "Meat & Fish Shops",
 			"fee": "500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -116,7 +116,7 @@
 			"subcategories": "Super Stores",
 			"subcategorytype": "Super Stores",
 			"fee": "400",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -125,7 +125,7 @@
 			"subcategories": "Malls",
 			"subcategorytype": "Malls",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -134,7 +134,7 @@
 			"subcategories": "Private Restaurants",
 			"subcategorytype": "Private Restaurants",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -143,7 +143,7 @@
 			"subcategories": "Private Hotels",
 			"subcategorytype": "Upto 10 Rooms",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -152,7 +152,7 @@
 			"subcategories": "Private Hotels",
 			"subcategorytype": "11 - 20 Rooms",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -161,7 +161,7 @@
 			"subcategories": "Private Hotels",
 			"subcategorytype": "21 - 30 Rooms",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -170,7 +170,7 @@
 			"subcategories": "Private Hotels",
 			"subcategorytype": "More than 30 Rooms",
 			"fee": "15000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -179,7 +179,7 @@
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "Upto 10 Rooms",
 			"fee": "500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -188,7 +188,7 @@
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "11 - 20 Rooms",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -197,7 +197,7 @@
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "21 - 30 Rooms",
 			"fee": "2500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -206,7 +206,7 @@
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "More than 30 Rooms",
 			"fee": "2500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -215,7 +215,7 @@
 			"subcategories": "Clubs",
 			"subcategorytype": "Clubs",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -224,7 +224,7 @@
 			"subcategories": "Private Offices",
 			"subcategorytype": "2 Rooms",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -233,7 +233,7 @@
 			"subcategories": "Private Offices",
 			"subcategorytype": "3-5 Rooms",
 			"fee": "250",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -242,7 +242,7 @@
 			"subcategories": "Private Offices",
 			"subcategorytype": "6-10 Rooms",
 			"fee": "1000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -251,7 +251,7 @@
 			"subcategories": "Private Offices",
 			"subcategorytype": "11-20 Rooms",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -260,7 +260,7 @@
 			"subcategories": "Private Offices",
 			"subcategorytype": "More than 20 Rooms",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -269,7 +269,7 @@
 			"subcategories": "Private Schools/ Institutions",
 			"subcategorytype": "Upto 100 Students",
 			"fee": "500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -278,7 +278,7 @@
 			"subcategories": "Private Schools/ Institutions",
 			"subcategorytype": "More than 100 Students",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -287,7 +287,7 @@
 			"subcategories": "Private Colleges / University",
 			"subcategorytype": "Upto 1000 Students",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -296,7 +296,7 @@
 			"subcategories": "Private Colleges / University",
 			"subcategorytype": "More than 1000 Students",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -305,7 +305,7 @@
 			"subcategories": "Private Kindergarten / Day Cares",
 			"subcategorytype": "Upto 100 Students",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -314,7 +314,7 @@
 			"subcategories": "Private Kindergarten / Day Cares",
 			"subcategorytype": "More than 100 Students",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -323,7 +323,7 @@
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Only Tire Puncture Repair",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -332,7 +332,7 @@
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Vehicle Repair",
 			"fee": "250",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -341,7 +341,7 @@
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Vehicle Repair & Spare Part Retail",
 			"fee": "500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -350,7 +350,7 @@
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
 			"fee": "750",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -359,7 +359,7 @@
 			"subcategories": "Street Vendors ",
 			"subcategorytype": "Street Vendors ",
 			"fee": "400",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -368,7 +368,7 @@
 			"subcategories": "Street Hawkers",
 			"subcategorytype": "Street Hawkers",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -377,7 +377,7 @@
 			"subcategories": "Private Marriage Halls",
 			"subcategorytype": "Private Marriage Halls",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -386,7 +386,7 @@
 			"subcategories": "Cinema Halls (Theatre & Multiplexes)",
 			"subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -395,7 +395,7 @@
 			"subcategories": "Slaughterhouse",
 			"subcategorytype": "Slaughterhouse",
 			"fee": "500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -404,7 +404,7 @@
 			"subcategories": "Others",
 			"subcategorytype": "Others",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -413,7 +413,7 @@
 			"subcategories": "Micro Industry",
 			"subcategorytype": "Micro Industry",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -422,7 +422,7 @@
 			"subcategories": "Small Industry",
 			"subcategorytype": "Small Industry",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -431,7 +431,7 @@
 			"subcategories": "Medium Industry",
 			"subcategorytype": "Medium Industry",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -440,7 +440,7 @@
 			"subcategories": "Large Industry",
 			"subcategorytype": "Large Industry",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -449,7 +449,7 @@
 			"subcategories": "Nursing Homes",
 			"subcategorytype": "Upto 50 Beds",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -458,7 +458,7 @@
 			"subcategories": "Nursing Homes",
 			"subcategorytype": "51 to 100 Beds",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -467,7 +467,7 @@
 			"subcategories": "Nursing Homes",
 			"subcategorytype": "More than 100 Beds",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -476,7 +476,7 @@
 			"subcategories": "Rehabilitation Center",
 			"subcategorytype": "Upto 50 Beds",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -485,7 +485,7 @@
 			"subcategories": "Rehabilitation Center",
 			"subcategorytype": "51 to 100 Beds",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -494,7 +494,7 @@
 			"subcategories": "Rehabilitation Center",
 			"subcategorytype": "More than 100 Beds",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -503,7 +503,7 @@
 			"subcategories": "Old Age Homes",
 			"subcategorytype": "Upto 50 Beds",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -512,7 +512,7 @@
 			"subcategories": "Old Age Homes",
 			"subcategorytype": "51 to 100 Beds",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -521,7 +521,7 @@
 			"subcategories": "Old Age Homes",
 			"subcategorytype": "More than 100 Beds",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -530,7 +530,7 @@
 			"subcategories": "Private Hospital",
 			"subcategorytype": "Upto 50 Beds",
 			"fee": "1500",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -539,7 +539,7 @@
 			"subcategories": "Private Hospital",
 			"subcategorytype": "51 to 100 Beds",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -548,7 +548,7 @@
 			"subcategories": "Private Hospital",
 			"subcategorytype": "More than 100 Beds",
 			"fee": "2000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -557,7 +557,7 @@
 			"subcategories": "Laboratories",
 			"subcategorytype": "Laboratories",
 			"fee": "200",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -566,7 +566,7 @@
 			"subcategories": "Private Clinics",
 			"subcategorytype": "Private Clinics",
 			"fee": "150",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -575,7 +575,7 @@
 			"subcategories": "Chemists",
 			"subcategorytype": "Chemists",
 			"fee": "200",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -584,7 +584,7 @@
 			"subcategories": "Others",
 			"subcategorytype": "Others",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -593,7 +593,7 @@
 			"subcategories": "Govt Primary School",
 			"subcategorytype": "Govt Primary School",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -602,7 +602,7 @@
 			"subcategories": "Govt Middle School",
 			"subcategorytype": "Govt Middle School",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -611,7 +611,7 @@
 			"subcategories": "Govt Senior/ Senior Secondary School",
 			"subcategorytype": "Govt Senior/ Senior Secondary School",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -620,7 +620,7 @@
 			"subcategories": "Govt Angan Wadi",
 			"subcategorytype": "Govt Angan Wadi",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -629,7 +629,7 @@
 			"subcategories": "Govt College",
 			"subcategorytype": "Govt College",
 			"fee": "1000",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -638,7 +638,7 @@
 			"subcategories": "Govt University",
 			"subcategorytype": "Govt University",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -647,7 +647,7 @@
 			"subcategories": "State Govt Office",
 			"subcategorytype": "State Govt Office",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -656,7 +656,7 @@
 			"subcategories": "Central Govt Office",
 			"subcategorytype": "Central Govt Office",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -665,7 +665,7 @@
 			"subcategories": "ULB Office",
 			"subcategorytype": "ULB Office",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -674,7 +674,7 @@
 			"subcategories": "Govt. Garden",
 			"subcategorytype": "Govt. Garden",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -683,7 +683,7 @@
 			"subcategories": "Govt Hospitals",
 			"subcategorytype": "Govt Hospitals",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -692,7 +692,7 @@
 			"subcategories": "Govt Dispensary",
 			"subcategorytype": "Govt Dispensary",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -701,7 +701,7 @@
 			"subcategories": "Govt Restaurants",
 			"subcategorytype": "Govt Restaurants",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -710,7 +710,7 @@
 			"subcategories": "Govt Hotel",
 			"subcategorytype": "Govt Hotel",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -719,7 +719,7 @@
 			"subcategories": "Govt Marriage Halls/ Community Centers",
 			"subcategorytype": "Govt Marriage Halls/ Community Centers",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -728,7 +728,7 @@
 			"subcategories": "Others",
 			"subcategorytype": "Others",
 			"fee": "100",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -737,7 +737,7 @@
 			"subcategories": "Charitable Trust / NGO / any other Registered Group",
 			"subcategorytype": "Charitable Trust / NGO / any other Registered Group",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -746,7 +746,7 @@
 			"subcategories": "Private Garden",
 			"subcategorytype": "Private Garden",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -755,7 +755,7 @@
 			"subcategories": "Orphanages",
 			"subcategorytype": "Orphanages",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -764,7 +764,7 @@
 			"subcategories": "Heritage Site",
 			"subcategorytype": "Heritage Site",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -773,7 +773,7 @@
 			"subcategories": "Religious Site",
 			"subcategorytype": "Religious Site",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -782,7 +782,7 @@
 			"subcategories": "Dairy Cattle and Animal Sheds",
 			"subcategorytype": "Dairy Cattle and Animal Sheds",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -791,7 +791,7 @@
 			"subcategories": "Pet Shops",
 			"subcategorytype": "Pet Shops",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -800,7 +800,7 @@
 			"subcategories": "Scrap Dealers",
 			"subcategorytype": "Scrap Dealers",
 			"fee": "400",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -809,7 +809,7 @@
 			"subcategories": "Construction & Demolition Waste Site",
 			"subcategorytype": "Construction & Demolition Waste Site",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		},
 		{
@@ -818,7 +818,7 @@
 			"subcategories": "Any Other establishment not mentioned above",
 			"subcategorytype": "Any Other establishment not mentioned above",
 			"fee": "1",
-			"tenantId": "hp.Ner Chowk",
+			"tenantId": "hp.Ner-Chowk",
 			"active": "TRUE"
 		}
 	]

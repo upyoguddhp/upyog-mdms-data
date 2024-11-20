@@ -1,13 +1,9 @@
 {
-  "tenantId": "hp.Dharamsala",
+  "tenantId": "hp.Poanta-Sahib",
   "moduleName": "zones",
   "zones": [
     {
       "name": "A",
-	  "active":"true"
-    },
-    {
-      "name": "B",
 	  "active":"true"
     }
   ]
