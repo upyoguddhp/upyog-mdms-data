@@ -46,6 +46,11 @@
       "name": "Shahpur",
       "code":"297015",
       "type": "Nagar Panchayat"
+    },
+	{
+      "name": "Dehra",
+      "code":"276626",
+      "type": "Nagar Panchayat"
     }
 ]
 }
