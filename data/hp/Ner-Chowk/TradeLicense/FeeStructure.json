@@ -3,169 +3,169 @@
   "moduleName": "TradeLicense",
   "FeeStructure": [
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "1000",
         "periodOfLicense": "1"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "5000",
         "periodOfLicense": "5"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "10000",
         "periodOfLicense": "10"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "15000",
         "periodOfLicense": "15"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "1000",
         "periodOfLicense": "1"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "5000",
         "periodOfLicense": "5"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "10000",
         "periodOfLicense": "10"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "15000",
         "periodOfLicense": "15"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "1000",
         "periodOfLicense": "1"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "5000",
         "periodOfLicense": "5"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "10000",
         "periodOfLicense": "10"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "15000",
         "periodOfLicense": "15"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Agriculture",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Automotive",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Banking Finance Services Insurance (BFSI)",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Common Trades",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Education, Skills & Development",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Handloom & Handicrafts",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "IT/ ITES Services",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Luxury Goods",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Manufacturing, Industries and Industrial Materials",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Petroleum, Chemicals & Other Regulated Products",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Tourism & Hospitality",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "tradeCategory",
         "type": "Transportation & Logistics",
         "price": "1000"
     },
     {
-        "tenantId ": "hp.Ner Chowk",
+        "tenantId ": "hp.Ner-Chowk",
         "feeStructureOf": "zone",
         "type": "A",
         "price": "1"
