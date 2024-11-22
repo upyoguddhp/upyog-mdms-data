@@ -1,0 +1,10 @@
+{
+  "tenantId": "hp.Chopal",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    }
+  ]
+}	

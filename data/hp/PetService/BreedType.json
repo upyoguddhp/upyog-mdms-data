@@ -8,7 +8,8 @@
       "code": "LABRADOR_RETRIEVER",
       "active": true,
       "PetType": "DOG",
-	  "fee": 100.00
+	  "fee": 100.00,
+	  "isBannedPet": false
     },
     {
 	  "tenantId": "hp.shimla",
@@ -16,7 +17,8 @@
       "code": "GERMAN_SHEPHARD",
       "active": true,
       "PetType": "DOG",
-	  "fee": 100.00
+	  "fee": 100.00,
+	  "isBannedPet": false
     },
     {
 	  "tenantId": "hp.shimla",
@@ -24,7 +26,8 @@
       "code": "GOLDEN_RETRIEVER",
       "active": true,
       "PetType": "DOG",
-	  "fee": 100.00
+	  "fee": 100.00,
+	  "isBannedPet": false
     },
     {
 	  "tenantId": "hp.shimla",
@@ -32,7 +35,8 @@
       "code": "INDIAN_BILLI",
       "active": true,
       "PetType": "CAT",
-	  "fee": 100.00
+	  "fee": 100.00,
+	  "isBannedPet": false
     },
     {
 	  "tenantId": "hp.shimla",
@@ -40,7 +44,8 @@
       "code": "BENGAL_CAT",
       "active": true,
       "PetType": "CAT",
-	  "fee": 100.00
+	  "fee": 100.00,
+	  "isBannedPet": false
     },
     {
 	  "tenantId": "hp.shimla",
@@ -48,7 +53,26 @@
       "code": "BOMBAY_CAT",
       "active": true,
       "PetType": "CAT",
-	  "fee": 100.00
-    }
+	  "fee": 100.00,
+	  "isBannedPet": false
+    },
+	{
+	  "tenantId": "hp.shimla",
+	  "name": "Pitbul Terier",
+	  "code": "PITBUL TERIER",
+	  "active": true,
+	  "PetType": "DOG",
+	  "fee": 100,
+	  "isBannedPet": true
+	},
+	{
+	  "tenantId": "hp.shimla",
+	  "name": "American Bulldog",
+	  "code": "AMERICAN BULLDOG",
+	  "active": true,
+	  "PetType": "DOG",
+	  "fee": 100,
+	  "isBannedPet": true
+	}
   ]
 }

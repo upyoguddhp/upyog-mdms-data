@@ -1,0 +1,10 @@
+{
+  "tenantId": "hp.Mehatpur-Basdehr",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    }
+  ]
+}	

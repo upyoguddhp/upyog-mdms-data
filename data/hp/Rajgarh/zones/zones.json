@@ -1,0 +1,14 @@
+{
+  "tenantId": "hp.Rajgarh",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    },
+    {
+      "name": "B",
+	  "active":"true"
+    }
+  ]
+}	
