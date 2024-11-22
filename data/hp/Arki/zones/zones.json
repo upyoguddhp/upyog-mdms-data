@@ -1,0 +1,10 @@
+{
+  "tenantId": "hp.Arki",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    }
+  ]
+}	

@@ -1,0 +1,174 @@
+{
+  "tenantId": "hp.Banjar",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "500",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "1000",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "1500",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "2000",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "750",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "1250",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "1750",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "2250",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "1000",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "1500",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "2000",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "2500",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Agriculture",
+        "price": "500"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Automotive",
+        "price": "3200"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Banking Finance Services Insurance (BFSI)",
+        "price": "2500"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Common Trades",
+        "price": "7000"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Education, Skills & Development",
+        "price": "1700"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+        "price": "1500"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Handloom & Handicrafts",
+        "price": "500"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "IT/ ITES Services",
+        "price": "1000"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Luxury Goods",
+        "price": "2500"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Manufacturing, Industries and Industrial Materials",
+        "price": "1000"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Petroleum, Chemicals & Other Regulated Products",
+        "price": "5000"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Tourism & Hospitality",
+        "price": "2500"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "tradeCategory",
+        "type": "Transportation & Logistics",
+        "price": "2500"
+    },
+    {
+        "tenantId ": "hp.Banjar",
+        "feeStructureOf": "zone",
+        "type": "A",
+        "price": "1"
+    }
+]
+}

@@ -45,7 +45,8 @@
 	  {
           "businessService": "ASSET",
           "active": "true",
-          "isStatelevel": "false"
+          "isStatelevel": "true"
+
       }
     ]
   }
