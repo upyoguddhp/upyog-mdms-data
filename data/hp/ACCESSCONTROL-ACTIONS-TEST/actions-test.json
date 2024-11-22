@@ -10659,7 +10659,7 @@
 	{
       "id": 1524,
       "name": "Asset Update",
-      "url": "/asset-services/asset-services/v1/assets/_update",
+      "url": "/asset-services/v1/assets/_update",
       "displayName": "Asset Update",
       "orderNumber": 1,
       "queryParams": null,
@@ -10672,7 +10672,7 @@
 		{
       "id": 1525,
       "name": "Asset Search",
-      "url": "/asset-services/asset-services/v1/assets/_search",
+      "url": "/asset-services/v1/assets/_search",
       "displayName": "Asset Search",
       "orderNumber": 1,
       "queryParams": null,
