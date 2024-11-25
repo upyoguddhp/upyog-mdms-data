@@ -1,0 +1,195 @@
+{
+  "tenantId": "hp.Rohru",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "100",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "1000",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "2000",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "3000",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "400",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "1300",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "2500",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "3600",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "1000",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "2500",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "4000",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
+        "price": "5250",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Agriculture",
+        "price": "400",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Automotive",
+        "price": "600",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Banking Finance Services Insurance (BFSI)",
+        "price": "1200",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Common Trades",
+        "price": "500",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Education, Skills & Development",
+        "price": "1000",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+        "price": "100",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Handloom & Handicrafts",
+        "price": "200",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "IT/ ITES Services",
+        "price": "600",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Luxury Goods",
+        "price": "1200",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Manufacturing, Industries and Industrial Materials",
+        "price": "1000",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Petroleum, Chemicals & Other Regulated Products",
+        "price": "1500",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Tourism & Hospitality",
+        "price": "1100",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "tradeCategory",
+        "type": "Transportation & Logistics",
+        "price": "1000",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "zone",
+        "type": "A",
+        "price": "2",
+        "periodOfLicense": ""
+    },
+    {
+        "tenantId ": "hp.Rohru",
+        "feeStructureOf": "zone",
+        "type": "B",
+        "price": "3",
+        "periodOfLicense": ""
+    }
+]
+}
