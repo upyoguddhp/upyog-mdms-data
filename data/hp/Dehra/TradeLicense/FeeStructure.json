@@ -1,180 +1,195 @@
 {
-  "tenantId": "hp.Narkanda",
+  "tenantId": "hp.Dehra",
   "moduleName": "TradeLicense",
-  "FeeStructure":[
+  "FeeStructure": [
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
+        "price": "100",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "400",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "700",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Small",
+        "price": "1300",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "200",
+        "periodOfLicense": "1"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "800",
+        "periodOfLicense": "5"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "1400",
+        "periodOfLicense": "10"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Medium",
+        "price": "2600",
+        "periodOfLicense": "15"
+    },
+    {
+        "tenantId": "hp.Dehra",
+        "feeStructureOf": "scaleOfBusiness",
+        "type": "Large",
         "price": "500",
         "periodOfLicense": "1"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "scaleOfBusiness",
-        "type": "Small",
-        "price": "2500",
+        "type": "Large",
+        "price": "2000",
         "periodOfLicense": "5"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "scaleOfBusiness",
-        "type": "Small",
-        "price": "5000",
+        "type": "Large",
+        "price": "3500",
         "periodOfLicense": "10"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "scaleOfBusiness",
-        "type": "Small",
-        "price": "7500",
+        "type": "Large",
+        "price": "6500",
         "periodOfLicense": "15"
     },
     {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "1000",
-        "periodOfLicense": "1"
-    },
-    {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "5000",
-        "periodOfLicense": "5"
-    },
-    {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "50000",
-        "periodOfLicense": "10"
-    },
-    {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "75000",
-        "periodOfLicense": "15"
-    },
-    {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "5000",
-        "periodOfLicense": "1"
-    },
-    {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "25000",
-        "periodOfLicense": "5"
-    },
-    {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "50000",
-        "periodOfLicense": "10"
-    },
-    {
-        "tenantId": "hp.Narkanda",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "75000",
-        "periodOfLicense": "15"
-    },
-    {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Agriculture",
-        "price": "600"
+        "price": "200",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Automotive",
-        "price": "1000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Banking Finance Services Insurance (BFSI)",
-        "price": "2000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Common Trades",
-        "price": "1000"
+        "price": "200",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Education, Skills & Development",
-        "price": "2000"
+        "price": "200",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-        "price": "500"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Handloom & Handicrafts",
-        "price": "200"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "IT/ ITES Services",
-        "price": "1000"
+        "price": "200",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Luxury Goods",
-        "price": "2000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Manufacturing, Industries and Industrial Materials",
-        "price": "5000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Petroleum, Chemicals & Other Regulated Products",
-        "price": "3000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Tourism & Hospitality",
-        "price": "5000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "tradeCategory",
         "type": "Transportation & Logistics",
-        "price": "1500"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Dehra",
         "feeStructureOf": "zone",
         "type": "A",
-        "price": "1"
+        "price": "1",
+        "periodOfLicense": ""
     },
     {
         "tenantId": "",
         "feeStructureOf": "",
         "type": "",
-        "price": "1"
+        "price": "1",
+        "periodOfLicense": ""
     }
 ]
 }
