@@ -1,180 +1,188 @@
 {
-  "tenantId": "hp.Narkanda",
+  "tenantId": "hp.Mandi",
   "moduleName": "TradeLicense",
-  "FeeStructure":[
+  "FeeStructure": [
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "500",
         "periodOfLicense": "1"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "2500",
+        "price": "200",
         "periodOfLicense": "5"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "5000",
+        "price": "200",
         "periodOfLicense": "10"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "7500",
+        "price": "200",
         "periodOfLicense": "15"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "1000",
+        "price": "500",
         "periodOfLicense": "1"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "5000",
+        "price": "200",
         "periodOfLicense": "5"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "50000",
+        "price": "200",
         "periodOfLicense": "10"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "75000",
+        "price": "200",
         "periodOfLicense": "15"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "5000",
+        "price": "500",
         "periodOfLicense": "1"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "25000",
+        "price": "200",
         "periodOfLicense": "5"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "50000",
+        "price": "200",
         "periodOfLicense": "10"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "75000",
+        "price": "200",
         "periodOfLicense": "15"
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Agriculture",
-        "price": "600"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Automotive",
-        "price": "1000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Banking Finance Services Insurance (BFSI)",
-        "price": "2000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Common Trades",
-        "price": "1000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Education, Skills & Development",
-        "price": "2000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-        "price": "500"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Handloom & Handicrafts",
-        "price": "200"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "IT/ ITES Services",
-        "price": "1000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Luxury Goods",
-        "price": "2000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Manufacturing, Industries and Industrial Materials",
-        "price": "5000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Petroleum, Chemicals & Other Regulated Products",
-        "price": "3000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Tourism & Hospitality",
-        "price": "5000"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Transportation & Logistics",
-        "price": "1500"
+        "price": "500",
+        "periodOfLicense": ""
     },
     {
-        "tenantId": "hp.Narkanda",
+        "tenantId": "hp.Mandi",
         "feeStructureOf": "zone",
         "type": "A",
-        "price": "1"
-    },
-    {
-        "tenantId": "",
-        "feeStructureOf": "",
-        "type": "",
-        "price": "1"
+        "price": "1",
+        "periodOfLicense": ""
     }
 ]
 }
