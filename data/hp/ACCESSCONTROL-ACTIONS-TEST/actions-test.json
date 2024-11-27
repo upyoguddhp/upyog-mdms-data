@@ -10681,6 +10681,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 2700,
+      "name": "Count All TL Applications",
+      "url": "/tl-services/v1/fetch/APPLICATIONDETAILS",
+      "displayName": "Count All TL Applications",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
