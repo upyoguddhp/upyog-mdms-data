@@ -6,7 +6,7 @@
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 100,
+      "price": 0,
       "periodOfLicense": 1
     },
     {
@@ -90,7 +90,7 @@
       "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 1000
+      "price": 1
     },
     {
       "tenantId": "hp.Shimla",
