@@ -28593,13 +28593,13 @@
     },
 	{
       "rolecode": "EMPLOYEE",
-      "actionid": 2700,
+      "actionid": 1526,
       "actioncode": "",
       "tenantId": "hp"
     },
 	{
       "rolecode": "CITIZEN",
-      "actionid": 2700,
+      "actionid": 1526,
       "actioncode": "",
       "tenantId": "hp"
     }
