@@ -28590,18 +28590,7 @@
       "actionid": 1525,
       "actioncode": "",
       "tenantId": "hp"
-    },
-	{
-      "rolecode": "EMPLOYEE",
-      "actionid": 1526,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-	{
-      "rolecode": "CITIZEN",
-      "actionid": 1526,
-      "actioncode": "",
-      "tenantId": "hp"
     }
+	
   ]
 }
