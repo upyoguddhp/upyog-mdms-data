@@ -10681,6 +10681,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+	  {
+      "id": 1526,
+      "name": "MDMS V2 Search",
+      "url": "/mdms-v2/v1/_search",
+      "displayName": "Count All TL Applications",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+	  {
+      "id": 1527,
+      "name": "MDMS V2 TradeLicense",
+      "url": "/mdms-v2/v2/_search/TradeLicense.TradeSubType",
+      "displayName": "Count All TL Applications",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
