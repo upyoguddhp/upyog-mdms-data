@@ -719,7 +719,7 @@
             "idname": "sewerageservice.disconnection.id"
         },
         {
-            "format": "HP-PTR-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
+            "format": "PT/ULBNAME/VALIDITYPERIOD/00[SEQ_EG_PTR_ID]",
             "idname": "ptr.registrationid"
         },
         {
