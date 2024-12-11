@@ -7,7 +7,7 @@
       "name": "Labrador Retriever",
       "code": "LABRADOR_RETRIEVER",
       "active": true,
-      "PetType": "DOG",
+      "PetType": "Dog",
 	  "fee": 100.00,
 	  "isBannedPet": false
     },
@@ -16,7 +16,7 @@
       "name": "German Shepherd",
       "code": "GERMAN_SHEPHARD",
       "active": true,
-      "PetType": "DOG",
+      "PetType": "Dog",
 	  "fee": 100.00,
 	  "isBannedPet": false
     },
@@ -25,7 +25,7 @@
       "name": "Golden Retriever",
       "code": "GOLDEN_RETRIEVER",
       "active": true,
-      "PetType": "DOG",
+      "PetType": "Dog",
 	  "fee": 100.00,
 	  "isBannedPet": false
     },
@@ -34,7 +34,7 @@
       "name": "Indian Billi",
       "code": "INDIAN_BILLI",
       "active": true,
-      "PetType": "CAT",
+      "PetType": "Cat",
 	  "fee": 100.00,
 	  "isBannedPet": false
     },
@@ -43,7 +43,7 @@
       "name": "Bengal Cat",
       "code": "BENGAL_CAT",
       "active": true,
-      "PetType": "CAT",
+      "PetType": "Cat",
 	  "fee": 100.00,
 	  "isBannedPet": false
     },
@@ -52,7 +52,7 @@
       "name": "Bombay Cat",
       "code": "BOMBAY_CAT",
       "active": true,
-      "PetType": "CAT",
+      "PetType": "Cat",
 	  "fee": 100.00,
 	  "isBannedPet": false
     },
@@ -61,7 +61,7 @@
 	  "name": "Pitbul Terier",
 	  "code": "PITBUL TERIER",
 	  "active": true,
-	  "PetType": "DOG",
+	  "PetType": "Dog",
 	  "fee": 100,
 	  "isBannedPet": true
 	},
@@ -70,7 +70,7 @@
 	  "name": "American Bulldog",
 	  "code": "AMERICAN BULLDOG",
 	  "active": true,
-	  "PetType": "DOG",
+	  "PetType": "Dog",
 	  "fee": 100,
 	  "isBannedPet": true
 	}

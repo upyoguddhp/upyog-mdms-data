@@ -784,7 +784,7 @@
     },
     {
       "code": "SITE_WF_REVIEWER",
-      "name": "SITE REVIEWERr",
+      "name": "SITE REVIEWER",
       "description": "Site Application Verifier"
     },
     {
@@ -801,6 +801,26 @@
       "code": "SECRETARY",
       "name": "Secretary",
       "description": "Secretary"
-    }	
+    } ,
+    {
+      "code": "ASSET_CREATOR",
+      "name": "ASSET CREATOR",
+      "description": "Asset Application Creator"
+    },
+    {
+      "code": "ASSET_APPROVER",
+      "name": "ASSET APPROVER",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_WF_APPROVER",
+      "name": "ASSET WF Approver",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_WF_CREATOR",
+      "name": "ASSET WF Creator",
+      "description": "Asset Application Creator"
+    }
   ]
 }
