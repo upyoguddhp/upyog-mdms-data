@@ -10685,7 +10685,7 @@
 	  {
       "id": 1526,
       "name": "MDMS V2 Search",
-      "url": "/mdms-v2/v1/_search",
+      "url": "/mdms-v2/schema/v1/_search",
       "displayName": "MDMS V2 Search",
       "orderNumber": 1,
       "queryParams": null,
