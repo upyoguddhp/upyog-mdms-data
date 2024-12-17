@@ -10776,7 +10776,7 @@
     {
       "id": 1533,
       "name": "MDMS V2 Create",
-      "url": "/mdms-v2/v2/_create",
+      "url": "/mdms-v2/v2/_create/Districts",
       "displayName": "MDMS V2 Create",
       "orderNumber": 1,
       "queryParams": null,
