@@ -8132,60 +8132,6 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 1533,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "DGRO",
-      "actionid": 1533,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 1533,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1533,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1534,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "DGRO",
-      "actionid": 1534,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 1534,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1534,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1534,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 1538,
       "actioncode": "",
@@ -8392,18 +8338,6 @@
     {
       "rolecode": "CSR",
       "actionid": 1532,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "CSR",
-      "actionid": 1533,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "CSR",
-      "actionid": 1534,
       "actioncode": "",
       "tenantId": "hp"
     },
@@ -8626,18 +8560,6 @@
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1532,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 1533,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 1534,
       "actioncode": "",
       "tenantId": "hp"
     },
@@ -9483,12 +9405,6 @@
     },
     {
       "rolecode": "SYS_INTEGRATOR_FINANCE",
-      "actionid": 1534,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "SYS_INTEGRATOR_FINANCE",
       "actionid": 604,
       "actioncode": "",
       "tenantId": "hp"
@@ -9603,12 +9519,6 @@
     },
     {
       "rolecode": "SYS_INTEGRATOR_WATER_SEW",
-      "actionid": 1534,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "SYS_INTEGRATOR_WATER_SEW",
       "actionid": 604,
       "actioncode": "",
       "tenantId": "hp"
@@ -9652,12 +9562,6 @@
     {
       "rolecode": "EGF_BILL_CREATOR",
       "actionid": 207,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EGF_BILL_CREATOR",
-      "actionid": 1534,
       "actioncode": "",
       "tenantId": "hp"
     },
@@ -10420,12 +10324,6 @@
     {
       "rolecode": "EMPLOYEE_FINANCE",
       "actionid": 1601,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EMPLOYEE_FINANCE",
-      "actionid": 1534,
       "actioncode": "",
       "tenantId": "hp"
     },
@@ -28548,24 +28446,48 @@
 		"actionid": 1532,
 		"actioncode": "",
 		"tenantId": "hp"
-	  },
-	  {
+	},
+	{
 		"rolecode": "EMPLOYEE",
 		"actionid": 1532,
 		"actioncode": "",
 		"tenantId": "hp"
-	  },
+	},
     {
       "rolecode": "CITIZEN",
       "actionid": 1533,
       "actioncode": "",
       "tenantId": "hp"
-      },
-      {
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1533,
       "actioncode": "",
       "tenantId": "hp"
-      }
+    },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 1534,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+    {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1534,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 1535,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+    {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1535,
+        "actioncode": "",
+        "tenantId": "hp"
+    }
   ]
 }
