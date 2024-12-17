@@ -729,6 +729,10 @@
         {
             "format": "TRX//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "newtl.receipt.id"
+        },
+		{
+            "format": "[cy:dd]/[cy:MM]/[cy:yyyy]/[SEQ_EG_PGR_SERVICEREQUESTID]",
+            "idname": "rainmaker.pgr.servicerequestid"
         }
     ]
 }
