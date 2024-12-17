@@ -10811,6 +10811,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1536,
+      "name": "MDMS V2 ULBs Search",
+      "url": "/mdms-v2/v2/_create/ULBs",
+      "displayName": "MDMS V2 ULBs Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1537,
+      "name": "MDMS V2 ULBs Search",
+      "url": "/mdms-v2/v2/_search/ULBs",
+      "displayName": "MDMS V2 ULBs Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }

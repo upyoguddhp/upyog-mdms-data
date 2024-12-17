@@ -10166,24 +10166,6 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1537,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "TL_CEMP",
-      "actionid": 1537,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1684,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
       "rolecode": "TL_CEMP",
       "actionid": 1684,
       "actioncode": "",
@@ -28486,6 +28468,30 @@
     {
         "rolecode": "EMPLOYEE",
         "actionid": 1535,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+	{
+        "rolecode": "CITIZEN",
+        "actionid": 1536,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+    {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1536,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+	{
+        "rolecode": "CITIZEN",
+        "actionid": 1537,
+        "actioncode": "",
+        "tenantId": "hp"
+    },
+    {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1537,
         "actioncode": "",
         "tenantId": "hp"
     }
