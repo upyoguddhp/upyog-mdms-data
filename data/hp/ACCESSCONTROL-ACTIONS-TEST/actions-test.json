@@ -10763,7 +10763,7 @@
     {
       "id": 1532,
       "name": "Asset Action",
-      "url": "/asset-services/v1/assets/assignment/_fetch/ACTIONS",
+      "url": "/asset-services/v1/assets/_fetch/ACTIONS",
       "displayName": "Asset Search",
       "orderNumber": 1,
       "queryParams": null,
