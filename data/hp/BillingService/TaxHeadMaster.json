@@ -5789,7 +5789,7 @@
       "isRequired": true
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "ADVT",
       "name": "LCF.Advertisement_Canopy_Fee",
       "code": "LCF.Advertisement_Canopy_Fee",
