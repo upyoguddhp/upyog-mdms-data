@@ -19,6 +19,10 @@
             "idname": "tl.receipt.id"
         },
         {
+            "format": "ADVT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "advt.receipt.id"
+        },
+        {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "watercharges.nonmetered.receipt.id"
         },
