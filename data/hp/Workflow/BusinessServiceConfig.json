@@ -17,6 +17,10 @@
 	{
       "code": "SITE",
       "isStateLevel": true
+    },
+	{
+      "code": "PGR",
+      "isStateLevel": true
     }
   ]
 }
