@@ -10764,7 +10764,7 @@
       "id": 1532,
       "name": "Asset Action",
       "url": "/asset-services/v1/assets/_fetch/ACTIONS",
-      "displayName": "Asset Search",
+      "displayName": "Asset Actions",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
@@ -10837,6 +10837,58 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+	{
+        "id": 1538,
+        "name": "Create Transaction V2",
+        "url": "/pg-service/transaction/v2/_create",
+        "displayName": "Create Transaction V2",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 1539,
+        "name": "Search Transaction V2",
+        "url": "/pg-service/transaction/v2/_search",
+        "displayName": "Search Transaction V2",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 1540,
+        "name": "Search Transaction V2",
+        "url": "/grievance-service/v1/requests/_create",
+        "displayName": "Search Transaction V2",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+	{
+        "id": 1541,
+        "name": "Property Tax Action",
+        "url": "/property-services/property/_fetch/ACTIONS",
+        "displayName": "Property Tax Action",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
     }
   ]
 }
