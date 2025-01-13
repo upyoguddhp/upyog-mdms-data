@@ -8133,42 +8133,6 @@
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 1541,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1541,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1542,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1542,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1543,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1543,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 1544,
       "actioncode": "",
       "tenantId": "hp"
@@ -28504,6 +28468,24 @@
 	{
     "rolecode": "EMPLOYEE",
     "actionid": 1541,
+    "actioncode": "",
+    "tenantId": "hp"
+	},
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 1542,
+    "actioncode": "",
+    "tenantId": "hp"
+	},
+	{
+    "rolecode": "EMPLOYEE",
+    "actionid": 1542,
+    "actioncode": "",
+    "tenantId": "hp"
+	},
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 1543,
     "actioncode": "",
     "tenantId": "hp"
 	}

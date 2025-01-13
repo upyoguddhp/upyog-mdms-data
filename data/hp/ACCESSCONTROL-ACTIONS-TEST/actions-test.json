@@ -10889,6 +10889,32 @@
         "serviceCode": "ADMIN",
         "code": "null",
         "path": ""
-    }
+    },
+	{
+        "id": 1542,
+        "name": "Community Hall Create",
+        "url": "/chb-services/booking/v1/_create",
+        "displayName": "Community Hall Create",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+    {
+      "id": 1543,
+      "name": "Action Workflow Process",
+      "url": "/egov-workflow-v2/egov-wf/_action",
+      "displayName": "Action Workflow Process",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+  }
   ]
 }
