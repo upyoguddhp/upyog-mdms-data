@@ -10915,6 +10915,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+  },
+  {
+    "id": 1544,
+    "name": "Municipal Grievances",
+    "url": "/pgr-services/v2/request/_create",
+    "displayName": "Municipal Grievances Create",
+    "orderNumber": 1,
+    "queryParams": null,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "ADMIN",
+    "code": "null",
+    "path": ""
   }
   ]
 }

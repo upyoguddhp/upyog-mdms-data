@@ -53,6 +53,12 @@
           "active": "true",
           "isStatelevel": "true"
 
-      }
+      },
+      {
+        "businessService": "GRIEVANCE",
+        "active": "true",
+        "isStatelevel": "true"
+
+    }
     ]
   }
