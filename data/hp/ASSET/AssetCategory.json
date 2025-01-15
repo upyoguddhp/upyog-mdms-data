@@ -277,6 +277,18 @@
         "code": "OTHER_EQUIPMENTS",
         "active": true,
         "assetParentCategory": "OTHER"
+      },
+      {
+        "name": "Community Halls",
+        "code": "COMMUNITY_HALLS",
+        "active": true,
+        "assetParentCategory": "COMMUNITY_HALLS"
+      },
+      {
+        "name": "Community Grounds",
+        "code": "COMMUNITY_GROUNDS",
+        "active": true,
+        "assetParentCategory": "COMMUNITY_GROUNDS"
       }
     ]
   }
