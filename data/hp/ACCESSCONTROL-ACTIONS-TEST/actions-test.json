@@ -10764,7 +10764,7 @@
       "id": 1532,
       "name": "Asset Action",
       "url": "/asset-services/v1/assets/_fetch/ACTIONS",
-      "displayName": "Asset Search",
+      "displayName": "Asset Actions",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
@@ -10838,24 +10838,76 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 1538,
-      "name": "GET paytm Checksum",
-      "url": "/pg-service/paytm/create/_payment",
-      "displayName": "GET paytm Checksum",
-      "orderNumber": 1,
-      "queryParams": null,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": ""
+	{
+        "id": 1538,
+        "name": "Create Transaction V2",
+        "url": "/pg-service/transaction/v2/_create",
+        "displayName": "Create Transaction V2",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
     },
     {
-      "id": 1539,
-      "name": "create feedback submission",
-      "url": "/feedback-service/submission/_create",
-      "displayName": "feeback create",
+        "id": 1539,
+        "name": "Search Transaction V2",
+        "url": "/pg-service/transaction/v2/_search",
+        "displayName": "Search Transaction V2",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 1540,
+        "name": "Search Transaction V2",
+        "url": "/grievance-service/v1/requests/_create",
+        "displayName": "Search Transaction V2",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+	{
+        "id": 1541,
+        "name": "Property Tax Action",
+        "url": "/property-services/property/_fetch/ACTIONS",
+        "displayName": "Property Tax Action",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+	{
+        "id": 1542,
+        "name": "Community Hall Create",
+        "url": "/chb-services/booking/v1/_create",
+        "displayName": "Community Hall Create",
+        "orderNumber": 1,
+        "queryParams": null,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": ""
+    },
+    {
+      "id": 1543,
+      "name": "Action Workflow Process",
+      "url": "/egov-workflow-v2/egov-wf/_action",
+      "displayName": "Action Workflow Process",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
@@ -10863,32 +10915,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
-    ,{
-      "id": 1540,
-      "name": "search feedback submission",
-      "url": "/feedback-service/submission/_search",
-      "displayName": "feeback search",
-      "orderNumber": 1,
-      "queryParams": null,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": ""
-    },{
-      "id": 1541,
-      "name": "check Paytm payment status",
-      "url": "/pg-service/paytm/verify/_payment",
-      "displayName": "paytm payment status",
-      "orderNumber": 1,
-      "queryParams": null,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": ""
-    }
-
+  },
+  {
+    "id": 1544,
+    "name": "create feedback submission",
+    "url": "/feedback-service/submission/_create",
+    "displayName": "feeback create",
+    "orderNumber": 1,
+    "queryParams": null,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "ADMIN",
+    "code": "null",
+    "path": ""
+  }
+  ,{
+    "id": 1545,
+    "name": "search feedback submission",
+    "url": "/feedback-service/submission/_search",
+    "displayName": "feeback search",
+    "orderNumber": 1,
+    "queryParams": null,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "ADMIN",
+    "code": "null",
+    "path": ""
+  }
   ]
 }

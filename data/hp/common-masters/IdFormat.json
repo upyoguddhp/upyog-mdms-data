@@ -571,10 +571,6 @@
             "idname": "noc.application.number"
         },
         {
-            "format": "PG-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
-            "idname": "pgr.servicerequestid"
-        },
-        {
             "idname": "bs.amendment.id",
             "format": "NOTETYPE-CONSUMERCODE-[SEQ_BS_MUTATION_[tenant_id]]"
         },
@@ -733,6 +729,14 @@
         {
             "format": "TRX//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "newtl.receipt.id"
+        },
+		{
+            "format": "[cy:dd]/[cy:MM]/[cy:yyyy]/[SEQ_EG_PGR_SERVICEREQUESTID]",
+            "idname": "rainmaker.pgr.servicerequestid"
+        },
+		{
+            "format": "HP-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+            "idname": "pgr.servicerequestid"
         }
     ]
 }

@@ -721,6 +721,18 @@
         "code": "NA",
         "active": true,
         "assetCategory": "HMV"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "COMMUNITY_HALLS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "COMMUNITY_GROUNDS"
       }
     ]
 }
