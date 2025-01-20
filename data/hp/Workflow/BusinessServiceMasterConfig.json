@@ -62,7 +62,6 @@
 	  "businessService": "PROPERTY_EMPLOYEE",
 	  "active": "true",
 	  "isStatelevel": "false"
-	  }
       },
       {
         "businessService": "GRIEVANCE",
