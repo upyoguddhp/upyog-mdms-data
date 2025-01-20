@@ -28488,6 +28488,30 @@
     "actionid": 1543,
     "actioncode": "",
     "tenantId": "hp"
-	}
+	},
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 1544,
+    "actioncode": "",
+    "tenantId": "hp"
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 1544,
+    "actioncode": "",
+    "tenantId": "hp"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 1545,
+    "actioncode": "",
+    "tenantId": "hp"
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 1545,
+    "actioncode": "",
+    "tenantId": "hp"
+  }
   ]
 }

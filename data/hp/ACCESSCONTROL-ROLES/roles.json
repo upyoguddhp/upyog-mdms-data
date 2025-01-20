@@ -821,6 +821,16 @@
       "code": "ASSET_WF_CREATOR",
       "name": "ASSET WF Creator",
       "description": "Asset Application Creator"
+    },
+    {
+      "code": "L1_OFFICER",
+      "name": "GRIEVANCE L1 OFFICER",
+      "description": "Grievance L1 Officer"
+    },
+    {
+      "code": "L2_OFFICER",
+      "name": "GRIEVANCE L2 OFFICER",
+      "description": "Grievance L2 Officer"
     }
   ]
 }
