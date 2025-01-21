@@ -10980,6 +10980,19 @@
   "serviceCode": "ADMIN",
   "code": "null",
   "path": ""
+},
+{
+  "id": 1549,
+  "name": "Property Service Update Status",
+  "url": "/property-services/property/_updateStatus",
+  "displayName": "Property Service Update Status",
+  "orderNumber": 1,
+  "queryParams": null,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "ADMIN",
+  "code": "null",
+  "path": ""
 }
 
   ]
