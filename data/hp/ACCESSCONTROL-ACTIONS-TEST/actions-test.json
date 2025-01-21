@@ -10941,6 +10941,59 @@
     "serviceCode": "ADMIN",
     "code": "null",
     "path": ""
-  }
+  },
+  {
+    "id": 1546,
+    "name": "Community Hall Search",
+    "url": "/chb-services/booking/v1/_search",
+    "displayName": "Community Hall Search",
+    "orderNumber": 1,
+    "queryParams": null,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "ADMIN",
+    "code": "null",
+    "path": ""
+},
+  {
+    "id": 1547,
+    "name": "Calculate Community Hall Account Fee",
+    "url": "/chb-services/booking/v1/fetch/CALCULATEFEE",
+    "displayName": "Calculate Community Hall Account Fee",
+    "orderNumber": 1,
+    "queryParams": null,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "ADMIN",
+    "code": "null",
+    "path": ""
+},
+{
+  "id": 1548,
+  "name": "Calculate Community Hall status",
+  "url": "/chb-services/booking/v1/_update_status",
+  "displayName": "Calculate Community Hall update status",
+  "orderNumber": 1,
+  "queryParams": null,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "ADMIN",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 1549,
+  "name": "Property Service Update Status",
+  "url": "/property-services/property/_updateStatus",
+  "displayName": "Property Service Update Status",
+  "orderNumber": 1,
+  "queryParams": null,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "ADMIN",
+  "code": "null",
+  "path": ""
+}
+
   ]
 }
