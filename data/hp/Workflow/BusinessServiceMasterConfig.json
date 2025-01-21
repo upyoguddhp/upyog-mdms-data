@@ -52,13 +52,21 @@
           "businessService": "PROPERTY",
           "active": "true",
           "isStatelevel": "true"
-
+      },
+	  {
+		"businessService": "PROPERTY_CITIZEN",
+		"active": "true",
+		"isStatelevel": "false"
+	  },
+	  {
+	  "businessService": "PROPERTY_EMPLOYEE",
+	  "active": "true",
+	  "isStatelevel": "false"
       },
       {
         "businessService": "GRIEVANCE",
         "active": "true",
         "isStatelevel": "true"
-
     }
     ]
   }
