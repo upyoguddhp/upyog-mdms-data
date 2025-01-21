@@ -47,6 +47,12 @@
           "active": "true",
           "isStatelevel": "true"
 
-      }
+      },
+      {
+        "businessService": "chb-services",
+        "active": "true",
+        "isStatelevel": "false"
+
+    }
     ]
   }
