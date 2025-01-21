@@ -52,7 +52,17 @@
         "businessService": "chb-services",
         "active": "true",
         "isStatelevel": "false"
-
-    }
+    
+      },
+	    {
+          "businessService": "PROPERTY_CITIZEN",
+          "active": "true",
+          "isStatelevel": "false"
+      },
+	    {
+		  "businessService": "PROPERTY_EMPLOYEE",
+		  "active": "true",
+		  "isStatelevel": "false"
+	  }
     ]
   }
