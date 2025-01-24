@@ -11032,6 +11032,19 @@
   "serviceCode": "ADMIN",
   "code": "null",
   "path": ""
+},
+{
+  "id": 1553,
+  "name": "Update Transaction",
+  "url": "/pg-service/transaction/v1/_update",
+  "displayName": "Update Transaction",
+  "orderNumber": 1,
+  "queryParams": null,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "ADMIN",
+  "code": "null",
+  "path": ""
 }
 
   ]
