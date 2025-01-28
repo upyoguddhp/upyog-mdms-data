@@ -10971,7 +10971,7 @@
     {
       "id": 1548,
       "name": "RDF Monitoring",
-      "url": "/rdf-monitoring/web/rdfinfo/_create",
+      "url": "/rdf-monitoring/rdfinfo/_create",
       "displayName": "RDF Monitoring",
       "orderNumber": 1,
       "queryParams": null,
@@ -10984,7 +10984,7 @@
     {
       "id": 1549,
       "name": "RDF Monitoring",
-      "url": "/rdf-monitoring/web/rdfinfo/_search",
+      "url": "/rdf-monitoring/rdfinfo/_search",
       "displayName": "RDF Monitoring",
       "orderNumber": 1,
       "queryParams": null,
@@ -10997,7 +10997,7 @@
     {
       "id": 1550,
       "name": "Vehicle Request",
-      "url": "/rdf-monitoring/web/rdfinfo/_vehicle-request",
+      "url": "/rdf-monitoring/rdfinfo/_vehicle-request",
       "displayName": "vehicle Request",
       "orderNumber": 1,
       "queryParams": null,
@@ -11010,7 +11010,7 @@
     {
       "id": 1551,
       "name": "Vehicle Request",
-      "url": "/rdf-monitoring/web/rdfinfo/_vehicle-request-update",
+      "url": "/rdf-monitoring/rdfinfo/_vehicle-request-update",
       "displayName": "vehicle Request update",
       "orderNumber": 1,
       "queryParams": null,
@@ -11023,7 +11023,7 @@
     {
       "id": 1552,
       "name": "Vehicle Request",
-      "url": "/rdf-monitoring/web/rdfinfo/_search-vehicle-request",
+      "url": "/rdf-monitoring/rdfinfo/_search-vehicle-request",
       "displayName": "vehicle Request update",
       "orderNumber": 1,
       "queryParams": null,
