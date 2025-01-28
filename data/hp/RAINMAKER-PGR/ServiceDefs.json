@@ -12,6 +12,16 @@
       "active": true
     },
     {
+      "serviceCode": "StreetLightNotWorking",
+      "name": "Streetlight not working",
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "StreetLights",
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
+    },
+    {
       "serviceCode": "NonSweepingOfRoad",
       "name": "Non sweeping of road",
       "active": true,
@@ -19,7 +29,8 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "order": 5
+      "order": 5,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "StreetLightNotWorking",
@@ -39,7 +50,8 @@
       "slaHours": 336,
       "menuPath": "Garbage",
       "active": true,
-      "order": 4
+      "order": 4,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "DamagedGarbageBin",
@@ -57,7 +69,8 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "OverflowingOrBlockedDrain",
@@ -65,8 +78,9 @@
       "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Drains",
-      "active": true
+      "menuPath": "WaterandSewage",
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "illegalDischargeOfSewage",
@@ -85,7 +99,8 @@
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true,
-      "order": 2
+      "order": 2,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "ShortageOfWater",
@@ -103,7 +118,8 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "DirtyWaterSupply",
@@ -122,7 +138,8 @@
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "active": true,
-      "order": 3
+      "order": 3,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "WaterPressureisVeryLess",
@@ -158,7 +175,8 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "DamagedOrBlockedFootpath",
@@ -176,7 +194,8 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "RequestSprayingOrFoggingOperation",
@@ -194,7 +213,8 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "DeadAnimals",
@@ -203,7 +223,8 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "DirtyOrSmellyPublicToilets",
@@ -212,7 +233,8 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "PublicToiletIsDamaged",
@@ -222,6 +244,16 @@
       "slaHours": 336,
       "menuPath": "PublicToilets",
       "active": true
+    },
+    {
+      "serviceCode": "LackOfAmenitiesInPublicToilet",
+      "name": "Lack of amenities in public toilet",
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "PublicToilets",
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
@@ -248,7 +280,8 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "IllegalParking",
@@ -257,7 +290,8 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "IllegalCuttingOfTrees",
@@ -284,7 +318,8 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "OpenDefecation",
-      "active": true
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
     },
     {
       "serviceCode": "ParkRequiresMaintenance",
@@ -306,58 +341,69 @@
       "order": 6
     },
     {
-    "serviceCode": "PropertyTaxAssessment",
+      "serviceCode": "PropertyTaxAssessment",
       "name": "Property Tax Assessment",
       "keywords": "property, tax, Assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": true
-},
-{
-    "serviceCode": "PropertyTaxAppealPetition",
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
+    },
+    {
+      "serviceCode": "PropertyTaxAppealPetition",
       "name": "Property Tax Appeal Petition",
       "keywords": "property, tax, appeal, petition",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
+    },
+    {
+      "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
       "name": "Change of title/ownership of property",
       "keywords": "property, ownership, title, change",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "DealerRegistration",
+    },
+    {
+      "serviceCode": "DealerRegistration",
       "name": "Dealer registration(Cess)",
       "keywords": "property, dealer, registration",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "DealerAssessment",
+    },
+    {
+      "serviceCode": "DealerAssessment",
       "name": "Dealer Assessment",
       "keywords": "property, dealer, assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "RefundClaims",
+    },
+    {
+      "serviceCode": "RefundClaims",
       "name": "Refund Claims",
       "keywords": "property, refund, Claims",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-}
-]
+    },
+    {
+      "serviceCode": "MiscellaneousIssues",
+      "name": "Miscellaneous Issues",
+      "keywords": "Miscellaneous Issues",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Others",
+      "active": true,
+      "grievanceType": "SAMADHANSHIVIR"
+    }
+  ]
 }
