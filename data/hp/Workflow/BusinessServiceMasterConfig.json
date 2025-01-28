@@ -53,14 +53,19 @@
       "isStatelevel": "true"
     },
     {
-      "businessService": "PGR",
+      "businessService": "PROPERTY_CITIZEN",
       "active": "true",
-      "isStatelevel": "true"
+      "isStatelevel": "false"
     },
     {
-      "businessService": "RDF",
+      "businessService": "PROPERTY_EMPLOYEE",
       "active": "true",
-      "isStatelevel": "true"
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "chb-services",
+      "active": "true",
+      "isStatelevel": "false"
     }
   ]
 }
