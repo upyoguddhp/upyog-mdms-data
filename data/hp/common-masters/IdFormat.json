@@ -463,7 +463,7 @@
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PG-PT-[CITY.CODE]-[SEQ_EG_PT_PTID]",
+            "format": "PID/REPLACESTRING/[cy:MMyyyy]/[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         },
         {
