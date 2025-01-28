@@ -10941,6 +10941,98 @@
     "serviceCode": "ADMIN",
     "code": "null",
     "path": ""
-  }
+  },
+    {
+      "id": 1546,
+      "name": "Municipal Grievances",
+      "url": "/pgr-services/v2/request/_update",
+      "displayName": "Municipal Grievances search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1547,
+      "name": "Municipal Grievances",
+      "url": "/pgr-services/v2/request/_updateStatus",
+      "displayName": "Municipal Grievances Status update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1548,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/web/rdfinfo/_create",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1549,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/web/rdfinfo/_search",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1550,
+      "name": "Vehicle Request",
+      "url": "/rdf-monitoring/web/rdfinfo/_vehicle-request",
+      "displayName": "vehicle Request",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1551,
+      "name": "Vehicle Request",
+      "url": "/rdf-monitoring/web/rdfinfo/_vehicle-request-update",
+      "displayName": "vehicle Request update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1552,
+      "name": "Vehicle Request",
+      "url": "/rdf-monitoring/web/rdfinfo/_search-vehicle-request",
+      "displayName": "vehicle Request update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }
+    
   ]
 }

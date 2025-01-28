@@ -831,6 +831,21 @@
       "code": "L2_OFFICER",
       "name": "GRIEVANCE L2 OFFICER",
       "description": "Grievance L2 Officer"
+    },
+    {
+      "code": "RDF_ADMIN",
+      "name": "RDF UDD Admin",
+      "description": "RDF Admin User"
+    },
+    {
+      "code":"RDF_VERIFIER",
+      "name": "RDF VERIFIER",
+      "description": "RDF ULB VERIFIER"
+    },
+    {
+      "code":"RDF_CEMENT_FACTORY_NODAL",
+      "name": "RDF CEMENT FACTORY NODAL",
+      "description": "CEMENT FACTORY NODAL"
     }
   ]
 }
