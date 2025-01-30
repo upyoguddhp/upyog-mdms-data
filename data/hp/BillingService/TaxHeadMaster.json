@@ -5807,6 +5807,16 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
-    }
+    },
+	{
+		"category": "FEE",
+		"service": "PROPERTY",
+		"name": "LCF.Property_Tax_Collection_Fee",
+		"code": "LCF.Property_Tax_Collection_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	}
   ]
 }

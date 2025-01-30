@@ -2069,7 +2069,35 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
-    }
+    },
+	{
+		"businessService": "PROPERTY_EMPLOYEE",
+		"code": "PROPERTY_EMPLOYEE",
+		"collectionModesNotAllowed": [
+			"DD",
+			"OFFLINE_NEFT",
+			"OFFLINE_RTGS",
+			"POSTAL_ORDER"
+		],
+		"partPaymentAllowed": false,
+		"isAdvanceAllowed": false,
+		"demandUpdateTime": 604800000,
+		"isVoucherCreationEnabled": true
+	},
+	{
+		"businessService": "PROPERTY_CITIZEN",
+		"code": "PROPERTY_CITIZEN",
+		"collectionModesNotAllowed": [
+			"DD",
+			"OFFLINE_NEFT",
+			"OFFLINE_RTGS",
+			"POSTAL_ORDER"
+		],
+		"partPaymentAllowed": false,
+		"isAdvanceAllowed": false,
+		"demandUpdateTime": 604800000,
+		"isVoucherCreationEnabled": true
+	}
 
   ]
 }
