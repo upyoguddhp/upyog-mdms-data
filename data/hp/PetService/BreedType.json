@@ -3,7 +3,7 @@
   "moduleName": "PetService",
   "BreedType": [
     {
-	  "tenantId": "hp.shimla",
+	  "tenantId": "hp.Shimla",
       "name": "Labrador Retriever",
       "code": "LABRADOR_RETRIEVER",
       "active": true,
@@ -12,7 +12,7 @@
 	  "isBannedPet": false
     },
     {
-	  "tenantId": "hp.shimla",
+	  "tenantId": "hp.Shimla",
       "name": "German Shepherd",
       "code": "GERMAN_SHEPHARD",
       "active": true,
@@ -21,7 +21,7 @@
 	  "isBannedPet": false
     },
     {
-	  "tenantId": "hp.shimla",
+	  "tenantId": "hp.Shimla",
       "name": "Golden Retriever",
       "code": "GOLDEN_RETRIEVER",
       "active": true,
@@ -29,35 +29,8 @@
 	  "fee": 100.00,
 	  "isBannedPet": false
     },
-    {
-	  "tenantId": "hp.shimla",
-      "name": "Indian Billi",
-      "code": "INDIAN_BILLI",
-      "active": true,
-      "PetType": "Cat",
-	  "fee": 100.00,
-	  "isBannedPet": false
-    },
-    {
-	  "tenantId": "hp.shimla",
-      "name": "Bengal Cat",
-      "code": "BENGAL_CAT",
-      "active": true,
-      "PetType": "Cat",
-	  "fee": 100.00,
-	  "isBannedPet": false
-    },
-    {
-	  "tenantId": "hp.shimla",
-      "name": "Bombay Cat",
-      "code": "BOMBAY_CAT",
-      "active": true,
-      "PetType": "Cat",
-	  "fee": 100.00,
-	  "isBannedPet": false
-    },
 	{
-	  "tenantId": "hp.shimla",
+	  "tenantId": "hp.Shimla",
 	  "name": "Pitbul Terier",
 	  "code": "PITBUL TERIER",
 	  "active": true,
@@ -66,7 +39,7 @@
 	  "isBannedPet": true
 	},
 	{
-	  "tenantId": "hp.shimla",
+	  "tenantId": "hp.Shimla",
 	  "name": "American Bulldog",
 	  "code": "AMERICAN BULLDOG",
 	  "active": true,
