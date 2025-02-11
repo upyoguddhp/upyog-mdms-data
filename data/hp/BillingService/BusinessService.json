@@ -2097,6 +2097,34 @@
 		"isAdvanceAllowed": false,
 		"demandUpdateTime": 604800000,
 		"isVoucherCreationEnabled": true
+	},
+	{
+		"businessService": "GB_EMPLOYEE",
+		"code": "GB_EMPLOYEE",
+		"collectionModesNotAllowed": [
+			"DD",
+			"OFFLINE_NEFT",
+			"OFFLINE_RTGS",
+			"POSTAL_ORDER"
+		],
+		"partPaymentAllowed": false,
+		"isAdvanceAllowed": false,
+		"demandUpdateTime": 604800000,
+		"isVoucherCreationEnabled": true
+	},
+	{
+		"businessService": "GB_CITIZEN",
+		"code": "GB_CITIZEN",
+		"collectionModesNotAllowed": [
+			"DD",
+			"OFFLINE_NEFT",
+			"OFFLINE_RTGS",
+			"POSTAL_ORDER"
+		],
+		"partPaymentAllowed": false,
+		"isAdvanceAllowed": false,
+		"demandUpdateTime": 604800000,
+		"isVoucherCreationEnabled": true
 	}
 
   ]
