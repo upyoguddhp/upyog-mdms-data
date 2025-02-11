@@ -1689,6 +1689,22 @@
 		"service": "PROPERTY_CITIZEN",
 		"code": "PT2025",
 		"financialYear": "2024-29"
+	},
+	{
+		"fromDate": 1690736733460,
+		"toDate": 1893456000000,
+		"periodCycle": "YEARLY",
+		"service": "GB_CITIZEN",
+		"code": "GB2025",
+		"financialYear": "2024-29"
+	},
+	{
+		"fromDate": 1690736733460,
+		"toDate": 1893456000000,
+		"periodCycle": "YEARLY",
+		"service": "GB_EMPLOYEE",
+		"code": "GB2025",
+		"financialYear": "2024-29"
 	}
   ]
 }
