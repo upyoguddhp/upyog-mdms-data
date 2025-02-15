@@ -11136,6 +11136,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1561,
+      "name": "Create Employee",
+      "url": "/egov-hrms/employees/_search",
+      "displayName": "Search Employee",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1562,
+      "name": "Decrypt Data",
+      "url": "/egov-enc-service/crypto/v1/_decrypt",
+      "displayName": "Decrypt Data",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1563,
+      "name": "Encrypt Data",
+      "url": "/egov-enc-service/crypto/v1/_encrypt",
+      "displayName": "Encrypt Data",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
