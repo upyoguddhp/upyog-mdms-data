@@ -4,53 +4,68 @@
   "ULBS": [
     {
       "name": "Dharamshala",
-      "code":"248211",
+      "code": "248211",
       "type": "Municipal Corporation"
     },
-	{
+    {
       "name": "Palampur",
-      "code":"248217",
+      "code": "248217",
       "type": "Municipal Corporation"
     },
-	{
+    {
       "name": "Kangra",
-      "code":"248213",
+      "code": "248213",
       "type": "Municipal Council"
     },
     {
       "name": "Nurpur",
-      "code":"248210",
+      "code": "248210",
       "type": "Municipal Council"
     },
     {
       "name": "Nagrota",
-      "code":"248214",
+      "code": "248214",
       "type": "Municipal Council"
     },
-	{
+    {
       "name": "Jawalamukhi",
-      "code":"248216",
+      "code": "248216",
       "type": "Municipal Council"
     },
-	{
+    {
       "name": "BaijnathPaprola",
-      "code":"274797",
-      "type": "Nagar Panchayat"
+      "code": "274797",
+      "type": "Municipal Council"
     },
-	{
+    {
       "name": "Jawali",
-      "code":"275535",
+      "code": "275535",
       "type": "Nagar Panchayat"
     },
-	{
+    {
       "name": "Shahpur",
-      "code":"297015",
+      "code": "297015",
       "type": "Nagar Panchayat"
     },
-	{
+    {
       "name": "Dehra",
-      "code":"276626",
+      "code": "276626",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "NagrotaSurian",
+      "code": "000001",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Kotla",
+      "code": "000001",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Khundian",
+      "code": "000001",
       "type": "Nagar Panchayat"
     }
-]
+  ]
 }

@@ -4,18 +4,23 @@
   "ULBS": [
     {
       "name": "Chamba",
-      "code":"248046",
+      "code": "248046",
       "type": "Municipal Council"
     },
-	{
+    {
       "name": "Dalhousie",
-      "code":"248044",
+      "code": "248044",
       "type": "Municipal Council"
     },
-	{
+    {
       "name": "Chowari",
-      "code":"276627",
+      "code": "276627",
       "type": "Nagar Panchayat"
-    }	
-]
+    },
+    {
+      "name": "Banikhet",
+      "code": "000001",
+      "type": "Nagar Panchayat"
+    }
+  ]
 }
