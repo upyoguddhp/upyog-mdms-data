@@ -4,33 +4,38 @@
   "ULBS": [
     {
       "name": "Solan",
-      "code":"248244",
+      "code": "248244",
       "type": "Municipal Corporation"
     },
-	{
-	   "name": "Nalagarh",
-      "code":"248241",
+    {
+      "name": "Nalagarh",
+      "code": "248241",
       "type": "Municipal Council"
     },
-	{
-	  "name": "Parwanoo",
-      "code":"248243",
-      "type": "Municipal Council"
-    },	
-	{
-	  "name": "Baddi",
-      "code":"248242",
+    {
+      "name": "Parwanoo",
+      "code": "248243",
       "type": "Municipal Council"
     },
-	{
-	  "name": "Arki",
-      "code":"248240",
+    {
+      "name": "Baddi",
+      "code": "248242",
+      "type": "Municipal Corporation"
+    },
+    {
+      "name": "Arki",
+      "code": "248240",
       "type": "Nagar Panchayat"
     },
-	{
-	  "name": "Kandaghat",
-      "code":"297010",
+    {
+      "name": "Kandaghat",
+      "code": "297010",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Kunihar",
+      "code": "000001",
       "type": "Nagar Panchayat"
     }
-]
+  ]
 }
