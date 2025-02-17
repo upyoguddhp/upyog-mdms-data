@@ -1,0 +1,11 @@
+{
+  "tenantId": "hp.Sandhole",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Sandhole",
+      "code": "00000",
+	  "active":"true"
+    }
+  ]
+}

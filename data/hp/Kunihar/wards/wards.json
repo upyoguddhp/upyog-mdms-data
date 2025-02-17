@@ -1,0 +1,11 @@
+{
+  "tenantId": "hp.Kunihar",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Kunihar",
+      "code": "00000",
+	  "active":"true"
+    }
+  ]
+}

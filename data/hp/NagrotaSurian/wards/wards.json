@@ -1,0 +1,11 @@
+{
+  "tenantId": "hp.NagrotaSurian",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Nagrota Surian",
+      "code": "0000",
+	  "active":"true"
+    }
+  ]
+}
