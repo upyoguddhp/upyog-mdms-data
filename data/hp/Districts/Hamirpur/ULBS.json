@@ -4,23 +4,33 @@
   "ULBS": [
     {
       "name": "Hamirpur",
-      "code":"248229",
-      "type": "Municipal Council"
+      "code": "248229",
+      "type": "Municipal Corporation"
     },
-	{
+    {
       "name": "Sujanpur",
-      "code":"248227",
+      "code": "248227",
       "type": "Municipal Council"
     },
-	{
+    {
       "name": "Nadaun",
-      "code":"248228",
+      "code": "248228",
+      "type": "Municipal Council"
+    },
+    {
+      "name": "Bhota",
+      "code": "248230",
       "type": "Nagar Panchayat"
     },
-{
-      "name": "Bhota",
-      "code":"248230",
+    {
+      "name": "Barsar",
+      "code": "000001",
       "type": "Nagar Panchayat"
-    }		
-]
+    },
+    {
+      "name": "Bhoranj",
+      "code": "000001",
+      "type": "Nagar Panchayat"
+    }
+  ]
 }

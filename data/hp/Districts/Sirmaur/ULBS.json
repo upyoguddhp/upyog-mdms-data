@@ -4,18 +4,23 @@
   "ULBS": [
     {
       "name": "Nahan",
-      "code":"248043",
+      "code": "248043",
       "type": "Municipal Council"
     },
-	{
-	   "name": "PoantaSahib",
-      "code":"248045",
+    {
+      "name": "PoantaSahib",
+      "code": "248045",
       "type": "Municipal Council"
     },
-	{
-	  "name": "Rajgarh",
-      "code":"248047",
+    {
+      "name": "Rajgarh",
+      "code": "248047",
       "type": "Municipal Council"
-    }	
-]
+    },
+    {
+      "name": "Shillai",
+      "code": "000001",
+      "type": "Nagar Panchayat"
+    }
+  ]
 }
