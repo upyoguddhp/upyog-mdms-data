@@ -4,38 +4,53 @@
   "ULBS": [
     {
       "name": "Mandi",
-      "code":"248225",
+      "code": "248225",
       "type": "Municipal Corporation"
     },
-	{
+    {
       "name": "Sundernagar",
-      "code":"248224",
+      "code": "248224",
       "type": "Municipal Council"
     },
-	{
+    {
       "name": "NerChowk",
-      "code":"274794",
+      "code": "274794",
       "type": "Municipal Council"
     },
     {
       "name": "Jogindernagar",
-      "code":"248222",
+      "code": "248222",
       "type": "Municipal Council"
     },
     {
       "name": "Sarkaghat",
-      "code":"248223",
+      "code": "248223",
       "type": "Municipal Council"
     },
-	{
+    {
       "name": "Rewalsar",
-      "code":"248226",
+      "code": "248226",
       "type": "Nagar Panchayat"
     },
-	{
+    {
       "name": "Karsog",
-      "code":"276625",
+      "code": "276625",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Dharampur",
+      "code": "000001",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Sandhole",
+      "code": "000001",
+      "type": "Nagar Panchayat"
+    },
+    {
+      "name": "Baldwara",
+      "code": "000001",
       "type": "Nagar Panchayat"
     }
-]
+  ]
 }

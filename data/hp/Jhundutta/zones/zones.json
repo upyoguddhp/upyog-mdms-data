@@ -1,0 +1,10 @@
+{
+  "tenantId": "hp.Jhundutta",
+  "moduleName": "zones",
+  "zones": [
+    {
+      "name": "A",
+	  "active":"true"
+    }
+  ]
+}	
