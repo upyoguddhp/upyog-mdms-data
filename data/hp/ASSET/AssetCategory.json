@@ -285,8 +285,32 @@
         "assetParentCategory": "COMMUNITY_HALLS"
       },
       {
-        "name": "Community Grounds",
-        "code": "COMMUNITY_GROUNDS",
+        "name": "Marriage",
+        "code": "MARRIAGE",
+        "active": true,
+        "assetParentCategory": "COMMUNITY_HALLS"
+      },
+      {
+        "name": "Dham",
+        "code": "DHAM",
+        "active": true,
+        "assetParentCategory": "COMMUNITY_HALLS"
+      },
+      {
+        "name": "Chawari(Chawarkh)",
+        "code": "CHAWARI",
+        "active": true,
+        "assetParentCategory": "COMMUNITY_HALLS"
+      },
+      {
+        "name": "Last Rites/ Death Ceremony",
+        "code": "LAST_RITES",
+        "active": true,
+        "assetParentCategory": "COMMUNITY_GROUNDS"
+      },
+      {
+        "name": "Religious Events(BHagwat Katha, Bhajan Kirtan)",
+        "code": "RELIGIOUS_EVENTS",
         "active": true,
         "assetParentCategory": "COMMUNITY_GROUNDS"
       }
