@@ -737,6 +737,14 @@
 		{
             "format": "HP-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
             "idname": "pgr.servicerequestid"
+        },
+        {
+            "format": "CHB//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "chb-services.receipt.id"
+        },
+        {
+            "format": "GB//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "gb.receipt.id"
         }
     ]
 }
