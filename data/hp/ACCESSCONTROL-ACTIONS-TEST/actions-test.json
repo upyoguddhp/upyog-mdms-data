@@ -10541,9 +10541,9 @@
     },
     {
       "id": 1515,
-      "name": "Create Employee",
-      "url": "/egov-hrms/employees/_create",
-      "displayName": "Create Employee",
+      "name": "Search Employee",
+      "url": "/egov-hrms/employees/_search",
+      "displayName": "Search Employee",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
