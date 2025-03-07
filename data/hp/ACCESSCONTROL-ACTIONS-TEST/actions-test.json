@@ -11149,6 +11149,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1562,
+      "name": "chb slot details",
+      "url": "/chb-services/booking/v1/_slot-details",
+      "displayName": "chb slot details",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
