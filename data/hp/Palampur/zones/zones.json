@@ -4,11 +4,19 @@
   "zones": [
     {
       "name": "A",
-	  "active":"true"
+      "active": "true"
     },
     {
       "name": "B",
-	  "active":"true"
+      "active": "true"
+    },
+    {
+      "name": "C",
+      "active": "true"
+    },
+    {
+      "name": "D",
+      "active": "true"
     }
   ]
-}	
+}
