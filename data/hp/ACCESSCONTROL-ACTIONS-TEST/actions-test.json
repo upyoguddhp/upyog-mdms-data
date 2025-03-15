@@ -11161,6 +11161,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id":1563,
+      "name": "Generate garbage bills",
+      "url": "/garbage-service/garbage-accounts-scheduler/bill-generator",
+      "displayName": "Generate garbage bills",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
