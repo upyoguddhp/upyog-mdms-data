@@ -498,6 +498,13 @@
 		"active": true,
 		"PetType": "Dog",
 		"isBannedPet": true
+	  },
+	  {
+		"name": "Dobermann",
+		"code": "DOBERMANN",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
 	  }
 	]
   }
