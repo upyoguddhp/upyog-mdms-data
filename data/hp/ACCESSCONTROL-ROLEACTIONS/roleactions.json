@@ -201,13 +201,13 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EMPLOYEE",
       "actionid": 638,
       "actioncode": "",
       "tenantId": "hp"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EMPLOYEE",
       "actionid": 639,
       "actioncode": "",
       "tenantId": "hp"
@@ -435,7 +435,7 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "EMPLOYEE",
       "actionid": 662,
       "actioncode": "",
       "tenantId": "hp"
@@ -28709,6 +28709,24 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1561,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1562,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1562,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1563,
       "actioncode": "",
       "tenantId": "hp"
     }

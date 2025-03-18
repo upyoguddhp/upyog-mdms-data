@@ -1,51 +1,511 @@
 {
-  "tenantId": "hp",
-  "moduleName": "PetService",
-  "BreedType": [
-    {
-	  "tenantId": "hp.Shimla",
-      "name": "Labrador Retriever",
-      "code": "LABRADOR_RETRIEVER",
-      "active": true,
-      "PetType": "Dog",
-	  "fee": 100.00,
-	  "isBannedPet": false
-    },
-    {
-	  "tenantId": "hp.Shimla",
-      "name": "German Shepherd",
-      "code": "GERMAN_SHEPHARD",
-      "active": true,
-      "PetType": "Dog",
-	  "fee": 100.00,
-	  "isBannedPet": false
-    },
-    {
-	  "tenantId": "hp.Shimla",
-      "name": "Golden Retriever",
-      "code": "GOLDEN_RETRIEVER",
-      "active": true,
-      "PetType": "Dog",
-	  "fee": 100.00,
-	  "isBannedPet": false
-    },
-	{
-	  "tenantId": "hp.Shimla",
-	  "name": "Pitbul Terier",
-	  "code": "PITBUL TERIER",
-	  "active": true,
-	  "PetType": "Dog",
-	  "fee": 100,
-	  "isBannedPet": true
-	},
-	{
-	  "tenantId": "hp.Shimla",
-	  "name": "American Bulldog",
-	  "code": "AMERICAN BULLDOG",
-	  "active": true,
-	  "PetType": "Dog",
-	  "fee": 100,
-	  "isBannedPet": true
-	}
-  ]
-}
+	"tenantId": "hp",
+	"moduleName": "PetService",
+	"BreedType": [
+	  {
+		"name": "Labrador Retriever",
+		"code": "LABRADOR_RETRIEVER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Golden Retriever",
+		"code": "GOLDEN_RETRIEVER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Beagle",
+		"code": "BEAGLE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Poodle",
+		"code": "POODLE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Bulldog",
+		"code": "BULLDOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "German Shepherd",
+		"code": "GERMAN_SHEPHERD",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Chihuahua",
+		"code": "CHIHUAHUA",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Rottweiler",
+		"code": "ROTTWEILER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Yorkshire Terrier",
+		"code": "YORKSHIRE_TERRIER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Boxer",
+		"code": "BOXER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Shih Tzu",
+		"code": "SHIH_TZU",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Dachshund",
+		"code": "DACHSHUND",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Pomeranian",
+		"code": "POMERANIAN",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Siberian Husky",
+		"code": "SIBERIAN_HUSKY",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Dalmatian",
+		"code": "DALMATIAN",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Cocker Spaniel",
+		"code": "COCKER_SPANIEL",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "French Bulldog",
+		"code": "FRENCH_BULLDOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Australian Shepherd",
+		"code": "AUSTRALIAN_SHEPHERD",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Border Collie",
+		"code": "BORDER_COLLIE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Basset Hound",
+		"code": "BASSET_HOUND",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Great Dane",
+		"code": "GREAT_DANE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Pekingese",
+		"code": "PEKINGESE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Saint Bernard",
+		"code": "SAINT_BERNARD",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Pug",
+		"code": "PUG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Bull Terrier",
+		"code": "BULL_TERRIER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Akita",
+		"code": "AKITA",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Australian Cattle Dog",
+		"code": "AUSTRALIAN_CATTLE_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Maltese",
+		"code": "MALTESE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Scottish Terrier",
+		"code": "SCOTTISH_TERRIER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Whippet",
+		"code": "WHIPPET",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Miniature Schnauzer",
+		"code": "MINIATURE_SCHNAUZER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Cavalier King Charles Spaniel",
+		"code": "CAVALIER_KING_CHARLES_SPANIEL",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Jack Russell Terrier",
+		"code": "JACK_RUSSELL_TERRIER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Bloodhound",
+		"code": "BLOODHOUND",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "GreyHound",
+		"code": "GREYHOUND",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Alaskan Malamute",
+		"code": "ALASKAN_MALAMUTE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Shiba Inu",
+		"code": "SHIBA_INU",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Lhasa Apso",
+		"code": "LHASA_APSO",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Bernese Mountain Dog",
+		"code": "BERNESE_MOUNTAIN_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Samoyed",
+		"code": "SAMOYED",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Bearded Collie",
+		"code": "BEARDED_COLLIE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Brittany Spaniel",
+		"code": "BRITTANY_SPANIEL",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Puli",
+		"code": "PULI",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Havanese",
+		"code": "HAVANESE",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Irish Setter",
+		"code": "IRISH_SETTER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Rhodesian Ridgeback",
+		"code": "RHODESIAN_RIDGEBACK",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Komondor",
+		"code": "KOMONDOR",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Basenji",
+		"code": "BASENJI",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Chinese Shar-Pei",
+		"code": "CHINESE_SHAR_PEI",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Pitbull Terrier",
+		"code": "PITBULL_TERRIER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Tosa Inu",
+		"code": "TOSA_INU",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "American Staffordshire Terrier",
+		"code": "AMERICAN_STAFFORDSHIRE_TERRIER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Fila Brasileiro",
+		"code": "FILA_BRASILEIRO",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Dogo Argentino",
+		"code": "DOGO_ARGENTINO",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "American Bulldog",
+		"code": "AMERICAN_BULLDOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Boerboel",
+		"code": "BOERBOEL",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Kangal",
+		"code": "KANGAL",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Central Asian Shepherd Dog (Ovcharka)",
+		"code": "CENTRAL_ASIAN_SHEPHERD_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Caucasian Shepherd Dog (Ovcharka)",
+		"code": "CAUCASIAN_SHEPHERD_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "South Russian Shepherd Dog (Ovcharka)",
+		"code": "SOUTH_RUSSIAN_SHEPHERD_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Tornjak",
+		"code": "TORNJAK",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Sarplaninac",
+		"code": "SARPLANINAC",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Japanese Tosa",
+		"code": "JAPANESE_TOSA",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Mastiffs (Boerbulls)",
+		"code": "MASTIFFS_BOERBULLS",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Terriers",
+		"code": "TERRIERS",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Wolf Dogs",
+		"code": "WOLF_DOGS",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Canario",
+		"code": "CANARIO",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Akbash Dog",
+		"code": "AKBASH_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Moscow Guard Dog",
+		"code": "MOSCOW_GUARD_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Cane Corso",
+		"code": "CANE_CORSO",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Ban Dog (or Bandog)",
+		"code": "BAN_DOG",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
+	  },
+	  {
+		"name": "Dobermann",
+		"code": "DOBERMANN",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  }
+	]
+  }
+  

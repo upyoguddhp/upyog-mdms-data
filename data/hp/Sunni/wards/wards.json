@@ -3,33 +3,38 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Dashlani",
-      "code": "8862",
+      "name": "Dano Mandir",
+      "code": "11637",
       "active": "true"
     },
     {
       "name": "Upper Bazar",
-      "code": "8863",
+      "code": "11638",
       "active": "true"
     },
     {
-      "name": "Main Bazar",
-      "code": "8864",
+      "name": "Upper Bazar",
+      "code": "11639",
       "active": "true"
     },
     {
-      "name": "Seri & Samala",
-      "code": "8865",
+      "name": "Bhakra Ward",
+      "code": "11640",
       "active": "true"
     },
     {
-      "name": "Block Area",
-      "code": "8867",
+      "name": "Lower Bazar",
+      "code": "11641",
       "active": "true"
     },
     {
-      "name": "Court Road Area",
-      "code": "8868",
+      "name": "Hospital Ward",
+      "code": "11642",
+      "active": "true"
+    },
+    {
+      "name": "Hanuman Mandir ward",
+      "code": "11643",
       "active": "true"
     }
   ]
