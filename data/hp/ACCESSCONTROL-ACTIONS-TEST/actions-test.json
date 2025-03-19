@@ -9448,7 +9448,7 @@
     {
       "id": 697,
       "name": "UpdateUserWithoutValidation",
-      "url": "/user/users/{id}/_updatenovalidate",
+      "url": "/user/users/_updatenovalidate",
       "displayName": "UserRole Mapping",
       "orderNumber": 1,
       "enabled": true,
