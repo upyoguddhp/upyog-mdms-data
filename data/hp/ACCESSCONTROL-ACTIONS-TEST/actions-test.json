@@ -5862,7 +5862,7 @@
     {
       "id": 713,
       "name": "SearchBill",
-      "url": "/billing-service/bill/_search",
+      "url": "/billing-service/bill/v2/_search",
       "displayName": "Search Bill",
       "orderNumber": 12,
       "enabled": false,
@@ -9448,7 +9448,7 @@
     {
       "id": 697,
       "name": "UpdateUserWithoutValidation",
-      "url": "/user/users/{id}/_updatenovalidate",
+      "url": "/user/users/_updatenovalidate",
       "displayName": "UserRole Mapping",
       "orderNumber": 1,
       "enabled": true,
