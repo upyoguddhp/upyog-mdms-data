@@ -498,6 +498,20 @@
 		"active": true,
 		"PetType": "Dog",
 		"isBannedPet": true
+	  },
+	  {
+		"name": "Dobermann",
+		"code": "DOBERMANN",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "Indian Breed/Stray Dogs",
+		"code": "INDIAN_BREED_STRAY_DOGS",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
 	  }
 	]
   }
