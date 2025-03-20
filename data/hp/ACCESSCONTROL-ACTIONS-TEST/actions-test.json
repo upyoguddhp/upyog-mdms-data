@@ -11173,6 +11173,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id":1564,
+      "name": "Superset Dashboards",
+      "url": "/rdf-monitoring/jwt/generate-token",
+      "displayName": "Superset Dashboards",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
