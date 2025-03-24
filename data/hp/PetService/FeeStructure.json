@@ -85,6 +85,10 @@
 	{
 		"tenantId": "hp.Sundernagar",
 		"price": 200
+	},
+	{
+		"tenantId": "hp.Kangra",
+		"price": 200
 	}
   ]
 }

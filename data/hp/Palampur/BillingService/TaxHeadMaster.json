@@ -1,5 +1,5 @@
 {
-  "tenantId": "hp.Shimla",
+  "tenantId": "hp.Palampur",
   "moduleName": "BillingService",
   "TaxHeadMaster": [
     {
@@ -5800,7 +5800,7 @@
     },
     {
       "category": "FEE",
-      "service": "chb-services",
+      "service": "CHB",
       "name": "LCF.CommunityHall_Fee",
       "code": "LCF.CommunityHall_Fee",
       "isDebit": false,
@@ -5808,15 +5808,35 @@
       "order": "0",
       "isRequired": true
     },
-    {
-      "category": "ADVANCE_COLLECTION",
-      "service": "chb-services",
-      "name": "LCF.CommunityHall_Fee",
-      "code": "LCF.CommunityHall_Fee",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": true
-    }
+	{
+		"category": "FEE",
+		"service": "chb-services",
+		"name": "LCF.CommunityHall_Fee",
+		"code": "LCF.CommunityHall_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	},
+	{
+		"category": "ADVANCE_COLLECTION",
+		"service": "chb-services",
+		"name": "LCF.CommunityHall_Fee",
+		"code": "LCF.CommunityHall_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	},
+	{
+		"category": "FEE",
+		"service": "PROPERTY",
+		"name": "LCF.Property_Tax_Collection_Fee",
+		"code": "LCF.Property_Tax_Collection_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	}
   ]
 }

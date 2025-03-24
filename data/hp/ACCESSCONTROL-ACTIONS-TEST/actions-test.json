@@ -9448,7 +9448,7 @@
     {
       "id": 697,
       "name": "UpdateUserWithoutValidation",
-      "url": "/user/users/{id}/_updatenovalidate",
+      "url": "/user/users/_updatenovalidate",
       "displayName": "UserRole Mapping",
       "orderNumber": 1,
       "enabled": true,
@@ -11167,6 +11167,18 @@
       "name": "Generate garbage bills",
       "url": "/garbage-service/garbage-accounts-scheduler/bill-generator",
       "displayName": "Generate garbage bills",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id":1564,
+      "name": "Superset Dashboards",
+      "url": "/rdf-monitoring/jwt/generate-token",
+      "displayName": "Superset Dashboards",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
