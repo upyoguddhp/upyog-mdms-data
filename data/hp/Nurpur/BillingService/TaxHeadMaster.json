@@ -1,5 +1,5 @@
 {
-  "tenantId": "hp",
+  "tenantId": "hp.Nurpur",
   "moduleName": "BillingService",
   "TaxHeadMaster": [
     {
@@ -5798,6 +5798,26 @@
       "order": "0",
       "isRequired": true
     },
+    {
+      "category": "FEE",
+      "service": "CHB",
+      "name": "LCF.CommunityHall_Fee",
+      "code": "LCF.CommunityHall_Fee",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+	{
+		"category": "FEE",
+		"service": "chb-services",
+		"name": "LCF.CommunityHall_Fee",
+		"code": "LCF.CommunityHall_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	},
 	{
 		"category": "ADVANCE_COLLECTION",
 		"service": "chb-services",
