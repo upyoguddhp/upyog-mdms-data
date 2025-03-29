@@ -93,6 +93,14 @@
 	{
 		"tenantId": "hp.Jogindernagar",
 		"price": 200
+	},
+	{
+		"tenantId": "hp.Dharamshala",
+		"price": 100
+	},
+	{
+		"tenantId": "hp.Solan",
+		"price": 2000
 	}
   ]
 }
