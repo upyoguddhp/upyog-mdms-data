@@ -1,0 +1,76 @@
+{
+  "tenantId": "hp.Palampur",
+  "moduleName": "Workflow",
+  "BusinessServiceMasterConfig": [
+    {
+      "businessService": "NewTL",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "BPA",
+      "active": "true",
+      "isStatelevel": "true"
+    },
+    {
+      "businessService": "PGR",
+      "active": "true",
+      "isStatelevel": "true"
+    },
+    {
+      "businessService": "GB",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "pet-services",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "ADVT",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "AST",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "SITE",
+      "active": "true",
+      "isStatelevel": "true"
+    },
+    {
+      "businessService": "PROPERTY",
+      "active": "true",
+      "isStatelevel": "true"
+    },
+    {
+      "businessService": "chb-services",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "PROPERTY_CITIZEN",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "PROPERTY_EMPLOYEE",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+	{
+		"businessService": "GB_CITIZEN",
+		"active": "true",
+		"isStatelevel": "false"
+	},
+	{
+		"businessService": "GB_EMPLOYEE",
+		"active": "true",
+		"isStatelevel": "false"
+	}
+  ]
+}

@@ -512,6 +512,20 @@
 		"active": true,
 		"PetType": "Dog",
 		"isBannedPet": false
+	  },
+	  {
+		"name": "German Pointer",
+		"code": "GERMAN_POINTER",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
+	  },
+	  {
+		"name": "American Bully",
+		"code": "AMERICAN_BULLY",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
 	  }
 	]
   }
