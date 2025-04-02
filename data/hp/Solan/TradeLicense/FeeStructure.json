@@ -1,165 +1,165 @@
 {
-  "tenantId": "hp.BaijnathPaprola",
+  "tenantId": "hp.Solan",
   "moduleName": "TradeLicense",
   "FeeStructure": [
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
       "price": 100,
       "periodOfLicense": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 300,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
       "price": 500,
-      "periodOfLicense": 10
+      "periodOfLicense": 5
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.BaijnathPaprola",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 200,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.BaijnathPaprola",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 700,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.BaijnathPaprola",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1000,
+      "price": 1,
       "periodOfLicense": 10
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1500,
+      "type": "Small",
+      "price": 1,
       "periodOfLicense": 15
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 300,
+      "type": "Medium",
+      "price": 1000,
       "periodOfLicense": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 800,
+      "type": "Medium",
+      "price": 5000,
       "periodOfLicense": 5
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 1200,
+      "type": "Medium",
+      "price": 1,
       "periodOfLicense": 10
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 1800,
+      "type": "Medium",
+      "price": 1,
       "periodOfLicense": 15
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 2000,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Solan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 10000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Solan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Solan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Petroleum, Chemicals & Other Regulated Products",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
       "price": 1
     },
     {
-      "tenantId": "hp.BaijnathPaprola",
+      "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 1
