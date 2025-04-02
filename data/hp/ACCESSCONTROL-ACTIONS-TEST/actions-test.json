@@ -11185,6 +11185,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id":1565,
+      "name": "get UUID",
+      "url": "/adrvcanopy-services/site/getUuid",
+      "displayName": "get UUID",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
