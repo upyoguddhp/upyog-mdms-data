@@ -1,0 +1,168 @@
+{
+  "tenantId": "hp.Nirmand",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 400,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 700,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1300,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 800,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1400,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2600,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 2000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 3500,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 6500,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Petroleum, Chemicals & Other Regulated Products",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nirmand",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 1
+    }
+  ]
+}
