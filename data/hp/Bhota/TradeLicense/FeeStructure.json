@@ -1,0 +1,168 @@
+{
+  "tenantId": "hp.Bhota",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 50,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 250,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 500,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 750,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 100,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1500,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 300,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 3000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 4500,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Petroleum, Chemicals & Other Regulated Products",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 300
+    }
+  ]
+}
