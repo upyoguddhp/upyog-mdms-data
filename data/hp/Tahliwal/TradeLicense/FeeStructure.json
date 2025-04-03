@@ -1,0 +1,168 @@
+{
+  "tenantId": "hp.Tahliwal",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 100,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 400,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 800,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1200,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 800,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1700,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2500,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 500,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 2000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 4000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 6000,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 1500
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 150
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 700
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 1500
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 1500
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 1000
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Petroleum, Chemicals & Other Regulated Products",
+      "price": 2500
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 1500
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 800
+    }
+  ]
+}
