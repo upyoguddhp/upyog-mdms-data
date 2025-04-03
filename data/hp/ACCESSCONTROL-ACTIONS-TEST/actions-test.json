@@ -5862,7 +5862,7 @@
     {
       "id": 713,
       "name": "SearchBill",
-      "url": "/billing-service/bill/_search",
+      "url": "/billing-service/bill/v2/_search",
       "displayName": "Search Bill",
       "orderNumber": 12,
       "enabled": false,
@@ -11179,6 +11179,18 @@
       "name": "Superset Dashboards",
       "url": "/rdf-monitoring/jwt/generate-token",
       "displayName": "Superset Dashboards",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id":1565,
+      "name": "get UUID",
+      "url": "/adrvcanopy-services/site/getUuid",
+      "displayName": "get UUID",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,

@@ -1143,7 +1143,7 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "EMPLOYEE",
       "actionid": 697,
       "actioncode": "",
       "tenantId": "hp"
@@ -12159,7 +12159,7 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "NOC_CEMP",
+      "rolecode": "EMPLOYEE",
       "actionid": 713,
       "actioncode": "",
       "tenantId": "hp"
@@ -28745,6 +28745,18 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1564,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1565,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1565,
       "actioncode": "",
       "tenantId": "hp"
     }
