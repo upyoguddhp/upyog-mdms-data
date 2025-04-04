@@ -105,6 +105,14 @@
 	{
 		"tenantId": "hp.Baddi",
 		"price": 1200
+	},
+	{
+		"tenantId": "hp.Sujanpur",
+		"price": 500
+	},
+	{
+		"tenantId": "hp.Palampur",
+		"price": 1
 	}
   ]
 }
