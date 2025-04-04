@@ -13,7 +13,7 @@
       "tenantId": "hp.Dharamshala",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 500,
       "periodOfLicense": 5
     },
     {
@@ -41,7 +41,7 @@
       "tenantId": "hp.Dharamshala",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 1000,
       "periodOfLicense": 5
     },
     {
@@ -69,7 +69,7 @@
       "tenantId": "hp.Dharamshala",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 5000,
       "periodOfLicense": 5
     },
     {
