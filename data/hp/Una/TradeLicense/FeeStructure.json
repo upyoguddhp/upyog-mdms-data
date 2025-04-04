@@ -6,84 +6,84 @@
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "100",
+        "price": 100,
         "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "400",
+        "price": 400,
         "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "700",
+        "price": 700,
         "periodOfLicense": 10
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "1300",
+        "price": 1300,
         "periodOfLicense": 15
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "200",
+        "price": 200,
         "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "800",
+        "price": 800,
         "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "1400",
+        "price": 1400,
         "periodOfLicense": 10
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "2600",
+        "price": 2600,
         "periodOfLicense": 15
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "2000",
+        "price": 2000,
         "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "3500",
+        "price": 3500,
         "periodOfLicense": 10
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "6500",
+        "price": 6500,
         "periodOfLicense": 15
     },
     {
@@ -109,7 +109,7 @@
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Common Trades",
-        "price": "300"
+        "price": 300
     },
     {
         "tenantId": "hp.Una",
