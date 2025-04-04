@@ -7,189 +7,182 @@
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "100",
-        "periodOfLicense": "1"
+        "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "400",
-        "periodOfLicense": "5"
+        "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "700",
-        "periodOfLicense": "10"
+        "periodOfLicense": 10
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": "1300",
-        "periodOfLicense": "15"
+        "periodOfLicense": 15
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "200",
-        "periodOfLicense": "1"
+        "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "800",
-        "periodOfLicense": "5"
+        "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "1400",
-        "periodOfLicense": "10"
+        "periodOfLicense": 10
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": "2600",
-        "periodOfLicense": "15"
+        "periodOfLicense": 15
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "500",
-        "periodOfLicense": "1"
+        "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "2000",
-        "periodOfLicense": "5"
+        "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "3500",
-        "periodOfLicense": "10"
+        "periodOfLicense": 10
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": "6500",
-        "periodOfLicense": "15"
+        "periodOfLicense": 15
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Agriculture",
-        "price": "300",
-        "periodOfLicense": ""
+        "price": 300
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Automotive",
-        "price": "200",
-        "periodOfLicense": ""
+        "price": 200
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Banking Finance Services Insurance (BFSI)",
-        "price": "3000",
-        "periodOfLicense": ""
+        "price": 3000
+
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Common Trades",
-        "price": "300",
-        "periodOfLicense": ""
+        "price": "300"
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Education, Skills & Development",
-        "price": "1000",
-        "periodOfLicense": ""
+        "price": 1000
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-        "price": "200",
-        "periodOfLicense": ""
+        "price": 200
+
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Handloom & Handicrafts",
-        "price": "300",
-        "periodOfLicense": ""
+        "price": 300
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "IT/ ITES Services",
-        "price": "1000",
-        "periodOfLicense": ""
+        "price": 1000
+
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Luxury Goods",
-        "price": "3000",
-        "periodOfLicense": ""
+        "price": 3000
+
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Manufacturing, Industries and Industrial Materials",
-        "price": "1000",
-        "periodOfLicense": ""
+        "price": 1000
+
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Petroleum, Chemicals & Other Regulated Products",
-        "price": "500",
-        "periodOfLicense": ""
+        "price": 500
+
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Tourism & Hospitality",
-        "price": "1500",
-        "periodOfLicense": ""
+        "price": 1500
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "tradeCategory",
         "type": "Transportation & Logistics",
-        "price": "1500",
-        "periodOfLicense": ""
+        "price": 1500
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "zone",
         "type": "A",
-        "price": "1",
-        "periodOfLicense": ""
+        "price": 1
+
     },
     {
         "tenantId": "hp.Una",
         "feeStructureOf": "zone",
         "type": "B",
-        "price": "1",
-        "periodOfLicense": ""
+        "price": 1
+
     }
 ]
 }
