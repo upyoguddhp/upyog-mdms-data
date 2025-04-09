@@ -121,6 +121,10 @@
 	{
 		"tenantId": "hp.Jubbal",
 		"price": 50
+	},
+	{
+		"tenantId": "hp.BaijnathPaprola",
+		"price": 50
 	}
 
   ]
