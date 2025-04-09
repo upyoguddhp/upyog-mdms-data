@@ -117,6 +117,11 @@
 	{
 		"tenantId": "hp.Sarkaghat",
 		"price": 50
+	},
+	{
+		"tenantId": "hp.Jubbal",
+		"price": 50
 	}
+
   ]
 }
