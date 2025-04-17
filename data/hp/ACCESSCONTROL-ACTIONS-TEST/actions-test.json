@@ -11201,7 +11201,7 @@
     {
       "id":1566,
       "name": "RDF Vendor Request",
-      "url": "/rdf-monitoring/web/rdfinfo/_other-vendor-request",
+      "url": "/rdf-monitoring/rdfinfo/_other-vendor-request",
       "displayName": "RDF Vendor Request",
       "orderNumber": 1,
       "parentModule": "",
