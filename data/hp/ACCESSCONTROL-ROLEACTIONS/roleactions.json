@@ -28759,6 +28759,12 @@
       "actionid": 1565,
       "actioncode": "",
       "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1566,
+      "actioncode": "",
+      "tenantId": "hp"
     }
   ]
 }
