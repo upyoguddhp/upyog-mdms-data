@@ -13,21 +13,21 @@
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 750,
+      "price": 1,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1500,
+      "price": 1,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 2250,
+      "price": 1,
       "periodOfLicense": 15
     },
     {
@@ -41,21 +41,21 @@
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 2500,
+      "price": 1,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 5000,
+      "price": 1,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 7500,
+      "price": 1,
       "periodOfLicense": 15
     },
     {
@@ -69,21 +69,21 @@
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 2500,
+      "price": 1,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 5000,
+      "price": 1,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 7500,
+      "price": 1,
       "periodOfLicense": 15
     },
     {
