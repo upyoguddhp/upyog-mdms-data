@@ -1,0 +1,168 @@
+{
+  "tenantId": "hp.Hamirpur",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 150,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 500,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 500,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Petroleum, Chemicals & Other Regulated Products",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 1
+    }
+  ]
+}
