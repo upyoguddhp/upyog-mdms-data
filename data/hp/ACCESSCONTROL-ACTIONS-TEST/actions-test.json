@@ -11234,6 +11234,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1569,
+      "name": "Property Service gemnerate bill",
+      "url": "/property-services/property-scheduler/tax-calculator",
+      "displayName": "Property Service gemnerate bill",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
