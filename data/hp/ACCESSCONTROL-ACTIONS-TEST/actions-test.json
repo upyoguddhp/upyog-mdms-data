@@ -11247,6 +11247,58 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1570,
+      "name": "Seva bandhu Endpoints",
+      "url": "/rdf-monitoring/sevabandhu/_splist",
+      "displayName": "Seva bandhu Endpoints",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1571,
+      "name": "Seva bandhu Endpoints",
+      "url": "/rdf-monitoring/sevabandhu/_submitserviceprovider",
+      "displayName": "Seva bandhu Endpoints",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1572,
+      "name": "Seva bandhu Endpoints",
+      "url": "/rdf-monitoring/sevabandhu/_spdetail",
+      "displayName": "Seva bandhu Endpoints",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1573,
+      "name": "Seva bandhu Endpoints",
+      "url": "/rdf-monitoring/sevabandhu/_submitserviceprovideredit",
+      "displayName": "Seva bandhu Endpoints",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
