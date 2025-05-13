@@ -11299,6 +11299,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1574,
+      "name": "Garbage Collection Count",
+      "url": "/garbage-service/garbage-accounts/_counts",
+      "displayName": "Garbage Collection Count",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
