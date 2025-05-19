@@ -90,31 +90,31 @@
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 750
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 750
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 1500
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 150
+      "price": 500
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 600
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
@@ -126,43 +126,43 @@
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 200
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 300
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 550
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 2000
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Petroleum, Chemicals & Other Regulated Products",
-      "price": 5000
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 800
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 1500
+      "price": 1
     }
   ]
 }
