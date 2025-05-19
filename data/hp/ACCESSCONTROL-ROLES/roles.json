@@ -851,6 +851,11 @@
       "code":"UD_ADMIN",
       "name": "UD ADMIN",
       "description": "UD ADMIN"
+    },
+    {
+      "code":"SEVA_BANDHU",
+      "name": "Seva Bandhu",
+      "description": "Seva Bandhu"
     }
     
   ]
