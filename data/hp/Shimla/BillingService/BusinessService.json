@@ -110,7 +110,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "type": "Adhoc",
-	  "isActive": false,
+      "isActive": false,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -124,7 +124,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "type": "Adhoc",
-	  "isActive": true,
+      "isActive": true,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -440,6 +440,20 @@
       "isVoucherCreationEnabled": true,
       "isActive": false,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "chb-services",
+      "code": "chb-services",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
     },
     {
       "businessService": "Naksha/Building Manual Fees.2 year time limit of Renewal Building Naksha",
@@ -2006,7 +2020,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
-	{
+    {
       "businessService": "SWReconnection",
       "code": "SWReconnection",
       "collectionModesNotAllowed": [
