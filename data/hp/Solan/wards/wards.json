@@ -39,19 +39,19 @@
       "active": "true"
     },
     {
-      "name": "6-Jawahar Park Ward",
+      "name": "Jawahar Park Ward",
       "code": "11595",
       "wardNumber": "6",
       "active": "true"
     },
     {
-      "name": "3-Khater Ward",
+      "name": "Khater Ward",
       "code": "11592",
       "wardNumber": "3",
       "active": "true"
     },
     {
-      "name": "13-Kaleen Ward",
+      "name": "Kaleen Ward",
       "code": "11602",
       "wardNumber": "13",
       "active": "true"
@@ -99,7 +99,7 @@
       "active": "true"
     },
     {
-      "name": "7-Thodo Ground Ward",
+      "name": "Thodo Ground Ward",
       "code": "11596",
       "wardNumber": "7",
       "active": "true"
