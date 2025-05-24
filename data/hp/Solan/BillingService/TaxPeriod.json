@@ -1682,6 +1682,14 @@
 		"code": "PT2025",
 		"financialYear": "2020-29"
 	},
+  {
+		"fromDate": 1577840400000,
+		"toDate": 1893456000000,
+		"periodCycle": "YEARLY",
+		"service": "PROPERTY",
+		"code": "PT2025",
+		"financialYear": "2020-29"
+	},
 	{
 		"fromDate": 1577840400000,
 		"toDate": 1893456000000,
