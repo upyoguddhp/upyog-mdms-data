@@ -2084,6 +2084,20 @@
 		"demandUpdateTime": 604800000,
 		"isVoucherCreationEnabled": true
 	},
+  	{
+		"businessService": "PROPERTY",
+		"code": "PROPERTY",
+		"collectionModesNotAllowed": [
+			"DD",
+			"OFFLINE_NEFT",
+			"OFFLINE_RTGS",
+			"POSTAL_ORDER"
+		],
+		"partPaymentAllowed": false,
+		"isAdvanceAllowed": false,
+		"demandUpdateTime": 604800000,
+		"isVoucherCreationEnabled": true
+	},
 	{
 		"businessService": "PROPERTY_CITIZEN",
 		"code": "PROPERTY_CITIZEN",
