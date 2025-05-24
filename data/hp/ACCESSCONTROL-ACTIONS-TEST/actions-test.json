@@ -11312,6 +11312,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1575,
+      "name": "Update Existing Owner Details",
+      "url": "/property-services/property/_updateExistingOwnerDetails",
+      "displayName": "Update Existing Owner Details",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
