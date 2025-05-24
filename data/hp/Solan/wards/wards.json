@@ -5,87 +5,104 @@
     {
       "name": "Basal Patti Kather Ward",
       "code": "2513060",
-	  "active":"true"
+      "wardNumber": "17",
+      "active": "true"
     },
     {
       "name": "Chambaghat Salogra Ward",
       "code": "11593",
-	  "active":"true"
+      "wardNumber": "4",
+      "active": "true"
     },
     {
       "name": "Chaurni Ghati Ward",
       "code": "11599",
-	  "active":"true"
+      "wardNumber": "10",
+      "active": "true"
     },
     {
       "name": "Degree College Ward",
       "code": "11600",
-	  "active":"true"
+      "wardNumber": "11",
+      "active": "true"
     },
     {
       "name": "Dehun Ghat Saproon Ward",
       "code": "11590",
-	  "active":"true"
+      "wardNumber": "1",
+      "active": "true"
     },
     {
       "name": "Housing Board Ward",
       "code": "1296821",
-	  "active":"true"
+      "wardNumber": "14",
+      "active": "true"
     },
-	{
-      "name": "Jawahar Park Ward",
+    {
+      "name": "6-Jawahar Park Ward",
       "code": "11595",
-	  "active":"true"
+      "wardNumber": "6",
+      "active": "true"
     },
-	{
-      "name": "Khater Ward",
+    {
+      "name": "3-Khater Ward",
       "code": "11592",
-	  "active":"true"
+      "wardNumber": "3",
+      "active": "true"
     },
-	{
-      "name": "Kaleen Ward",
+    {
+      "name": "13-Kaleen Ward",
       "code": "11602",
-	  "active":"true"
+      "wardNumber": "13",
+      "active": "true"
     },
-	{
+    {
       "name": "Lower Bazar Ward",
       "code": "11594",
-	  "active":"true"
+      "wardNumber": "5",
+      "active": "true"
     },
-	{
+    {
       "name": "Madhuwan Colony Ward",
       "code": "11598",
-	  "active":"true"
+      "wardNumber": "9",
+      "active": "true"
     },
-	{
+    {
       "name": "Raboun-Angi Ward",
       "code": "2513059",
-	  "active":"true"
+      "wardNumber": "16",
+      "active": "true"
     },
-	{
+    {
       "name": "Railway Station Ward",
       "code": "11591",
-	  "active":"true"
+      "wardNumber": "2",
+      "active": "true"
     },
-	{
+    {
       "name": "Shilly Road Ward",
       "code": "11597",
-	  "active":"true"
+      "wardNumber": "8",
+      "active": "true"
     },
-	{
+    {
       "name": "Sunny Side Ward",
       "code": "11601",
-	  "active":"true"
+      "wardNumber": "12",
+      "active": "true"
     },
-	{
+    {
       "name": "Tehsil Patwar Ward",
       "code": "1296822",
-	  "active":"true"
+      "wardNumber": "15",
+      "active": "true"
     },
-	{
-      "name": "Thodo Ground Ward",
+    {
+      "name": "7-Thodo Ground Ward",
       "code": "11596",
-	  "active":"true"
+      "wardNumber": "7",
+      "active": "true"
     }
   ]
 }
