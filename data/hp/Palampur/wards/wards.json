@@ -5,77 +5,92 @@
     {
       "name": "Aima",
       "code": "11421",
-	  "active":"true"
+      "wardNumber": "4",
+      "active": "true"
     },
     {
       "name": "Banuri",
       "code": "2513092",
-	  "active":"true"
+      "wardNumber": "14",
+      "active": "true"
     },
     {
       "name": "Bindraban",
       "code": "11424",
-	  "active":"true"
+      "wardNumber": "7",
+      "active": "true"
     },
     {
       "name": "Chowki",
       "code": "2513087",
-	  "active":"true"
+      "wardNumber": "9",
+      "active": "true"
     },
     {
       "name": "Ghuggar Khilru",
       "code": "11423",
-	  "active":"true"
+      "wardNumber": "6",
+      "active": "true"
     },
     {
       "name": "Ghughar Tanda",
       "code": "2513090",
-	  "active":"true"
+      "wardNumber": "12",
+      "active": "true"
     },
     {
       "name": "Holta",
       "code": "2513093",
-	  "active":"true"
+      "wardNumber": "15",
+      "active": "true"
     },
-	{
+    {
       "name": "Khalet",
       "code": "2513086",
-	  "active":"true"
+      "wardNumber": "8",
+      "active": "true"
     },
-	{
+    {
       "name": "Lohna",
       "code": "11418",
-	  "active":"true"
+      "wardNumber": "1",
+      "active": "true"
     },
-	{
+    {
       "name": "Maranda",
       "code": "2513088",
-	  "active":"true"
+      "wardNumber": "10",
+      "active": "true"
     },
-	{
+    {
       "name": "Palampur Khas",
       "code": "11420",
-	  "active":"true"
+      "wardNumber": "3",
+      "active": "true"
     },
-	{
+    {
       "name": "Palampur Upper",
       "code": "11419",
-	  "active":"true"
+      "wardNumber": "2",
+      "active": "true"
     },
-	{
+    {
       "name": "Rajpur",
       "code": "2513089",
-	  "active":"true"
+      "wardNumber": "11",
+      "active": "true"
     },
-	{
+    {
       "name": "Suggar",
       "code": "11422",
-	  "active":"true"
+      "wardNumber": "5",
+      "active": "true"
     },
-	{
+    {
       "name": "Tanda",
       "code": "2513091",
-	  "active":"true"
+      "wardNumber": "13",
+      "active": "true"
     }
   ]
 }
