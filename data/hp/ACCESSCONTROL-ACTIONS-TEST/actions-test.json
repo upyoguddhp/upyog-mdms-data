@@ -11314,10 +11314,36 @@
       "path": ""
     },
     {
-      "id": 1575,
+      "id": 1576,
+      "name": "Property Tax Bill Receipt",
+      "url": "/property-services/property/_generatePropertyTaxBillReceipt",
+      "displayName": "Property Tax Bill Receipt",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1576,
       "name": "Update Existing Owner Details",
-      "url": "/property-services/property/_updateExistingOwnerDetails",
+      "url": "/property-services/property/_generatePropertyTaxBillReceipt",
       "displayName": "Update Existing Owner Details",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1577,
+      "name": "Create User For Garbage Account",
+      "url": "/garbage-service/garbage-accounts/_createUserForGarbage",
+      "displayName": "Create User For Garbage Account",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
