@@ -856,6 +856,11 @@
       "code":"SEVA_BANDHU",
       "name": "Seva Bandhu",
       "description": "Seva Bandhu"
+    },
+    {
+      "code": "EGF_ACCOUNTS_VERIFIER",
+      "name": "Finance Accounts Verifier",
+      "description": "One who can verify a Bill"
     }
     
   ]
