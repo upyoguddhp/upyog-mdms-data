@@ -11163,7 +11163,7 @@
       "path": ""
     },
     {
-      "id":1563,
+      "id": 1563,
       "name": "Generate garbage bills",
       "url": "/garbage-service/garbage-accounts-scheduler/bill-generator",
       "displayName": "Generate garbage bills",
@@ -11175,7 +11175,7 @@
       "path": ""
     },
     {
-      "id":1564,
+      "id": 1564,
       "name": "Superset Dashboards",
       "url": "/rdf-monitoring/jwt/generate-token",
       "displayName": "Superset Dashboards",
@@ -11187,7 +11187,7 @@
       "path": ""
     },
     {
-      "id":1565,
+      "id": 1565,
       "name": "get UUID",
       "url": "/adrvcanopy-services/site/getUuid",
       "displayName": "get UUID",
@@ -11199,7 +11199,7 @@
       "path": ""
     },
     {
-      "id":1566,
+      "id": 1566,
       "name": "RDF Vendor Request",
       "url": "/rdf-monitoring/rdfinfo/_other-vendor-request",
       "displayName": "RDF Vendor Request",
@@ -11211,7 +11211,7 @@
       "path": ""
     },
     {
-      "id":1567,
+      "id": 1567,
       "name": "RDF Vendor Request",
       "url": "/rdf-monitoring/rdfinfo/_other-vendor-request",
       "displayName": "RDF Vendor Request",
@@ -11344,6 +11344,19 @@
       "name": "Create User For Garbage Account",
       "url": "/garbage-service/garbage-accounts/_createUserForGarbage",
       "displayName": "Create User For Garbage Account",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1578,
+      "name": "Generate garbage bills receipt",
+      "url": "/garbage-service/garbage-accounts/_generateGrbgTaxBillReceipt",
+      "displayName": "Generate garbage bills receipt",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
