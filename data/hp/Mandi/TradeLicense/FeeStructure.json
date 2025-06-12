@@ -6,182 +6,182 @@
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": "1"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "5"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "10"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "15"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": "1"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "5"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "10"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "15"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": "1"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "5"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "10"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
-        "price": "200",
+        "price": 500,
         "periodOfLicense": "15"
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Agriculture",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Automotive",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Banking Finance Services Insurance (BFSI)",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Common Trades",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Education, Skills & Development",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Handloom & Handicrafts",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "IT/ ITES Services",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Luxury Goods",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Manufacturing, Industries and Industrial Materials",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Petroleum, Chemicals & Other Regulated Products",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Tourism & Hospitality",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Transportation & Logistics",
-        "price": "500",
+        "price": 500,
         "periodOfLicense": ""
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "zone",
         "type": "A",
-        "price": "1",
+        "price": 1,
         "periodOfLicense": ""
     }
 ]
