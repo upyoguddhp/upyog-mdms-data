@@ -729,6 +729,14 @@
       "subcategorytype": "Any Other establishment not mentioned above",
       "fee":"60.00",
       "active": "true"
+    },
+    {
+      "id": "92",
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Dhaba",
+      "fee":"60.00",
+      "active": "true"
     }
   ]
 }
