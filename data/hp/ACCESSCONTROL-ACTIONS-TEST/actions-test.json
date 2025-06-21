@@ -11364,6 +11364,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1579,
+      "name": "Update Garbage Accounts",
+      "url": "/garbage-service/garbage-accounts/_update_status",
+      "displayName": "Update Garbage Accounts",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
