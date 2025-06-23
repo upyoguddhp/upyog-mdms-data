@@ -133,6 +133,10 @@
 	{
 		"tenantId": "hp.Manali",
 		"price": 50
+	},
+	{
+		"tenantId": "hp.Bhota",
+		"price": 50
 	}
 
   ]
