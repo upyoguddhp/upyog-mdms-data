@@ -168,13 +168,13 @@
         "tenantId": "hp.NerChowk",
         "feeStructureOf": "zone",
         "type": "A",
-        "price": 15
+        "price": 1
     },
     {
         "tenantId": "hp.Palampur",
         "feeStructureOf": "zone",
         "type": "B",
-        "price": 15
+        "price": 1
     }
 ]
 }
