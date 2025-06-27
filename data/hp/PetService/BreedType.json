@@ -526,6 +526,13 @@
 		"active": true,
 		"PetType": "Dog",
 		"isBannedPet": false
+	  },
+	  {
+		"name": "Chow Chow",
+		"code": "Chow_Chow",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": true
 	  }
 	]
   }
