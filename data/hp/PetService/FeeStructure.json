@@ -141,6 +141,10 @@
 	{
 		"tenantId": "hp.Dalhousie",
 		"price": 200
+	},
+	{
+		"tenantId": "hp.Chopal",
+		"price": 50
 	}
 
   ]
