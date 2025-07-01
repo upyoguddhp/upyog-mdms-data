@@ -137,6 +137,10 @@
 	{
 		"tenantId": "hp.Bhota",
 		"price": 100
+	},
+	{
+		"tenantId": "hp.Dalhousie",
+		"price": 200
 	}
 
   ]
