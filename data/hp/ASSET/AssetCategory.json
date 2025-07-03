@@ -289,6 +289,12 @@
         "code": "COMMUNITY_GROUNDS",
         "active": true,
         "assetParentCategory": "COMMUNITY_GROUNDS"
+      },
+      {
+        "name": "Commercial",
+        "code": "COMMERCIAL",
+        "active": true,
+        "assetParentCategory": "LAND"
       }
     ]
   }
