@@ -737,6 +737,14 @@
       "subcategorytype": "Dhaba",
       "fee":"60.00",
       "active": "true"
+    },
+      {
+      "id": "93",
+      "categories": "Others",
+      "subcategories": "Wine Shop",
+      "subcategorytype": "Wine Shop",
+      "fee":"60.00",
+      "active": "true"
     }
   ]
 }
