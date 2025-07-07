@@ -1,0 +1,734 @@
+{
+	"tenantId": "hp.Kangra",
+	"moduleName": "Garbage",
+	"FeeStructure":[
+  {
+    "id": 1,
+    "categories": "Household",
+    "subcategories": "Area less than 2000 Sq. Feet",
+    "fee": 50,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 2,
+    "categories": "Household",
+    "subcategories": "Area more than 2000 Sq. Feet",
+    "fee": 80,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 3,
+    "categories": "Shops",
+    "subcategories": "Pan Shop",
+    "fee": 50,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 4,
+    "categories": "Shops",
+    "subcategories": "Tea Shop",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 5,
+    "categories": "Shops",
+    "subcategories": "Confectionery & Veg Shop",
+    "fee": 50,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 6,
+    "categories": "Shops",
+    "subcategories": "Vegetable & Fruit Shops (Wholesale)",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 7,
+    "categories": "Shops",
+    "subcategories": "Vegetable & Fruit Shops (Retail)",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 8,
+    "categories": "Shops",
+    "subcategories": "Groceries & Daily Needs Shop",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 9,
+    "categories": "Shops",
+    "subcategories": "Clothes Shop",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 10,
+    "categories": "Shops",
+    "subcategories": "Eateries (Food Production & Distribution)",
+    "fee": 150,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 11,
+    "categories": "Shops",
+    "subcategories": "Eateries (Food Distribution Only)",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 12,
+    "categories": "Shops",
+    "subcategories": "Meat & Fish Shops",
+    "fee": 150,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 13,
+    "categories": "Super Stores",
+    "subcategories": "Super Stores",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 14,
+    "categories": "Malls",
+    "subcategories": "Malls",
+    "fee": 1000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 15,
+    "categories": "Private Restaurants",
+    "subcategories": "Private Restaurants",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 16,
+    "categories": "Private Hotels",
+    "subcategories": "Upto 10 Rooms",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 17,
+    "categories": "Private Hotels",
+    "subcategories": "11 - 20 Rooms",
+    "fee": 1000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 18,
+    "categories": "Private Hotels",
+    "subcategories": "21 - 30 Rooms",
+    "fee": 1500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 19,
+    "categories": "Private Hotels",
+    "subcategories": "More than 30 Rooms",
+    "fee": 2000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 20,
+    "categories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategories": "Upto 10 Rooms",
+    "fee": 300,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 21,
+    "categories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategories": "11 - 20 Rooms",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 22,
+    "categories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategories": "21 - 30 Rooms",
+    "fee": 1000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 23,
+    "categories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategories": "More than 30 Rooms",
+    "fee": 2000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 24,
+    "categories": "Clubs",
+    "subcategories": "",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 25,
+    "categories": "Private Offices",
+    "subcategories": "2 Rooms",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 26,
+    "categories": "Private Offices",
+    "subcategories": "3-5 Rooms",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 27,
+    "categories": "Private Offices",
+    "subcategories": "6-10 Rooms",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 28,
+    "categories": "Private Offices",
+    "subcategories": "11-20 Rooms",
+    "fee": 1000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 29,
+    "categories": "Private Offices",
+    "subcategories": "More than 20 Rooms",
+    "fee": 1500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 30,
+    "categories": "Private Schools/ Institutions",
+    "subcategories": "Upto 100 Students",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 31,
+    "categories": "Private Schools/ Institutions",
+    "subcategories": "More than 100 Students",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 32,
+    "categories": "Private Colleges / University",
+    "subcategories": "Upto 1000 Students",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 33,
+    "categories": "Private Colleges / University",
+    "subcategories": "More than 1000 Students",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 34,
+    "categories": "Private Kindergarten / Day Cares",
+    "subcategories": "Upto 100 Students",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 35,
+    "categories": "Private Kindergarten / Day Cares",
+    "subcategories": "More than 100 Students",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 36,
+    "categories": "Workshops & Garages",
+    "subcategories": "Only Tire Puncture Repair",
+    "fee": 50,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 37,
+    "categories": "Workshops & Garages",
+    "subcategories": "Vehicle Repair",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 38,
+    "categories": "Workshops & Garages",
+    "subcategories": "Vehicle Repair & Spare Part Retail",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 39,
+    "categories": "Workshops & Garages",
+    "subcategories": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 40,
+    "categories": "Street Vendors",
+    "subcategories": "Street Vendors",
+    "fee": 50,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 41,
+    "categories": "Street Hawkers",
+    "subcategories": "Street Hawkers",
+    "fee": 50,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 42,
+    "categories": "Private Marriage Halls",
+    "subcategories": "Private Marriage Halls",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 43,
+    "categories": "Cinema Halls (Theatre & Multiplexes)",
+    "subcategories": "Cinema Halls (Theatre & Multiplexes)",
+    "fee": 1000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 44,
+    "categories": "Slaughterhouse",
+    "subcategories": "Slaughterhouse",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 45,
+    "categories": "Others",
+    "subcategories": "Others",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 46,
+    "categories": "Micro Industry",
+    "subcategories": "Micro Industry",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 47,
+    "categories": "Small Industry",
+    "subcategories": "Small Industry",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 48,
+    "categories": "Medium Industry",
+    "subcategories": "Medium Industry",
+    "fee": 1000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 49,
+    "categories": "Large Industry",
+    "subcategories": "Large Industry",
+    "fee": 2000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 50,
+    "categories": "Nursing Homes",
+    "subcategories": "Upto 50 Beds",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 51,
+    "categories": "Nursing Homes",
+    "subcategories": "51 to 100 Beds",
+    "fee": 2000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 52,
+    "categories": "Nursing Homes",
+    "subcategories": "More than 100 Beds",
+    "fee": 2500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 53,
+    "categories": "Rehabilitation Center",
+    "subcategories": "Upto 50 Beds",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 54,
+    "categories": "Rehabilitation Center",
+    "subcategories": "51 to 100 Beds",
+    "fee": 2000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 55,
+    "categories": "Rehabilitation Center",
+    "subcategories": "More than 100 Beds",
+    "fee": 2500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 56,
+    "categories": "Old Age Homes",
+    "subcategories": "Upto 50 Beds",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 57,
+    "categories": "Old Age Homes",
+    "subcategories": "51 to 100 Beds",
+    "fee": 2000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 58,
+    "categories": "Old Age Homes",
+    "subcategories": "More than 100 Beds",
+    "fee": 2500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 59,
+    "categories": "Private Hospital",
+    "subcategories": "Upto 50 Beds",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 60,
+    "categories": "Private Hospital",
+    "subcategories": "51 to 100 Beds",
+    "fee": 2000,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 61,
+    "categories": "Private Hospital",
+    "subcategories": "More than 100 Beds",
+    "fee": 2500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 62,
+    "categories": "Laboratories",
+    "subcategories": "Laboratories",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 63,
+    "categories": "Private Clinics",
+    "subcategories": "Private Clinics",
+    "fee": 150,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 64,
+    "categories": "Chemists",
+    "subcategories": "Chemists",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 65,
+    "categories": "Others",
+    "subcategories": "Others",
+    "fee": 150,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 66,
+    "categories": "Govt Primary School",
+    "subcategories": "Govt Primary School",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 67,
+    "categories": "Govt Middle School",
+    "subcategories": "Govt Middle School",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 68,
+    "categories": "Govt Senior/ Senior Secondary School",
+    "subcategories": "Govt Senior/ Senior Secondary School",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 69,
+    "categories": "Govt Angan Wadi",
+    "subcategories": "Govt Angan Wadi",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 70,
+    "categories": "Govt College",
+    "subcategories": "Govt College",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 71,
+    "categories": "Govt University",
+    "subcategories": "Govt University",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 72,
+    "categories": "State Govt Office",
+    "subcategories": "State Govt Office",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 73,
+    "categories": "Central Govt Office",
+    "subcategories": "Central Govt Office",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 74,
+    "categories": "ULB Office",
+    "subcategories": "ULB Office",
+    "fee": 0,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 75,
+    "categories": "Govt. Garden",
+    "subcategories": "Govt. Garden",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 76,
+    "categories": "Govt Hospitals",
+    "subcategories": "Govt Hospitals",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 77,
+    "categories": "Govt Dispensary",
+    "subcategories": "Govt Dispensary",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 78,
+    "categories": "Govt Restaurants",
+    "subcategories": "Govt Restaurants",
+    "fee": 250,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 79,
+    "categories": "Govt Hotel",
+    "subcategories": "Govt Hotel",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 80,
+    "categories": "Govt Marriage Halls/ Community Centers",
+    "subcategories": "Govt Marriage Halls/ Community Centers",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 81,
+    "categories": "Others",
+    "subcategories": "Others",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 82,
+    "categories": "Charitable Trust / NGO / any other Registered Group",
+    "subcategories": "Charitable Trust / NGO / any other Registered Group",
+    "fee": 250,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 83,
+    "categories": "Private Garden",
+    "subcategories": "Private Garden",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 84,
+    "categories": "Orphanages",
+    "subcategories": "Orphanages",
+    "fee": 250,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 85,
+    "categories": "Heritage Site",
+    "subcategories": "Heritage Site",
+    "fee": 100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 86,
+    "categories": "Religious Site",
+    "subcategories": "Religious Site",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 87,
+    "categories": "Dairy Cattle and Animal Sheds",
+    "subcategories": "Dairy Cattle and Animal Sheds",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 88,
+    "categories": "Pet Shops",
+    "subcategories": "Pet Shops",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 89,
+    "categories": "Scrap Dealers",
+    "subcategories": "Scrap Dealers",
+    "fee": 200,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 90,
+    "categories": "Construction & Demolition Waste Site",
+    "subcategories": "Construction & Demolition Waste Site",
+    "fee": 500,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  },
+  {
+    "id": 91,
+    "categories": "Any Other establishment not mentioned above",
+    "subcategories": "Any Other establishment not mentioned above",
+    "fee": 1100,
+    "tenantId": "hp.Kangra",
+    "active": "TRUE"
+  }
+]
+}
