@@ -7,7 +7,7 @@
 			"categories": "Residential",
 			"subcategories": "Household",
 			"subcategorytype": "Area less than 2000 Sq. Feet",
-			"fee": "50",
+			"fee": 50,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -16,7 +16,7 @@
 			"categories": "Residential",
 			"subcategories": "Household",
 			"subcategorytype": "Area more than 2000 Sq. Feet",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -25,7 +25,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Pan Shop",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -34,7 +34,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Tea Shop",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -43,7 +43,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Confectionery & Veg Shop  ",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -52,7 +52,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Vegetable & Fruit Shops (Wholesale)",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -61,7 +61,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Vegetable & Fruit Shops (Retail)",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -70,7 +70,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Groceries & Daily Needs Shop",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -79,7 +79,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Clothes Shop",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -88,7 +88,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Eateries (Food Production & Distribution)",
-			"fee": "400",
+			"fee": 400,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -97,7 +97,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Eateries (Food Distribution Only)",
-			"fee": "200",
+			"fee": 200,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -106,7 +106,7 @@
 			"categories": "Commercial",
 			"subcategories": "Shops",
 			"subcategorytype": "Meat & Fish Shops",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -115,7 +115,7 @@
 			"categories": "Commercial",
 			"subcategories": "Super Stores",
 			"subcategorytype": "Super Stores",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -124,7 +124,7 @@
 			"categories": "Commercial",
 			"subcategories": "Malls",
 			"subcategorytype": "Malls",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -133,7 +133,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Restaurants",
 			"subcategorytype": "Private Restaurants",
-			"fee": "800",
+			"fee": 800,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -142,7 +142,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Hotels",
 			"subcategorytype": "Upto 10 Rooms",
-			"fee": "750",
+			"fee": 750,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -151,7 +151,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Hotels",
 			"subcategorytype": "11 - 20 Rooms",
-			"fee": "1750",
+			"fee": 1750,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -160,7 +160,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Hotels",
 			"subcategorytype": "21 - 30 Rooms",
-			"fee": "2750",
+			"fee": 2750,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -169,7 +169,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Hotels",
 			"subcategorytype": "More than 30 Rooms",
-			"fee": "2750",
+			"fee": 2750,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -178,7 +178,7 @@
 			"categories": "Commercial",
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "Upto 10 Rooms",
-			"fee": "400",
+			"fee": 400,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -187,7 +187,7 @@
 			"categories": "Commercial",
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "11 - 20 Rooms",
-			"fee": "800",
+			"fee": 800,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -196,7 +196,7 @@
 			"categories": "Commercial",
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "21 - 30 Rooms",
-			"fee": "1600",
+			"fee": 1600,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -205,7 +205,7 @@
 			"categories": "Commercial",
 			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "More than 30 Rooms",
-			"fee": "3250",
+			"fee": 3250,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -214,7 +214,7 @@
 			"categories": "Commercial",
 			"subcategories": "Clubs",
 			"subcategorytype": "Clubs",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -223,7 +223,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Offices",
 			"subcategorytype": "2 Rooms",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -232,7 +232,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Offices",
 			"subcategorytype": "3-5 Rooms",
-			"fee": "120",
+			"fee": 120,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -241,7 +241,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Offices",
 			"subcategorytype": "6-10 Rooms",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -250,7 +250,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Offices",
 			"subcategorytype": "11-20 Rooms",
-			"fee": "1000",
+			"fee": 1000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -259,7 +259,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Offices",
 			"subcategorytype": "More than 20 Rooms",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -268,7 +268,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Schools/ Institutions",
 			"subcategorytype": "Upto 100 Students",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -277,7 +277,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Schools/ Institutions",
 			"subcategorytype": "More than 100 Students",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -286,7 +286,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Colleges / University",
 			"subcategorytype": "Upto 1000 Students",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -295,7 +295,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Colleges / University",
 			"subcategorytype": "More than 1000 Students",
-			"fee": "3000",
+			"fee": 3000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -304,7 +304,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Kindergarten / Day Cares",
 			"subcategorytype": "Upto 100 Students",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -313,7 +313,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Kindergarten / Day Cares",
 			"subcategorytype": "More than 100 Students",
-			"fee": "1000",
+			"fee": 1000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -322,7 +322,7 @@
 			"categories": "Commercial",
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Only Tire Puncture Repair",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -331,7 +331,7 @@
 			"categories": "Commercial",
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Vehicle Repair",
-			"fee": "200",
+			"fee": 200,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -340,7 +340,7 @@
 			"categories": "Commercial",
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Vehicle Repair & Spare Part Retail",
-			"fee": "400",
+			"fee": 400,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -349,7 +349,7 @@
 			"categories": "Commercial",
 			"subcategories": "Workshops & Garages",
 			"subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -358,7 +358,7 @@
 			"categories": "Commercial",
 			"subcategories": "Street Vendors ",
 			"subcategorytype": "Street Vendors ",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -367,7 +367,7 @@
 			"categories": "Commercial",
 			"subcategories": "Street Hawkers",
 			"subcategorytype": "Street Hawkers",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -376,7 +376,7 @@
 			"categories": "Commercial",
 			"subcategories": "Private Marriage Halls",
 			"subcategorytype": "Private Marriage Halls",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -385,7 +385,7 @@
 			"categories": "Commercial",
 			"subcategories": "Cinema Halls (Theatre & Multiplexes)",
 			"subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
-			"fee": "1000",
+			"fee": 1000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -394,7 +394,7 @@
 			"categories": "Commercial",
 			"subcategories": "Slaughterhouse",
 			"subcategorytype": "Slaughterhouse",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -403,7 +403,7 @@
 			"categories": "Commercial",
 			"subcategories": "Others",
 			"subcategorytype": "Others",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -412,7 +412,7 @@
 			"categories": "Industries",
 			"subcategories": "Micro Industry",
 			"subcategorytype": "Micro Industry",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -421,7 +421,7 @@
 			"categories": "Industries",
 			"subcategories": "Small Industry",
 			"subcategorytype": "Small Industry",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -430,7 +430,7 @@
 			"categories": "Industries",
 			"subcategories": "Medium Industry",
 			"subcategorytype": "Medium Industry",
-			"fee": "2500",
+			"fee": 2500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -439,7 +439,7 @@
 			"categories": "Industries",
 			"subcategories": "Large Industry",
 			"subcategorytype": "Large Industry",
-			"fee": "3000",
+			"fee": 3000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -448,7 +448,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Nursing Homes",
 			"subcategorytype": "Upto 50 Beds",
-			"fee": "200",
+			"fee": 200,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -457,7 +457,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Nursing Homes",
 			"subcategorytype": "51 to 100 Beds",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -466,7 +466,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Nursing Homes",
 			"subcategorytype": "More than 100 Beds",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -475,7 +475,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Rehabilitation Center",
 			"subcategorytype": "Upto 50 Beds",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -484,7 +484,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Rehabilitation Center",
 			"subcategorytype": "51 to 100 Beds",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -493,7 +493,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Rehabilitation Center",
 			"subcategorytype": "More than 100 Beds",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -502,7 +502,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Old Age Homes",
 			"subcategorytype": "Upto 50 Beds",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -511,7 +511,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Old Age Homes",
 			"subcategorytype": "51 to 100 Beds",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -520,7 +520,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Old Age Homes",
 			"subcategorytype": "More than 100 Beds",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -529,7 +529,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Private Hospital",
 			"subcategorytype": "Upto 50 Beds",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -538,7 +538,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Private Hospital",
 			"subcategorytype": "51 to 100 Beds",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -547,7 +547,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Private Hospital",
 			"subcategorytype": "More than 100 Beds",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -556,7 +556,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Laboratories",
 			"subcategorytype": "Laboratories",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -565,7 +565,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Private Clinics",
 			"subcategorytype": "Private Clinics",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -574,7 +574,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Chemists",
 			"subcategorytype": "Chemists",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -583,7 +583,7 @@
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Others",
 			"subcategorytype": "Others",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -592,7 +592,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Primary School",
 			"subcategorytype": "Govt Primary School",
-			"fee": "200",
+			"fee": 200,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -601,7 +601,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Middle School",
 			"subcategorytype": "Govt Middle School",
-			"fee": "200",
+			"fee": 200,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -610,7 +610,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Senior/ Senior Secondary School",
 			"subcategorytype": "Govt Senior/ Senior Secondary School",
-			"fee": "200",
+			"fee": 200,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -619,7 +619,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Angan Wadi",
 			"subcategorytype": "Govt Angan Wadi",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -628,7 +628,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt College",
 			"subcategorytype": "Govt College",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -637,7 +637,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt University",
 			"subcategorytype": "Govt University",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -646,7 +646,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "State Govt Office",
 			"subcategorytype": "State Govt Office",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -655,7 +655,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Central Govt Office",
 			"subcategorytype": "Central Govt Office",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -664,7 +664,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "ULB Office",
 			"subcategorytype": "ULB Office",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -673,7 +673,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt. Garden",
 			"subcategorytype": "Govt. Garden",
-			"fee": "1000",
+			"fee": 1000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -682,7 +682,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Hospitals",
 			"subcategorytype": "Govt Hospitals",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -691,7 +691,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Dispensary",
 			"subcategorytype": "Govt Dispensary",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -700,7 +700,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Restaurants",
 			"subcategorytype": "Govt Restaurants",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -709,7 +709,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Hotel",
 			"subcategorytype": "Govt Hotel",
-			"fee": "2000",
+			"fee": 2000,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -718,7 +718,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Marriage Halls/ Community Centers",
 			"subcategorytype": "Govt Marriage Halls/ Community Centers",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -727,7 +727,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Others",
 			"subcategorytype": "Others",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -736,7 +736,7 @@
 			"categories": "Others",
 			"subcategories": "Charitable Trust / NGO / any other Registered Group",
 			"subcategorytype": "Charitable Trust / NGO / any other Registered Group",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -745,7 +745,7 @@
 			"categories": "Others",
 			"subcategories": "Private Garden",
 			"subcategorytype": "Private Garden",
-			"fee": "1500",
+			"fee": 1500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -754,7 +754,7 @@
 			"categories": "Others",
 			"subcategories": "Orphanages",
 			"subcategorytype": "Orphanages",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -763,7 +763,7 @@
 			"categories": "Others",
 			"subcategories": "Heritage Site",
 			"subcategorytype": "Heritage Site",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -772,7 +772,7 @@
 			"categories": "Others",
 			"subcategories": "Religious Site",
 			"subcategorytype": "Religious Site",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -781,7 +781,7 @@
 			"categories": "Others",
 			"subcategories": "Dairy Cattle and Animal Sheds",
 			"subcategorytype": "Dairy Cattle and Animal Sheds",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -790,7 +790,7 @@
 			"categories": "Others",
 			"subcategories": "Pet Shops",
 			"subcategorytype": "Pet Shops",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -799,7 +799,7 @@
 			"categories": "Others",
 			"subcategories": "Scrap Dealers",
 			"subcategorytype": "Scrap Dealers",
-			"fee": "100",
+			"fee": 100,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -808,7 +808,7 @@
 			"categories": "Others",
 			"subcategories": "Construction & Demolition Waste Site",
 			"subcategorytype": "Construction & Demolition Waste Site",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		},
@@ -817,7 +817,7 @@
 			"categories": "Others",
 			"subcategories": "Any Other establishment not mentioned above",
 			"subcategorytype": "Any Other establishment not mentioned above",
-			"fee": "500",
+			"fee": 500,
 			"tenantId": "hp.Banjar",
 			"active": "TRUE"
 		}
