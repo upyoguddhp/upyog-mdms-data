@@ -1,168 +1,168 @@
 {
-  "tenantId": "hp.Talai",
-  "moduleName": "TradeLicense",
- "FeeStructure": [
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 1000,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 4000,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 8000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 12000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1500,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 6000,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 12000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 18000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 3000,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 12000,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 24000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 36000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Agriculture",
-      "price": 1000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Automotive",
-      "price": 3500
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 3500
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Common Trades",
-      "price": 1000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Education, Skills & Development",
-      "price": 5000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 500
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Handloom & Handicrafts",
-      "price": 500
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "IT/ ITES Services",
-      "price": 3000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Luxury Goods",
-      "price": 3000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 3000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Petroleum, Chemicals & Other Regulated Products",
-      "price": 4000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Tourism & Hospitality",
-      "price": 3000
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "tradeCategory",
-      "type": "Transportation & Logistics",
-      "price": 5000
-    }
-  ]
+    "tenantId": "hp.Talai",
+    "moduleName": "TradeLicense",
+    "FeeStructure": [
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 500,
+            "periodOfLicense": 1
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 2000,
+            "periodOfLicense": 5
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 4500,
+            "periodOfLicense": 10
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 6000,
+            "periodOfLicense": 15
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 1000,
+            "periodOfLicense": 1
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 4000,
+            "periodOfLicense": 5
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 9000,
+            "periodOfLicense": 10
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 12000,
+            "periodOfLicense": 15
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 2000,
+            "periodOfLicense": 1
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 8000,
+            "periodOfLicense": 5
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 18000,
+            "periodOfLicense": 10
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 24000,
+            "periodOfLicense": 15
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Agriculture",
+            "price": 100
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Automotive",
+            "price": 150
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Banking Finance Services Insurance (BFSI)",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Common Trades",
+            "price": 100
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Education, Skills & Development",
+            "price": 200
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+            "price": 100
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Handloom & Handicrafts",
+            "price": 100
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "IT/ ITES Services",
+            "price": 100
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Luxury Goods",
+            "price": 250
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Manufacturing, Industries and Industrial Materials",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Petroleum, Chemicals & Other Regulated Products",
+            "price": 1000
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Tourism & Hospitality",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Talai",
+            "feeStructureOf": "tradeCategory",
+            "type": "Transportation & Logistics",
+            "price": 250
+        }
+    ]
 }
