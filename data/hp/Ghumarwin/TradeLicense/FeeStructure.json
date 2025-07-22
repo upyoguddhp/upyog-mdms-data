@@ -168,19 +168,19 @@
             "tenantId": "hp.Ghumarwin",
             "feeStructureOf": "zone",
             "type": "A",
-            "price": "1"
+            "price": 1
         },
         {
             "tenantId": "hp.Ghumarwin",
             "feeStructureOf": "zone",
             "type": "B",
-            "price": "1"
+            "price": 1
         },
         {
             "tenantId": "hp.Ghumarwin",
             "feeStructureOf": "zone",
             "type": "C",
-            "price": "1"
+            "price": 1
         }
     ]
 }
