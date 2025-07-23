@@ -11377,19 +11377,6 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 1580,
-      "name": "Calculate Community Hall Account Fee",
-      "url": "/chb-services/booking/v1//v1/fetch/CALCULATEFEE",
-      "displayName": "Calculate Community Hall Account Fee",
-      "orderNumber": 1,
-      "queryParams": null,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": ""
     }
   ]
 }
