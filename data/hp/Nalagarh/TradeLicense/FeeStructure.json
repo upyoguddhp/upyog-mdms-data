@@ -163,6 +163,18 @@
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 100
+    },
+    {
+      "tenantId": "hp.Ghumarwin",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Ghumarwin",
+      "feeStructureOf": "zone",
+      "type": "B",
+      "price": 1
     }
   ]
 }
