@@ -13,21 +13,21 @@
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 2000,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 4000,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 6000,
       "periodOfLicense": 15
     },
     {
@@ -41,21 +41,21 @@
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 3000,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 6000,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 9000,
       "periodOfLicense": 15
     },
     {
@@ -69,21 +69,21 @@
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 5000,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 10000,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 15000,
       "periodOfLicense": 15
     },
     {
@@ -162,13 +162,13 @@
       "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 1
+      "price": 0
     },
     {
       "tenantId": "hp.Shimla",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 1
+      "price": 0
     }
   ]
 }
