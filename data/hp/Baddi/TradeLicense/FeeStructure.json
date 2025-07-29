@@ -6,21 +6,21 @@
       "tenantId": "hp.Baddi",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 100,
+      "price": 1000,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 400,
+      "price": 5000,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 700,
+      "price": 10000,
       "periodOfLicense": 10
     },
     {
