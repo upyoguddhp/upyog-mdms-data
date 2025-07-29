@@ -149,6 +149,10 @@
 	{
 		"tenantId": "hp.Kotkhai",
 		"price": 200
+	},
+	{
+		"tenantId": "hp.Rampur",
+		"price": 1500
 	}
 
   ]
