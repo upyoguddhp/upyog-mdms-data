@@ -175,6 +175,12 @@
       "description": "Commissioner",
       "code": "COMM",
       "active": true
+    },
+    {
+      "name": "Accounts Verifier",
+      "description": "Accounts Verifier",
+      "code": "AV",
+      "active": true
     }
   ]
 }
