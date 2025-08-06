@@ -153,6 +153,10 @@
 	{
 		"tenantId": "hp.Rampur",
 		"price": 1500
+	},
+	{
+		"tenantId": "hp.Nahan",
+		"price": 100
 	}
 
   ]
