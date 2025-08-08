@@ -1,7 +1,7 @@
 {
   "tenantId": "hp.Shimla",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
