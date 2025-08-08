@@ -11377,6 +11377,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1580,
+      "name": "Create On Demand Bill",
+      "url": "/garbage-service/garbage-accounts-scheduler/on-demand-generation",
+      "displayName": "Create On Demand Bill",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
