@@ -1,5 +1,5 @@
 {
-"tenantId": "hp.Jawalamukhi",
+"tenantId": "hp.Hamirpur",
   "moduleName": "Garbage",
   "FeeStructure":[
   {
@@ -10,8 +10,20 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 60,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Residential",
+    "subcategories": "Household",
+    "subcategorytype": "Area More Than 2000 Sq. Feet",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 60,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -22,8 +34,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 80,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -34,8 +46,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 80,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -46,8 +58,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -58,8 +70,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 1000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -71,7 +83,7 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 300,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -82,8 +94,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 80,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -94,32 +106,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 80,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Shops",
-    "subcategorytype": "Eateries (Food Production & Distribution)",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Shops",
-    "subcategorytype": "Eateries (Food Distribution Only)",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 400,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -130,44 +118,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Shops",
-    "subcategorytype": "Bakeries (Manufacturing Units)",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Commercial Complex (Dhabba, Sweet Shop, Coffee Houses, Provisional Stores)",
-    "subcategorytype": "Commercial Complex (Dhabba, Sweet Shop, Coffee Houses, Provisional Stores)",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Malls",
-    "subcategorytype": "Big Malls",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 300,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -178,20 +130,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 400,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Private Restaurants",
-    "subcategorytype": "Restaurants + Bar",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 300,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -202,8 +142,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 400,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 2000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -214,8 +154,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 600,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 2000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -226,8 +166,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 2000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -239,55 +179,55 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
     "categories": "Commercial",
-    "subcategories": "Private Hotels",
-    "subcategorytype": "Special Hotels More Than 50 Rooms",
+    "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategorytype": "Upto 10 Rooms",
     "bplRebatePercentage": 0,
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 15000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
     "categories": "Commercial",
-    "subcategories": "Dharamshala/Sarai",
-    "subcategorytype": "Dharamshala Less Than 50 Rooms",
+    "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategorytype": "11 - 20 Rooms",
     "bplRebatePercentage": 0,
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 1500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
     "categories": "Commercial",
-    "subcategories": "Dharamshala/Sarai",
-    "subcategorytype": "Dharamshala 50 to 100 Rooms",
+    "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategorytype": "21 - 30 Rooms",
     "bplRebatePercentage": 0,
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
     "categories": "Commercial",
-    "subcategories": "Dharamshala/Sarai",
-    "subcategorytype": "Dharamshala More Than 100",
+    "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+    "subcategorytype": "More than 30 Rooms",
     "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
+    "isAdditonalCostAdded": "true",
+    "variableUnitCost": 500,
     "fixedUnitCost": 0,
-    "fee": 4000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 2500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -299,7 +239,7 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 100,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -311,7 +251,7 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 250,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -323,7 +263,7 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -335,7 +275,7 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -347,31 +287,7 @@
     "variableUnitCost": 100,
     "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Banks",
-    "subcategorytype": "Bank <1000 sr.ft",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 500,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Banks",
-    "subcategorytype": "Bank Floor Area > 1000 sq. feet",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 500,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -382,8 +298,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -395,7 +311,7 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 500,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -406,8 +322,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -418,8 +334,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 1500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -430,8 +346,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -442,8 +358,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 250,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -454,8 +370,20 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Commercial",
+    "subcategories": "Workshops & Garages",
+    "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 750,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -466,104 +394,20 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 300,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Private Marriage Halls (monthly)",
-    "subcategorytype": "Private Marriage Halls (monthly)",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Cinema Halls/Theatre",
-    "subcategorytype": "Cinema Halls/Theatre",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 1500,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Others",
-    "subcategorytype": "Others",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
     "categories": "Commercial",
     "subcategories": "Bulk",
-    "subcategorytype": "Vehicle Pick-up On Demand (Per Trip)",
+    "subcategorytype": "Private Hotel",
     "bplRebatePercentage": 0,
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Bulk",
-    "subcategorytype": "Dumper Per Trip",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Commercial",
-    "subcategories": "Bulk",
-    "subcategorytype": "Private Marriage Halls",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Industries",
-    "subcategories": "Micro Industry",
-    "subcategorytype": "Micro Industry",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 1500,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Industries",
-    "subcategories": "Factories (Manufacturing unit) other than notifies in any other category)",
-    "subcategorytype": "Factories (Manufacturing Unit) Other Than Notifies in Any Other Category)",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 1500,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -574,8 +418,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1500,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 300,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -586,8 +430,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 1000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -595,11 +439,11 @@
     "subcategories": "Nursing Homes",
     "subcategorytype": "More than 100 Beds",
     "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
+    "isAdditonalCostAdded": "true",
+    "variableUnitCost": 250,
     "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -610,8 +454,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1500,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 300,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -622,8 +466,20 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
+    "fee": 1000,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Hospitals & Health Care",
+    "subcategories": "Private Hospital",
+    "subcategorytype": "More Than 100 Beds",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "true",
+    "variableUnitCost": 250,
+    "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -634,8 +490,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -646,20 +502,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Hospitals & Health Care",
-    "subcategories": "Private Clinics with medical shop",
-    "subcategorytype": "Private Clinics With Medical Shop",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 150,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -670,8 +514,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -682,8 +526,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -694,8 +538,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -706,8 +550,20 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Govt Angan Wadi",
+    "subcategorytype": "Govt Angan Wadi",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
     "fee": 100,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -719,7 +575,91 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 500,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Govt University",
+    "subcategorytype": "Govt University",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 500,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "State/Central Govt Office",
+    "subcategorytype": "Govt Office",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 100,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Govt Hospitals",
+    "subcategorytype": "Upto 50 Beds",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 40000,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Govt Hospitals",
+    "subcategorytype": "51 to 100 Beds",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 40000,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Govt Hospitals",
+    "subcategorytype": "More than 100 Beds",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 40000,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Govt Hospitals",
+    "subcategorytype": "Upto 100 Beds",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 40000,
+    "tenantId": "hp.Hamirpur",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Govt Hospitals",
+    "subcategorytype": "101-300 Beds",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": "false",
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 40000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -730,8 +670,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 400,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 2000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -742,8 +682,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 600,
-    "tenantId": "hp.Jawalamukhi",
+    "fee": 2000,
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -754,44 +694,8 @@
     "isAdditonalCostAdded": "false",
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Govt Establishments",
-    "subcategories": "Others",
-    "subcategorytype": "Others",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
     "fee": 2000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Others",
-    "subcategories": "Religious Site",
-    "subcategorytype": "Temple (Trust)",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 5000,
-    "tenantId": "hp.Jawalamukhi",
-    "active": "true"
-  },
-  {
-    "categories": "Others",
-    "subcategories": "Cow Dung from cattle at households",
-    "subcategorytype": "Cow Dung From Cattle At Households",
-    "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": "false",
-    "variableUnitCost": 0,
-    "fixedUnitCost": 0,
-    "fee": 350,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   },
   {
@@ -803,7 +707,7 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 400,
-    "tenantId": "hp.Jawalamukhi",
+    "tenantId": "hp.Hamirpur",
     "active": "true"
   }
 ]
