@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Narkanda",
+  "tenantId": "hp.Nagrota",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -10,8 +10,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Narkanda",
+      "fee": 60,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -22,8 +22,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "fee": 60,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -34,8 +34,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Narkanda",
+      "fee": 100,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -46,8 +46,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Narkanda",
+      "fee": 100,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -58,8 +58,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Narkanda",
+      "fee": 100,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -71,31 +71,55 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Vegetable & Fruit Shops (Retail)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Groceries & Daily Needs Shop",
+      "subcategorytype": "Vegetable & Fruit Shops (Retail) Small",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Vegetable & Fruit Shops (Retail) Big",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Groceries & Daily Needs Shop Big",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Groceries & Daily Needs Shop Small",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -106,8 +130,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -118,8 +142,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -130,8 +154,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -142,80 +166,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Dhaba",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 350,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Wine /Liquor Shop",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 350,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Saloon/Beauty Parlour",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Petrol Pump",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Hardware",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 350,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Holticulture Products",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Narkanda",
+      "fee": 150,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -226,8 +178,32 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Narkanda",
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Malls",
+      "subcategorytype": "Big Malls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Malls",
+      "subcategorytype": "Small Malls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -239,31 +215,19 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Restaurants",
-      "subcategorytype": "Bar",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Restaurants",
-      "subcategorytype": "Restaurants + Bar",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1200,
-      "tenantId": "hp.Narkanda",
+      "fee": 1500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -274,8 +238,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Narkanda",
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -286,8 +250,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 3500,
-      "tenantId": "hp.Narkanda",
+      "fee": 2500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -295,167 +259,59 @@
       "subcategories": "Private Hotels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
-      "fixedUnitCost": 0,
-      "fee": 3500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Hotels",
-      "subcategorytype": "Hotel (Upto 5 Rooms)",
-      "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1300,
-      "tenantId": "hp.Narkanda",
+      "fee": 3000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Hotels",
-      "subcategorytype": "Hotel (6 to 10 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
-      "subcategorytype": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service(upto 5 rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
-      "subcategorytype": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast (6 to 10 rooms)",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
-      "subcategorytype": "PG/Hostels/Guest House/Home Stay/Bed and Breakfast (11 to 20 rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
-      "subcategorytype": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast (21 to 30 rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
-      "subcategorytype": "Guest House/Home Stay/Bed and Breakfast more than 30",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "2 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "3-5 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "6-10 Rooms",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "11-20 Rooms",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Banks",
-      "subcategorytype": "Bank <1000 sr.ft",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 500,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Banks",
-      "subcategorytype": "Bank Floor Area > 1000 sq. feet",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -466,8 +322,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
+      "fee": 300,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Schools/ Institutions",
+      "subcategorytype": "More than 100 Students",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -479,7 +347,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -490,8 +358,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Narkanda",
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -502,8 +370,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
+      "fee": 300,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -514,8 +382,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Narkanda",
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -527,7 +395,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -538,8 +406,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Narkanda",
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -550,8 +418,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Narkanda",
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -562,20 +430,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Workshops & Garages",
-      "subcategorytype": "Machine repair",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Narkanda",
+      "fee": 750,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -587,7 +443,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -599,7 +455,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -610,8 +466,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "fee": 1500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -623,7 +479,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -634,44 +490,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Private Garden",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Private Marriage Halls",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Govt Marriage Halls/ Community Centers",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -682,8 +514,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Narkanda",
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -694,8 +526,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "fee": 1000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -706,8 +538,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Narkanda",
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -718,8 +550,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 3000,
-      "tenantId": "hp.Narkanda",
+      "fee": 5000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -731,7 +563,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -743,7 +575,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -751,11 +583,83 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "More than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Old Age Homes",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Old Age Homes",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Old Age Homes",
+      "subcategorytype": "More Than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -767,7 +671,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -779,7 +683,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -787,11 +691,11 @@
       "subcategories": "Private Hospital",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "fee": 2500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -803,7 +707,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -814,20 +718,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Private Clinics with medical shop",
-      "subcategorytype": "Private Clinics With Medical Shop",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Narkanda",
+      "fee": 100,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -838,8 +730,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Narkanda",
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -851,7 +755,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -862,8 +766,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -874,8 +778,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -887,7 +791,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -898,8 +802,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -910,8 +814,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "fee": 3000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 2 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -922,44 +838,56 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Narkanda",
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Upto 3 Rooms",
+      "subcategories": "Garden",
+      "subcategorytype": "Garden",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 2 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 3000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
+      "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "3-7 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Narkanda",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "More Than 7 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -971,7 +899,19 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Government Hotel",
+      "subcategorytype": "Upto 10 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -982,8 +922,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Narkanda",
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -994,8 +934,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 3500,
-      "tenantId": "hp.Narkanda",
+      "fee": 2500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -1007,7 +947,31 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
+      "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -1018,8 +982,80 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Narkanda",
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Orphanages",
+      "subcategorytype": "Orphanages",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Heritage Site",
+      "subcategorytype": "Heritage Site",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Temple (Trust)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Cow Dung from cattle at households",
+      "subcategorytype": "Cow Dung From Cattle At Households",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Pet Shops",
+      "subcategorytype": "Pet Shops",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Scrap Dealers",
+      "subcategorytype": "Scrap Dealers",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     },
     {
@@ -1030,8 +1066,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Narkanda",
+      "fee": 1000,
+      "tenantId": "hp.Nagrota",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Any Other Establishment Not Mentioned Above",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Nagrota",
       "active": "true"
     }
   ]
