@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Rampur",
+  "tenantId": "hp.Rajgarh",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -11,7 +11,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -23,7 +23,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -35,7 +35,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 80,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -47,7 +47,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 80,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -59,7 +59,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 250,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -70,8 +70,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -83,7 +83,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 250,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -95,7 +95,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -107,7 +107,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -118,8 +118,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -130,8 +130,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -143,7 +143,55 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Barber Shop (Capacity upto 5 Customers at a Time)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 300,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Barber Shop (Above 5 Customer)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 300,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Sweet Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 300,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Sewing Shop ( Darji)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -154,8 +202,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Malls",
+      "subcategorytype": "Big Malls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -167,7 +227,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -178,8 +238,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -191,7 +251,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -202,8 +262,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 2500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -214,8 +274,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 3000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -227,7 +287,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -239,7 +299,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -251,7 +311,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -259,11 +319,23 @@
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 3000,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Recreational Facilities",
+      "subcategorytype": "Clubs",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 5000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -274,8 +346,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -286,8 +358,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -298,8 +370,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -310,8 +382,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -319,11 +391,35 @@
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 2000,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank <1000 sr.ft",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank Floor Area > 1000 sq. feet",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -334,8 +430,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -346,8 +442,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 1200,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -359,7 +455,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -370,8 +466,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 2000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -382,8 +478,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -394,8 +490,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -407,7 +503,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -418,8 +514,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -430,8 +526,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -443,7 +539,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 750,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -454,8 +550,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 50,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -467,7 +563,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -478,8 +574,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -490,8 +586,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -503,55 +599,55 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 2500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -563,7 +659,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -575,7 +671,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -583,11 +679,23 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -598,8 +706,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -607,11 +715,11 @@
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -622,8 +730,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -634,8 +742,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -643,11 +751,47 @@
       "subcategories": "Old Age Homes",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "More Than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -658,8 +802,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Rampur",
+      "fee": 400,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -670,8 +814,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Rampur",
+      "fee": 400,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -682,8 +826,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Rampur",
+      "fee": 400,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -694,8 +850,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -706,8 +862,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -718,8 +874,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -730,8 +886,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 50,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -743,7 +899,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -754,8 +910,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 2000,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -766,8 +922,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -778,8 +934,68 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Garden",
+      "subcategorytype": "Garden",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 2 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "Upto 10 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
+      "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Restaurants",
+      "subcategorytype": "Govt Restaurants",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -790,8 +1006,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -803,7 +1019,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     },
     {
@@ -814,8 +1030,152 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
+      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
+      "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Private Garden",
+      "subcategorytype": "Private Garden",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Orphanages",
+      "subcategorytype": "Orphanages",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Heritage Site",
+      "subcategorytype": "Heritage Site",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Temple (Trust)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Cow Dung from cattle at households",
+      "subcategorytype": "Cow Dung From Cattle At Households",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 350,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Pet Shops",
+      "subcategorytype": "Pet Shops",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Scrap Dealers",
+      "subcategorytype": "Scrap Dealers",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 400,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Construction & Demolition Waste Site",
+      "subcategorytype": "Small",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Rajgarh",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Any Other Establishment Not Mentioned Above",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Rajgarh",
       "active": "true"
     }
   ]

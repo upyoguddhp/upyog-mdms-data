@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Nirmand",
+  "tenantId": "hp.Palampur",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -11,7 +11,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -22,8 +22,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Nirmand",
+      "fee": 100,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -34,8 +34,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 80,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -46,20 +46,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Confectionery & Veg Shop",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 80,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -70,8 +58,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -82,8 +70,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Vegetable & Fruit Shops (Retail) Small",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -95,7 +95,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -107,31 +107,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Eateries (Food Production & Distribution)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Eateries (Food Distribution Only)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -142,20 +118,104 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Nirmand",
+      "fee": 250,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Super Stores/Departmental Store",
-      "subcategorytype": "Super Stores/Departmental Store",
+      "subcategories": "Shops",
+      "subcategorytype": "Sweet Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 400,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Sweet Shop Production",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Bakeries (Small)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Bakeries (Manufacturing Units)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1200,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Any Other Small Shop/ Khokha",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "One room(Not Defined)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Variable (Not Defined)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Commercial Complex (Dhabba, Sweet Shop, Coffee Houses, Provisional Stores)",
+      "subcategorytype": "Commercial Complex (Dhabba, Sweet Shop, Coffee Houses, Provisional Stores)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -166,8 +226,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 5000,
-      "tenantId": "hp.Nirmand",
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -178,8 +238,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1500,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Restaurants",
+      "subcategorytype": "Restaurants + Bar",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 250,
+      "fixedUnitCost": 0,
+      "fee": 1700,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -191,7 +263,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -203,7 +275,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -215,19 +287,43 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
-      "subcategorytype": "More than 30 Rooms",
+      "subcategorytype": "31-40 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "41-50 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "More than 50 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 250,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -238,8 +334,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 750,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -251,7 +347,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -263,7 +359,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -271,23 +367,23 @@
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Nirmand",
+      "fee": 2500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Recreational Facilities",
-      "subcategorytype": "Clubs",
+      "subcategories": "Dharamshala/Sarai",
+      "subcategorytype": "Dharamshala/Sarai",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Nirmand",
+      "fee": 550,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -298,8 +394,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Nirmand",
+      "fee": 100,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -310,8 +406,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Nirmand",
+      "fee": 250,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -322,8 +418,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Nirmand",
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -331,23 +427,11 @@
       "subcategories": "Private Offices",
       "subcategorytype": "11-20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "More than 20 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -358,8 +442,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -370,8 +454,32 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Schools/ Institutions",
+      "subcategorytype": "Coaching Centre",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Schools/ Institutions",
+      "subcategorytype": "Training Centre",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -382,8 +490,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -394,32 +502,68 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Kindergarten / Day Cares",
+      "subcategorytype": "Upto 15 Students",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Kindergarten / Day Cares",
+      "subcategorytype": "16-25 Students",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
-      "subcategorytype": "Upto 100 Students",
+      "subcategorytype": "26 -35 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 750,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
-      "subcategorytype": "More than 100 Students",
+      "subcategorytype": "More than 35 students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Workshops & Garages",
+      "subcategorytype": "Not touching NH and SH",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 150,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -431,7 +575,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -442,8 +586,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 250,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -454,8 +598,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -466,8 +610,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 750,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -478,8 +622,32 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Nirmand",
+      "fee": 80,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Street Vendors",
+      "subcategorytype": "Street Vendors (Unregistered)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Street Hawkers",
+      "subcategorytype": "Street Hawkers",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 80,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -491,19 +659,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Marriage Halls (monthly)",
-      "subcategorytype": "Private Marriage Halls (monthly)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -514,44 +670,68 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Slaughterhouse",
-      "subcategorytype": "Slaughterhouse",
+      "subcategories": "Bulk",
+      "subcategorytype": "Dumper Per Trip",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Nirmand",
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Others",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Industries",
-      "subcategories": "Micro Industry",
-      "subcategorytype": "Micro Industry",
+      "subcategories": "Bulk",
+      "subcategorytype": "Private Marriage Halls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Industries",
+      "subcategories": "Factories (Manufacturing unit) other than notifies in any other category)",
+      "subcategorytype": "Factories (Manufacturing Unit) Other Than Notifies in Any Other Category)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Nursing Homes",
+      "subcategorytype": "Upto 10",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Nursing Homes",
+      "subcategorytype": "Upto 25",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -562,8 +742,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -574,8 +754,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -583,47 +763,11 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "Upto 50 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -635,7 +779,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -646,8 +790,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 750,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -658,8 +802,32 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "Upto 10 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "Upto 25 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -670,8 +838,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -682,8 +850,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -691,11 +859,11 @@
       "subcategories": "Private Hospital",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -706,8 +874,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Nirmand",
+      "fee": 200,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -718,8 +886,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 150,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Clinics with medical shop",
+      "subcategorytype": "Private Clinics With Medical Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -730,8 +910,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 200,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -742,8 +922,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 50,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -755,7 +935,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -766,20 +946,56 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 150,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Angan Wadi",
-      "subcategorytype": "Govt Angan Wadi",
+      "subcategorytype": "Utpo 10 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Angan Wadi",
+      "subcategorytype": "11-20 Students",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Angan Wadi",
+      "subcategorytype": "21-30 Students",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 300,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Angan Wadi",
+      "subcategorytype": "More Than 30 Students",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -790,20 +1006,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt University",
-      "subcategorytype": "Govt University",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -814,8 +1018,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 400,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -826,32 +1030,32 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 750,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Garden",
-      "subcategorytype": "Garden",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "Upto 10 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 750,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 2 Rooms)",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "Upto 25 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -862,8 +1066,32 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 1500,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "More than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 50,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -874,20 +1102,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Restaurants",
-      "subcategorytype": "Govt Restaurants",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "fee": 250,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -899,7 +1115,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -911,7 +1127,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -923,7 +1139,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -934,8 +1150,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Nirmand",
+      "fee": 500,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -947,55 +1163,127 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Private Garden",
-      "subcategorytype": "Private Garden",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Orphanages",
-      "subcategorytype": "Orphanages",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Heritage Site",
-      "subcategorytype": "Heritage Site",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
       "categories": "Others",
       "subcategories": "Religious Site",
-      "subcategorytype": "Temple (Trust)",
+      "subcategorytype": "Gathering Upto 100",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 300,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "101 -500",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 700,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "501-2000",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Above 2000",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 3000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Capacity More Than 10000",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 15000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Stadium/Ground",
+      "subcategorytype": "Gathering Upto 100",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 300,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Stadium/Ground",
+      "subcategorytype": "101 -500",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 700,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Stadium/Ground",
+      "subcategorytype": "501-2000",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Stadium/ground",
+      "subcategorytype": "Above 2000",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 3000,
+      "tenantId": "hp.Palampur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Stadium/ground",
+      "subcategorytype": "Capacity More Than 10000",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 15000,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -1007,7 +1295,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 350,
-      "tenantId": "hp.Nirmand",
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -1018,8 +1306,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 350,
-      "tenantId": "hp.Nirmand",
+      "fee": 250,
+      "tenantId": "hp.Palampur",
       "active": "true"
     },
     {
@@ -1030,32 +1318,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Construction & Demolition Waste Site",
-      "subcategorytype": "Small",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Any Other Establishment Not Mentioned Above",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nirmand",
+      "fee": 400,
+      "tenantId": "hp.Palampur",
       "active": "true"
     }
   ]

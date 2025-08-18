@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Rampur",
+  "tenantId": "hp.Rohru",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -11,7 +11,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -22,8 +22,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 50,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -34,8 +34,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -46,8 +46,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -58,8 +58,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -70,8 +70,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -82,8 +82,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -95,7 +95,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -107,7 +107,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -118,8 +118,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -130,8 +130,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -142,8 +142,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -154,8 +154,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Malls",
+      "subcategorytype": "Big Malls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -166,8 +178,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -178,8 +190,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -190,8 +202,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -202,8 +214,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -214,8 +226,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -226,8 +238,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -238,8 +250,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -250,8 +262,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -260,10 +272,22 @@
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Recreational Facilities",
+      "subcategorytype": "Clubs",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -274,8 +298,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -286,8 +310,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 250,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -298,8 +322,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -310,8 +334,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 350,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -319,11 +343,11 @@
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 400,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -334,8 +358,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -347,7 +371,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -358,8 +382,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 700,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -370,8 +394,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -382,8 +406,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -394,8 +418,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -407,7 +431,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -418,8 +442,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -430,8 +454,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -442,8 +466,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -455,11 +479,11 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
-      "categories": "Commercial",
+      "categories": "",
       "subcategories": "Street Hawkers",
       "subcategorytype": "Street Hawkers",
       "bplRebatePercentage": 0,
@@ -467,7 +491,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -478,8 +502,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -490,8 +514,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -502,56 +526,68 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Bulk",
+      "subcategorytype": "Slaughterhouse (Per kill)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 10,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Industries",
+      "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -562,8 +598,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -574,8 +610,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 700,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -584,10 +620,22 @@
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 700,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -598,8 +646,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -607,11 +655,11 @@
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -622,8 +670,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -634,8 +682,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -643,11 +691,47 @@
       "subcategories": "Old Age Homes",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 700,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "More Than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 100,
+      "fixedUnitCost": 0,
+      "fee": 700,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -658,8 +742,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -670,8 +754,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -682,8 +766,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -695,7 +779,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -706,8 +790,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -718,8 +802,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -731,7 +815,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -742,8 +826,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -754,8 +838,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -766,8 +850,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -778,8 +862,80 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 2 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 700,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "More than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 100,
+      "fixedUnitCost": 0,
+      "fee": 700,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
+      "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Restaurants",
+      "subcategorytype": "Govt Restaurants",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -790,8 +946,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -802,8 +958,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Rohru",
       "active": "true"
     },
     {
@@ -814,8 +970,92 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
+      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
+      "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Orphanages",
+      "subcategorytype": "Orphanages",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Heritage Site",
+      "subcategorytype": "Heritage Site",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Temple (Trust)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Pet Shops",
+      "subcategorytype": "Pet Shops",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Rohru",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Scrap Dealers",
+      "subcategorytype": "Scrap Dealers",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Rohru",
       "active": "true"
     }
   ]

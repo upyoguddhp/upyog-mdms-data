@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Rampur",
+  "tenantId": "hp.Sujanpur",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -11,7 +11,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -23,7 +23,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -35,7 +35,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 80,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -47,7 +47,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 80,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -58,8 +58,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -70,8 +70,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -82,8 +82,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -95,7 +95,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -107,7 +107,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -118,8 +118,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -130,8 +130,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -142,8 +142,44 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 150,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Wine /Liquor Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Ahata",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Variable (Not Defined)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -154,8 +190,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Malls",
+      "subcategorytype": "Big Malls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -166,8 +214,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -178,8 +226,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -190,8 +238,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -202,8 +250,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -214,56 +262,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
-      "subcategorytype": "Upto 10 Rooms",
+      "subcategories": "Dharamshala/Sarai",
+      "subcategorytype": "Dharamshala/Sarai",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
-      "subcategorytype": "11 - 20 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
-      "subcategorytype": "21 - 30 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
-      "subcategorytype": "More than 30 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -274,8 +286,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -286,8 +298,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -298,8 +310,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -310,8 +322,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -320,10 +332,22 @@
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank <1000 sr.ft",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -335,7 +359,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -346,8 +370,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -358,8 +382,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -370,8 +394,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -382,8 +406,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -394,8 +418,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -407,7 +431,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -418,8 +442,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -430,8 +454,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -442,8 +466,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -454,8 +478,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 80,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -466,8 +490,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 80,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -478,8 +502,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -491,7 +515,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -502,56 +526,116 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Bulk",
+      "subcategorytype": "Private Hotel",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Bulk",
+      "subcategorytype": "Government Hotel",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Bulk",
+      "subcategorytype": "Private Marriage Halls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Bulk",
+      "subcategorytype": "Govt Marriage Halls/ Community Centers",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Industries",
+      "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
+      "categories": "Industries",
+      "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -562,8 +646,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 400,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -574,8 +658,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 600,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -584,10 +668,22 @@
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 400,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -598,8 +694,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 600,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -608,10 +704,10 @@
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -622,8 +718,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Rampur",
+      "fee": 400,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -634,8 +730,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 600,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -644,10 +740,46 @@
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 400,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 600,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "More Than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 50,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -658,8 +790,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -670,8 +802,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -682,8 +814,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -695,7 +839,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -706,8 +850,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -718,8 +862,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Rampur",
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -730,8 +874,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Rampur",
+      "fee": 50,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -742,8 +886,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -754,8 +898,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -767,19 +911,115 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Central Govt Office",
-      "subcategorytype": "Central Govt Office",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 3-5 Rooms)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Rampur",
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 6-10 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 11-20 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Garden",
+      "subcategorytype": "Garden",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 2 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 400,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 600,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
+      "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Restaurants",
+      "subcategorytype": "Govt Restaurants",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -790,8 +1030,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -802,8 +1042,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 300,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     },
     {
@@ -814,8 +1054,188 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Rampur",
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Government Hotel",
+      "subcategorytype": "More Than 30 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
+      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Sainik School",
+      "subcategorytype": "Sainik School",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 700,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Sainik School",
+      "subcategorytype": "Hostel",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Mini Secretariat",
+      "subcategorytype": "Mini Secretariat",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
+      "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Private Garden",
+      "subcategorytype": "Private Garden",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Orphanages",
+      "subcategorytype": "Orphanages",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Heritage Site",
+      "subcategorytype": "Heritage Site",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Temple (Trust)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Cow Dung from cattle at households",
+      "subcategorytype": "Cow Dung From Cattle At Households",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Pet Shops",
+      "subcategorytype": "Pet Shops",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Scrap Dealers",
+      "subcategorytype": "Scrap Dealers",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Construction & Demolition Waste Site",
+      "subcategorytype": "Small",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Sujanpur",
       "active": "true"
     }
   ]
