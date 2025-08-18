@@ -1,6 +1,6 @@
 {
-	"tenantId": "hp.Santokhgarh",
-	"moduleName": "Garbage",
+  "tenantId": "hp.Santokhgarh",
+  "moduleName": "Garbage",
   "FeeStructure": [
     {
       "id": 1,
@@ -420,7 +420,7 @@
       "categories": "Industries",
       "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -429,7 +429,7 @@
       "categories": "Industries",
       "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -438,7 +438,7 @@
       "categories": "Industries",
       "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -582,7 +582,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -672,7 +672,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt. Garden",
       "subcategorytype": "Govt. Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -690,7 +690,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Dispensary",
       "subcategorytype": "Govt Dispensary",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -699,7 +699,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Restaurants",
       "subcategorytype": "Govt Restaurants",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -708,7 +708,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hotel",
       "subcategorytype": "Govt Hotel",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -726,7 +726,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -744,7 +744,7 @@
       "categories": "Others",
       "subcategories": "Private Garden",
       "subcategorytype": "Private Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -753,7 +753,7 @@
       "categories": "Others",
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -762,7 +762,7 @@
       "categories": "Others",
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -771,7 +771,7 @@
       "categories": "Others",
       "subcategories": "Religious Site",
       "subcategorytype": "Religious Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     },
@@ -816,7 +816,7 @@
       "categories": "Others",
       "subcategories": "Any Other establishment not mentioned above",
       "subcategorytype": "Any Other establishment not mentioned above",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Santokhgarh",
       "active": "TRUE"
     }

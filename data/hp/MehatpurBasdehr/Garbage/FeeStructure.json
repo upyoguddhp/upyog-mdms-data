@@ -1,7 +1,7 @@
 {
-	"tenantId": "hp.MehatpurBasdehr",
-	"moduleName": "Garbage",
-	"FeeStructure": [
+  "tenantId": "hp.MehatpurBasdehr",
+  "moduleName": "Garbage",
+  "FeeStructure": [
     {
       "id": 1,
       "categories": "Residential",
@@ -214,7 +214,7 @@
       "categories": "Commercial",
       "subcategories": "Clubs",
       "subcategorytype": "Clubs",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.MehatpurBasdehr",
       "active": "TRUE"
     },

@@ -664,7 +664,7 @@
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
       "subcategorytype": "ULB Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Kangra",
       "active": "TRUE"
     },

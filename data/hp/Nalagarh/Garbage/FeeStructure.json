@@ -1,7 +1,7 @@
 {
-	"tenantId": "hp.Nalagarh",
-	"moduleName": "Garbage",
-	"FeeStructure": [
+  "tenantId": "hp.Nalagarh",
+  "moduleName": "Garbage",
+  "FeeStructure": [
     {
       "id": 1,
       "categories": "Residential",
@@ -213,7 +213,7 @@
       "categories": "Commercial",
       "subcategories": "Clubs",
       "subcategorytype": "Clubs",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -402,7 +402,7 @@
       "categories": "Commercial",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -474,7 +474,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -483,7 +483,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -492,7 +492,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -501,7 +501,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -510,7 +510,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -519,7 +519,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -528,7 +528,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -537,7 +537,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -663,7 +663,7 @@
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
       "subcategorytype": "ULB Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -672,7 +672,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt. Garden",
       "subcategorytype": "Govt. Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -681,7 +681,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
       "subcategorytype": "Govt Hospitals",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -690,7 +690,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Dispensary",
       "subcategorytype": "Govt Dispensary",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -726,7 +726,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -735,7 +735,7 @@
       "categories": "Others",
       "subcategories": "Charitable Trust / NGO / any other Registered Group",
       "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -744,7 +744,7 @@
       "categories": "Others",
       "subcategories": "Private Garden",
       "subcategorytype": "Private Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -753,7 +753,7 @@
       "categories": "Others",
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -762,7 +762,7 @@
       "categories": "Others",
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -771,7 +771,7 @@
       "categories": "Others",
       "subcategories": "Religious Site",
       "subcategorytype": "Religious Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -780,7 +780,7 @@
       "categories": "Others",
       "subcategories": "Dairy Cattle and Animal Sheds",
       "subcategorytype": "Dairy Cattle and Animal Sheds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -789,7 +789,7 @@
       "categories": "Others",
       "subcategories": "Pet Shops",
       "subcategorytype": "Pet Shops",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -798,7 +798,7 @@
       "categories": "Others",
       "subcategories": "Scrap Dealers",
       "subcategorytype": "Scrap Dealers",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     },
@@ -816,7 +816,7 @@
       "categories": "Others",
       "subcategories": "Any Other establishment not mentioned above",
       "subcategorytype": "Any Other establishment not mentioned above",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Nalagarh",
       "active": "TRUE"
     }

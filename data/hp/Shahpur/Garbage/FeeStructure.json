@@ -1,7 +1,7 @@
 {
-	"tenantId": "hp.Shahpur",
-	"moduleName": "Garbage",
- "FeeStructure": [
+  "tenantId": "hp.Shahpur",
+  "moduleName": "Garbage",
+  "FeeStructure": [
     {
       "id": 1,
       "categories": "Residential",
@@ -304,7 +304,7 @@
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "Upto 100 Students",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -313,7 +313,7 @@
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "More than 100 Students",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -394,7 +394,7 @@
       "categories": "Commercial",
       "subcategories": "Slaughterhouse",
       "subcategorytype": "Slaughterhouse",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -412,7 +412,7 @@
       "categories": "Industries",
       "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -421,7 +421,7 @@
       "categories": "Industries",
       "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -430,7 +430,7 @@
       "categories": "Industries",
       "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -439,7 +439,7 @@
       "categories": "Industries",
       "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -475,7 +475,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -484,7 +484,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -493,7 +493,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -502,7 +502,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -511,7 +511,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -520,7 +520,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -619,7 +619,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Angan Wadi",
       "subcategorytype": "Govt Angan Wadi",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -664,7 +664,7 @@
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
       "subcategorytype": "ULB Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -673,7 +673,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt. Garden",
       "subcategorytype": "Govt. Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -682,7 +682,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
       "subcategorytype": "Govt Hospitals",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -691,7 +691,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Dispensary",
       "subcategorytype": "Govt Dispensary",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -700,7 +700,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Restaurants",
       "subcategorytype": "Govt Restaurants",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -709,7 +709,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hotel",
       "subcategorytype": "Govt Hotel",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -718,7 +718,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Marriage Halls/ Community Centers",
       "subcategorytype": "Govt Marriage Halls/ Community Centers",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -727,7 +727,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -736,7 +736,7 @@
       "categories": "Others",
       "subcategories": "Charitable Trust / NGO / any other Registered Group",
       "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -745,7 +745,7 @@
       "categories": "Others",
       "subcategories": "Private Garden",
       "subcategorytype": "Private Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -754,7 +754,7 @@
       "categories": "Others",
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -763,7 +763,7 @@
       "categories": "Others",
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -772,7 +772,7 @@
       "categories": "Others",
       "subcategories": "Religious Site",
       "subcategorytype": "Religious Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -781,7 +781,7 @@
       "categories": "Others",
       "subcategories": "Dairy Cattle and Animal Sheds",
       "subcategorytype": "Dairy Cattle and Animal Sheds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -790,7 +790,7 @@
       "categories": "Others",
       "subcategories": "Pet Shops",
       "subcategorytype": "Pet Shops",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     },
@@ -817,7 +817,7 @@
       "categories": "Others",
       "subcategories": "Any Other establishment not mentioned above",
       "subcategorytype": "Any Other establishment not mentioned above",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Shahpur",
       "active": "TRUE"
     }

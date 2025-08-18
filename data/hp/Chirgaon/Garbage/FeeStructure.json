@@ -1,6 +1,6 @@
 {
-	"tenantId": "hp.Chirgaon",
-	"moduleName": "Garbage",
+  "tenantId": "hp.Chirgaon",
+  "moduleName": "Garbage",
   "FeeStructure": [
     {
       "id": 1,
@@ -70,7 +70,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Groceries & Daily Needs Shop",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -97,7 +97,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Distribution Only)",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -366,7 +366,7 @@
       "categories": "Commercial",
       "subcategories": "Street Hawkers",
       "subcategorytype": "Street Hawkers",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -464,7 +464,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -473,7 +473,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -482,7 +482,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -491,7 +491,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -500,7 +500,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -509,7 +509,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -518,7 +518,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -643,7 +643,7 @@
       "categories": "Govt Establishments",
       "subcategories": "State Govt Office",
       "subcategorytype": "State Govt Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -652,7 +652,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Central Govt Office",
       "subcategorytype": "Central Govt Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -661,7 +661,7 @@
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
       "subcategorytype": "ULB Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -670,7 +670,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt. Garden",
       "subcategorytype": "Govt. Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -688,7 +688,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Dispensary",
       "subcategorytype": "Govt Dispensary",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -706,7 +706,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hotel",
       "subcategorytype": "Govt Hotel",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -724,7 +724,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -733,7 +733,7 @@
       "categories": "Others",
       "subcategories": "Charitable Trust / NGO / any other Registered Group",
       "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -742,7 +742,7 @@
       "categories": "Others",
       "subcategories": "Private Garden",
       "subcategorytype": "Private Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -751,7 +751,7 @@
       "categories": "Others",
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -760,7 +760,7 @@
       "categories": "Others",
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -769,7 +769,7 @@
       "categories": "Others",
       "subcategories": "Religious Site",
       "subcategorytype": "Religious Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -778,7 +778,7 @@
       "categories": "Others",
       "subcategories": "Dairy Cattle and Animal Sheds",
       "subcategorytype": "Dairy Cattle and Animal Sheds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -787,7 +787,7 @@
       "categories": "Others",
       "subcategories": "Pet Shops",
       "subcategorytype": "Pet Shops",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -805,7 +805,7 @@
       "categories": "Others",
       "subcategories": "Construction & Demolition Waste Site",
       "subcategorytype": "Construction & Demolition Waste Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     },
@@ -814,7 +814,7 @@
       "categories": "Others",
       "subcategories": "Any Other establishment not mentioned above",
       "subcategorytype": "Any Other establishment not mentioned above",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.Chirgaon",
       "active": "TRUE"
     }

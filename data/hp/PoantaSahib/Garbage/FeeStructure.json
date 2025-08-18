@@ -88,7 +88,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Production & Distribution)",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -97,7 +97,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Distribution Only)",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -214,7 +214,7 @@
       "categories": "Commercial",
       "subcategories": "Clubs",
       "subcategorytype": "Clubs",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -304,7 +304,7 @@
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "Upto 100 Students",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -313,7 +313,7 @@
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "More than 100 Students",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -367,7 +367,7 @@
       "categories": "Commercial",
       "subcategories": "Street Hawkers",
       "subcategorytype": "Street Hawkers",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -376,7 +376,7 @@
       "categories": "Commercial",
       "subcategories": "Private Marriage Halls",
       "subcategorytype": "Private Marriage Halls",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -394,7 +394,7 @@
       "categories": "Commercial",
       "subcategories": "Slaughterhouse",
       "subcategorytype": "Slaughterhouse",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -403,7 +403,7 @@
       "categories": "Commercial",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -412,7 +412,7 @@
       "categories": "Industries",
       "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -421,7 +421,7 @@
       "categories": "Industries",
       "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -430,7 +430,7 @@
       "categories": "Industries",
       "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -484,7 +484,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -493,7 +493,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -502,7 +502,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -511,7 +511,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -520,7 +520,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -529,7 +529,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "Upto 50 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -538,7 +538,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "51 to 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -547,7 +547,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "More than 100 Beds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -583,7 +583,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -619,7 +619,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Angan Wadi",
       "subcategorytype": "Govt Angan Wadi",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -637,7 +637,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt University",
       "subcategorytype": "Govt University",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -646,7 +646,7 @@
       "categories": "Govt Establishments",
       "subcategories": "State Govt Office",
       "subcategorytype": "State Govt Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -655,7 +655,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Central Govt Office",
       "subcategorytype": "Central Govt Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -664,7 +664,7 @@
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
       "subcategorytype": "ULB Office",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -673,7 +673,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt. Garden",
       "subcategorytype": "Govt. Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -682,7 +682,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
       "subcategorytype": "Govt Hospitals",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -691,7 +691,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Dispensary",
       "subcategorytype": "Govt Dispensary",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -700,7 +700,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Restaurants",
       "subcategorytype": "Govt Restaurants",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -709,7 +709,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hotel",
       "subcategorytype": "Govt Hotel",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -718,7 +718,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Marriage Halls/ Community Centers",
       "subcategorytype": "Govt Marriage Halls/ Community Centers",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -727,7 +727,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Others (Banks upto 1000 Sq Feet",
       "subcategorytype": "Others (Banks upto 1000 Sq Feet",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -736,7 +736,7 @@
       "categories": "Others",
       "subcategories": "Charitable Trust / NGO / any other Registered Group",
       "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -745,7 +745,7 @@
       "categories": "Others",
       "subcategories": "Private Garden",
       "subcategorytype": "Private Garden",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -754,7 +754,7 @@
       "categories": "Others",
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -763,7 +763,7 @@
       "categories": "Others",
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -772,7 +772,7 @@
       "categories": "Others",
       "subcategories": "Religious Site",
       "subcategorytype": "Religious Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -781,7 +781,7 @@
       "categories": "Others",
       "subcategories": "Dairy Cattle and Animal Sheds",
       "subcategorytype": "Dairy Cattle and Animal Sheds",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -790,7 +790,7 @@
       "categories": "Others",
       "subcategories": "Pet Shops",
       "subcategorytype": "Pet Shops",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -808,7 +808,7 @@
       "categories": "Others",
       "subcategories": "Construction & Demolition Waste Site",
       "subcategorytype": "Construction & Demolition Waste Site",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     },
@@ -817,7 +817,7 @@
       "categories": "Others",
       "subcategories": "Any Other establishment not mentioned above",
       "subcategorytype": "Any Other establishment not mentioned above",
-      "fee": 1,
+      "fee": 0,
       "tenantId": "hp.PoantaSahib",
       "active": "TRUE"
     }
