@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Sundernagar",
+  "tenantId": "hp.Talai",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -11,7 +11,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -23,7 +23,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -34,8 +34,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -46,8 +46,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -58,8 +58,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 250,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -70,8 +70,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 800,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -82,8 +82,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -95,7 +95,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -107,7 +107,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -118,8 +118,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1200,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -131,7 +131,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -142,8 +142,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 250,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Super Stores/Departmental Store",
+      "subcategorytype": "Super Stores/Departmental Store",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 350,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -155,7 +167,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -166,8 +178,56 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "Upto 10 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "11 - 20 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "21 - 30 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "More than 30 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 3000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -179,7 +239,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -191,7 +251,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -203,7 +263,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -211,11 +271,35 @@
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 100,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 3000,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Dharamshala/Sarai",
+      "subcategorytype": "Dharamshala/Sarai",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Recreational Facilities",
+      "subcategorytype": "Clubs",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -226,8 +310,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -238,8 +322,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -250,8 +334,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -262,8 +346,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -271,11 +355,23 @@
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 100,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank <1000 sr.ft",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -287,7 +383,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -298,8 +394,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -310,8 +406,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 800,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -322,8 +418,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 800,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -334,8 +430,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 250,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -346,8 +442,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 250,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -359,7 +455,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -371,7 +467,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -383,7 +479,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -395,7 +491,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 750,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -406,8 +502,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 60,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -418,8 +514,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Sundernagar",
+      "fee": 60,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -430,8 +526,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 2000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -442,8 +538,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -454,32 +550,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Private Hotel",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Govt Marriage Halls/ Community Centers",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 300,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -490,8 +574,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -502,8 +586,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -515,7 +599,19 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Industries",
+      "subcategories": "Large Industry",
+      "subcategorytype": "Large Industry",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -526,8 +622,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -539,7 +635,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -547,11 +643,11 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 3000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -562,8 +658,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -575,7 +671,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -583,11 +679,11 @@
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 3000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -598,8 +694,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -611,7 +707,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -619,11 +715,11 @@
       "subcategories": "Old Age Homes",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 3000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -634,8 +730,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -647,7 +743,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -655,11 +751,11 @@
       "subcategories": "Private Hospital",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 3000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -671,7 +767,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -682,8 +778,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -695,7 +791,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -706,8 +802,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "fee": 300,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -719,7 +815,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -731,7 +827,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -743,7 +839,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -755,7 +851,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -767,7 +863,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -778,8 +874,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 5000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -790,8 +886,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 300,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -802,8 +898,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 300,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -814,8 +910,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 100,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -826,8 +922,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 100,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -838,8 +934,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -851,7 +947,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -862,8 +958,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -874,8 +970,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
+      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -887,7 +995,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -898,8 +1006,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -910,8 +1018,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -922,8 +1030,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -934,8 +1042,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -946,8 +1054,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Talai",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Dham/Mandir",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -958,8 +1078,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -970,8 +1090,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 700,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -982,8 +1102,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Sundernagar",
+      "fee": 2000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -994,8 +1114,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 2000,
+      "tenantId": "hp.Talai",
       "active": "true"
     },
     {
@@ -1006,8 +1126,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 2000,
+      "tenantId": "hp.Talai",
       "active": "true"
     }
   ]

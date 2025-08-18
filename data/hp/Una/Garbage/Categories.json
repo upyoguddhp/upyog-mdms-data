@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Sundernagar",
+  "tenantId": "hp.Una",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -11,7 +11,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -23,7 +23,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -34,8 +34,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -46,8 +46,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -58,8 +58,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -71,7 +71,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -82,8 +82,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "fee": 150,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -94,8 +94,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -106,8 +106,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -118,8 +118,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1200,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -131,7 +131,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -142,8 +142,260 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 250,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Saloon/Beauty Parlour",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Sweet Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 400,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Bakeries (Small)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Bakeries ( Manufacturing Units)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Sewing Shop ( Darji)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Petrol Pump",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Hardware",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Mobile Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Electrical Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Shoe Shop Retail",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Photographer Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Gift Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Jeweller Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Stationary Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Crockery Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Welding Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Cosmetic Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Optical Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "CSC /LMK Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Super Stores/Departmental Store",
+      "subcategorytype": "Super Stores/Departmental Store",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Commercial Complex (Dhabba, Sweet Shop, Coffee Houses, Provisional Stores)",
+      "subcategorytype": "Commercial Complex (Dhabba, Sweet Shop, Coffee Houses, Provisional Stores)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 350,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -155,7 +407,19 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Malls",
+      "subcategorytype": "Small Malls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -167,7 +431,91 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Restaurants",
+      "subcategorytype": "Restaurants + Bar",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1700,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "Upto 10 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "11 - 20 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "21 - 30 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "More than 30 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "Hotel + Banquit",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "Special Hotels More Than 50 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -179,7 +527,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -191,7 +539,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -203,7 +551,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -212,10 +560,34 @@
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 100,
+      "variableUnitCost": 500,
       "fixedUnitCost": 0,
       "fee": 2500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Dharamshala/Sarai",
+      "subcategorytype": "Dharamshala/Sarai",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Recreational Facilities",
+      "subcategorytype": "Clubs",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1700,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -227,7 +599,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -238,8 +610,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -250,8 +622,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -262,8 +634,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 750,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -272,10 +644,34 @@
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 100,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 750,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank <1000 sr.ft",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank Floor Area > 1000 sq. feet",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -287,7 +683,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -299,7 +695,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -310,8 +706,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -322,8 +718,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 2000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -334,8 +730,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -346,8 +742,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 300,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Workshops & Garages",
+      "subcategorytype": "Not touching NH and SH",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 300,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -359,7 +767,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -370,8 +778,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "fee": 100,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -383,7 +791,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -395,7 +803,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 750,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -406,12 +814,12 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
-      "categories": "Commercial",
+      "categories": "",
       "subcategories": "Street Hawkers",
       "subcategorytype": "Street Hawkers",
       "bplRebatePercentage": 0,
@@ -419,7 +827,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -431,7 +839,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -443,7 +851,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -454,8 +862,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -466,20 +874,32 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Bulk",
-      "subcategorytype": "Govt Marriage Halls/ Community Centers",
+      "subcategorytype": "Dumper Per Trip",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Bulk",
+      "subcategorytype": "Private Marriage Halls",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -490,8 +910,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -503,7 +923,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -514,8 +934,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1700,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Industries",
+      "subcategories": "Large Industry",
+      "subcategorytype": "Large Industry",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -526,8 +958,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -538,8 +970,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -548,10 +980,10 @@
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 150,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -562,8 +994,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -574,8 +1006,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -584,10 +1016,10 @@
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 150,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -598,8 +1030,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -610,8 +1042,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 700,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -620,10 +1052,10 @@
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 700,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -634,8 +1066,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -646,8 +1078,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -656,10 +1088,10 @@
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -670,8 +1102,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Sundernagar",
+      "fee": 100,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -682,8 +1114,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Sundernagar",
+      "fee": 100,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Clinics with medical shop",
+      "subcategorytype": "Private Clinics With Medical Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -694,20 +1138,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Sundernagar",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Others",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Sundernagar",
+      "fee": 100,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -719,7 +1151,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -730,8 +1162,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 150,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -742,8 +1174,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -755,7 +1187,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -767,7 +1199,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -778,8 +1210,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 2000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -790,20 +1222,68 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 100,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Central Govt Office",
-      "subcategorytype": "Central Govt Office",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 3-5 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 6-10 Rooms)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 11-20 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices More Than 20 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Variable Extra Charge Per Floor (More Then 15 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -815,7 +1295,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -826,20 +1306,80 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 3-5 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 6-10 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 11-20 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 50,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 10 Beds",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospitals",
+      "subcategorytype": "More than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "true",
+      "variableUnitCost": 150,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -851,7 +1391,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -862,8 +1402,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -874,20 +1414,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Others",
-      "subcategorytype": "Others",
+      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
+      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 1000,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -898,8 +1438,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -910,8 +1450,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 500,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -922,8 +1462,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -934,8 +1474,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -946,8 +1486,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -958,8 +1498,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Sundernagar",
+      "fee": 50,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -970,8 +1510,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 700,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -982,8 +1522,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
-      "tenantId": "hp.Sundernagar",
+      "fee": 200,
+      "tenantId": "hp.Una",
       "active": "true"
     },
     {
@@ -995,19 +1535,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Sundernagar",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Any Other Establishment Not Mentioned Above",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Sundernagar",
+      "tenantId": "hp.Una",
       "active": "true"
     }
   ]
