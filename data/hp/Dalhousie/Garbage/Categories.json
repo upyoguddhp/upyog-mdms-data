@@ -1,7 +1,7 @@
 {
-  "tenantId": "hp.Chamba",
+  "tenantId": "hp.Dalhousie",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -10,8 +10,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Chamba",
+      "fee": 100,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -22,8 +22,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Chamba",
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -34,8 +34,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Chamba",
+      "fee": 100,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -46,8 +46,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Chamba",
+      "fee": 100,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -59,7 +59,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 250,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -71,7 +71,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -83,7 +83,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 250,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -95,7 +95,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -107,7 +107,31 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Eateries (Food Production & Distribution)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 650,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Eateries (Food Distribution Only)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -119,7 +143,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -130,8 +154,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 350,
-      "tenantId": "hp.Chamba",
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -142,8 +166,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Chamba",
+      "fee": 300,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -154,32 +178,44 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Chamba",
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Sweet Shop",
+      "subcategorytype": "Barber Shop (Above 5 Customer)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Super Stores/Departmental Store",
+      "subcategorytype": "Super Stores/Departmental Store",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 350,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Photographer Shop",
+      "subcategories": "Malls",
+      "subcategorytype": "Big Malls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 80,
-      "tenantId": "hp.Chamba",
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -191,7 +227,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -202,8 +238,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 1000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -215,7 +251,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -226,8 +262,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 2500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -235,11 +271,11 @@
       "subcategories": "Private Hotels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": "TRUE",
+      "variableUnitCost": 500,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 2500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -250,44 +286,56 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Chamba",
+      "fee": 1000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "11 - 20 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategorytype": "21 - 30 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategorytype": "More than 30 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "TRUE",
+      "variableUnitCost": 500,
+      "fixedUnitCost": 0,
+      "fee": 2500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Recreational Facilities",
+      "subcategorytype": "Clubs",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
-      "subcategorytype": "21 - 30 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Chamba",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
-      "subcategorytype": "More than 30 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -298,8 +346,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Chamba",
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -310,8 +358,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Chamba",
+      "fee": 300,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -323,7 +371,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -335,7 +383,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -343,35 +391,11 @@
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
+      "isAdditonalCostAdded": "TRUE",
       "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Banks",
-      "subcategorytype": "Bank <1000 sr.ft",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Chamba",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Banks",
-      "subcategorytype": "Bank Floor Area > 1000 sq. feet",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -383,19 +407,19 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
-      "subcategorytype": "More than 100 Students",
+      "subcategorytype": "101-200 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -407,7 +431,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -418,8 +442,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -430,8 +454,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Chamba",
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -442,8 +466,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "fee": 300,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -455,7 +479,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -467,7 +491,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 250,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -479,7 +503,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -490,8 +514,20 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
-      "tenantId": "hp.Chamba",
+      "fee": 1000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Workshops & Garages",
+      "subcategorytype": "Sawmill",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -503,19 +539,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Street Hawkers",
-      "subcategorytype": "Street Hawkers",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -527,7 +551,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -538,44 +562,80 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Slaughterhouse",
+      "subcategorytype": "Slaughterhouse",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 5000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Industries",
+      "subcategories": "Micro Industry",
+      "subcategorytype": "Micro Industry",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Private Hotel",
+      "categories": "Industries",
+      "subcategories": "Small Industry",
+      "subcategorytype": "Small Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
-      "categories": "Govt Establishments",
-      "subcategories": "Bulk",
-      "subcategorytype": "Government Hotel",
+      "categories": "Industries",
+      "subcategories": "Medium Industry",
+      "subcategorytype": "Medium Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 3000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Private Marriage Halls",
+      "categories": "Industries",
+      "subcategories": "Large Industry",
+      "subcategorytype": "Large Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 4000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -587,7 +647,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -599,7 +659,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -607,11 +667,83 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
+      "isAdditonalCostAdded": "TRUE",
       "variableUnitCost": 250,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Rehabilitation Center",
+      "subcategorytype": "More than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "TRUE",
+      "variableUnitCost": 250,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Old Age Homes",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Old Age Homes",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Old Age Homes",
+      "subcategorytype": "More Than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "TRUE",
+      "variableUnitCost": 250,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -623,7 +755,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -635,7 +767,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -643,11 +775,11 @@
       "subcategories": "Private Hospital",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
+      "isAdditonalCostAdded": "TRUE",
       "variableUnitCost": 250,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -659,7 +791,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -670,8 +802,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 150,
-      "tenantId": "hp.Chamba",
+      "fee": 250,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -683,7 +815,19 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -695,7 +839,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -707,7 +851,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -719,19 +863,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Quarters",
-      "subcategorytype": "Quarters",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 50,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -743,7 +875,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -755,7 +887,139 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt University",
+      "subcategorytype": "Govt University",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 5000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 2 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 3-5 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 6-10 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "State/Central Govt Office",
+      "subcategorytype": "Offices ( 11-20 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Central Govt Office",
+      "subcategorytype": "Central Govt Office",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Garden",
+      "subcategorytype": "Garden",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 2 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 3-5 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 6-10 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "ULB Office",
+      "subcategorytype": "Offices ( 11-20 Rooms)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -766,8 +1030,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "fee": 1200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -778,8 +1042,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 1200,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -787,11 +1051,23 @@
       "subcategories": "Govt Hospitals",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 1200,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
+      "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -803,7 +1079,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -814,8 +1090,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 1000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -827,7 +1103,7 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -838,68 +1114,176 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "fee": 2500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Government Hotel",
-      "subcategorytype": "More Than 30 Rooms",
+      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
+      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Guest House",
-      "subcategorytype": "Upto 10 Rooms",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
+      "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
-      "categories": "Govt Establishments",
-      "subcategories": "Guest House",
-      "subcategorytype": "11 - 20 Rooms",
+      "categories": "Others",
+      "subcategories": "Private Garden",
+      "subcategorytype": "Private Garden",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Orphanages",
+      "subcategorytype": "Orphanages",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Heritage Site",
+      "subcategorytype": "Heritage Site",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Temple (Trust)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Dham/Mandir",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Religious Site",
+      "subcategorytype": "Public Meeting /Religious Congregation etc",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Cow Dung from cattle at households",
+      "subcategorytype": "Cow Dung From Cattle At Households",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Pet Shops",
+      "subcategorytype": "Pet Shops",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dalhousie",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Scrap Dealers",
+      "subcategorytype": "Scrap Dealers",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
-      "tenantId": "hp.Chamba",
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
-      "categories": "Govt Establishments",
-      "subcategories": "Guest House",
-      "subcategorytype": "21 - 30 Rooms",
+      "categories": "Others",
+      "subcategories": "Construction & Demolition Waste Site",
+      "subcategorytype": "Small",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Chamba",
+      "fee": 1500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
-      "categories": "Govt Establishments",
-      "subcategories": "Guest House",
-      "subcategorytype": "More Than 30 Rooms",
+      "categories": "Others",
+      "subcategories": "Construction & Demolition Waste Site",
+      "subcategorytype": "Big",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
-      "variableUnitCost": 500,
+      "isAdditonalCostAdded": "false",
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Chamba",
+      "fee": 1500,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     },
     {
@@ -910,8 +1294,8 @@
       "isAdditonalCostAdded": "false",
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Chamba",
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
       "active": "true"
     }
   ]
