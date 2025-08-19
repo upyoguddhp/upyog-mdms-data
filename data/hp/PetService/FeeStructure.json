@@ -2,162 +2,165 @@
   "tenantId": "hp",
   "moduleName": "PetService",
   "FeeStructure": [
-	{
-		"tenantId": "hp.Shimla",
-		"price": 1000
-	},
-	{
-		"tenantId": "hp.Rajgarh",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Rohru",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Sunni",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Arki",
-		"price": 300
-	},
-	{
-		"tenantId": "hp.Nadaun",
-		"price": 300
-	},
-	{
-		"tenantId": "hp.Bilaspur",
-		"price": 100
-	},
-	{
-		"tenantId": "hp.Banjar",
-		"price": 500
-	},
-	{
-		"tenantId": "hp.Rewalsar",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Ghumarwin",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Narkanda",
-		"price": 500
-	},
-	{
-		"tenantId": "hp.Mandi",
-		"price": 600
-	},
-	{
-		"tenantId": "hp.NerChowk",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Nainadeviji",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Talai",
-		"price": 250
-	},
-	{
-		"tenantId": "hp.Una",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Dehra",
-		"price": 100
-	},
-	{
-		"tenantId": "hp.Nagrota",
-		"price": 500
-	},
-	{
-		"tenantId": "hp.MehatpurBasdehr",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Theog",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Sundernagar",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Kangra",
-		"price": 600
-	},
-	{
-		"tenantId": "hp.Jogindernagar",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Dharamshala",
-		"price": 100
-	},
-	{
-		"tenantId": "hp.Solan",
-		"price": 2000
-	},
-	{
-		"tenantId": "hp.Baddi",
-		"price": 1200
-	},
-	{
-		"tenantId": "hp.Sujanpur",
-		"price": 500
-	},
-	{
-		"tenantId": "hp.Palampur",
-		"price": 1
-	},
-	{
-		"tenantId": "hp.Sarkaghat",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Jubbal",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.BaijnathPaprola",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Jawali",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Manali",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Bhota",
-		"price": 100
-	},
-	{
-		"tenantId": "hp.Dalhousie",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Chopal",
-		"price": 50
-	},
-	{
-		"tenantId": "hp.Kotkhai",
-		"price": 200
-	},
-	{
-		"tenantId": "hp.Rampur",
-		"price": 1500
-	},
-	{
-		"tenantId": "hp.Kullu",
-		"price": 3000
-	}
-
+    {
+      "tenantId": "hp.Shimla",
+      "price": 1000
+    },
+    {
+      "tenantId": "hp.Rajgarh",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Rohru",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Sunni",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Arki",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Nadaun",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Bilaspur",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Banjar",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Rewalsar",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Ghumarwin",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Narkanda",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Mandi",
+      "price": 600
+    },
+    {
+      "tenantId": "hp.NerChowk",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Nainadeviji",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Talai",
+      "price": 250
+    },
+    {
+      "tenantId": "hp.Una",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Dehra",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nagrota",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.MehatpurBasdehr",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Theog",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Sundernagar",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kangra",
+      "price": 600
+    },
+    {
+      "tenantId": "hp.Jogindernagar",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Dharamshala",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Solan",
+      "price": 2000
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "price": 1200
+    },
+    {
+      "tenantId": "hp.Sujanpur",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Palampur",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Sarkaghat",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.BaijnathPaprola",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawali",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Manali",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Dalhousie",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Chopal",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Kotkhai",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Rampur",
+      "price": 1500
+    },
+    {
+      "tenantId": "hp.Kullu",
+      "price": 3000
+    },
+    {
+      "tenantId": "hp.Nahan",
+      "price": 100
+    }
   ]
 }

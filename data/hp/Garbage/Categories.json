@@ -7,7 +7,7 @@
       "categories": "Residential",
       "subcategories": "Household",
       "subcategorytype": "Area less than 2000 Sq. Feet",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -15,7 +15,7 @@
       "categories": "Residential",
       "subcategories": "Household",
       "subcategorytype": "Area more than 2000 Sq. Feet",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -23,7 +23,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Pan Shop",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -31,7 +31,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Tea Shop",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -39,7 +39,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Confectionery & Veg Shop  ",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -47,7 +47,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shops (Wholesale)",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -55,7 +55,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shops (Retail)",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -63,7 +63,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Groceries & Daily Needs Shop",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -71,7 +71,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Clothes Shop",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -79,7 +79,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Production & Distribution)",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -87,7 +87,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Distribution Only)",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -95,7 +95,7 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Meat & Fish Shops",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -103,7 +103,7 @@
       "categories": "Commercial",
       "subcategories": "Super Stores",
       "subcategorytype": "Super Stores",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -111,7 +111,7 @@
       "categories": "Commercial",
       "subcategories": "Malls",
       "subcategorytype": "Malls",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -119,7 +119,7 @@
       "categories": "Commercial",
       "subcategories": "Private Restaurants",
       "subcategorytype": "Private Restaurants",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -127,7 +127,7 @@
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "Upto 10 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -135,7 +135,7 @@
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "11 - 20 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -143,7 +143,7 @@
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "21 - 30 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -151,7 +151,7 @@
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "More than 30 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -159,7 +159,7 @@
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "Upto 10 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -167,7 +167,7 @@
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "11 - 20 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -175,7 +175,7 @@
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "21 - 30 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -183,7 +183,7 @@
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -191,7 +191,7 @@
       "categories": "Commercial",
       "subcategories": "Clubs",
       "subcategorytype": "Clubs",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -199,7 +199,7 @@
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "2 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -207,7 +207,7 @@
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "3-5 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -215,7 +215,7 @@
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "6-10 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -223,7 +223,7 @@
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "11-20 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -231,7 +231,7 @@
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -239,7 +239,7 @@
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "Upto 100 Students",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -247,7 +247,7 @@
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "More than 100 Students",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -255,7 +255,7 @@
       "categories": "Commercial",
       "subcategories": "Private Colleges / University",
       "subcategorytype": "Upto 1000 Students",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -263,7 +263,7 @@
       "categories": "Commercial",
       "subcategories": "Private Colleges / University",
       "subcategorytype": "More than 1000 Students",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -271,7 +271,7 @@
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "Upto 100 Students",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -279,7 +279,7 @@
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "More than 100 Students",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -287,7 +287,7 @@
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Only Tyre Puncture Repair",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -295,7 +295,7 @@
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Repair",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -303,7 +303,7 @@
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Repair & Spare Part Retail",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -311,7 +311,7 @@
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -319,7 +319,7 @@
       "categories": "Commercial",
       "subcategories": "Street Vendors ",
       "subcategorytype": "Street Vendors ",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -327,7 +327,7 @@
       "categories": "Commercial",
       "subcategories": "Street Hawkers",
       "subcategorytype": "Street Hawkers",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -335,7 +335,7 @@
       "categories": "Commercial",
       "subcategories": "Private Marriage Halls",
       "subcategorytype": "Private Marriage Halls",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -343,7 +343,7 @@
       "categories": "Commercial",
       "subcategories": "Cinema Halls (Theatre & Multiplexes)",
       "subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -351,7 +351,7 @@
       "categories": "Commercial",
       "subcategories": "Slaughterhouse",
       "subcategorytype": "Slaughterhouse",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -359,7 +359,7 @@
       "categories": "Commercial",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -367,7 +367,7 @@
       "categories": "Industries",
       "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -375,7 +375,7 @@
       "categories": "Industries",
       "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -383,7 +383,7 @@
       "categories": "Industries",
       "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -391,7 +391,7 @@
       "categories": "Industries",
       "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -399,7 +399,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "Upto 50 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -407,7 +407,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "51 to 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -415,7 +415,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -423,7 +423,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "Upto 50 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -431,7 +431,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -439,7 +439,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -447,7 +447,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "Upto 50 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -455,7 +455,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -463,7 +463,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "More than 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -471,7 +471,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "Upto 50 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -479,7 +479,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "51 to 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -487,7 +487,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "More than 100 Beds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -495,7 +495,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Laboratories",
       "subcategorytype": "Laboratories",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -503,7 +503,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Clinics",
       "subcategorytype": "Private Clinics",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -511,7 +511,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Chemists",
       "subcategorytype": "Chemists",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -519,7 +519,7 @@
       "categories": "Hospitals & Health Care",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -527,7 +527,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Primary School",
       "subcategorytype": "Govt Primary School",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -535,7 +535,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Middle School",
       "subcategorytype": "Govt Middle School",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -543,7 +543,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Senior/ Senior Secondary School",
       "subcategorytype": "Govt Senior/ Senior Secondary School",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -551,7 +551,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Angan Wadi",
       "subcategorytype": "Govt Angan Wadi",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -559,7 +559,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt College",
       "subcategorytype": "Govt College",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -567,7 +567,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt University",
       "subcategorytype": "Govt University",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -575,7 +575,7 @@
       "categories": "Govt Establishments",
       "subcategories": "State Govt Office",
       "subcategorytype": "State Govt Office",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -583,7 +583,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Central Govt Office",
       "subcategorytype": "Central Govt Office",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -591,7 +591,7 @@
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
       "subcategorytype": "ULB Office",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -599,7 +599,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt. Garden",
       "subcategorytype": "Govt. Garden",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -607,7 +607,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
       "subcategorytype": "Govt Hospitals",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -615,7 +615,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Dispensary",
       "subcategorytype": "Govt Dispensary",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -623,7 +623,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Restaurants",
       "subcategorytype": "Govt Restaurants",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -631,7 +631,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Hotel",
       "subcategorytype": "Govt Hotel",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -639,7 +639,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Govt Marriage Halls/ Community Centers",
       "subcategorytype": "Govt Marriage Halls/ Community Centers",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -647,7 +647,7 @@
       "categories": "Govt Establishments",
       "subcategories": "Others",
       "subcategorytype": "Others",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -655,7 +655,7 @@
       "categories": "Others",
       "subcategories": "Charitable Trust / NGO / any other Registered Group",
       "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -663,7 +663,7 @@
       "categories": "Others",
       "subcategories": "Private Garden",
       "subcategorytype": "Private Garden",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -671,7 +671,7 @@
       "categories": "Others",
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -679,7 +679,7 @@
       "categories": "Others",
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -687,7 +687,7 @@
       "categories": "Others",
       "subcategories": "Religious Site",
       "subcategorytype": "Religious Site",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -695,7 +695,7 @@
       "categories": "Others",
       "subcategories": "Dairy Cattle and Animal Sheds",
       "subcategorytype": "Dairy Cattle and Animal Sheds",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -703,7 +703,7 @@
       "categories": "Others",
       "subcategories": "Pet Shops",
       "subcategorytype": "Pet Shops",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -711,7 +711,7 @@
       "categories": "Others",
       "subcategories": "Scrap Dealers",
       "subcategorytype": "Scrap Dealers",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -719,7 +719,7 @@
       "categories": "Others",
       "subcategories": "Construction & Demolition Waste Site",
       "subcategorytype": "Construction & Demolition Waste Site",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -727,7 +727,7 @@
       "categories": "Others",
       "subcategories": "Any Other establishment not mentioned above",
       "subcategorytype": "Any Other establishment not mentioned above",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
     {
@@ -735,15 +735,15 @@
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Dhaba",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     },
-      {
+    {
       "id": "93",
       "categories": "Others",
       "subcategories": "Wine Shop",
       "subcategorytype": "Wine Shop",
-      "fee":"60.00",
+      "fee": "60.00",
       "active": "true"
     }
   ]
