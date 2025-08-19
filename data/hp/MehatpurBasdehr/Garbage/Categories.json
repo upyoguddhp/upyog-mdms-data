@@ -1,7 +1,7 @@
 {
-    "tenantId": "hp.Nahan",
+    "tenantId": "hp.MehatpurBasdehr",
     "moduleName": "Garbage",
-    "FeeStructure": [
+    "Categories": [
         {
             "categories": "Residential",
             "subcategories": "Household",
@@ -10,8 +10,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 50,
-            "tenantId": "hp.Nahan",
+            "fee": 40,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -22,8 +22,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Nahan",
+            "fee": 40,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -34,8 +34,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 80,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -46,8 +46,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -58,8 +58,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 150,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -70,8 +70,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 200,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -82,8 +82,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 200,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -94,8 +94,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -106,8 +106,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -118,8 +118,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -130,8 +130,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -142,8 +142,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Nahan",
+            "fee": 250,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -154,8 +154,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -166,8 +166,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 5000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -178,8 +178,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 5000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -190,32 +190,32 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Hotels",
             "subcategorytype": "11 - 20 Rooms",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Hotels",
+            "subcategorytype": "21 - 30 Rooms",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1500,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Commercial",
-            "subcategories": "Private Hotels",
-            "subcategorytype": "21 - 30 Rooms",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -227,7 +227,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -238,8 +238,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -250,8 +250,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 15000,
-            "tenantId": "hp.Nahan",
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -262,8 +262,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "fee": 1500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -274,8 +274,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
+            "fee": 2000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -287,7 +287,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -298,8 +298,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -310,8 +310,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -322,8 +322,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 1500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -335,7 +335,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -346,8 +346,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
+            "fee": 2000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -359,7 +359,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -370,8 +370,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Nahan",
+            "fee": 750,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -382,8 +382,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Nahan",
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -395,7 +395,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -406,8 +406,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 300,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -418,8 +418,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Nahan",
+            "fee": 750,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -430,8 +430,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -442,8 +442,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -454,8 +454,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 150,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -467,7 +467,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 250,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -478,8 +478,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -490,8 +490,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -502,8 +502,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 10000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -514,8 +514,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 5000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -526,8 +526,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -538,8 +538,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Nahan",
+            "fee": 250,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -550,8 +550,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 5000,
-            "tenantId": "hp.Nahan",
+            "fee": 250,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -562,8 +562,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -574,8 +574,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
+            "fee": 750,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -586,152 +586,152 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Nahan",
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Nursing Homes",
             "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Nursing Homes",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Nursing Homes",
-            "subcategorytype": "More than 100 Beds",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
             "categories": "Hospitals & Health Care",
-            "subcategories": "Rehabilitation Center",
-            "subcategorytype": "Upto 50 Beds",
+            "subcategories": "Nursing Homes",
+            "subcategorytype": "51 to 100 Beds",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
             "categories": "Hospitals & Health Care",
-            "subcategories": "Rehabilitation Center",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Rehabilitation Center",
-            "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Old Age Homes",
-            "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Old Age Homes",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Old Age Homes",
-            "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": "2000+250 Per Bad",
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Private Hospital",
-            "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Private Hospital",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": "FALSE",
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Nahan",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Private Hospital",
+            "subcategories": "Nursing Homes",
             "subcategorytype": "More than 100 Beds",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Rehabilitation Center",
+            "subcategorytype": "Upto 50 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Rehabilitation Center",
+            "subcategorytype": "51 to 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Rehabilitation Center",
+            "subcategorytype": "More than 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Old Age Homes",
+            "subcategorytype": "Upto 50 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Old Age Homes",
+            "subcategorytype": "51 to 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Old Age Homes",
+            "subcategorytype": "More than 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Hospital",
+            "subcategorytype": "Upto 50 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Hospital",
+            "subcategorytype": "51 to 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
+            "active": "TRUE"
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Hospital",
+            "subcategorytype": "More than 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": "FALSE",
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -742,8 +742,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -754,8 +754,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 150,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -766,8 +766,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 150,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -778,8 +778,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -790,8 +790,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -802,8 +802,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -814,8 +814,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -826,8 +826,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Nahan",
+            "fee": 40,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -838,8 +838,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -850,8 +850,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "fee": 1000,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -862,8 +862,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -875,7 +875,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 250,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -886,8 +886,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -898,8 +898,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -910,8 +910,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 3000,
-            "tenantId": "hp.Nahan",
+            "fee": 250,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -923,7 +923,7 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 100,
-            "tenantId": "hp.Nahan",
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -934,8 +934,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -946,8 +946,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -958,20 +958,20 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 10000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Others (Banks upto 1000 Sq Feet",
-            "subcategorytype": "Others (Banks upto 1000 Sq Feet",
+            "subcategories": "Others",
+            "subcategorytype": "Others",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -982,8 +982,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -994,8 +994,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1006,8 +1006,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1018,8 +1018,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 500,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1030,8 +1030,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1042,8 +1042,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Nahan",
+            "fee": 40,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1054,8 +1054,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 5000,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1066,8 +1066,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 5000,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1078,8 +1078,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Nahan",
+            "fee": 100,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         },
         {
@@ -1090,8 +1090,8 @@
             "isAdditonalCostAdded": "FALSE",
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Nahan",
+            "fee": 50,
+            "tenantId": "hp.MehatpurBasdehr",
             "active": "TRUE"
         }
     ]
