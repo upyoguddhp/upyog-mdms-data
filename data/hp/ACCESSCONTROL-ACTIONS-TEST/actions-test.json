@@ -11546,6 +11546,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1593,
+      "name": "Create eChallan",
+      "url": "/echallan-services/eChallan/v1/_create",
+      "displayName": "Create eChallan",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
