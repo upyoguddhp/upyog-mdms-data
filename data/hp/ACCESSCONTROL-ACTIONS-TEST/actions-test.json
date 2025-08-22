@@ -11546,6 +11546,46 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 1593,
+      "name": "Create eChallan",
+      "url": "/echallan-services/eChallan/v1/_create",
+      "displayName": "Create eChallan",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1594,
+      "name": "MRF SITE Input Wet Waste",
+      "url": "/rdf-monitoring/mrf/garbage-collection-update",
+      "displayName": "MRF SITE List",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1595,
+      "name": "MRF SITE Wet Waste Processing",
+      "url": "/rdf-monitoring/mrf/wet-waste-processing",
+      "displayName": "MRF SITE List",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }    
+
   ]
 }
