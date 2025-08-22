@@ -646,7 +646,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "State Govt Office",
 			"subcategorytype": "State Govt Office",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -655,7 +655,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Central Govt Office",
 			"subcategorytype": "Central Govt Office",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -682,7 +682,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Hospitals",
 			"subcategorytype": "Govt Hospitals",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -691,7 +691,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Dispensary",
 			"subcategorytype": "Govt Dispensary",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -700,7 +700,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Restaurants",
 			"subcategorytype": "Govt Restaurants",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -709,7 +709,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Hotel",
 			"subcategorytype": "Govt Hotel",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -718,7 +718,7 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Marriage Halls/ Community Centers",
 			"subcategorytype": "Govt Marriage Halls/ Community Centers",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -754,7 +754,7 @@
 			"categories": "Others",
 			"subcategories": "Orphanages",
 			"subcategorytype": "Orphanages",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -808,7 +808,7 @@
 			"categories": "Others",
 			"subcategories": "Construction & Demolition Waste Site",
 			"subcategorytype": "Construction & Demolition Waste Site",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		},
@@ -817,7 +817,7 @@
 			"categories": "Others",
 			"subcategories": "Any Other establishment not mentioned above",
 			"subcategorytype": "Any Other establishment not mentioned above",
-			"fee": 1,
+			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
 		}
