@@ -858,13 +858,6 @@
 			"categories": "Govt Establishments",
 			"subcategories": "State Govt Office",
 			"subcategorytype": "State Govt Office",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -873,13 +866,6 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Central Govt Office",
 			"subcategorytype": "Central Govt Office",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -912,13 +898,6 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Hospitals",
 			"subcategorytype": "Govt Hospitals",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -927,13 +906,6 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Dispensary",
 			"subcategorytype": "Govt Dispensary",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -942,13 +914,6 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Restaurants",
 			"subcategorytype": "Govt Restaurants",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -957,13 +922,6 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Hotel",
 			"subcategorytype": "Govt Hotel",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -972,13 +930,6 @@
 			"categories": "Govt Establishments",
 			"subcategories": "Govt Marriage Halls/ Community Centers",
 			"subcategorytype": "Govt Marriage Halls/ Community Centers",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -1023,13 +974,6 @@
 			"categories": "Others",
 			"subcategories": "Orphanages",
 			"subcategorytype": "Orphanages",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -1098,13 +1042,6 @@
 			"categories": "Others",
 			"subcategories": "Construction & Demolition Waste Site",
 			"subcategorytype": "Construction & Demolition Waste Site",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
@@ -1113,13 +1050,6 @@
 			"categories": "Others",
 			"subcategories": "Any Other establishment not mentioned above",
 			"subcategorytype": "Any Other establishment not mentioned above",
-<<<<<<< HEAD
-=======
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": "FALSE",
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
->>>>>>> 58387678c06cd1fdfc3319433ee777407e66d4ae
 			"fee": 0,
 			"tenantId": "hp.Sunni",
 			"active": "TRUE"
