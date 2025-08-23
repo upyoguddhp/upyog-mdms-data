@@ -8,7 +8,7 @@
       "subcategories": "Household",
       "subcategorytype": "Area less than 2000 Sq. Feet",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "subcategories": "Household",
       "subcategorytype": "Area more than 2000 Sq. Feet",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "3",
@@ -24,7 +24,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Pan Shop",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "4",
@@ -32,7 +32,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Tea Shop",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "5",
@@ -40,7 +40,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Confectionery & Veg Shop  ",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "6",
@@ -48,7 +48,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shops (Wholesale)",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "7",
@@ -56,7 +56,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shops (Retail)",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "8",
@@ -64,7 +64,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Groceries & Daily Needs Shop",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "9",
@@ -72,7 +72,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Clothes Shop",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "10",
@@ -80,7 +80,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Production & Distribution)",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "11",
@@ -88,7 +88,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Distribution Only)",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "12",
@@ -96,7 +96,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Meat & Fish Shops",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "13",
@@ -104,7 +104,7 @@
       "subcategories": "Super Stores",
       "subcategorytype": "Super Stores",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "14",
@@ -112,7 +112,7 @@
       "subcategories": "Malls",
       "subcategorytype": "Malls",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "15",
@@ -120,7 +120,7 @@
       "subcategories": "Private Restaurants",
       "subcategorytype": "Private Restaurants",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "16",
@@ -128,7 +128,7 @@
       "subcategories": "Private Hotels",
       "subcategorytype": "Upto 10 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "17",
@@ -136,7 +136,7 @@
       "subcategories": "Private Hotels",
       "subcategorytype": "11 - 20 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "18",
@@ -144,7 +144,7 @@
       "subcategories": "Private Hotels",
       "subcategorytype": "21 - 30 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "19",
@@ -152,7 +152,7 @@
       "subcategories": "Private Hotels",
       "subcategorytype": "More than 30 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "20",
@@ -160,7 +160,7 @@
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "Upto 10 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "21",
@@ -168,7 +168,7 @@
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "11 - 20 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "22",
@@ -176,7 +176,7 @@
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "21 - 30 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "23",
@@ -184,7 +184,7 @@
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "24",
@@ -192,7 +192,7 @@
       "subcategories": "Clubs",
       "subcategorytype": "Clubs",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "25",
@@ -200,7 +200,7 @@
       "subcategories": "Private Offices",
       "subcategorytype": "2 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "26",
@@ -208,7 +208,7 @@
       "subcategories": "Private Offices",
       "subcategorytype": "3-5 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "27",
@@ -216,7 +216,7 @@
       "subcategories": "Private Offices",
       "subcategorytype": "6-10 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "28",
@@ -224,7 +224,7 @@
       "subcategories": "Private Offices",
       "subcategorytype": "11-20 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "29",
@@ -232,7 +232,7 @@
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "30",
@@ -240,7 +240,7 @@
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "Upto 100 Students",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "31",
@@ -248,7 +248,7 @@
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "More than 100 Students",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "32",
@@ -256,7 +256,7 @@
       "subcategories": "Private Colleges / University",
       "subcategorytype": "Upto 1000 Students",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "33",
@@ -264,7 +264,7 @@
       "subcategories": "Private Colleges / University",
       "subcategorytype": "More than 1000 Students",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "34",
@@ -272,7 +272,7 @@
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "Upto 100 Students",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "35",
@@ -280,7 +280,7 @@
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "More than 100 Students",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "36",
@@ -288,7 +288,7 @@
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Only Tyre Puncture Repair",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "37",
@@ -296,7 +296,7 @@
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Repair",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "38",
@@ -304,7 +304,7 @@
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Repair & Spare Part Retail",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "39",
@@ -312,7 +312,7 @@
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "40",
@@ -320,7 +320,7 @@
       "subcategories": "Street Vendors ",
       "subcategorytype": "Street Vendors ",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "41",
@@ -328,7 +328,7 @@
       "subcategories": "Street Hawkers",
       "subcategorytype": "Street Hawkers",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "42",
@@ -336,7 +336,7 @@
       "subcategories": "Private Marriage Halls",
       "subcategorytype": "Private Marriage Halls",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "43",
@@ -344,7 +344,7 @@
       "subcategories": "Cinema Halls (Theatre & Multiplexes)",
       "subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "44",
@@ -352,7 +352,7 @@
       "subcategories": "Slaughterhouse",
       "subcategorytype": "Slaughterhouse",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "45",
@@ -360,7 +360,7 @@
       "subcategories": "Others",
       "subcategorytype": "Others",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "46",
@@ -368,7 +368,7 @@
       "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "47",
@@ -376,7 +376,7 @@
       "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "48",
@@ -384,7 +384,7 @@
       "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "49",
@@ -392,7 +392,7 @@
       "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "50",
@@ -400,7 +400,7 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "Upto 50 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "51",
@@ -408,7 +408,7 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "51 to 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "52",
@@ -416,7 +416,7 @@
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "53",
@@ -424,7 +424,7 @@
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "Upto 50 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "54",
@@ -432,7 +432,7 @@
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "55",
@@ -440,7 +440,7 @@
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "56",
@@ -448,7 +448,7 @@
       "subcategories": "Old Age Homes",
       "subcategorytype": "Upto 50 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "57",
@@ -456,7 +456,7 @@
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "58",
@@ -464,7 +464,7 @@
       "subcategories": "Old Age Homes",
       "subcategorytype": "More than 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "59",
@@ -472,7 +472,7 @@
       "subcategories": "Private Hospital",
       "subcategorytype": "Upto 50 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "60",
@@ -480,7 +480,7 @@
       "subcategories": "Private Hospital",
       "subcategorytype": "51 to 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "61",
@@ -488,7 +488,7 @@
       "subcategories": "Private Hospital",
       "subcategorytype": "More than 100 Beds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "62",
@@ -496,7 +496,7 @@
       "subcategories": "Laboratories",
       "subcategorytype": "Laboratories",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "63",
@@ -504,7 +504,7 @@
       "subcategories": "Private Clinics",
       "subcategorytype": "Private Clinics",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "64",
@@ -512,7 +512,7 @@
       "subcategories": "Chemists",
       "subcategorytype": "Chemists",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "65",
@@ -520,7 +520,7 @@
       "subcategories": "Others",
       "subcategorytype": "Others",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "66",
@@ -528,7 +528,7 @@
       "subcategories": "Govt Primary School",
       "subcategorytype": "Govt Primary School",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "67",
@@ -536,7 +536,7 @@
       "subcategories": "Govt Middle School",
       "subcategorytype": "Govt Middle School",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "68",
@@ -544,7 +544,7 @@
       "subcategories": "Govt Senior/ Senior Secondary School",
       "subcategorytype": "Govt Senior/ Senior Secondary School",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "69",
@@ -552,7 +552,7 @@
       "subcategories": "Govt Angan Wadi",
       "subcategorytype": "Govt Angan Wadi",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "70",
@@ -560,7 +560,7 @@
       "subcategories": "Govt College",
       "subcategorytype": "Govt College",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "71",
@@ -568,7 +568,7 @@
       "subcategories": "Govt University",
       "subcategorytype": "Govt University",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "72",
@@ -576,7 +576,7 @@
       "subcategories": "State Govt Office",
       "subcategorytype": "State Govt Office",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "73",
@@ -584,7 +584,7 @@
       "subcategories": "Central Govt Office",
       "subcategorytype": "Central Govt Office",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "74",
@@ -592,7 +592,7 @@
       "subcategories": "ULB Office",
       "subcategorytype": "ULB Office",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "75",
@@ -600,7 +600,7 @@
       "subcategories": "Govt. Garden",
       "subcategorytype": "Govt. Garden",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "76",
@@ -608,7 +608,7 @@
       "subcategories": "Govt Hospitals",
       "subcategorytype": "Govt Hospitals",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "77",
@@ -616,7 +616,7 @@
       "subcategories": "Govt Dispensary",
       "subcategorytype": "Govt Dispensary",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "78",
@@ -624,7 +624,7 @@
       "subcategories": "Govt Restaurants",
       "subcategorytype": "Govt Restaurants",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "79",
@@ -632,7 +632,7 @@
       "subcategories": "Govt Hotel",
       "subcategorytype": "Govt Hotel",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "80",
@@ -640,7 +640,7 @@
       "subcategories": "Govt Marriage Halls/ Community Centers",
       "subcategorytype": "Govt Marriage Halls/ Community Centers",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "81",
@@ -648,7 +648,7 @@
       "subcategories": "Others",
       "subcategorytype": "Others",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "82",
@@ -656,7 +656,7 @@
       "subcategories": "Charitable Trust / NGO / any other Registered Group",
       "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "83",
@@ -664,7 +664,7 @@
       "subcategories": "Private Garden",
       "subcategorytype": "Private Garden",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "84",
@@ -672,7 +672,7 @@
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "85",
@@ -680,7 +680,7 @@
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "86",
@@ -688,7 +688,7 @@
       "subcategories": "Religious Site",
       "subcategorytype": "Religious Site",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "87",
@@ -696,7 +696,7 @@
       "subcategories": "Dairy Cattle and Animal Sheds",
       "subcategorytype": "Dairy Cattle and Animal Sheds",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "88",
@@ -704,7 +704,7 @@
       "subcategories": "Pet Shops",
       "subcategorytype": "Pet Shops",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "89",
@@ -712,7 +712,7 @@
       "subcategories": "Scrap Dealers",
       "subcategorytype": "Scrap Dealers",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "90",
@@ -720,7 +720,7 @@
       "subcategories": "Construction & Demolition Waste Site",
       "subcategorytype": "Construction & Demolition Waste Site",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "91",
@@ -728,7 +728,7 @@
       "subcategories": "Any Other establishment not mentioned above",
       "subcategorytype": "Any Other establishment not mentioned above",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "92",
@@ -736,7 +736,7 @@
       "subcategories": "Shops",
       "subcategorytype": "Dhaba",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "id": "93",
@@ -744,7 +744,7 @@
       "subcategories": "Wine Shop",
       "subcategorytype": "Wine Shop",
       "fee": "60.00",
-      "active": "true"
+      "active": "TRUE"
     }
   ]
 }

@@ -7,1056 +7,1056 @@
       "subcategories": "Household",
       "subcategorytype": "Area Less Than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Residential",
       "subcategories": "Household",
       "subcategorytype": "Area More Than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Pan Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Tea Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Confectionery & Veg Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shops (Wholesale)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shops (Retail)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Groceries & Daily Needs Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Clothes Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Production & Distribution)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Distribution Only)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Meat & Fish Shops",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Super Stores/Departmental Store",
       "subcategorytype": "Super Stores/Departmental Store",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Malls",
       "subcategorytype": "Big Malls",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Restaurants",
       "subcategorytype": "Restaurant",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
+      "isAdditonalCostAdded": true,
       "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Recreational Facilities",
       "subcategorytype": "Clubs",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "2 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "3-5 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 250,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "6-10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "11-20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 350,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 400,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "Upto 100 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "More than 100 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Colleges / University",
       "subcategorytype": "Upto 1000 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 700,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Colleges / University",
       "subcategorytype": "More than 1000 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "Upto 100 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Kindergarten / Day Cares",
       "subcategorytype": "More than 100 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Only Tire Puncture Repair",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Repair",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Repair & Spare Part Retail",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Street Vendors",
       "subcategorytype": "Street Vendors",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "",
       "subcategories": "Street Hawkers",
       "subcategorytype": "Street Hawkers",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Marriage Halls (monthly)",
       "subcategorytype": "Private Marriage Halls (monthly)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Cinema Halls/Theatre",
       "subcategorytype": "Cinema Halls/Theatre",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Slaughterhouse",
       "subcategorytype": "Slaughterhouse",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Bulk",
       "subcategorytype": "Slaughterhouse (Per kill)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 10,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Industries",
       "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Industries",
       "subcategories": "Small Industry",
       "subcategorytype": "Small Industry",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Industries",
       "subcategories": "Medium Industry",
       "subcategorytype": "Medium Industry",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Industries",
       "subcategories": "Large Industry",
       "subcategorytype": "Large Industry",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 700,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
+      "isAdditonalCostAdded": true,
       "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 700,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 700,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "More Than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
+      "isAdditonalCostAdded": true,
       "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 700,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Laboratories",
       "subcategorytype": "Laboratories",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Clinics",
       "subcategorytype": "Private Clinics",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Chemists",
       "subcategorytype": "Chemists",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Primary School",
       "subcategorytype": "Govt Primary School",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Middle School",
       "subcategorytype": "Govt Middle School",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt High/ Senior Secondary School",
       "subcategorytype": "Govt High / Senior Secondary School",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Angan Wadi",
       "subcategorytype": "Govt Angan Wadi",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt College",
       "subcategorytype": "Govt College",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt University",
       "subcategorytype": "Govt University",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "State/Central Govt Office",
       "subcategorytype": "Offices ( 2 Rooms)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Central Govt Office",
       "subcategorytype": "Central Govt Office",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
       "subcategorytype": "Offices ( 2 Rooms)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 700,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "true",
+      "isAdditonalCostAdded": true,
       "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 700,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
       "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Restaurants",
       "subcategorytype": "Govt Restaurants",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Hotel",
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Hotel",
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Hotel",
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
       "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Others",
       "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
       "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Others",
       "subcategories": "Orphanages",
       "subcategorytype": "Orphanages",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Others",
       "subcategories": "Heritage Site",
       "subcategorytype": "Heritage Site",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Others",
       "subcategories": "Religious Site",
       "subcategorytype": "Temple (Trust)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Others",
       "subcategories": "Pet Shops",
       "subcategorytype": "Pet Shops",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Others",
       "subcategories": "Scrap Dealers",
       "subcategorytype": "Scrap Dealers",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Rohru",
-      "active": "true"
+      "active": "TRUE"
     }
   ]
 }

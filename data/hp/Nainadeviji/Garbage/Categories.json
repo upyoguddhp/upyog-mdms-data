@@ -7,492 +7,492 @@
       "subcategories": "Household",
       "subcategorytype": "Area Less Than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Residential",
       "subcategories": "Household",
       "subcategorytype": "Area More Than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Pan Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Tea Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Confectionery & Veg Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shops (Retail)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Groceries & Daily Needs Shop",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Production & Distribution)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Eateries (Food Distribution Only)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Restaurants",
       "subcategorytype": "Restaurant",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 400,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 400,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
       "subcategorytype": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast (21 to 30 rooms)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 400,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Dharamshala/Sarai",
       "subcategorytype": "Dharamshala/Sarai",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 550,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "2 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "3-5 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "6-10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Banks",
       "subcategorytype": "Bank <1000 sr.ft",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Banks",
       "subcategorytype": "Bank Floor Area > 1000 sq. feet",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "Upto 100 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
       "subcategorytype": "More than 100 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Colleges / University",
       "subcategorytype": "Upto 1000 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Colleges / University",
       "subcategorytype": "More than 1000 Students",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Only Tire Puncture Repair",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
       "subcategorytype": "Vehicle Repair",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Commercial",
       "subcategories": "Street Vendors",
       "subcategorytype": "Street Vendors",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Laboratories",
       "subcategorytype": "Laboratories",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Chemists",
       "subcategorytype": "Chemists",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Primary School",
       "subcategorytype": "Govt Primary School",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Middle School",
       "subcategorytype": "Govt Middle School",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt High/ Senior Secondary School",
       "subcategorytype": "Govt High / Senior Secondary School",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt College",
       "subcategorytype": "Govt College",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Hotel",
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Hotel",
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Hotel",
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 400,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     },
     {
       "categories": "Others",
       "subcategories": "Scrap Dealers",
       "subcategorytype": "Scrap Dealers",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": "false",
+      "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nainadeviji",
-      "active": "true"
+      "active": "TRUE"
     }
   ]
 }

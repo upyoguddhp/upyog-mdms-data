@@ -1,30 +1,30 @@
 {
-    "tenantId": "hp.Mandi",
+    "tenantId": "hp.Solan",
     "moduleName": "Garbage",
     "Categories": [
         {
             "categories": "Residential",
             "subcategories": "Household",
-            "subcategorytype": "Area less than 2000 Sq. Feet",
+            "subcategorytype": "Area Less Than 2000 Sq. Feet",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 50,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Residential",
             "subcategories": "Household",
-            "subcategorytype": "Area more than 2000 Sq. Feet",
+            "subcategorytype": "Area More Than 2000 Sq. Feet",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -35,8 +35,8 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -46,9 +46,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 150,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -58,9 +58,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 300,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -70,9 +70,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 800,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -82,9 +82,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 250,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -94,9 +94,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 120,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -106,9 +106,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 120,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -118,9 +118,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 350,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -130,9 +130,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -142,45 +142,93 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Super Stores",
-            "subcategorytype": "Super Stores",
+            "subcategories": "Shops",
+            "subcategorytype": "Bakeries (Small)",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 700,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Shops",
+            "subcategorytype": "Bakeries (Manufacturing Units)",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1500,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Shops",
+            "subcategorytype": "Cloth Big Show Room",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Super Stores/Departmental Store",
+            "subcategorytype": "Super Stores/Departmental Store",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 350,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Malls",
-            "subcategorytype": "Malls",
+            "subcategorytype": "Big Malls",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Restaurants",
-            "subcategorytype": "Private Restaurants",
+            "subcategorytype": "Restaurant",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1700,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Restaurants",
+            "subcategorytype": "Restaurants + Bar",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -190,9 +238,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -202,9 +250,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -214,81 +262,105 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Hotels",
-            "subcategorytype": "More than 30 Rooms",
+            "subcategorytype": "31-40  Rooms",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Hotels",
+            "subcategorytype": "41-50 Rooms",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Hotels",
+            "subcategorytype": "Special Hotels More Than 50 Rooms",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 15000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Cottages Industry",
+            "subcategorytype": "Cottages Industry",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 750,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
+            "subcategorytype": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service(upto 5 rooms)",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 700,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
+            "subcategorytype": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast (6 to 10 rooms)",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 700,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
+            "subcategorytype": "PG/Hostels/Guest House/Home Stay/Bed and Breakfast (11 to 20 rooms)",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
-            "subcategorytype": "Upto 10 Rooms",
+            "subcategories": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast Service",
+            "subcategorytype": "PG/Hostel/Guest House/Home Stay/Bed and Breakfast (21 to 30 rooms)",
             "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 800,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
-            "subcategorytype": "11 - 20 Rooms",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 1200,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
-            "subcategorytype": "21 - 30 Rooms",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
-            "subcategorytype": "More than 30 Rooms",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 500,
             "fixedUnitCost": 0,
             "fee": 2500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Commercial",
-            "subcategories": "Clubs",
-            "subcategorytype": "Clubs",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -298,9 +370,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 150,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -310,9 +382,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 300,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -322,33 +394,45 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1200,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Offices",
             "subcategorytype": "11-20 Rooms",
             "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 100,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2200,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Private Offices",
-            "subcategorytype": "More than 20 Rooms",
+            "subcategories": "Banks",
+            "subcategorytype": "Bank <1000 sr.ft",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 750,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Banks",
+            "subcategorytype": "Bank Floor Area > 1000 sq. feet",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 950,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -358,9 +442,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -370,9 +454,21 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1500,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Schools/ Institutions",
+            "subcategorytype": "More than 1000 Students",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -382,9 +478,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1700,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -394,33 +490,21 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1700,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Private Kindergarten / Day Cares",
-            "subcategorytype": "Upto 100 Students",
+            "subcategories": "Workshops & Garages",
+            "subcategorytype": "Not touching NH and SH",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Commercial",
-            "subcategories": "Private Kindergarten / Day Cares",
-            "subcategorytype": "More than 100 Students",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 300,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -431,8 +515,8 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -442,9 +526,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 250,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -455,20 +539,44 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Workshops & Garages",
-            "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Re...",
+            "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 750,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Workshops & Garages",
+            "subcategorytype": "Vehicle Show Room Two Wheeler",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 800,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Workshops & Garages",
+            "subcategorytype": "Vehicle Show Room four Wheeler",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
@@ -478,69 +586,105 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Street Hawkers",
-            "subcategorytype": "Street Hawkers",
+            "subcategories": "Private Marriage Halls (monthly)",
+            "subcategorytype": "Private Marriage Halls (monthly)",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Private Marriage Halls",
+            "subcategories": "Cinema Halls/Theatre",
+            "subcategorytype": "Cinema Halls/Theatre",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Bulk",
+            "subcategorytype": "Private Hotel",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Bulk",
+            "subcategorytype": "Dumper Per Trip",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Bulk",
             "subcategorytype": "Private Marriage Halls",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
-            "categories": "Commercial",
-            "subcategories": "Cinema Halls (Theatre & Multiplexes)",
-            "subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
+            "categories": "Others",
+            "subcategories": "Bulk",
+            "subcategorytype": "Public Meeting /Religious Congregation etc",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
-            "categories": "Commercial",
-            "subcategories": "Slaughterhouse",
-            "subcategorytype": "Slaughterhouse",
+            "categories": "Others",
+            "subcategories": "Bulk",
+            "subcategorytype": "Event Organize at Residentail Premises",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
-            "categories": "Commercial",
-            "subcategories": "Others",
-            "subcategorytype": "Others",
+            "categories": "",
+            "subcategories": "Bulk",
+            "subcategorytype": "Marriage Halls (10000 Secuirity Fees)",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Industries",
@@ -550,9 +694,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 750,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Industries",
@@ -562,9 +706,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Industries",
@@ -574,165 +718,93 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Industries",
-            "subcategories": "Large Industry",
-            "subcategorytype": "Large Industry",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Nursing Homes",
-            "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Nursing Homes",
-            "subcategorytype": "51 to 100 Beds",
+            "subcategories": "Factories (Manufacturing unit) other than notifies in any other category)",
+            "subcategorytype": "Factories (Manufacturing Unit) Other Than Notifies in Any Other Category)",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Nursing Homes",
+            "subcategorytype": "Upto 50 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Nursing Homes",
+            "subcategorytype": "51 to 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Nursing Homes",
             "subcategorytype": "More than 100 Beds",
             "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 250,
             "fixedUnitCost": 0,
-            "fee": 2000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Rehabilitation Center",
-            "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Rehabilitation Center",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Rehabilitation Center",
-            "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Old Age Homes",
-            "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Old Age Homes",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Old Age Homes",
-            "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Private Hospital",
             "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Private Hospital",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 1500,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Private Hospital",
-            "subcategorytype": "More than 100 Beds",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Hospital",
+            "subcategorytype": "51 to 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2500,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Hospital",
+            "subcategorytype": "More Than 100 Beds",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 250,
+            "fixedUnitCost": 0,
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
@@ -742,9 +814,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 250,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
@@ -754,9 +826,21 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 250,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Private Clinics with medical shop",
+            "subcategorytype": "Private Clinics With Medical Shop",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
@@ -766,21 +850,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Others",
-            "subcategorytype": "Others",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 250,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
@@ -790,9 +862,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 200,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
@@ -802,33 +874,21 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 200,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Govt Senior/ Senior Secondary School",
-            "subcategorytype": "Govt Senior/ Senior Secondary School",
+            "subcategories": "Govt High/ Senior Secondary School",
+            "subcategorytype": "Govt High / Senior Secondary School",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Govt Establishments",
-            "subcategories": "Govt Angan Wadi",
-            "subcategorytype": "Govt Angan Wadi",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
@@ -838,225 +898,153 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 1500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Govt University",
-            "subcategorytype": "Govt University",
+            "subcategories": "State/Central Govt Office",
+            "subcategorytype": "Offices ( 2 Rooms)",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 150,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Govt Establishments",
+            "subcategories": "State/Central Govt Office",
+            "subcategorytype": "Offices (  3-5 Rooms)",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 300,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Govt Establishments",
+            "subcategories": "State/Central Govt Office",
+            "subcategorytype": "Offices ( 6-10 Rooms)",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1200,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Govt Establishments",
+            "subcategories": "State/Central Govt Office",
+            "subcategorytype": "Offices ( 11-20 Rooms)",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 100,
+            "fixedUnitCost": 0,
+            "fee": 2200,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Govt Establishments",
+            "subcategories": "Govt Hospitals",
+            "subcategorytype": "Upto 50 Beds",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Govt Establishments",
-            "subcategories": "State Govt Office",
-            "subcategorytype": "State Govt Office",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Govt Establishments",
-            "subcategories": "Central Govt Office",
-            "subcategorytype": "Central Govt Office",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Govt Establishments",
-            "subcategories": "ULB Office",
-            "subcategorytype": "ULB Office",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 550,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Govt Establishments",
-            "subcategories": "Govt. Garden",
-            "subcategorytype": "Govt. Garden",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Hospitals",
-            "subcategorytype": "Govt Hospitals",
+            "subcategorytype": "51 to 100 Beds",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2500,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Govt Dispensary",
-            "subcategorytype": "Govt Dispensary",
+            "subcategories": "Govt Hospitals",
+            "subcategorytype": "More than 100 Beds",
             "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 250,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 3000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Govt Restaurants",
-            "subcategorytype": "Govt Restaurants",
+            "subcategories": "Government Hotel",
+            "subcategorytype": "Upto 10 Rooms",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Govt Hotel",
-            "subcategorytype": "Govt Hotel",
+            "subcategories": "Government Hotel",
+            "subcategorytype": "11 - 20 Rooms",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Govt Marriage Halls/ Community Centers",
-            "subcategorytype": "Govt Marriage Halls/ Community Centers",
+            "subcategories": "Government Hotel",
+            "subcategorytype": "21 - 30 Rooms",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Govt Establishments",
-            "subcategories": "Others",
-            "subcategorytype": "Others",
+            "subcategories": "Government Hotel",
+            "subcategorytype": "More Than 30 Rooms",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 2000,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Others",
-            "subcategories": "Charitable Trust / NGO / any other Registered Grou...",
-            "subcategorytype": "Charitable Trust / NGO / any other Registered Grou...",
+            "subcategories": "Cow Dung from cattle at households",
+            "subcategorytype": "Cow Dung From Cattle At Households",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Private Garden",
-            "subcategorytype": "Private Garden",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Orphanages",
-            "subcategorytype": "Orphanages",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Heritage Site",
-            "subcategorytype": "Heritage Site",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Religious Site",
-            "subcategorytype": "Religious Site",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Dairy Cattle and Animal Sheds",
-            "subcategorytype": "Dairy Cattle and Animal Sheds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 100,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Pet Shops",
-            "subcategorytype": "Pet Shops",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 350,
+            "tenantId": "hp.Solan",
+            "active": true
         },
         {
             "categories": "Others",
@@ -1066,33 +1054,9 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 400,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Construction & Demolition Waste Site",
-            "subcategorytype": "Construction & Demolition Waste Site",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Others",
-            "subcategories": "Any Other establishment not mentioned above",
-            "subcategorytype": "Any Other establishment not mentioned above",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 150,
-            "tenantId": "hp.Mandi",
-            "active": "TRUE"
+            "fee": 500,
+            "tenantId": "hp.Solan",
+            "active": true
         }
     ]
 }
