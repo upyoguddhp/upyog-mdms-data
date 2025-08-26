@@ -11585,7 +11585,20 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 1596,
+      "name": "Community Hall update",
+      "url": "/chb-services/booking/v1/_update",
+      "displayName": "Community Hall update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }   
 
   ]
 }
