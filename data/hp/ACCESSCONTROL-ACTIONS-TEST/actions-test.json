@@ -11559,6 +11559,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1594,
+      "name": "Search eChallan",
+      "url": "/echallan-services/eChallan/v1/_search",
+      "displayName": "Create eChallan",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1595,
+      "name": "Update eChallan",
+      "url": "/echallan-services/eChallan/v1/_update",
+      "displayName": "Create eChallan",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
