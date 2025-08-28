@@ -6,7 +6,7 @@
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 200,
+      "price": 150,
       "periodOfLicense": 1
     },
     {
@@ -34,7 +34,7 @@
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 2000,
+      "price": 500,
       "periodOfLicense": 1
     },
     {
@@ -62,7 +62,7 @@
       "tenantId": "hp.Hamirpur",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 5000,
+      "price": 1000,
       "periodOfLicense": 1
     },
     {
