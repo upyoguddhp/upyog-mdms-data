@@ -7,24 +7,24 @@
       "subcategories": "Household",
       "subcategorytype": "Area Less Than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 15,
       "fixedUnitCost": 0,
       "fee": 15,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Residential",
       "subcategories": "Household",
       "subcategorytype": "Area More Than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 15,
       "fixedUnitCost": 0,
       "fee": 15,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -36,7 +36,7 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -48,7 +48,7 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -60,7 +60,19 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Vegetable & Fruit Shops (Rertail)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Manali",
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -72,7 +84,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -84,7 +96,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -96,7 +108,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -108,7 +120,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -120,7 +132,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -132,7 +144,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -144,7 +156,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -156,7 +168,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -168,19 +180,19 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Barber Shop (Above 5 Customer)",
+      "subcategorytype": "Barber Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -192,7 +204,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -204,7 +216,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -216,31 +228,31 @@
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Sewing Shop ( Darji)",
+      "subcategorytype": "Tailor Shop ( Darji)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Coffee Houses",
+      "subcategorytype": "Coffee Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 800,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -252,7 +264,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -264,7 +276,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -276,7 +288,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -288,7 +300,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -300,7 +312,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -312,7 +324,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -324,7 +336,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -336,7 +348,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -346,9 +358,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -360,31 +372,19 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Malls",
-      "subcategorytype": "Big Malls",
+      "subcategorytype": "Malls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Malls",
-      "subcategorytype": "Small Malls",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -396,7 +396,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -408,7 +408,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -420,11 +420,35 @@
       "fixedUnitCost": 0,
       "fee": 3000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Recreational Facilities",
+      "subcategories": "Private Hotels",
+      "subcategorytype": "Private Hotel",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 75,
+      "fixedUnitCost": 0,
+      "fee": 75,
+      "tenantId": "hp.Manali",
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "subcategorytype": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 75,
+      "fixedUnitCost": 0,
+      "fee": 75,
+      "tenantId": "hp.Manali",
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Clubs",
       "subcategorytype": "Clubs",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -432,19 +456,43 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private offices ",
+      "subcategorytype": "Private offices (Official)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 50,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Manali",
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private offices ",
+      "subcategorytype": "Private offices (Non-Official)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 50,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Manali",
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Banks",
-      "subcategorytype": "Bank <1000 sr.ft",
+      "subcategorytype": "Banks",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -456,7 +504,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -468,11 +516,11 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Workshops & Garages",
+      "subcategories": "Workshops & Garages ",
       "subcategorytype": "Only Tire Puncture Repair",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -480,11 +528,11 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Workshops & Garages",
+      "subcategories": "Workshops & Garages ",
       "subcategorytype": "Bike Rental Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -492,11 +540,11 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Workshops & Garages",
+      "subcategories": "Workshops & Garages ",
       "subcategorytype": "Vehicle Repair",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -504,11 +552,11 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Workshops & Garages",
+      "subcategories": "Workshops & Garages ",
       "subcategorytype": "Vehicle Repair & Spare Part Retail",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -516,11 +564,11 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Workshops & Garages",
+      "subcategories": "Workshops & Garages ",
       "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -528,11 +576,11 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Street Vendors",
+      "subcategories": "Street Vendors ",
       "subcategorytype": "Street Vendors",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -540,7 +588,7 @@
       "fixedUnitCost": 0,
       "fee": 150,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -552,11 +600,11 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Cinema Halls/Theatre",
+      "subcategories": "Cinema Halls/Theatre  ",
       "subcategorytype": "Cinema Halls/Theatre",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -564,67 +612,43 @@
       "fixedUnitCost": 0,
       "fee": 3000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Private Hotel",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 75,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Bulk",
-      "subcategorytype": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 76,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Bulk",
+      "subcategories": "Government Hotel",
       "subcategorytype": "Government Hotel",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 75,
       "fixedUnitCost": 0,
       "fee": 75,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Bulk",
-      "subcategorytype": "Government Office",
+      "subcategories": "Government Office",
+      "subcategorytype": "Government Office (Official)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 75,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
-      "categories": "Commercial",
-      "subcategories": "Private office",
-      "subcategorytype": "Offices",
+      "categories": "Govt Establishments",
+      "subcategories": "Government Office",
+      "subcategorytype": "Government Office (Non-Official)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -636,19 +660,19 @@
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Bulk",
       "subcategorytype": "Slaughterhouse (Per kill)",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": 0,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -660,7 +684,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -672,7 +696,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -684,7 +708,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -696,7 +720,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -708,7 +732,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -720,7 +744,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -732,7 +756,7 @@
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -744,7 +768,7 @@
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -756,7 +780,7 @@
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -768,7 +792,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -780,7 +804,7 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -792,115 +816,31 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 10 Beds",
+      "subcategorytype": "Govt. Hospital",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 25 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 50 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "101-300 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "More Than 300 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Restaurants",
-      "subcategorytype": "Govt Restaurants",
+      "subcategorytype": "Govt Restaurant",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -912,7 +852,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Others",
@@ -924,19 +864,19 @@
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Others",
       "subcategories": "ATM",
-      "subcategorytype": "ATM",
+      "subcategorytype": "ATM Booth",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",
-      "active": "TRUE"
+      "active": true
     }
   ]
 }

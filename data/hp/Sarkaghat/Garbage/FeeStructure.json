@@ -130,7 +130,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 50,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },
@@ -178,7 +178,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 100,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },
@@ -202,7 +202,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 300,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },
@@ -238,7 +238,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 300,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },
@@ -430,7 +430,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 50,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },
@@ -442,7 +442,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 50,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },
@@ -454,7 +454,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 50,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },
@@ -475,8 +475,8 @@
       "subcategories": "Street Vendors",
       "subcategorytype": "Street Vendors",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 30,
       "fixedUnitCost": 0,
       "fee": 30,
       "tenantId": "hp.Sarkaghat",
@@ -502,7 +502,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 500,
       "tenantId": "hp.Sarkaghat",
       "active": "TRUE"
     },

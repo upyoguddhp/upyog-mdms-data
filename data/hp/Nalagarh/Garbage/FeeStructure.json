@@ -12,7 +12,7 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Residential",
@@ -24,7 +24,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -36,7 +36,7 @@
       "fixedUnitCost": 0,
       "fee": 80,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -48,19 +48,7 @@
       "fixedUnitCost": 0,
       "fee": 80,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Confectionery & Veg Shop",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -72,7 +60,7 @@
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -82,9 +70,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 250,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -96,7 +84,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -108,43 +96,19 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Eateries (Food Production & Distribution)",
+      "subcategorytype": "Sweet /snacks shoops (Retail)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 400,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Eateries (Food Distribution Only)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Shops",
-      "subcategorytype": "Meat & Fish Shops",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -154,25 +118,13 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 350,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Malls",
-      "subcategorytype": "Malls",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Restaurants",
+      "subcategories": "Private Restaurants/Bar",
       "subcategorytype": "Private Restaurants",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -180,7 +132,19 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Restaurants/Bar",
+      "subcategorytype": "Private Restaurants +Bar",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1700,
+      "tenantId": "hp.Nalagarh",
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -192,7 +156,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -204,7 +168,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -216,23 +180,23 @@
       "fixedUnitCost": 0,
       "fee": 2500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 500,
       "fixedUnitCost": 0,
       "fee": 2500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -240,11 +204,11 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -252,11 +216,11 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -264,95 +228,35 @@
       "fixedUnitCost": 0,
       "fee": 2500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+      "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 500,
       "fixedUnitCost": 0,
       "fee": 2500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Clubs",
-      "subcategorytype": "Clubs",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
-      "subcategorytype": "2 Rooms",
+      "subcategorytype": "Private Offices",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "3-5 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "6-10 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "11-20 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Offices",
-      "subcategorytype": "More than 20 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Schools/ Institutions",
+      "subcategories": "Private Schools / Institutions",
       "subcategorytype": "Upto 100 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -360,11 +264,11 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Schools/ Institutions",
+      "subcategories": "Private Schools / Institutions",
       "subcategorytype": "More than 100 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -372,7 +276,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -384,7 +288,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -396,31 +300,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Kindergarten / Day Cares",
-      "subcategorytype": "Upto 100 Students",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Private Kindergarten / Day Cares",
-      "subcategorytype": "More than 100 Students",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -432,7 +312,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -442,9 +322,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 250,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -454,33 +334,33 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
+      "fee": 500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
-      "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Re...",
+      "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 750,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Street Vendors",
-      "subcategorytype": "Street Vendors",
+      "subcategories": "Street Vendors ",
+      "subcategorytype": "Street Vendors ",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 80,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -490,9 +370,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 80,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -504,19 +384,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Cinema Halls (Theatre & Multiplexes)",
-      "subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -528,55 +396,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Others",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Industries",
-      "subcategories": "Micro Industry",
-      "subcategorytype": "Micro Industry",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Industries",
-      "subcategories": "Small Industry",
-      "subcategorytype": "Small Industry",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Industries",
-      "subcategories": "Medium Industry",
-      "subcategorytype": "Medium Industry",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -588,7 +408,7 @@
       "fixedUnitCost": 0,
       "fee": 3000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -600,7 +420,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -610,57 +430,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 2500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 250,
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "Upto 50 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -670,69 +454,69 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 1500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
       "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Old Age Homes",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Private Hospital",
-      "subcategorytype": "Upto 50 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Private Hospital",
-      "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Private Hospital",
-      "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Old Age Homes",
+      "subcategorytype": "More than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 250,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Nalagarh",
+      "active": true
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
+      "tenantId": "hp.Nalagarh",
+      "active": true
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "51 to 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Nalagarh",
+      "active": true
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "More than 100 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 250,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Nalagarh",
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -744,7 +528,7 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -756,7 +540,7 @@
       "fixedUnitCost": 0,
       "fee": 150,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -768,19 +552,7 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Others",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 250,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -792,7 +564,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -804,7 +576,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -816,7 +588,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -828,7 +600,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -840,43 +612,7 @@
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt University",
-      "subcategorytype": "Govt University",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State Govt Office",
-      "subcategorytype": "State Govt Office",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Central Govt Office",
-      "subcategorytype": "Central Govt Office",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -886,21 +622,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 200,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt. Garden",
-      "subcategorytype": "Govt. Garden",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -910,9 +634,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 2000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -922,117 +646,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 500,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Restaurants",
-      "subcategorytype": "Govt Restaurants",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hotel",
-      "subcategorytype": "Govt Hotel",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 3700,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Marriage Halls/ Community Centers",
-      "subcategorytype": "Govt Marriage Halls/ Community Centers",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Others",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Charitable Trust / NGO / any other Registered Grou...",
-      "subcategorytype": "Charitable Trust / NGO / any other Registered Grou...",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Private Garden",
-      "subcategorytype": "Private Garden",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Orphanages",
-      "subcategorytype": "Orphanages",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Heritage Site",
-      "subcategorytype": "Heritage Site",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Religious Site",
-      "subcategorytype": "Religious Site",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1042,21 +658,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 350,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Pet Shops",
-      "subcategorytype": "Pet Shops",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1066,9 +670,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 0,
+      "fee": 400,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1078,21 +682,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
+      "fee": 1000,
       "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Any Other establishment not mentioned above",
-      "subcategorytype": "Any Other establishment not mentioned above",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 0,
-      "tenantId": "hp.Nalagarh",
-      "active": "TRUE"
+      "active": true
     }
   ]
 }

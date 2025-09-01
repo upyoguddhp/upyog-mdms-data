@@ -5,26 +5,38 @@
 		{
 			"categories": "Residential",
 			"subcategories": "Household",
-			"subcategorytype": "Area less than 2000 Sq. Feet",
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": false,
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
-			"fee": 60,
-			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
-		},
-		{
-			"categories": "Residential",
-			"subcategories": "Household",
-			"subcategorytype": "Area more than 2000 Sq. Feet",
+			"subcategorytype": "Area Less Than 2000 Sq. Feet (subsidized)",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 0,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Residential",
+			"subcategories": "Household",
+			"subcategorytype": "Area Less Than 2000 Sq. Feet",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 60,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Residential",
+			"subcategories": "Household",
+			"subcategorytype": "Area More Than 2000 Sq. Feet",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 0,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -36,7 +48,7 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -48,7 +60,7 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -60,7 +72,7 @@
 			"fixedUnitCost": 0,
 			"fee": 300,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -72,19 +84,31 @@
 			"fixedUnitCost": 0,
 			"fee": 20000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
 			"subcategories": "Shops",
-			"subcategorytype": "Vegetable & Fruit Shops (Retail)",
+			"subcategorytype": "Vegetable & Fruit Shops (Retail) Near Bus Stand, Gurudwara,Main Market and College Chowk",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 600,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"subcategorytype": "Vegetable & Fruit Shops (Retail) Other Areas",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -96,7 +120,7 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -108,7 +132,7 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -120,7 +144,7 @@
 			"fixedUnitCost": 0,
 			"fee": 1500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -132,7 +156,19 @@
 			"fixedUnitCost": 0,
 			"fee": 300,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"subcategorytype": "Café (Lake View/Tourism)",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 2000,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -144,43 +180,139 @@
 			"fixedUnitCost": 0,
 			"fee": 100,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Super Stores",
-			"subcategorytype": "Super Stores",
+			"subcategories": "Shops",
+			"subcategorytype": "Dhaba",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 0,
+			"fee": 300,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Malls",
-			"subcategorytype": "Malls",
+			"subcategories": "Shops",
+			"subcategorytype": "Sweet Shop/ Snacks Manufacturing Unit and Big Tea Shops",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 300,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"subcategorytype": "Bakery Manufacturing Units",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 1200,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"subcategorytype": "Bakery Small Shop",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 250,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"subcategorytype": "Sweet Shop Production (Large Scale)",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 1500,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"subcategorytype": "Coffee Houses",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 100,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Shops",
+			"subcategorytype": "Juice Shop (Ganna Stall)",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 500,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Super Stores/Departmental Store",
+			"subcategorytype": "Super Stores/Departmental Store",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 0,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Malls",
+			"subcategorytype": "",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 2500,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Commercial",
 			"subcategories": "Private Restaurants",
-			"subcategorytype": "Private Restaurants",
+			"subcategorytype": "Restaurant",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 800,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Private Restaurants",
+			"subcategorytype": "Restaurants + Bar",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 1000,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -192,7 +324,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -204,7 +336,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -216,7 +348,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -228,11 +360,11 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "Upto 10 Rooms",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -240,11 +372,11 @@
 			"fixedUnitCost": 0,
 			"fee": 1000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "11 - 20 Rooms",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -252,11 +384,11 @@
 			"fixedUnitCost": 0,
 			"fee": 1200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "21 - 30 Rooms",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -264,11 +396,11 @@
 			"fixedUnitCost": 0,
 			"fee": 1200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+			"subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
 			"subcategorytype": "More than 30 Rooms",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -276,11 +408,23 @@
 			"fixedUnitCost": 0,
 			"fee": 1500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Clubs",
+			"subcategories": "Dharamshala/Sarai",
+			"subcategorytype": "Dharamshala/Sarai",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 250,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Recreational Facilities",
 			"subcategorytype": "Clubs",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -288,7 +432,7 @@
 			"fixedUnitCost": 0,
 			"fee": 0,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -300,7 +444,7 @@
 			"fixedUnitCost": 0,
 			"fee": 200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -312,7 +456,7 @@
 			"fixedUnitCost": 0,
 			"fee": 200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -324,7 +468,7 @@
 			"fixedUnitCost": 0,
 			"fee": 500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -336,7 +480,7 @@
 			"fixedUnitCost": 0,
 			"fee": 1000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -348,31 +492,43 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Banks/LIC",
+			"subcategorytype": "Bank <1000 sr.ft",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 1000,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Commercial",
 			"subcategories": "Private Schools/ Institutions",
-			"subcategorytype": "Upto 100 Students",
+			"subcategorytype": "Upto 300 Students",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 600,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
 			"subcategories": "Private Schools/ Institutions",
-			"subcategorytype": "More than 100 Students",
+			"subcategorytype": "More than 300 Students",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 1200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -384,7 +540,7 @@
 			"fixedUnitCost": 0,
 			"fee": 0,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -396,7 +552,7 @@
 			"fixedUnitCost": 0,
 			"fee": 0,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -408,7 +564,7 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -420,11 +576,23 @@
 			"fixedUnitCost": 0,
 			"fee": 100,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Workshops & Garages",
+			"subcategories": "Workshops & Garages ",
+			"subcategorytype": "Not touching NH and SH",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 200,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
+			"subcategories": "Workshops & Garages ",
 			"subcategorytype": "Only Tire Puncture Repair",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -432,11 +600,11 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Workshops & Garages",
+			"subcategories": "Workshops & Garages ",
 			"subcategorytype": "Vehicle Repair",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -444,11 +612,11 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Workshops & Garages",
+			"subcategories": "Workshops & Garages ",
 			"subcategorytype": "Vehicle Repair & Spare Part Retail",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -456,23 +624,23 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Workshops & Garages",
-			"subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Re...",
+			"subcategories": "Workshops & Garages ",
+			"subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 1000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Street Vendors",
+			"subcategories": "Street Vendors ",
 			"subcategorytype": "Street Vendors",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -480,10 +648,22 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
-			"categories": "Commercial",
+			"categories": "",
+			"subcategories": "Street Vendors ",
+			"subcategorytype": "Street Vendors (Unregistered)",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 0,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "",
 			"subcategories": "Street Hawkers",
 			"subcategorytype": "Street Hawkers",
 			"bplRebatePercentage": 0,
@@ -492,31 +672,31 @@
 			"fixedUnitCost": 0,
 			"fee": 50,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Private Marriage Halls",
-			"subcategorytype": "Private Marriage Halls",
+			"subcategories": "Private Marriage Halls (monthly)",
+			"subcategorytype": "Private Marriage Halls (monthly)",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
-			"subcategories": "Cinema Halls (Theatre & Multiplexes)",
-			"subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
+			"subcategories": "Cinema Halls/Theatre  ",
+			"subcategorytype": "Cinema Halls/Theatre",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 1000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -528,7 +708,7 @@
 			"fixedUnitCost": 0,
 			"fee": 200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Commercial",
@@ -538,13 +718,13 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 300,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
-			"categories": "Industries",
-			"subcategories": "Micro Industry",
+			"categories": "Commercial",
+			"subcategories": "Bulk",
 			"subcategorytype": "Micro Industry",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -552,11 +732,11 @@
 			"fixedUnitCost": 0,
 			"fee": 800,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
-			"categories": "Industries",
-			"subcategories": "Small Industry",
+			"categories": "Commercial",
+			"subcategories": "Bulk",
 			"subcategorytype": "Small Industry",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -564,11 +744,11 @@
 			"fixedUnitCost": 0,
 			"fee": 800,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
-			"categories": "Industries",
-			"subcategories": "Medium Industry",
+			"categories": "Commercial",
+			"subcategories": "Bulk",
 			"subcategorytype": "Medium Industry",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -576,11 +756,11 @@
 			"fixedUnitCost": 0,
 			"fee": 800,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
-			"categories": "Industries",
-			"subcategories": "Large Industry",
+			"categories": "Commercial",
+			"subcategories": "Bulk",
 			"subcategorytype": "Large Industry",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
@@ -588,7 +768,7 @@
 			"fixedUnitCost": 0,
 			"fee": 800,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -600,7 +780,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -612,7 +792,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2700,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -624,7 +804,7 @@
 			"fixedUnitCost": 0,
 			"fee": 3000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -636,7 +816,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -648,7 +828,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2700,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -660,7 +840,7 @@
 			"fixedUnitCost": 0,
 			"fee": 3000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -672,7 +852,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -684,19 +864,19 @@
 			"fixedUnitCost": 0,
 			"fee": 2700,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Old Age Homes",
-			"subcategorytype": "More than 100 Beds",
+			"subcategorytype": "More Than 100 Beds",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 3000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -708,7 +888,7 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -720,19 +900,19 @@
 			"fixedUnitCost": 0,
 			"fee": 2700,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Private Hospital",
-			"subcategorytype": "More than 100 Beds",
+			"subcategorytype": "More Than 100 Beds",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 3000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -744,19 +924,43 @@
 			"fixedUnitCost": 0,
 			"fee": 100,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Hospitals & Health Care",
+			"subcategories": "Diagnostics",
+			"subcategorytype": "Diagnostics",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 3000,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Hospitals & Health Care",
+			"subcategories": "Kidney Care",
+			"subcategorytype": "10 Beds",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 5000,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
 			"subcategories": "Private Clinics",
-			"subcategorytype": "Private Clinics",
+			"subcategorytype": "Private Clinics/Dispensary",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 300,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -768,7 +972,7 @@
 			"fixedUnitCost": 0,
 			"fee": 100,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Hospitals & Health Care",
@@ -780,7 +984,7 @@
 			"fixedUnitCost": 0,
 			"fee": 100,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -792,7 +996,7 @@
 			"fixedUnitCost": 0,
 			"fee": 500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -804,19 +1008,19 @@
 			"fixedUnitCost": 0,
 			"fee": 500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
-			"subcategories": "Govt Senior/ Senior Secondary School",
-			"subcategorytype": "Govt Senior/ Senior Secondary School",
+			"subcategories": "Govt High/ Senior Secondary School",
+			"subcategorytype": "Govt High / Senior Secondary School",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -828,7 +1032,7 @@
 			"fixedUnitCost": 0,
 			"fee": 200,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -840,7 +1044,7 @@
 			"fixedUnitCost": 0,
 			"fee": 1500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -852,7 +1056,7 @@
 			"fixedUnitCost": 0,
 			"fee": 0,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -862,9 +1066,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 1500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -874,9 +1078,21 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 1500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Govt Establishments",
+			"subcategories": "Garden",
+			"subcategorytype": "Garden",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 0,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -886,21 +1102,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 1500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
-		},
-		{
-			"categories": "Govt Establishments",
-			"subcategories": "Govt. Garden",
-			"subcategorytype": "Govt. Garden",
-			"bplRebatePercentage": 0,
-			"isAdditonalCostAdded": false,
-			"variableUnitCost": 0,
-			"fixedUnitCost": 0,
-			"fee": 0,
-			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -912,19 +1116,19 @@
 			"fixedUnitCost": 0,
 			"fee": 20000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
-			"subcategories": "Govt Dispensary",
-			"subcategorytype": "Govt Dispensary",
+			"subcategories": "Govt Dispensary/PHC/Civil Dispensary",
+			"subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 300,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -936,31 +1140,43 @@
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
-			"subcategories": "Govt Hotel",
-			"subcategorytype": "Govt Hotel",
+			"subcategories": "Government Hotel",
+			"subcategorytype": "Government Hotel",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
-			"subcategories": "Govt Marriage Halls/ Community Centers",
-			"subcategorytype": "Govt Marriage Halls/ Community Centers",
+			"subcategories": "Circuit House",
+			"subcategorytype": "Circuit House",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 800,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Govt Establishments",
+			"subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
+			"subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
 			"fee": 2000,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Govt Establishments",
@@ -972,19 +1188,19 @@
 			"fixedUnitCost": 0,
 			"fee": 0,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
-			"subcategories": "Charitable Trust / NGO / any other Registered Grou...",
-			"subcategorytype": "Charitable Trust / NGO / any other Registered Grou...",
+			"subcategories": "Charitable Trust / NGO / Any Other Registered Group",
+			"subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 400,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -994,9 +1210,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 400,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -1006,9 +1222,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 400,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -1018,9 +1234,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 400,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -1030,9 +1246,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 400,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -1042,9 +1258,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -1054,9 +1270,21 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 400,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Others",
+			"subcategories": "Pet Care Shop",
+			"subcategorytype": "Pet Care Shop",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 400,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -1066,9 +1294,9 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
@@ -1078,21 +1306,57 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 400,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
 		},
 		{
 			"categories": "Others",
-			"subcategories": "Any Other establishment not mentioned above",
-			"subcategorytype": "Any Other establishment not mentioned above",
+			"subcategories": "Bus Stand",
+			"subcategorytype": "Bus Stand",
 			"bplRebatePercentage": 0,
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 200,
+			"fee": 500,
 			"tenantId": "hp.Bilaspur",
-			"active": "TRUE"
+			"active": true
+		},
+		{
+			"categories": "Others",
+			"subcategories": "Indoor Mess",
+			"subcategorytype": "Indoor Mess",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 5000,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Others",
+			"subcategories": "Fed. Shop",
+			"subcategorytype": "Fed. Shop",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 1000,
+			"tenantId": "hp.Bilaspur",
+			"active": true
+		},
+		{
+			"categories": "Others",
+			"subcategories": "Any Other Establishment Not Mentioned Above",
+			"subcategorytype": "Others",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 400,
+			"tenantId": "hp.Bilaspur",
+			"active": true
 		}
 	]
 }

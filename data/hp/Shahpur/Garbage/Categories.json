@@ -406,7 +406,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -418,7 +418,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -526,7 +526,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -538,7 +538,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1100,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -550,7 +550,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 1000,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -562,7 +562,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 2000,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -574,7 +574,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 3000,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -586,7 +586,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 5000,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -634,7 +634,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -646,7 +646,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 800,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -658,7 +658,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 1000,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -670,7 +670,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -682,7 +682,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 1000,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -694,7 +694,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 1500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -826,7 +826,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -862,7 +862,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -874,7 +874,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 1000,
+            "fee": 300,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -910,7 +910,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -922,7 +922,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -934,7 +934,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -946,7 +946,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 1000,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -958,7 +958,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -970,7 +970,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -982,7 +982,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -994,7 +994,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -1006,7 +1006,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -1018,7 +1018,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -1030,7 +1030,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -1042,7 +1042,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -1054,7 +1054,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         },
@@ -1090,7 +1090,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Shahpur",
             "active": "TRUE"
         }

@@ -6,1093 +6,1261 @@
             "categories": "Residential",
             "subcategories": "Household",
             "subcategorytype": "Area less than 2000 Sq. Feet",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Residential",
             "subcategories": "Household",
             "subcategorytype": "Area more than 2000 Sq. Feet",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Pan Shop",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Tea Shop",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Confectionery & Veg Shop",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Vegetable & Fruit Shops (Wholesale)",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Vegetable & Fruit Shops (Retail)",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Groceries & Daily Needs Shop",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Clothes Shop",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Eateries (Food Production & Distribution)",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Eateries (Food Distribution Only)",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 250,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Shops",
             "subcategorytype": "Meat & Fish Shops",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Super Stores",
             "subcategorytype": "Super Stores",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Malls",
             "subcategorytype": "Malls",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Restaurants",
             "subcategorytype": "Private Restaurants",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 300,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Hotels",
             "subcategorytype": "Upto 10 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 2000,
+            "fee": 300,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Hotels",
             "subcategorytype": "11 - 20 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Hotels",
             "subcategorytype": "21 - 30 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Hotels",
             "subcategorytype": "More than 30 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
             "subcategorytype": "Upto 10 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
             "subcategorytype": "11 - 20 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
             "subcategorytype": "21 - 30 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
-            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Faci...",
+            "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
             "subcategorytype": "More than 30 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Clubs",
             "subcategorytype": "Clubs",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Offices",
             "subcategorytype": "2 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Offices",
             "subcategorytype": "3-5 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Offices",
             "subcategorytype": "6-10 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Offices",
             "subcategorytype": "11-20 Rooms",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Offices",
             "subcategorytype": "More than 20 Rooms",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 100,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Schools/ Institutions",
             "subcategorytype": "Upto 100 Students",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Schools/ Institutions",
             "subcategorytype": "More than 100 Students",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Colleges / University",
             "subcategorytype": "Upto 1000 Students",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Colleges / University",
             "subcategorytype": "More than 1000 Students",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Kindergarten / Day Cares",
             "subcategorytype": "Upto 100 Students",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Kindergarten / Day Cares",
             "subcategorytype": "More than 100 Students",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Workshops & Garages",
             "subcategorytype": "Only Tire Puncture Repair",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Workshops & Garages",
             "subcategorytype": "Vehicle Repair",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Workshops & Garages",
             "subcategorytype": "Vehicle Repair & Spare Part Retail",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Workshops & Garages",
-            "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Re...",
-            "bplRebatePercentage": 0,
+            "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Street Vendors",
             "subcategorytype": "Street Vendors",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Street Hawkers",
             "subcategorytype": "Street Hawkers",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 100,
+            "fee": 50,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Private Marriage Halls",
             "subcategorytype": "Private Marriage Halls",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Cinema Halls (Theatre & Multiplexes)",
             "subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 1500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Slaughterhouse",
             "subcategorytype": "Slaughterhouse",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Commercial",
             "subcategories": "Others",
             "subcategorytype": "Others",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Industries",
             "subcategories": "Micro Industry",
             "subcategorytype": "Micro Industry",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 2000,
+            "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Industries",
             "subcategories": "Small Industry",
             "subcategorytype": "Small Industry",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 2000,
+            "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Industries",
             "subcategories": "Medium Industry",
             "subcategorytype": "Medium Industry",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 2000,
+            "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Industries",
             "subcategories": "Large Industry",
             "subcategorytype": "Large Industry",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 1000,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Nursing Homes",
+            "subcategorytype": "Upto 50 Beds",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Hospitals & Health Care",
+            "subcategories": "Nursing Homes",
+            "subcategorytype": "51 to 100 Beds",
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Nursing Homes",
-            "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
-        },
-        {
-            "categories": "Hospitals & Health Care",
-            "subcategories": "Nursing Homes",
-            "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
-            "fixedUnitCost": 0,
-            "fee": 0,
-            "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Nursing Homes",
             "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 250,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Rehabilitation Center",
             "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Rehabilitation Center",
             "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Rehabilitation Center",
             "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Old Age Homes",
             "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Old Age Homes",
             "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Old Age Homes",
             "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Private Hospital",
             "subcategorytype": "Upto 50 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Private Hospital",
             "subcategorytype": "51 to 100 Beds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Private Hospital",
             "subcategorytype": "More than 100 Beds",
-            "bplRebatePercentage": 0,
-            "isAdditonalCostAdded": false,
-            "variableUnitCost": 0,
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": true,
+            "variableUnitCost": 250,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Laboratories",
             "subcategorytype": "Laboratories",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 200,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Private Clinics",
             "subcategorytype": "Private Clinics",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Chemists",
             "subcategorytype": "Chemists",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Hospitals & Health Care",
             "subcategories": "Others",
             "subcategorytype": "Others",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Primary School",
             "subcategorytype": "Govt Primary School",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Middle School",
             "subcategorytype": "Govt Middle School",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Senior/ Senior Secondary School",
             "subcategorytype": "Govt Senior/ Senior Secondary School",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Angan Wadi",
             "subcategorytype": "Govt Angan Wadi",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt College",
             "subcategorytype": "Govt College",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt University",
             "subcategorytype": "Govt University",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "State Govt Office",
             "subcategorytype": "State Govt Office",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Central Govt Office",
             "subcategorytype": "Central Govt Office",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "ULB Office",
             "subcategorytype": "ULB Office",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 100,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt. Garden",
             "subcategorytype": "Govt. Garden",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Hospitals",
             "subcategorytype": "Govt Hospitals",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 2000,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Dispensary",
             "subcategorytype": "Govt Dispensary",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Restaurants",
             "subcategorytype": "Govt Restaurants",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 300,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Hotel",
             "subcategorytype": "Govt Hotel",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Govt Marriage Halls/ Community Centers",
             "subcategorytype": "Govt Marriage Halls/ Community Centers",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Govt Establishments",
             "subcategories": "Others",
             "subcategorytype": "Others",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
-            "subcategories": "Charitable Trust / NGO / any other Registered Grou...",
-            "subcategorytype": "Charitable Trust / NGO / any other Registered Grou...",
-            "bplRebatePercentage": 0,
+            "subcategories": "Charitable Trust / NGO / any other Registered Group",
+            "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Private Garden",
             "subcategorytype": "Private Garden",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Orphanages",
             "subcategorytype": "Orphanages",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Heritage Site",
             "subcategorytype": "Heritage Site",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Religious Site",
             "subcategorytype": "Religious Site",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Dairy Cattle and Animal Sheds",
             "subcategorytype": "Dairy Cattle and Animal Sheds",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Pet Shops",
             "subcategorytype": "Pet Shops",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Scrap Dealers",
             "subcategorytype": "Scrap Dealers",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 0,
+            "fee": 500,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Construction & Demolition Waste Site",
             "subcategorytype": "Construction & Demolition Waste Site",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
         },
         {
             "categories": "Others",
             "subcategories": "Any Other establishment not mentioned above",
             "subcategorytype": "Any Other establishment not mentioned above",
-            "bplRebatePercentage": 0,
+            "bplRebate %": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 0,
             "tenantId": "hp.Parwanoo",
-            "active": "TRUE"
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Big gowdons / small gowdons",
+            "subcategorytype": "Big gowdons / small gowdons",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Dharamshala",
+            "subcategorytype": "Dharamshala",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 550,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Banks",
+            "subcategorytype": "Banks",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Banks floor area",
+            "subcategorytype": "1000 sq. feet",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Bakerys small",
+            "subcategorytype": "Bakerys small",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 200,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Bakerys (manufacturing units)",
+            "subcategorytype": "Bakerys (manufacturing units)",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 200,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "PG hostels / guest house",
+            "subcategorytype": "Upto10 rooms",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 300,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "PG hostels / guest house",
+            "subcategorytype": "upto11 to 20 rooms",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "PG hostels / guest house",
+            "subcategorytype": "upto 21 to 30 rooms",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "PG hostels / guest house",
+            "subcategorytype": "more than 30 rooms",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Banquet Hall/Hotel",
+            "subcategorytype": "Upto 50 Rooms",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 500,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Banquet Hall/Hotel",
+            "subcategorytype": "more than 50 rooms",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "vehicle on demand",
+            "subcategorytype": "",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 3000,
+            "tenantId": "hp.Parwanoo",
+            "active": true
+        },
+        {
+            "categories": "Others",
+            "subcategories": "Cow dunk from cattle at house holds",
+            "subcategorytype": "Cow dunk from cattle at house holds",
+            "bplRebate %": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 350,
+            "tenantId": "hp.Parwanoo",
+            "active": true
         }
     ]
 }

@@ -586,7 +586,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
+      "fee": 15000,
       "tenantId": "hp.NerChowk",
       "active": "true"
     },

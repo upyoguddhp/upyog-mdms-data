@@ -12,7 +12,7 @@
       "fixedUnitCost": 0,
       "fee": 30,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Residential",
@@ -24,7 +24,7 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -36,7 +36,7 @@
       "fixedUnitCost": 0,
       "fee": 40,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -46,9 +46,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 40,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -60,7 +60,7 @@
       "fixedUnitCost": 0,
       "fee": 750,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -72,7 +72,7 @@
       "fixedUnitCost": 0,
       "fee": 150,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -84,7 +84,7 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -96,7 +96,7 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -108,7 +108,7 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -120,7 +120,7 @@
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -132,7 +132,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -144,7 +144,7 @@
       "fixedUnitCost": 0,
       "fee": 150,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -156,7 +156,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -168,7 +168,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -180,7 +180,7 @@
       "fixedUnitCost": 0,
       "fee": 350,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -192,7 +192,7 @@
       "fixedUnitCost": 0,
       "fee": 150,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -204,7 +204,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -216,7 +216,7 @@
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -228,7 +228,7 @@
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -240,7 +240,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -252,7 +252,7 @@
       "fixedUnitCost": 0,
       "fee": 750,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -264,7 +264,7 @@
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -276,7 +276,7 @@
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -288,7 +288,7 @@
       "fixedUnitCost": 0,
       "fee": 750,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Commercial",
@@ -300,7 +300,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Hospitals & Health Care",
@@ -312,7 +312,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Hospitals & Health Care",
@@ -324,7 +324,7 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Hospitals & Health Care",
@@ -336,7 +336,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Hospitals & Health Care",
@@ -348,7 +348,7 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Hospitals & Health Care",
@@ -360,7 +360,7 @@
       "fixedUnitCost": 0,
       "fee": 150,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Govt Establishments",
@@ -372,7 +372,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Govt Establishments",
@@ -384,7 +384,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Govt Establishments",
@@ -396,7 +396,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Govt Establishments",
@@ -408,7 +408,7 @@
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Govt Establishments",
@@ -420,7 +420,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Govt Establishments",
@@ -432,7 +432,7 @@
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Govt Establishments",
@@ -444,7 +444,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     },
     {
       "categories": "Others",
@@ -456,7 +456,7 @@
       "fixedUnitCost": 0,
       "fee": 400,
       "tenantId": "hp.Gagret",
-      "active": "TRUE"
+      "active": "true"
     }
   ]
 }

@@ -106,7 +106,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 250,
       "tenantId": "hp.Nagrota",
       "active": "true"
     },
@@ -118,7 +118,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 100,
       "tenantId": "hp.Nagrota",
       "active": "true"
     },
@@ -322,7 +322,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": 200,
       "tenantId": "hp.Nagrota",
       "active": "true"
     },
@@ -334,7 +334,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 500,
       "tenantId": "hp.Nagrota",
       "active": "true"
     },

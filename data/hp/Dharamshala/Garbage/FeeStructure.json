@@ -10,7 +10,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 60,
       "tenantId": "hp.Dharamshala",
       "active": "true"
     },
@@ -22,7 +22,31 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dharamshala",
+      "active": "true"
+    },
+    {
+      "categories": "Residential",
+      "subcategories": "Household",
+      "subcategorytype": "Area Less Than 2000 Sq. Feet",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
       "fee": 60,
+      "tenantId": "hp.Dharamshala",
+      "active": "true"
+    },
+    {
+      "categories": "Residential",
+      "subcategories": "Household",
+      "subcategorytype": "Area More Than 2000 Sq. Feet",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
       "tenantId": "hp.Dharamshala",
       "active": "true"
     },
@@ -850,7 +874,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 700,
       "tenantId": "hp.Dharamshala",
       "active": "true"
     },
@@ -1030,7 +1054,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
+      "fee": 600,
       "tenantId": "hp.Dharamshala",
       "active": "true"
     },
