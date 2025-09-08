@@ -11598,7 +11598,46 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }   
+    },
+    {
+      "id": 1597,
+      "name": "Garbage Collection Daily Report",
+      "url": "/rdf-monitoring/mrf/garbage-collection-update-list",
+      "displayName": "Garbage Collection Daily Report",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1598,
+      "name": "Sum Garbage Collection Daily Report",
+      "url": "/rdf-monitoring/mrf/sum-garbage-collection",
+      "displayName": "Sum Garbage Collection Daily Report",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1599,
+      "name": "Sum Garbage Collection Daily Report",
+      "url": "/rdf-monitoring/mrf/wet-waste-processing-update",
+      "displayName": "Sum Garbage Collection Daily Report",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }
 
   ]
 }
