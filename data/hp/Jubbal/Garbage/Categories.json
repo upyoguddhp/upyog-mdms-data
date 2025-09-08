@@ -27,6 +27,18 @@
       "active": true
     },
     {
+      "categories": "Residential",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 30,
+      "tenantId": "hp.Jubbal",
+      "active": true
+    },
+    {
       "categories": "Commercial",
       "subcategories": "Shops",
       "subcategorytype": "Pan Shop",
