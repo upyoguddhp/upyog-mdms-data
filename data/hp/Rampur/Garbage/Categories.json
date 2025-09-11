@@ -1,7 +1,7 @@
 {
   "tenantId": "hp.Rampur",
   "moduleName": "Garbage",
-  "Category": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
