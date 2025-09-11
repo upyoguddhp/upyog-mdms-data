@@ -1,0 +1,168 @@
+{
+  "tenantId": "hp.Chamba",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 4800,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 9600,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 14400,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2100,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 9000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 18000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 27000,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 3600,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 12000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 24000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 36000,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 1000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 3000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 3000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 4000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 3000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 3000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 3000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 1500
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Petroleum, Chemicals & Other Regulated Products",
+      "price": 5000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 5000
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 1500
+    }
+  ]
+}
