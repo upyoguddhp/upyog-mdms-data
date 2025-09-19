@@ -161,6 +161,10 @@
     {
       "tenantId": "hp.Nahan",
       "price": 100
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "price": 100
     }
   ]
 }
