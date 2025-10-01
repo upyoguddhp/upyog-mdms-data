@@ -11676,6 +11676,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1603,
+      "name": "",
+      "url": "/rdf-monitoring/rdfinfo/_create-shutdown",
+      "displayName": "ShutDown Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1604,
+      "name": "",
+      "url": "/rdf-monitoring/rdfinfo/_get-shutdown-list",
+      "displayName": "ShutDown Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
