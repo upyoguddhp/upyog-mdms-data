@@ -5802,6 +5802,46 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
+    },
+        {
+      "category": "TAX",
+      "service": "CH.Dumping_of_Waste_Challan_fee",
+      "name": "CH.Dumping_of_Waste_Challan_fee_TAX",
+      "code": "CH.Dumping_of_Waste_Challan_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Dumping_of_Waste_Challan_fee",
+      "name": "CH.Dumping_of_Waste_Challan_fee_FIELD_FEE",
+      "code": "CH.Dumping_of_Waste_Challan_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Dumping_of_Waste_Challan_fee",
+      "name": "CH.Dumping_of_Waste_Challan_fee_CGST",
+      "code": "CH.Dumping_of_Waste_Challan_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Dumping_of_Waste_Challan_fee",
+      "name": "CH.Dumping_of_Waste_Challan_fee_SGST",
+      "code": "CH.Dumping_of_Waste_Challan_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }

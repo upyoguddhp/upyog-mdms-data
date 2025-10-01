@@ -36,6 +36,16 @@
       "name": "Dakari Ward",
       "code": "68136",
 	  "active":"true"
+    },
+    {
+      "name": "Harkukar Ward",
+      "code": "68137",
+	  "active":"true"
+    },
+    {
+      "name": "Jagdamba Ward",
+      "code": "68138",
+	  "active":"true"
     }
   ]
 }
