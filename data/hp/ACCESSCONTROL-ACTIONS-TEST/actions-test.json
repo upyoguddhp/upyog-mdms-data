@@ -11706,7 +11706,7 @@
     {
       "id": 1605,
       "name": "",
-      "url": "/rdf-monitoring/rdfinfo/_get-shutdown-list",
+      "url": "/rdf-monitoring/rdfinfo/_get-shutdown-lists",
       "displayName": "ShutDown Create",
       "orderNumber": 1,
       "queryParams": null,
