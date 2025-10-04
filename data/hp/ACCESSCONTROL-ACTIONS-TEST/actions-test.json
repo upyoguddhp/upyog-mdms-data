@@ -11663,6 +11663,58 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1602,
+      "name": "",
+      "url": "/mdms-v2/v2/_update/Sewabandhu.ServiceType",
+      "displayName": "Update MDMS V2",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1603,
+      "name": "",
+      "url": "/user/password/nologin/_update/checkToken",
+      "displayName": "Update Password",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1604,
+      "name": "",
+      "url": "/rdf-monitoring/rdfinfo/_create-shutdown",
+      "displayName": "ShutDown Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1605,
+      "name": "",
+      "url": "/rdf-monitoring/rdfinfo/_get-shutdown-lists",
+      "displayName": "ShutDown Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }

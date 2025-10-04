@@ -2002,6 +2002,20 @@
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
+     {
+      "businessService": "GarbageCollection",
+      "code": "GB_BULK",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
     {
       "businessService": "chb-services",
       "code": "chb-services",
@@ -2183,6 +2197,188 @@
       "isActive": true,
       "type": "Adhoc",
       "groupedTo": "Enforcements_and_Dues"
+    },
+    {
+      "businessService": "Challans.Recovery from Employees ",
+      "code": "CH.Recovery_from_Employees ",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Enforcements_and_Dues"
+    },
+    {
+      "businessService": "Challans.Tender Fees",
+      "code": "CH.Tender_Fees",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Enforcements_and_Dues"
+    },
+    {
+      "businessService": "Challans.Breach_of_contract_by_Vendor/Contractor",
+      "code": "CH.Breach_of_contract_by_Vendor/Contractor",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Enforcements_and_Dues"
+    },
+    {
+      "businessService": "Challans.Forfeiture of PBG",
+      "code": "CH.Forfeiture_of_PBG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Enforcements_and_Dues"
+    },
+    {
+      "businessService": "Challans.Market entry fee/ Use Charges",
+      "code": "CH.Market_entry_fee/Use_Charges",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Parking fee (on-street/ road-side)",
+      "code": "CH.Parking_fee",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Public Toilet Usage",
+      "code": "CH.Public_Toilet_Usage",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Septic Tank cleaning/ Desludging",
+      "code": "CH.Septic_Tank_cleaning/Desludging",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Public events",
+      "code": "CH.Public_events",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Rallies",
+      "code": "CH.Rallies",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Processions",
+      "code": "CH.Processions",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Duplicate copy of Birth Certificate  ",
+      "code": "CH.Duplicate_copy_of_Birth_Certificate ",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Duplicate copy of Death Certificate",
+      "code": "CH.Duplicate_copy_of_Death_Certificate",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Duplicate copy of Marriage Certificate",
+      "code": "CH.Duplicate_copy_of_Marriage_Certificate",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Miscellaneous_Fees_and_Permissions"
     }
   ]
 }
