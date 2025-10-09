@@ -1742,7 +1742,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Collection_and_Demolition_Waste_Challan_fee",
+      "service": "CH.Construction_and_Demolition_Waste_Challan_fee",
       "code": "CHCDWC2025",
       "financialYear": "2024-29"
     },
@@ -1760,6 +1760,206 @@
       "periodCycle": "YEARLY",
       "service": "CH.Encroachment",
       "code": "CHEC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Unauthorized_Construction",
+      "code": "CHUC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Recovery_from_Employees",
+      "code": "CHRFE2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Tender_Fees",
+      "code": "CHTF2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Breach_of_contract_by_Vender/Contractor",
+      "code": "CHBCVC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Forfeiture_of_PBG",
+      "code": "CHFPBG2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Market_entry_fee/Use_Charges",
+      "code": "CHMEF2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Parking_fee",
+      "code": "CHPF2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Public_Toilet_Usage",
+      "code": "CHPTU2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Market_entry_fee/Use_Charges",
+      "code": "CHMEF2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Septic_Tank_Cleaning/Desludging",
+      "code": "CHSTCD2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Public_events",
+      "code": "CHPE2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Rallies",
+      "code": "CHRL2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Processions",
+      "code": "CHPC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Duplicate_copy_of_Birth_Certificate",
+      "code": "CHDBC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Duplicate_copy_of_Death_Certificate",
+      "code": "CHDDC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Duplicate_copy_of_Marraige_Certificate",
+      "code": "CHDMC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Insurance_Claim_Recovery",
+      "code": "CHICR2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Interest_Income",
+      "code": "CHII2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Deposits_forfeited",
+      "code": "CHDF2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Lapsed_Deposits",
+      "code": "CHLD2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.RDF",
+      "code": "CHRDF2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Compost",
+      "code": "CHCPT2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Scrap",
+      "code": "CHSCP2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Treated_waste_water",
+      "code": "CHTWW2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CH.Disposal_of_old_vehicles/Equipments",
+      "code": "CHDOVE2025",
       "financialYear": "2024-29"
     }
   ]

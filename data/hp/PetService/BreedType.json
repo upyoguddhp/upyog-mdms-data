@@ -533,6 +533,13 @@
 		"active": true,
 		"PetType": "Dog",
 		"isBannedPet": true
+	  },
+	  {
+		"name": "Himalyan Shepherd (Gaddi Dog)",
+		"code": "HIMALYAN_SHEPHERD",
+		"active": true,
+		"PetType": "Dog",
+		"isBannedPet": false
 	  }
 	]
   }

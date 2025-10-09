@@ -140,7 +140,7 @@
     },
     {
       "tenantId": "hp.Dalhousie",
-      "price": 200
+      "price": 550
     },
     {
       "tenantId": "hp.Chopal",
@@ -160,6 +160,14 @@
     },
     {
       "tenantId": "hp.Nahan",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Chowari",
       "price": 100
     }
   ]

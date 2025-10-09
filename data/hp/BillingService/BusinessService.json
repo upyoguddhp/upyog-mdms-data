@@ -2002,7 +2002,7 @@
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
-     {
+    {
       "businessService": "GarbageCollection",
       "code": "GB_BULK",
       "collectionModesNotAllowed": [
@@ -2145,8 +2145,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Collection and Demolition Waste Challan fee",
-      "code": "CH.Collection_and_Demolition_Waste_Challan_fee",
+      "businessService": "Challans.Construction and Demolition Waste Challan fee",
+      "code": "CH.Construction_and_Demolition_Waste_Challan_fee",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2379,6 +2379,123 @@
       "isActive": true,
       "type": "Adhoc",
       "groupedTo": "Miscellaneous_Fees_and_Permissions"
+    },
+    {
+      "businessService": "Challans.Insurance Claim Recovery",
+      "code": "CH.Insurance_Claim_Recovery",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.Interest Income",
+      "code": "CH.Interest_Income",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.Deposits forfeited",
+      "code": "CH.Deposits_forfeited",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.Lapsed Deposits",
+      "code": "CH.Lapsed_Deposits",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.RDF",
+      "code": "CH.RDF",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.Compost",
+      "code": "CH.Compost",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.Scrap",
+      "code": "CH.Scrap",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.Treated waste water",
+      "code": "CH.Treated_waste_water",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
+    },
+    {
+      "businessService": "Challans.Disposal of old vehicles/Equipments",
+      "code": "CH.Disposal_of_old_vehicles/Equipments",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Proceeds_and_Realizations"
     }
   ]
 }

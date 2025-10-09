@@ -11693,6 +11693,32 @@
     {
       "id": 1604,
       "name": "",
+      "url": "/rdf-monitoring/rdfinfo/_create-shutdown",
+      "displayName": "ShutDown Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1605,
+      "name": "",
+      "url": "/rdf-monitoring/rdfinfo/_get-shutdown-lists",
+      "displayName": "ShutDown Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1606,
+      "name": "",
       "url": "/property-services/property/_createArear",
       "displayName": "Create Arear",
       "orderNumber": 1,
