@@ -2200,7 +2200,7 @@
     },
     {
       "businessService": "Challans.Recovery from Employees ",
-      "code": "CH.Recovery_from_Employees ",
+      "code": "CH.Recovery_from_Employees",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2225,7 +2225,7 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Breach_of_contract_by_Vendor/Contractor",
+      "businessService": "Challans.Breach of contract by Vendor/Contractor",
       "code": "CH.Breach_of_contract_by_Vendor/Contractor",
       "collectionModesNotAllowed": [
         "DD"
@@ -2265,7 +2265,7 @@
     },
     {
       "businessService": "Challans.Parking fee (on-street/ road-side)",
-      "code": "CH.Parking_fee",
+      "code": "CH.Parking",
       "collectionModesNotAllowed": [
         "DD"
       ],
