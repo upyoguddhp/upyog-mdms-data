@@ -4691,9 +4691,9 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Collection_and_Demolition_Waste_Challan_fee",
-      "name": "CH.Collection_and_Demolition_Waste_Challan_fee_TAX",
-      "code": "CH.Collection_and_Demolition_Waste_Challan_fee_TAX",
+      "service": "CH.Construction_and_Demolition_Waste_Challan_fee",
+      "name": "CH.Construction_and_Demolition_Waste_Challan_fee_TAX",
+      "code": "CH.Construction_and_Demolition_Waste_Challan_fee_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -4701,9 +4701,9 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Collection_and_Demolition_Waste_Challan_fee",
-      "name": "CH.Collection_and_Demolition_Waste_Challan_fee_FIELD_FEE",
-      "code": "CH.Collection_and_Demolition_Waste_Challan_fee_FIELD_FEE",
+      "service": "CH.Construction_and_Demolition_Waste_Challan_fee",
+      "name": "CH.Construction_and_Demolition_Waste_Challan_fee_FIELD_FEE",
+      "code": "CH.Construction_and_Demolition_Waste_Challan_fee_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "1",
@@ -4711,9 +4711,9 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Collection_and_Demolition_Waste_Challan_fee",
-      "name": "CH.Collection_and_Demolition_Waste_Challan_fee_CGST",
-      "code": "CH.Collection_and_Demolition_Waste_Challan_fee_CGST",
+      "service": "CH.Construction_and_Demolition_Waste_Challan_fee",
+      "name": "CH.Construction_and_Demolition_Waste_Challan_fee_CGST",
+      "code": "CH.Construction_and_Demolition_Waste_Challan_fee_CGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -4721,9 +4721,9 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Collection_and_Demolition_Waste_Challan_fee",
-      "name": "CH.Collection_and_Demolition_Waste_Challan_fee_SGST",
-      "code": "CH.Collection_and_Demolition_Waste_Challan_fee_SGST",
+      "service": "CH.Construction_and_Demolition_Waste_Challan_fee",
+      "name": "CH.Construction_and_Demolition_Waste_Challan_fee_SGST",
+      "code": "CH.Construction_and_Demolition_Waste_Challan_fee_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -5803,7 +5803,7 @@
       "order": "0",
       "isRequired": true
     },
-        {
+    {
       "category": "TAX",
       "service": "CH.Dumping_of_Waste_Challan_fee",
       "name": "CH.Dumping_of_Waste_Challan_fee_TAX",
@@ -5838,6 +5838,1006 @@
       "service": "CH.Dumping_of_Waste_Challan_fee",
       "name": "CH.Dumping_of_Waste_Challan_fee_SGST",
       "code": "CH.Dumping_of_Waste_Challan_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Encroachment_fee",
+      "name": "CH.Encroachment_fee_TAX",
+      "code": "CH.Encroachment_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Encroachment_fee",
+      "name": "CH.Encroachment_fee_FIELD_FEE",
+      "code": "CH.Encroachment_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Encroachment_fee",
+      "name": "CH.Encroachment_fee_CGST",
+      "code": "CH.Encroachment_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Encroachment_fee",
+      "name": "CH.Encroachment_fee_SGST",
+      "code": "CH.Encroachment_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Unauthorized_Construction_fee",
+      "name": "CH.Unauthorized_Construction_fee_TAX",
+      "code": "CH.Unauthorized_Construction_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Unauthorized_Construction_fee",
+      "name": "CH.Unauthorized_Construction_fee_FIELD_FEE",
+      "code": "CH.Unauthorized_Construction_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Unauthorized_Construction_fee",
+      "name": "CH.Unauthorized_Construction_fee_CGST",
+      "code": "CH.Unauthorized_Construction_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Unauthorized_Construction_fee",
+      "name": "CH.Unauthorized_Construction_fee_SGST",
+      "code": "CH.Unauthorized_Construction_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Recovery_from_Employees_fee",
+      "name": "CH.Recovery_from_Employees_fee_TAX",
+      "code": "CH.Recovery_from_Employees_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Recovery_from_Employees_fee",
+      "name": "CH.Recovery_from_Employees_fee_FIELD_FEE",
+      "code": "CH.Recovery_from_Employees_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Recovery_from_Employees_fee",
+      "name": "CH.Recovery_from_Employees_fee_CGST",
+      "code": "CH.Recovery_from_Employees_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Recovery_from_Employees_fee",
+      "name": "CH.Recovery_from_Employees_fee_SGST",
+      "code": "CH.Recovery_from_Employees_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Tender_fee",
+      "name": "CH.Tender_fee_TAX",
+      "code": "CH.Tender_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Tender_fee",
+      "name": "CH.Tender_fee_FIELD_FEE",
+      "code": "CH.Tender_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Tender_fee",
+      "name": "CH.Tender_fee_CGST",
+      "code": "CH.Tender_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Tender_fee",
+      "name": "CH.Tender_fee_SGST",
+      "code": "CH.Tender_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Breach_of_contract_by_Vender/Contractor_fee",
+      "name": "CH.Breach_of_contract_by_Vender/Contractor_fee_TAX",
+      "code": "CH.Breach_of_contract_by_Vender/Contractor_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Breach_of_contract_by_Vender/Contractor_fee",
+      "name": "CH.Breach_of_contract_by_Vender/Contractor_fee_FIELD_FEE",
+      "code": "CH.Breach_of_contract_by_Vender/Contractor_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Breach_of_contract_by_Vender/Contractor_fee",
+      "name": "CH.Breach_of_contract_by_Vender/Contractor_fee_CGST",
+      "code": "CH.Breach_of_contract_by_Vender/Contractor_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Breach_of_contract_by_Vender/Contractor_fee",
+      "name": "CH.Breach_of_contract_by_Vender/Contractor_fee_SGST",
+      "code": "CH.Breach_of_contract_by_Vender/Contractor_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Foeteuture_of_PBG_fee",
+      "name": "CH.Foeteuture_of_PBG_fee_TAX",
+      "code": "CH.Foeteuture_of_PBG_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Foeteuture_of_PBG_fee",
+      "name": "CH.Foeteuture_of_PBG_fee_FIELD_FEE",
+      "code": "CH.Foeteuture_of_PBG_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Foeteuture_of_PBG_fee",
+      "name": "CH.Foeteuture_of_PBG_fee_CGST",
+      "code": "CH.Foeteuture_of_PBG_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Foeteuture_of_PBG_fee",
+      "name": "CH.Foeteuture_of_PBG_fee_SGST",
+      "code": "CH.Foeteuture_of_PBG_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Market_entry_fee/Use_Charges_fee",
+      "name": "CH.Market_entry_fee/Use_Charges_fee_TAX",
+      "code": "CH.Market_entry_fee/Use_Charges_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Market_entry_fee/Use_Charges_fee",
+      "name": "CH.Market_entry_fee/Use_Charges_fee_FIELD_FEE",
+      "code": "CH.Market_entry_fee/Use_Charges_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Market_entry_fee/Use_Charges_fee",
+      "name": "CH.Market_entry_fee/Use_Charges_fee_CGST",
+      "code": "CH.Market_entry_fee/Use_Charges_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Market_entry_fee/Use_Charges_fee",
+      "name": "CH.Market_entry_fee/Use_Charges_fee_SGST",
+      "code": "CH.Market_entry_fee/Use_Charges_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Parking_fee",
+      "name": "CH.Parking_fee_TAX",
+      "code": "CH.Parking_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Parking_fee",
+      "name": "CH.Parking_fee_FIELD_FEE",
+      "code": "CH.Parking_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Parking_fee",
+      "name": "CH.Parking_fee_CGST",
+      "code": "CH.Parking_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Parking_fee",
+      "name": "CH.Parking_fee_SGST",
+      "code": "CH.Parking_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Public_Toilet_Usage_fee",
+      "name": "CH.Public_Toilet_Usage_fee_TAX",
+      "code": "CH.Public_Toilet_Usage_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Public_Toilet_Usage_fee",
+      "name": "CH.Public_Toilet_Usage_fee_FIELD_FEE",
+      "code": "CH.Public_Toilet_Usage_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Public_Toilet_Usage_fee",
+      "name": "CH.Public_Toilet_Usage_fee_CGST",
+      "code": "CH.Public_Toilet_Usage_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Public_Toilet_Usage_fee",
+      "name": "CH.Public_Toilet_Usage_fee_SGST",
+      "code": "CH.Public_Toilet_Usage_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Septic_Tank_cleaning/Desludging_fee",
+      "name": "CH.Septic_Tank_cleaning/Desludging_fee_TAX",
+      "code": "CH.Septic_Tank_cleaning/Desludging_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Septic_Tank_cleaning/Desludging_fee",
+      "name": "CH.Septic_Tank_cleaning/Desludging_fee_FIELD_FEE",
+      "code": "CH.Septic_Tank_cleaning/Desludging_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Septic_Tank_cleaning/Desludging_fee",
+      "name": "CH.Septic_Tank_cleaning/Desludging_fee_CGST",
+      "code": "CH.Septic_Tank_cleaning/Desludging_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Septic_Tank_cleaning/Desludging_fee",
+      "name": "CH.Septic_Tank_cleaning/Desludging_fee_SGST",
+      "code": "CH.Septic_Tank_cleaning/Desludging_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Public_events_fee",
+      "name": "CH.Public_events_fee_TAX",
+      "code": "CH.Public_events_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Public_events_fee",
+      "name": "CH.Public_events_fee_FIELD_FEE",
+      "code": "CH.Public_events_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Public_events_fee",
+      "name": "CH.Public_events_fee_CGST",
+      "code": "CH.Public_events_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Public_events_fee",
+      "name": "CH.Public_events_fee_SGST",
+      "code": "CH.Public_events_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Rallies_fee",
+      "name": "CH.Rallies_fee_TAX",
+      "code": "CH.Rallies_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Rallies_fee",
+      "name": "CH.Rallies_fee_FIELD_FEE",
+      "code": "CH.Rallies_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Rallies_fee",
+      "name": "CH.Rallies_fee_CGST",
+      "code": "CH.Rallies_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Rallies_fee",
+      "name": "CH.Rallies_fee_SGST",
+      "code": "CH.Rallies_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Processions_fee",
+      "name": "CH.Processions_fee_TAX",
+      "code": "CH.Processions_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Processions_fee",
+      "name": "CH.Processions_fee_FIELD_FEE",
+      "code": "CH.Processions_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Processions_fee",
+      "name": "CH.Processions_fee_CGST",
+      "code": "CH.Processions_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Processions_fee",
+      "name": "CH.Processions_fee_SGST",
+      "code": "CH.Processions_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_Birth_Certificate_fee",
+      "name": "CH.Duplicate_copy_Birth_Certificate_fee_TAX",
+      "code": "CH.Duplicate_copy_Birth_Certificate_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Duplicate_copy_Birth_Certificate_fee",
+      "name": "CH.Duplicate_copy_Birth_Certificate_fee_FIELD_FEE",
+      "code": "CH.Duplicate_copy_Birth_Certificate_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_Birth_Certificate_fee",
+      "name": "CH.Duplicate_copy_Birth_Certificate_fee_CGST",
+      "code": "CH.Duplicate_copy_Birth_Certificate_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_Birth_Certificate_fee",
+      "name": "CH.Duplicate_copy_Birth_Certificate_fee_SGST",
+      "code": "CH.Duplicate_copy_Birth_Certificate_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_of_Death_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Death_Certificate_fee_TAX",
+      "code": "CH.Duplicate_copy_of_Death_Certificate_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Duplicate_copy_of_Death_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Death_Certificate_fee_FIELD_FEE",
+      "code": "CH.Duplicate_copy_of_Death_Certificate_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_of_Death_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Death_Certificate_fee_CGST",
+      "code": "CH.Duplicate_copy_of_Death_Certificate_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_of_Death_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Death_Certificate_fee_SGST",
+      "code": "CH.Duplicate_copy_of_Death_Certificate_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_of_Marriage_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Marriage_Certificate_fee_TAX",
+      "code": "CH.Duplicate_copy_of_Marriage_Certificate_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Duplicate_copy_of_Marriage_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Marriage_Certificate_fee_FIELD_FEE",
+      "code": "CH.Duplicate_copy_of_Marriage_Certificate_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_of_Marriage_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Marriage_Certificate_fee_CGST",
+      "code": "CH.Duplicate_copy_of_Marriage_Certificate_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Duplicate_copy_of_Marriage_Certificate_fee",
+      "name": "CH.Duplicate_copy_of_Marriage_Certificate_fee_SGST",
+      "code": "CH.Duplicate_copy_of_Marriage_Certificate_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Insurance_Claim_Recovery_fee",
+      "name": "CH.Insurance_Claim_Recovery_fee_TAX",
+      "code": "CH.Insurance_Claim_Recovery_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Insurance_Claim_Recovery_fee",
+      "name": "CH.Insurance_Claim_Recovery_fee_FIELD_FEE",
+      "code": "CH.Insurance_Claim_Recovery_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Insurance_Claim_Recovery_fee",
+      "name": "CH.Insurance_Claim_Recovery_fee_CGST",
+      "code": "CH.Insurance_Claim_Recovery_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Insurance_Claim_Recovery_fee",
+      "name": "CH.Insurance_Claim_Recovery_fee_SGST",
+      "code": "CH.Insurance_Claim_Recovery_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Inyterest_Income_fee",
+      "name": "CH.Inyterest_Income_fee_TAX",
+      "code": "CH.Inyterest_Income_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Inyterest_Income_fee",
+      "name": "CH.Inyterest_Income_fee_FIELD_FEE",
+      "code": "CH.Inyterest_Income_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Inyterest_Income_fee",
+      "name": "CH.Inyterest_Income_fee_CGST",
+      "code": "CH.Inyterest_Income_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Inyterest_Income_fee",
+      "name": "CH.Inyterest_Income_fee_SGST",
+      "code": "CH.Inyterest_Income_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Deposits_forteited_fee",
+      "name": "CH.Deposits_forteited_fee_TAX",
+      "code": "CH.Deposits_forteited_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Deposits_forteited_fee",
+      "name": "CH.Deposits_forteited_fee_FIELD_FEE",
+      "code": "CH.Deposits_forteited_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Deposits_forteited_fee",
+      "name": "CH.Deposits_forteited_fee_CGST",
+      "code": "CH.Deposits_forteited_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Deposits_forteited_fee",
+      "name": "CH.Deposits_forteited_fee_SGST",
+      "code": "CH.Deposits_forteited_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Lapsed_Deposits_fee",
+      "name": "CH.Lapsed_Deposits_fee_TAX",
+      "code": "CH.Lapsed_Deposits_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Lapsed_Deposits_fee",
+      "name": "CH.Lapsed_Deposits_fee_FIELD_FEE",
+      "code": "CH.Lapsed_Deposits_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Lapsed_Deposits_fee",
+      "name": "CH.Lapsed_Deposits_fee_CGST",
+      "code": "CH.Lapsed_Deposits_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Lapsed_Deposits_fee",
+      "name": "CH.Lapsed_Deposits_fee_SGST",
+      "code": "CH.Lapsed_Deposits_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.RDF_fee",
+      "name": "CH.RDF_fee_TAX",
+      "code": "CH.RDF_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.RDF_fee",
+      "name": "CH.RDF_fee_FIELD_FEE",
+      "code": "CH.RDF_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.RDF_fee",
+      "name": "CH.RDF_fee_CGST",
+      "code": "CH.RDF_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.RDF_fee",
+      "name": "CH.RDF_fee_SGST",
+      "code": "CH.RDF_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Compost_fee",
+      "name": "CH.Compost_fee_TAX",
+      "code": "CH.Compost_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Compost_fee",
+      "name": "CH.Compost_fee_FIELD_FEE",
+      "code": "CH.Compost_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Compost_fee",
+      "name": "CH.Compost_fee_CGST",
+      "code": "CH.Compost_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Compost_fee",
+      "name": "CH.Compost_fee_SGST",
+      "code": "CH.Compost_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Scrap_fee",
+      "name": "CH.Scrap_fee_TAX",
+      "code": "CH.Scrap_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Scrap_fee",
+      "name": "CH.Scrap_fee_FIELD_FEE",
+      "code": "CH.Scrap_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Scrap_fee",
+      "name": "CH.Scrap_fee_CGST",
+      "code": "CH.Scrap_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Scrap_fee",
+      "name": "CH.Scrap_fee_SGST",
+      "code": "CH.Scrap_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Treated_waste_water_fee",
+      "name": "CH.Treated_waste_water_fee_TAX",
+      "code": "CH.Treated_waste_water_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Treated_waste_water_fee",
+      "name": "CH.Treated_waste_water_fee_FIELD_FEE",
+      "code": "CH.Treated_waste_water_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Treated_waste_water_fee",
+      "name": "CH.Treated_waste_water_fee_CGST",
+      "code": "CH.Treated_waste_water_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Treated_waste_water_fee",
+      "name": "CH.Treated_waste_water_fee_SGST",
+      "code": "CH.Treated_waste_water_fee_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Disposal_of_old_vehicles/Equipments_fee",
+      "name": "CH.Disposal_of_old_vehicles/Equipments_fee_TAX",
+      "code": "CH.Disposal_of_old_vehicles/Equipments_fee_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Disposal_of_old_vehicles/Equipments_fee",
+      "name": "CH.Disposal_of_old_vehicles/Equipments_fee_FIELD_FEE",
+      "code": "CH.Disposal_of_old_vehicles/Equipments_fee_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Disposal_of_old_vehicles/Equipments_fee",
+      "name": "CH.Disposal_of_old_vehicles/Equipments_fee_CGST",
+      "code": "CH.Disposal_of_old_vehicles/Equipments_fee_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Disposal_of_old_vehicles/Equipments_fee",
+      "name": "CH.Disposal_of_old_vehicles/Equipments_fee_SGST",
+      "code": "CH.Disposal_of_old_vehicles/Equipments_fee_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
