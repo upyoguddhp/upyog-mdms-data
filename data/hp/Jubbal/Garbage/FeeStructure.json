@@ -154,7 +154,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 100,
       "tenantId": "hp.Jubbal",
       "active": true
     },

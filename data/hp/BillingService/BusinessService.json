@@ -2115,8 +2115,8 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "Challans.Burning of Waste Challan fee",
-      "code": "CH.Burning_of_Waste_Challan_fee",
+      "businessService": "Challans.Burning of Waste Challan",
+      "code": "CH.Burning_of_Waste_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2130,8 +2130,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Dumping of Waste Challan fee",
-      "code": "CH.Dumping_of_Waste_Challan_fee",
+      "businessService": "Challans.Dumping of Waste Challan",
+      "code": "CH.Dumping_of_Waste_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2145,8 +2145,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Construction and Demolition Waste Challan fee",
-      "code": "CH.Construction_and_Demolition_Waste_Challan_fee",
+      "businessService": "Challans.Construction and Demolition Waste Challan",
+      "code": "CH.Construction_and_Demolition_Waste_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2212,8 +2212,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Tender Fees",
-      "code": "CH.Tender_Fees",
+      "businessService": "Challans.Tender",
+      "code": "CH.Tender",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2261,7 +2261,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Parking fee (on-street/ road-side)",
@@ -2274,7 +2274,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Public Toilet Usage",
@@ -2287,7 +2287,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Septic Tank cleaning/ Desludging",
@@ -2300,7 +2300,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Public events",
@@ -2313,7 +2313,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Rallies",
@@ -2326,7 +2326,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Processions",
@@ -2339,7 +2339,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Duplicate copy of Birth Certificate  ",
@@ -2352,7 +2352,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Duplicate copy of Death Certificate",
@@ -2365,7 +2365,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Duplicate copy of Marriage Certificate",
@@ -2378,7 +2378,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Insurance Claim Recovery",

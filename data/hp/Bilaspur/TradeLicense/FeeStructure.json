@@ -1,174 +1,174 @@
 {
-  "tenantId": "hp.Bilaspur",
-  "moduleName": "TradeLicense",
-  "FeeStructure": [
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Small",
-        "price": "100",
-        "periodOfLicense": "1"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Small",
-        "price": "400",
-        "periodOfLicense": "5"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Small",
-        "price": "700",
-        "periodOfLicense": "10"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Small",
-        "price": "1300",
-        "periodOfLicense": "15"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "200",
-        "periodOfLicense": "1"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "800",
-        "periodOfLicense": "5"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "1400",
-        "periodOfLicense": "10"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Medium",
-        "price": "2600",
-        "periodOfLicense": "15"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "500",
-        "periodOfLicense": "1"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "2000",
-        "periodOfLicense": "5"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "3500",
-        "periodOfLicense": "10"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "scaleOfBusiness",
-        "type": "Large",
-        "price": "6500",
-        "periodOfLicense": "15"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Agriculture",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Automotive",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Banking Finance Services Insurance (BFSI)",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Common Trades",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Education, Skills & Development",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-        "price": "1"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Handloom & Handicrafts",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "IT/ ITES Services",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Luxury Goods",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Manufacturing, Industries and Industrial Materials",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Petroleum, Chemicals & Other Regulated Products",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Tourism & Hospitality",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "tradeCategory",
-        "type": "Transportation & Logistics",
-        "price": "500"
-    },
-    {
-        "tenantId": "hp.Bilaspur",
-        "feeStructureOf": "zone",
-        "type": "A",
-        "price": "1"
-    }
-]
+    "tenantId": "hp.Bilaspur",
+    "moduleName": "TradeLicense",
+    "FeeStructure": [
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 100,
+            "periodOfLicense": "1"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 400,
+            "periodOfLicense": "5"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 700,
+            "periodOfLicense": "10"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 1300,
+            "periodOfLicense": "15"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 200,
+            "periodOfLicense": "1"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 800,
+            "periodOfLicense": "5"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 1400,
+            "periodOfLicense": "10"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 2600,
+            "periodOfLicense": "15"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 500,
+            "periodOfLicense": "1"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 2000,
+            "periodOfLicense": "5"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 3500,
+            "periodOfLicense": "10"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 6500,
+            "periodOfLicense": "15"
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Agriculture",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Automotive",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Banking Finance Services Insurance (BFSI)",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Common Trades",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Education, Skills & Development",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+            "price": 1
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Handloom & Handicrafts",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "IT/ ITES Services",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Luxury Goods",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Manufacturing, Industries and Industrial Materials",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Petroleum, Chemicals & Other Regulated Products",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Tourism & Hospitality",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "tradeCategory",
+            "type": "Transportation & Logistics",
+            "price": 500
+        },
+        {
+            "tenantId": "hp.Bilaspur",
+            "feeStructureOf": "zone",
+            "type": "A",
+            "price": 1
+        }
+    ]
 }

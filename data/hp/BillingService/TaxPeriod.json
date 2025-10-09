@@ -1062,7 +1062,7 @@
       "fromDate": 1617215400000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "CH.Burning_of_Waste_Challan_fee",
+      "service": "CH.Burning_of_Waste_Challan",
       "code": "TXPTAN2020",
       "financialYear": "2021-25"
     },
@@ -1726,7 +1726,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Burning_of_Waste_Challan_fee",
+      "service": "CH.Burning_of_Waste_Challan",
       "code": "CHBWC2025",
       "financialYear": "2024-29"
     },
@@ -1734,7 +1734,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Dumping_of_Waste_Challan_fee",
+      "service": "CH.Dumping_of_Waste_Challan",
       "code": "CHDWC2025",
       "financialYear": "2024-29"
     },
@@ -1742,7 +1742,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Construction_and_Demolition_Waste_Challan_fee",
+      "service": "CH.Construction_and_Demolition_Waste_Challan",
       "code": "CHCDWC2025",
       "financialYear": "2024-29"
     },
