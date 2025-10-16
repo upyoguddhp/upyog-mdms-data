@@ -1,7 +1,7 @@
 {
     "tenantId": "hp.Solan",
     "moduleName": "Garbage",
-    "Categories": [
+    "FeeStructure": [
         {
             "categories": "Residential",
             "subcategories": "Household",
@@ -215,6 +215,42 @@
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
             "fee": 1700,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Restaurants",
+            "subcategorytype": "Private Hotel less than 10 room / Restaurants+ Bar",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 4000,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Restaurants",
+            "subcategorytype": "Private Hotel less than 10 room / Restaurants",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 3700,
+            "tenantId": "hp.Solan",
+            "active": true
+        },
+        {
+            "categories": "Commercial",
+            "subcategories": "Private Restaurants",
+            "subcategorytype": "Bar",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 300,
             "tenantId": "hp.Solan",
             "active": true
         },
@@ -586,7 +622,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 500,
+            "fee": 100,
             "tenantId": "hp.Solan",
             "active": true
         },
