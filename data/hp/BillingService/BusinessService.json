@@ -2115,8 +2115,8 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "Challans.Burning of Waste Challan fee",
-      "code": "CH.Burning_of_Waste_Challan_fee",
+      "businessService": "Challans.Burning of Waste Challan",
+      "code": "CH.Burning_of_Waste_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2127,11 +2127,11 @@
       "isActive": true,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "E_Challan"
     },
     {
-      "businessService": "Challans.Dumping of Waste Challan fee",
-      "code": "CH.Dumping_of_Waste_Challan_fee",
+      "businessService": "Challans.Dumping of Waste Challan",
+      "code": "CH.Dumping_of_Waste_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2142,11 +2142,11 @@
       "isActive": true,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "E_Challan"
     },
     {
-      "businessService": "Challans.Construction and Demolition Waste Challan fee",
-      "code": "CH.Construction_and_Demolition_Waste_Challan_fee",
+      "businessService": "Challans.Construction and Demolition Waste Challan",
+      "code": "CH.Construction_and_Demolition_Waste_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2157,7 +2157,7 @@
       "isActive": true,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Littering Challan",
@@ -2170,7 +2170,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "E_Challan"
     },
     {
       "businessService": "Challans.Encroachment",
@@ -2200,7 +2200,7 @@
     },
     {
       "businessService": "Challans.Recovery from Employees ",
-      "code": "CH.Recovery_from_Employees ",
+      "code": "CH.Recovery_from_Employees",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2212,8 +2212,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Tender Fees",
-      "code": "CH.Tender_Fees",
+      "businessService": "Challans.Tender",
+      "code": "CH.Tender",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2225,7 +2225,7 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Breach_of_contract_by_Vendor/Contractor",
+      "businessService": "Challans.Breach of contract by Vendor/Contractor",
       "code": "CH.Breach_of_contract_by_Vendor/Contractor",
       "collectionModesNotAllowed": [
         "DD"
@@ -2261,11 +2261,11 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Proceeds_and_Realizations"
     },
     {
       "businessService": "Challans.Parking fee (on-street/ road-side)",
-      "code": "CH.Parking_fee",
+      "code": "CH.Parking",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2274,7 +2274,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Proceeds_and_Realizations"
     },
     {
       "businessService": "Challans.Public Toilet Usage",
@@ -2287,7 +2287,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Proceeds_and_Realizations"
     },
     {
       "businessService": "Challans.Septic Tank cleaning/ Desludging",
@@ -2300,7 +2300,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Service_Requests"
     },
     {
       "businessService": "Challans.Public events",
@@ -2313,7 +2313,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Service_Requests"
     },
     {
       "businessService": "Challans.Rallies",
@@ -2326,7 +2326,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Service_Requests"
     },
     {
       "businessService": "Challans.Processions",
@@ -2339,7 +2339,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Service_Requests"
     },
     {
       "businessService": "Challans.Duplicate copy of Birth Certificate  ",
@@ -2352,7 +2352,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Proceeds_and_Realizations"
     },
     {
       "businessService": "Challans.Duplicate copy of Death Certificate",
@@ -2365,7 +2365,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Proceeds_and_Realizations"
     },
     {
       "businessService": "Challans.Duplicate copy of Marriage Certificate",
@@ -2378,7 +2378,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Miscellaneous_Fees_and_Permissions"
+      "groupedTo": "Proceeds_and_Realizations"
     },
     {
       "businessService": "Challans.Insurance Claim Recovery",
@@ -2391,7 +2391,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Enforcements_and_Dues"
     },
     {
       "businessService": "Challans.Interest Income",
@@ -2417,7 +2417,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Enforcements_and_Dues"
     },
     {
       "businessService": "Challans.Lapsed Deposits",
@@ -2430,7 +2430,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Enforcements_and_Dues"
     },
     {
       "businessService": "Challans.RDF",
@@ -2482,7 +2482,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Service_Requests"
     },
     {
       "businessService": "Challans.Disposal of old vehicles/Equipments",
