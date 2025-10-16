@@ -5804,6 +5804,16 @@
       "isRequired": true
     },
     {
+      "category": "INTEREST",
+      "service": "PROPERTY",
+      "name": "LCF.Property_Tax_Collection_Interest",
+      "code": "LCF.Property_Tax_Collection_Interest",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
       "category": "TAX",
       "service": "CH.Dumping_of_Waste_Challan_fee",
       "name": "CH.Dumping_of_Waste_Challan_fee_TAX",
