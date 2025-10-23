@@ -208,6 +208,18 @@
 		},
 		{
 			"categories": "Commercial",
+			"subcategories": "Dharamsala",
+			"subcategorytype": "Dharamsala",
+			"bplRebatePercentage": 0,
+			"isAdditonalCostAdded": false,
+			"variableUnitCost": 0,
+			"fixedUnitCost": 0,
+			"fee": 550,
+			"tenantId": "hp.Solan",
+			"active": true
+		},
+		{
+			"categories": "Commercial",
 			"subcategories": "Private Restaurants",
 			"subcategorytype": "Restaurant",
 			"bplRebatePercentage": 0,
