@@ -1062,7 +1062,7 @@
       "fromDate": 1617215400000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "CH.Burning_of_Waste_Challan",
+      "service": "CHLBW",
       "code": "TXPTAN2020",
       "financialYear": "2021-25"
     },

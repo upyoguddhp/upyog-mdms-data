@@ -2116,7 +2116,7 @@
     },
     {
       "businessService": "Challans.Burning of Waste Challan",
-      "code": "CH.Burning_of_Waste_Challan",
+      "code": "CHLBW",
       "collectionModesNotAllowed": [
         "DD"
       ],
