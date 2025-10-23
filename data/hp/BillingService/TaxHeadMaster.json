@@ -4731,7 +4731,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Burning_of_Waste_Challan",
+      "service": "CHLBW",
       "name": "CH.Burning_of_Waste_Challan_TAX",
       "code": "CH.Burning_of_Waste_Challan_TAX",
       "isDebit": false,
@@ -4741,7 +4741,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Burning_of_Waste_Challan",
+      "service": "CHLBW",
       "name": "CH.Burning_of_Waste_Challan_FIELD_FEE",
       "code": "CH.Burning_of_Waste_Challan_FIELD_FEE",
       "isDebit": false,
@@ -4751,7 +4751,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Burning_of_Waste_Challan",
+      "service": "CHLBW",
       "name": "CH.Burning_of_Waste_Challan_CGST",
       "code": "CH.Burning_of_Waste_Challan_CGST",
       "isDebit": false,
@@ -4761,7 +4761,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Burning_of_Waste_Challan",
+      "service": "CHLBW",
       "name": "CH.Burning_of_Waste_Challan_SGST",
       "code": "CH.Burning_of_Waste_Challan_SGST",
       "isDebit": false,
