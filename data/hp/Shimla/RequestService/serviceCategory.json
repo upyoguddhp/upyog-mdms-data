@@ -1,0 +1,41 @@
+{
+    "tenantId": "hp.Shimla",
+    "moduleName": "RequestService",
+    "Categories": [
+        {
+            "categories": "Septic Tank cleaning and Desludging",
+            "fee": 1,
+            "tenantId": "hp.Shimla",
+            "code": "RequestService",
+            "active": true
+        },
+        {
+            "categories": "Rallies",
+            "fee": 2,
+            "tenantId": "hp.Shimla",
+            "code": "RequestService",
+            "active": true
+        },
+        {
+            "categories": "Public events",
+            "fee": 3,
+            "tenantId": "hp.Shimla",
+            "code": "RequestService",
+            "active": true
+        },
+        {
+            "categories": "Processions",
+            "fee": 4,
+            "tenantId": "hp.Shimla",
+            "code": "RequestService",
+            "active": true
+        },
+        {
+            "categories": "Treated waste water",
+            "fee": 5,
+            "tenantId": "hp.Shimla",
+            "code": "RequestService",
+            "active": true
+        }
+    ]
+}
