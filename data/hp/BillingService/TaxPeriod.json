@@ -1726,8 +1726,8 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Burning_of_Waste_Challan",
-      "code": "CHBWC2025",
+      "service": "CHLBW",
+      "code": "CHLBW2025",
       "financialYear": "2024-29"
     },
     {
