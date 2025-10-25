@@ -861,6 +861,16 @@
       "code": "EGF_ACCOUNTS_VERIFIER",
       "name": "Finance Accounts Verifier",
       "description": "One who can verify a Bill"
+    },
+    {
+      "code": "CHALLAN_CREATOR",
+      "name": "CHALLAN CREATOR",
+      "description": "One who generate the challan"
+    },
+    {
+      "code": "REQUEST_APPROVER",
+      "name": "REQUEST APPROVER",
+      "description": "Request Approver"
     }
     
   ]

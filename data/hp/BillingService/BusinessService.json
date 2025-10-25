@@ -2115,7 +2115,7 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "Challans.Burning of Waste Challan",
+      "businessService": "CHLBW",
       "code": "CHLBW",
       "collectionModesNotAllowed": [
         "DD"
