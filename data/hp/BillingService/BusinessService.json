@@ -2303,8 +2303,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Septic Tank cleaning/ Desludging",
-      "code": "CH.Septic_Tank_cleaning/Desludging",
+      "businessService": "CHLSTCD",
+      "code": "CHLSTCD",
+      "description": "Septic Tank cleaning/ Desludging",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2316,8 +2317,9 @@
       "groupedTo": "Service_Requests"
     },
     {
-      "businessService": "Challans.Public events",
-      "code": "CH.Public_events",
+      "businessService": "CHLPE",
+      "code": "CHLPE",
+      "description": "Public events",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2415,6 +2417,7 @@
     {
       "businessService": "CHLII",
       "code": "CHLII",
+      "description": "Interest Income",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2428,6 +2431,7 @@
     {
       "businessService": "CHLDF",
       "code": "CHLDF",
+      "description": "Deposits forfeited",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2441,6 +2445,7 @@
     {
       "businessService": "CHLLPD",
       "code": "CHLLPD",
+      "description": "Lapsed Deposits",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2454,6 +2459,7 @@
     {
       "businessService": "CHLRDF",
       "code": "CHLRDF",
+      "description": "RDF",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2467,6 +2473,7 @@
     {
       "businessService": "CHLCMP",
       "code": "CHLCMP",
+      "description": "Compost",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2480,6 +2487,7 @@
     {
       "businessService": "CHLSCP",
       "code": "CHLSCP",
+      "description": "Scrap",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2491,8 +2499,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "CHLTWW",
-      "code": "CHLTWW",
+      "businessService": "CHLWTR",
+      "code": "CHLWTR",
+      "description": "Water Tank Request",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2506,6 +2515,7 @@
     {
       "businessService": "CHLDOVE",
       "code": "CHLDOVE",
+      "description": "Disposal of old vehicles/ Equipments",
       "collectionModesNotAllowed": [
         "DD"
       ],

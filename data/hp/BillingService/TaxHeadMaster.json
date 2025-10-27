@@ -6215,7 +6215,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Septic_Tank_cleaning/Desludging",
+      "service": "CHLSTCD",
       "name": "CH.Septic_Tank_cleaning/Desludging_TAX",
       "code": "CH.Septic_Tank_cleaning/Desludging_TAX",
       "isDebit": false,
@@ -6225,7 +6225,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Septic_Tank_cleaning/Desludging",
+      "service": "CHLSTCD",
       "name": "CH.Septic_Tank_cleaning/Desludging_FIELD_FEE",
       "code": "CH.Septic_Tank_cleaning/Desludging_FIELD_FEE",
       "isDebit": false,
@@ -6235,7 +6235,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Septic_Tank_cleaning/Desludging",
+      "service": "CHLSTCD",
       "name": "CH.Septic_Tank_cleaning/Desludging_CGST",
       "code": "CH.Septic_Tank_cleaning/Desludging_CGST",
       "isDebit": false,
@@ -6245,7 +6245,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Septic_Tank_cleaning/Desludging",
+      "service": "CHLSTCD",
       "name": "CH.Septic_Tank_cleaning/Desludging_SGST",
       "code": "CH.Septic_Tank_cleaning/Desludging_SGST",
       "isDebit": false,
@@ -6255,7 +6255,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Public_events",
+      "service": "CHLPE",
       "name": "CH.Public_events_TAX",
       "code": "CH.Public_events_TAX",
       "isDebit": false,
@@ -6265,7 +6265,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Public_events",
+      "service": "CHLPE",
       "name": "CH.Public_events_FIELD_FEE",
       "code": "CH.Public_events_FIELD_FEE",
       "isDebit": false,
@@ -6275,7 +6275,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Public_events",
+      "service": "CHLPE",
       "name": "CH.Public_events_CGST",
       "code": "CH.Public_events_CGST",
       "isDebit": false,
@@ -6285,7 +6285,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Public_events",
+      "service": "CHLPE",
       "name": "CH.Public_events_SGST",
       "code": "CH.Public_events_SGST",
       "isDebit": false,
@@ -6775,9 +6775,9 @@
     },
     {
       "category": "TAX",
-      "service": "CHLTWW",
-      "name": "CH.Treated_waste_water_TAX",
-      "code": "CH.Treated_waste_water_TAX",
+      "service": "CHLWTR",
+      "name": "CH.Water_Tank_Requst_TAX",
+      "code": "CH.Water_Tank_Requst_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -6785,9 +6785,9 @@
     },
     {
       "category": "CHARGES",
-      "service": "CHLTWW",
-      "name": "CH.Treated_waste_water_FIELD_FEE",
-      "code": "CH.Treated_waste_water_FIELD_FEE",
+      "service": "CHLWTR",
+      "name": "CH.Water_Tank_Requst_FIELD_FEE",
+      "code": "CH.Water_Tank_Requst_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "1",
@@ -6795,9 +6795,9 @@
     },
     {
       "category": "TAX",
-      "service": "CHLTWW",
-      "name": "CH.Treated_waste_water_CGST",
-      "code": "CH.Treated_waste_water_CGST",
+      "service": "CHLWTR",
+      "name": "CH.Water_Tank_Requst_CGST",
+      "code": "CH.Water_Tank_Requst_CGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6805,9 +6805,9 @@
     },
     {
       "category": "TAX",
-      "service": "CHLTWW",
-      "name": "CH.Treated_waste_water_SGST",
-      "code": "CH.Treated_waste_water_SGST",
+      "service": "CHLWTRx",
+      "name": "CH.Water_Tank_Requst_SGST",
+      "code": "CH.Water_Tank_Requst_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",

@@ -1822,7 +1822,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Septic_Tank_Cleaning/Desludging",
+      "service": "CHLSTCD",
       "code": "CHSTCD2025",
       "financialYear": "2024-29"
     },
@@ -1830,7 +1830,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Public_events",
+      "service": "CHLPE",
       "code": "CHPE2025",
       "financialYear": "2024-29"
     },
@@ -1934,7 +1934,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CHLTWW",
+      "service": "CHLWTR",
       "code": "CHTWW2025",
       "financialYear": "2024-29"
     },
