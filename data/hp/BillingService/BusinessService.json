@@ -2413,8 +2413,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Interest Income",
-      "code": "CH.Interest_Income",
+      "businessService": "CHLII",
+      "code": "CHLII",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2426,8 +2426,8 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Deposits forfeited",
-      "code": "CH.Deposits_forfeited",
+      "businessService": "CHLDF",
+      "code": "CHLDF",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2439,8 +2439,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Lapsed Deposits",
-      "code": "CH.Lapsed_Deposits",
+      "businessService": "CHLLPD",
+      "code": "CHLLPD",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2452,8 +2452,8 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.RDF",
-      "code": "CH.RDF",
+      "businessService": "CHLRDF",
+      "code": "CHLRDF",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2465,8 +2465,8 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Compost",
-      "code": "CH.Compost",
+      "businessService": "CHLCMP",
+      "code": "CHLCMP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2478,8 +2478,8 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Scrap",
-      "code": "CH.Scrap",
+      "businessService": "CHLSCP",
+      "code": "CHLSCP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2491,8 +2491,8 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Treated waste water",
-      "code": "CH.Treated_waste_water",
+      "businessService": "CHLTWW",
+      "code": "CHLTWW",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2504,8 +2504,8 @@
       "groupedTo": "Service_Requests"
     },
     {
-      "businessService": "Challans.Disposal of old vehicles/Equipments",
-      "code": "CH.Disposal_of_old_vehicles/Equipments",
+      "businessService": "CHLDOVE",
+      "code": "CHLDOVE",
       "collectionModesNotAllowed": [
         "DD"
       ],

@@ -1886,7 +1886,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Interest_Income",
+      "service": "CHLII",
       "code": "CHII2025",
       "financialYear": "2024-29"
     },
@@ -1894,7 +1894,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Deposits_forfeited",
+      "service": "CHLDF",
       "code": "CHDF2025",
       "financialYear": "2024-29"
     },
@@ -1902,7 +1902,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Lapsed_Deposits",
+      "service": "CHLLPD",
       "code": "CHLD2025",
       "financialYear": "2024-29"
     },
@@ -1910,7 +1910,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.RDF",
+      "service": "CHLRDF",
       "code": "CHRDF2025",
       "financialYear": "2024-29"
     },
@@ -1918,7 +1918,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Compost",
+      "service": "CHLCMP",
       "code": "CHCPT2025",
       "financialYear": "2024-29"
     },
@@ -1926,7 +1926,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Scrap",
+      "service": "CHLSCP",
       "code": "CHSCP2025",
       "financialYear": "2024-29"
     },
@@ -1934,7 +1934,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Treated_waste_water",
+      "service": "CHLTWW",
       "code": "CHTWW2025",
       "financialYear": "2024-29"
     },
@@ -1942,7 +1942,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Disposal_of_old_vehicles/Equipments",
+      "service": "CHLDOVE",
       "code": "CHDOVE2025",
       "financialYear": "2024-29"
     }
