@@ -1718,14 +1718,6 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Unauthorized_Construction",
-      "code": "CHUC2025",
-      "financialYear": "2024-29"
-    },
-    {
-      "fromDate": 1690736733460,
-      "toDate": 1893456000000,
-      "periodCycle": "YEARLY",
       "service": "CHLBW",
       "code": "CHLBW2025",
       "financialYear": "2024-29"
@@ -1734,7 +1726,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Dumping_of_Waste_Challan",
+      "service": "CHLDW",
       "code": "CHDWC2025",
       "financialYear": "2024-29"
     },
@@ -1742,7 +1734,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Construction_and_Demolition_Waste_Challan",
+      "service": "CHLCDW",
       "code": "CHCDWC2025",
       "financialYear": "2024-29"
     },
@@ -1750,7 +1742,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Littering_Challan",
+      "service": "CHLLC",
       "code": "CHLC2025",
       "financialYear": "2024-29"
     },
@@ -1758,7 +1750,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Encroachment",
+      "service": "CHLEC",
       "code": "CHEC2025",
       "financialYear": "2024-29"
     },
@@ -1766,7 +1758,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Unauthorized_Construction",
+      "service": "CHLUC",
       "code": "CHUC2025",
       "financialYear": "2024-29"
     },
@@ -1774,7 +1766,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Recovery_from_Employees",
+      "service": "CHLRFE",
       "code": "CHRFE2025",
       "financialYear": "2024-29"
     },
@@ -1782,7 +1774,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Tender_Fees",
+      "service": "CHLTD",
       "code": "CHTF2025",
       "financialYear": "2024-29"
     },
@@ -1790,7 +1782,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Breach_of_contract_by_Vender/Contractor",
+      "service": "CHLBCVC",
       "code": "CHBCVC2025",
       "financialYear": "2024-29"
     },
@@ -1798,7 +1790,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Forfeiture_of_PBG",
+      "service": "CHLFPBG",
       "code": "CHFPBG2025",
       "financialYear": "2024-29"
     },
@@ -1806,7 +1798,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Market_entry_fee/Use_Charges",
+      "service": "CHLMEUC",
       "code": "CHMEF2025",
       "financialYear": "2024-29"
     },
@@ -1814,7 +1806,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Parking_fee",
+      "service": "CHLPOSR",
       "code": "CHPF2025",
       "financialYear": "2024-29"
     },
@@ -1822,16 +1814,8 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Public_Toilet_Usage",
+      "service": "CHLPTU",
       "code": "CHPTU2025",
-      "financialYear": "2024-29"
-    },
-    {
-      "fromDate": 1690736733460,
-      "toDate": 1893456000000,
-      "periodCycle": "YEARLY",
-      "service": "CH.Market_entry_fee/Use_Charges",
-      "code": "CHMEF2025",
       "financialYear": "2024-29"
     },
     {
@@ -1854,7 +1838,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Rallies",
+      "service": "CHLRL",
       "code": "CHRL2025",
       "financialYear": "2024-29"
     },
@@ -1862,7 +1846,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Processions",
+      "service": "CHLPRS",
       "code": "CHPC2025",
       "financialYear": "2024-29"
     },
@@ -1870,7 +1854,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Duplicate_copy_of_Birth_Certificate",
+      "service": "CHLDCBC",
       "code": "CHDBC2025",
       "financialYear": "2024-29"
     },
@@ -1878,7 +1862,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Duplicate_copy_of_Death_Certificate",
+      "service": "CHLDCDC",
       "code": "CHDDC2025",
       "financialYear": "2024-29"
     },
@@ -1886,7 +1870,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Duplicate_copy_of_Marraige_Certificate",
+      "service": "CHLDCMC",
       "code": "CHDMC2025",
       "financialYear": "2024-29"
     },
@@ -1894,7 +1878,7 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CH.Insurance_Claim_Recovery",
+      "service": "CHLICR",
       "code": "CHICR2025",
       "financialYear": "2024-29"
     },

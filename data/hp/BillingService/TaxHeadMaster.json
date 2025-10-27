@@ -4491,7 +4491,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Littering_Challan",
+      "service": "CHLLC",
       "name": "CH.Littering_Challan_TAX",
       "code": "CH.Littering_Challan_TAX",
       "isDebit": false,
@@ -4501,7 +4501,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Littering_Challan",
+      "service": "CHLLC",
       "name": "CH.Littering_Challan_FIELD_FEE",
       "code": "CH.Littering_Challan_FIELD_FEE",
       "isDebit": false,
@@ -4511,7 +4511,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Littering_Challan",
+      "service": "CHLLC",
       "name": "CH.Littering_Challan_CGST",
       "code": "CH.Littering_Challan_CGST",
       "isDebit": false,
@@ -4521,7 +4521,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Littering_Challan",
+      "service": "CHLLC",
       "name": "CH.Littering_Challan_SGST",
       "code": "CH.Littering_Challan_SGST",
       "isDebit": false,
@@ -4691,7 +4691,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Construction_and_Demolition_Waste_Challan",
+      "service": "CHLCDW",
       "name": "CH.Construction_and_Demolition_Waste_Challan_fee_TAX",
       "code": "CH.Construction_and_Demolition_Waste_Challan_fee_TAX",
       "isDebit": false,
@@ -4701,7 +4701,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Construction_and_Demolition_Waste_Challan",
+      "service": "CHLCDW",
       "name": "CH.Construction_and_Demolition_Waste_Challan_FIELD_FEE",
       "code": "CH.Construction_and_Demolition_Waste_Challan_FIELD_FEE",
       "isDebit": false,
@@ -4711,7 +4711,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Construction_and_Demolition_Waste_Challan",
+      "service": "CHLCDW",
       "name": "CH.Construction_and_Demolition_Waste_Challan_CGST",
       "code": "CH.Construction_and_Demolition_Waste_Challan_CGST",
       "isDebit": false,
@@ -4721,7 +4721,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Construction_and_Demolition_Waste_Challan",
+      "service": "CHLCDW",
       "name": "CH.Construction_and_Demolition_Waste_Challan_SGST",
       "code": "CH.Construction_and_Demolition_Waste_Challan_SGST",
       "isDebit": false,
@@ -5815,7 +5815,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Dumping_of_Waste_Challan",
+      "service": "CHLDW",
       "name": "CH.Dumping_of_Waste_Challan_fee_TAX",
       "code": "CH.Dumping_of_Waste_Challan_fee_TAX",
       "isDebit": false,
@@ -5825,7 +5825,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Dumping_of_Waste_Challan",
+      "service": "CHLDW",
       "name": "CH.Dumping_of_Waste_Challan_FIELD_FEE",
       "code": "CH.Dumping_of_Waste_Challan_FIELD_FEE",
       "isDebit": false,
@@ -5835,7 +5835,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Dumping_of_Waste_Challan",
+      "service": "CHLDW",
       "name": "CH.Dumping_of_Waste_Challan_CGST",
       "code": "CH.Dumping_of_Waste_Challan_CGST",
       "isDebit": false,
@@ -5845,7 +5845,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Dumping_of_Waste_Challan",
+      "service": "CHLDW",
       "name": "CH.Dumping_of_Waste_Challan_SGST",
       "code": "CH.Dumping_of_Waste_Challan_SGST",
       "isDebit": false,
@@ -5855,7 +5855,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Encroachment",
+      "service": "CHLEC",
       "name": "CH.Encroachment_TAX",
       "code": "CH.Encroachment_TAX",
       "isDebit": false,
@@ -5865,7 +5865,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Encroachment",
+      "service": "CHLEC",
       "name": "CH.Encroachment_FIELD_FEE",
       "code": "CH.Encroachment_FIELD_FEE",
       "isDebit": false,
@@ -5875,7 +5875,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Encroachment",
+      "service": "CHLEC",
       "name": "CH.Encroachment_CGST",
       "code": "CH.Encroachment_CGST",
       "isDebit": false,
@@ -5885,7 +5885,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Encroachment",
+      "service": "CHLEC",
       "name": "CH.Encroachment_SGST",
       "code": "CH.Encroachment_SGST",
       "isDebit": false,
@@ -5895,7 +5895,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Unauthorized_Construction",
+      "service": "CHLUC",
       "name": "CH.Unauthorized_Construction_TAX",
       "code": "CH.Unauthorized_Construction_TAX",
       "isDebit": false,
@@ -5905,7 +5905,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Unauthorized_Construction",
+      "service": "CHLUC",
       "name": "CH.Unauthorized_Construction_FIELD_FEE",
       "code": "CH.Unauthorized_Construction_FIELD_FEE",
       "isDebit": false,
@@ -5915,7 +5915,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Unauthorized_Construction",
+      "service": "CHLUC",
       "name": "CH.Unauthorized_Construction_CGST",
       "code": "CH.Unauthorized_Construction_CGST",
       "isDebit": false,
@@ -5925,7 +5925,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Unauthorized_Construction",
+      "service": "CHLUC",
       "name": "CH.Unauthorized_Construction_SGST",
       "code": "CH.Unauthorized_Construction_SGST",
       "isDebit": false,
@@ -5935,7 +5935,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Recovery_from_Employees",
+      "service": "CHLRFE",
       "name": "CH.Recovery_from_Employees_TAX",
       "code": "CH.Recovery_from_Employees_TAX",
       "isDebit": false,
@@ -5945,7 +5945,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Recovery_from_Employees",
+      "service": "CHLRFE",
       "name": "CH.Recovery_from_Employees_FIELD_FEE",
       "code": "CH.Recovery_from_Employees_FIELD_FEE",
       "isDebit": false,
@@ -5955,7 +5955,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Recovery_from_Employees",
+      "service": "CHLRFE",
       "name": "CH.Recovery_from_Employees_CGST",
       "code": "CH.Recovery_from_Employees_CGST",
       "isDebit": false,
@@ -5965,7 +5965,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Recovery_from_Employees",
+      "service": "CHLRFE",
       "name": "CH.Recovery_from_Employees_SGST",
       "code": "CH.Recovery_from_Employees_SGST",
       "isDebit": false,
@@ -5975,7 +5975,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Tender",
+      "service": "CHLTD",
       "name": "CH.Tender_TAX",
       "code": "CH.Tender_TAX",
       "isDebit": false,
@@ -5985,7 +5985,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Tender",
+      "service": "CHLTD",
       "name": "CH.Tender_FIELD_FEE",
       "code": "CH.Tender_FIELD_FEE",
       "isDebit": false,
@@ -5995,7 +5995,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Tender",
+      "service": "CHLTD",
       "name": "CH.Tender_CGST",
       "code": "CH.Tender_CGST",
       "isDebit": false,
@@ -6005,7 +6005,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Tender",
+      "service": "CHLTD",
       "name": "CH.Tender_SGST",
       "code": "CH.Tender_SGST",
       "isDebit": false,
@@ -6015,7 +6015,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Breach_of_contract_by_Vender/Contractor",
+      "service": "CHLBCVC",
       "name": "CH.Breach_of_contract_by_Vender/Contractor_TAX",
       "code": "CH.Breach_of_contract_by_Vender/Contractor_TAX",
       "isDebit": false,
@@ -6025,7 +6025,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Breach_of_contract_by_Vender/Contractor",
+      "service": "CHLBCVC",
       "name": "CH.Breach_of_contract_by_Vender/Contractor_FIELD_FEE",
       "code": "CH.Breach_of_contract_by_Vender/Contractor_FIELD_FEE",
       "isDebit": false,
@@ -6035,7 +6035,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Breach_of_contract_by_Vender/Contractor",
+      "service": "CHLBCVC",
       "name": "CH.Breach_of_contract_by_Vender/Contractor_CGST",
       "code": "CH.Breach_of_contract_by_Vender/Contractor_CGST",
       "isDebit": false,
@@ -6045,7 +6045,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Breach_of_contract_by_Vender/Contractor",
+      "service": "CHLBCVC",
       "name": "CH.Breach_of_contract_by_Vender/Contractor_SGST",
       "code": "CH.Breach_of_contract_by_Vender/Contractor_SGST",
       "isDebit": false,
@@ -6055,9 +6055,9 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Foeteuture_of_PBG",
-      "name": "CH.Foeteuture_of_PBG_TAX",
-      "code": "CH.Foeteuture_of_PBG_TAX",
+      "service": "CHLFPBG",
+      "name": "CH.Forteiture_of_PBG_TAX",
+      "code": "CH.Forteiture_of_PBG_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -6065,9 +6065,9 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Foeteuture_of_PBG",
-      "name": "CH.Foeteuture_of_PBG_FIELD_FEE",
-      "code": "CH.Foeteuture_of_PBG_FIELD_FEE",
+      "service": "CHLFPBG",
+      "name": "CH.Forteiture_of_PBG_FIELD_FEE",
+      "code": "CH.Forteiture_of_PBG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "1",
@@ -6075,9 +6075,9 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Foeteuture_of_PBG",
-      "name": "CH.Foeteuture_of_PBG_CGST",
-      "code": "CH.Foeteuture_of_PBG_CGST",
+      "service": "CHLFPBG",
+      "name": "CH.Forteiture_of_PBG_CGST",
+      "code": "CH.Forteiture_of_PBG_CGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6085,9 +6085,9 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Foeteuture_of_PBG",
-      "name": "CH.Foeteuture_of_PBG_SGST",
-      "code": "CH.Foeteuture_of_PBG_SGST",
+      "service": "CHLFPBG",
+      "name": "CH.Forteiture_of_PBG_SGST",
+      "code": "CH.Forteiture_of_PBG_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6095,7 +6095,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Market_entry_fee/Use_Charges",
+      "service": "CHLMEUC",
       "name": "CH.Market_entry_fee/Use_Charges_TAX",
       "code": "CH.Market_entry_fee/Use_Charges_TAX",
       "isDebit": false,
@@ -6105,7 +6105,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Market_entry_fee/Use_Charges",
+      "service": "CHLMEUC",
       "name": "CH.Market_entry_fee/Use_Charges_FIELD_FEE",
       "code": "CH.Market_entry_fee/Use_Charges_FIELD_FEE",
       "isDebit": false,
@@ -6115,7 +6115,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Market_entry_fee/Use_Charges",
+      "service": "CHLMEUC",
       "name": "CH.Market_entry_fee/Use_Charges_CGST",
       "code": "CH.Market_entry_fee/Use_Charges_CGST",
       "isDebit": false,
@@ -6125,7 +6125,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Market_entry_fee/Use_Charges",
+      "service": "CHLMEUC",
       "name": "CH.Market_entry_fee/Use_Charges_SGST",
       "code": "CH.Market_entry_fee/Use_Charges_SGST",
       "isDebit": false,
@@ -6135,7 +6135,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Parking",
+      "service": "CHLPOSR",
       "name": "CH.Parking_TAX",
       "code": "CH.Parking_TAX",
       "isDebit": false,
@@ -6145,7 +6145,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Parking",
+      "service": "CHLPOSR",
       "name": "CH.Parking_FIELD_FEE",
       "code": "CH.Parking_FIELD_FEE",
       "isDebit": false,
@@ -6155,7 +6155,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Parking",
+      "service": "CHLPOSR",
       "name": "CH.Parking_CGST",
       "code": "CH.Parking_CGST",
       "isDebit": false,
@@ -6165,7 +6165,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Parking",
+      "service": "CHLPOSR",
       "name": "CH.Parking_SGST",
       "code": "CH.Parking_SGST",
       "isDebit": false,
@@ -6175,7 +6175,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Public_Toilet_Usage",
+      "service": "CHLPTU",
       "name": "CH.Public_Toilet_Usage_TAX",
       "code": "CH.Public_Toilet_Usage_TAX",
       "isDebit": false,
@@ -6185,7 +6185,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Public_Toilet_Usage",
+      "service": "CHLPTU",
       "name": "CH.Public_Toilet_Usage_FIELD_FEE",
       "code": "CH.Public_Toilet_Usage_FIELD_FEE",
       "isDebit": false,
@@ -6195,7 +6195,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Public_Toilet_Usage",
+      "service": "CHLPTU",
       "name": "CH.Public_Toilet_Usage_CGST",
       "code": "CH.Public_Toilet_Usage_CGST",
       "isDebit": false,
@@ -6205,7 +6205,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Public_Toilet_Usage",
+      "service": "CHLPTU",
       "name": "CH.Public_Toilet_Usage_SGST",
       "code": "CH.Public_Toilet_Usage_SGST",
       "isDebit": false,
@@ -6295,7 +6295,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Rallies",
+      "service": "CHLRL",
       "name": "CH.Rallies_TAX",
       "code": "CH.Rallies_TAX",
       "isDebit": false,
@@ -6305,7 +6305,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Rallies",
+      "service": "CHLRL",
       "name": "CH.Rallies_FIELD_FEE",
       "code": "CH.Rallies_FIELD_FEE",
       "isDebit": false,
@@ -6315,7 +6315,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Rallies",
+      "service": "",
       "name": "CH.Rallies_CGST",
       "code": "CH.Rallies_CGST",
       "isDebit": false,
@@ -6325,7 +6325,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Rallies",
+      "service": "CHLRL",
       "name": "CH.Rallies_SGST",
       "code": "CH.Rallies_SGST",
       "isDebit": false,
@@ -6335,7 +6335,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Processions",
+      "service": "CHLPRS",
       "name": "CH.Processions_TAX",
       "code": "CH.Processions_TAX",
       "isDebit": false,
@@ -6345,7 +6345,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Processions",
+      "service": "CHLPRS",
       "name": "CH.Processions_FIELD_FEE",
       "code": "CH.Processions_FIELD_FEE",
       "isDebit": false,
@@ -6355,7 +6355,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Processions",
+      "service": "CHLPRS",
       "name": "CH.Processions_CGST",
       "code": "CH.Processions_CGST",
       "isDebit": false,
@@ -6365,7 +6365,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Processions",
+      "service": "CHLPRS",
       "name": "CH.Processions_SGST",
       "code": "CH.Processions_SGST",
       "isDebit": false,
@@ -6375,7 +6375,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_Birth_Certificate",
+      "service": "CHLDCBC",
       "name": "CH.Duplicate_copy_Birth_Certificate_TAX",
       "code": "CH.Duplicate_copy_Birth_Certificate_TAX",
       "isDebit": false,
@@ -6385,7 +6385,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Duplicate_copy_Birth_Certificate",
+      "service": "CHLDCBC",
       "name": "CH.Duplicate_copy_Birth_Certificate_FIELD_FEE",
       "code": "CH.Duplicate_copy_Birth_Certificate_FIELD_FEE",
       "isDebit": false,
@@ -6395,7 +6395,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_Birth_Certificate",
+      "service": "CHLDCBC",
       "name": "CH.Duplicate_copy_Birth_Certificate_CGST",
       "code": "CH.Duplicate_copy_Birth_Certificate_CGST",
       "isDebit": false,
@@ -6405,7 +6405,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_Birth_Certificate",
+      "service": "CHLDCBC",
       "name": "CH.Duplicate_copy_Birth_Certificate_SGST",
       "code": "CH.Duplicate_copy_Birth_Certificate_SGST",
       "isDebit": false,
@@ -6415,7 +6415,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_of_Death_Certificate",
+      "service": "CHLDCDC",
       "name": "CH.Duplicate_copy_of_Death_Certificate_TAX",
       "code": "CH.Duplicate_copy_of_Death_Certificate_TAX",
       "isDebit": false,
@@ -6425,7 +6425,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Duplicate_copy_of_Death_Certificate",
+      "service": "CHLDCDC",
       "name": "CH.Duplicate_copy_of_Death_Certificate_FIELD_FEE",
       "code": "CH.Duplicate_copy_of_Death_Certificate_FIELD_FEE",
       "isDebit": false,
@@ -6435,7 +6435,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_of_Death_Certificate",
+      "service": "CHLDCDC",
       "name": "CH.Duplicate_copy_of_Death_Certificate_CGST",
       "code": "CH.Duplicate_copy_of_Death_Certificate_CGST",
       "isDebit": false,
@@ -6445,7 +6445,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_of_Death_Certificate",
+      "service": "CHLDCDC",
       "name": "CH.Duplicate_copy_of_Death_Certificate_SGST",
       "code": "CH.Duplicate_copy_of_Death_Certificate_SGST",
       "isDebit": false,
@@ -6455,7 +6455,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_of_Marriage_Certificate",
+      "service": "CHLDCMC",
       "name": "CH.Duplicate_copy_of_Marriage_Certificate_TAX",
       "code": "CH.Duplicate_copy_of_Marriage_Certificate_TAX",
       "isDebit": false,
@@ -6465,7 +6465,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Duplicate_copy_of_Marriage_Certificate",
+      "service": "CHLDCMC",
       "name": "CH.Duplicate_copy_of_Marriage_Certificate_FIELD_FEE",
       "code": "CH.Duplicate_copy_of_Marriage_Certificate_FIELD_FEE",
       "isDebit": false,
@@ -6475,7 +6475,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_of_Marriage_Certificate",
+      "service": "CHLDCMC",
       "name": "CH.Duplicate_copy_of_Marriage_Certificate_CGST",
       "code": "CH.Duplicate_copy_of_Marriage_Certificate_CGST",
       "isDebit": false,
@@ -6485,7 +6485,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Duplicate_copy_of_Marriage_Certificate",
+      "service": "CHLDCMC",
       "name": "CH.Duplicate_copy_of_Marriage_Certificate_SGST",
       "code": "CH.Duplicate_copy_of_Marriage_Certificate_SGST",
       "isDebit": false,
@@ -6495,7 +6495,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Insurance_Claim_Recovery",
+      "service": "CHLICR",
       "name": "CH.Insurance_Claim_Recovery_TAX",
       "code": "CH.Insurance_Claim_Recovery_TAX",
       "isDebit": false,
@@ -6505,7 +6505,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "CH.Insurance_Claim_Recovery",
+      "service": "CHLICR",
       "name": "CH.Insurance_Claim_Recovery_FIELD_FEE",
       "code": "CH.Insurance_Claim_Recovery_FIELD_FEE",
       "isDebit": false,
@@ -6515,7 +6515,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Insurance_Claim_Recovery",
+      "service": "CHLICR",
       "name": "CH.Insurance_Claim_Recovery_CGST",
       "code": "CH.Insurance_Claim_Recovery_CGST",
       "isDebit": false,
@@ -6525,7 +6525,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Insurance_Claim_Recovery",
+      "service": "CHLICR",
       "name": "CH.Insurance_Claim_Recovery_SGST",
       "code": "CH.Insurance_Claim_Recovery_SGST",
       "isDebit": false,
@@ -6535,7 +6535,7 @@
     },
     {
       "category": "TAX",
-      "service": "CH.Insurance_Claim_Recovery",
+      "service": "CHLICR",
       "name": "CH.Inyterest_Income_TAX",
       "code": "CH.Inyterest_Income_TAX",
       "isDebit": false,
