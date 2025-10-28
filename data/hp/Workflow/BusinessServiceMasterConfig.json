@@ -81,6 +81,11 @@
     "businessService": "RDF",
     "active": "true",
     "isStatelevel": "true"
+  },
+  {
+    "businessService": "CHLBW",
+    "active": "true",
+    "isStatelevel": "true"
   }
   ]
 }

@@ -2115,8 +2115,9 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "Challans.Burning of Waste Challan",
+      "businessService": "CHLBW",
       "code": "CHLBW",
+      "description": "Buring of waste",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2130,8 +2131,9 @@
       "groupedTo": "E_Challan"
     },
     {
-      "businessService": "Challans.Dumping of Waste Challan",
-      "code": "CH.Dumping_of_Waste_Challan",
+      "businessService": "CHLDW",
+      "code": "CHLDW",
+      "description": "Dumping of waste",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2145,8 +2147,9 @@
       "groupedTo": "E_Challan"
     },
     {
-      "businessService": "Challans.Construction and Demolition Waste Challan",
-      "code": "CH.Construction_and_Demolition_Waste_Challan",
+      "businessService": "CHLCDW",
+      "code": "CHLCDW",
+      "description": "Construction and Demolition waste",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2160,8 +2163,9 @@
       "groupedTo": "E_Challan"
     },
     {
-      "businessService": "Challans.Littering Challan",
-      "code": "CH.Littering_Challan",
+      "businessService": "CHLLC",
+      "code": "CHLLC",
+      "description": "Littering",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2173,8 +2177,9 @@
       "groupedTo": "E_Challan"
     },
     {
-      "businessService": "Challans.Encroachment",
-      "code": "CH.Encroachment",
+      "businessService": "CHLEC",
+      "code": "CHLEC",
+      "description": "Encroachment",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2186,8 +2191,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Unauthorized Construction",
-      "code": "CH.Unauthorized_Construction",
+      "businessService": "CHLUC",
+      "code": "CHLUC",
+      "description": "Unauthorized Construction",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2199,8 +2205,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Recovery from Employees ",
-      "code": "CH.Recovery_from_Employees",
+      "businessService": "CHLRFE",
+      "code": "CHLRFE",
+      "description": "Recovery from Employees",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2212,8 +2219,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Tender",
-      "code": "CH.Tender",
+      "businessService": "CHLTD",
+      "code": "CHLTD",
+      "description": "Tender",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2225,8 +2233,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Breach of contract by Vendor/Contractor",
-      "code": "CH.Breach_of_contract_by_Vendor/Contractor",
+      "businessService": "CHLBCVC",
+      "code": "CHLBCVC",
+      "description": "Breach of contract by Vendor/ Contractor",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2238,8 +2247,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Forfeiture of PBG",
-      "code": "CH.Forfeiture_of_PBG",
+      "businessService": "CHLFPBG",
+      "code": "CHLFPBG",
+      "description": "Forfeiture of PBG",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2251,8 +2261,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Market entry fee/ Use Charges",
-      "code": "CH.Market_entry_fee/Use_Charges",
+      "businessService": "CHLMEUC",
+      "code": "CHLMEUC",
+      "description": "Market entry fee/Use Charges",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2264,8 +2275,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Parking fee (on-street/ road-side)",
-      "code": "CH.Parking",
+      "businessService": "CHLPOSR",
+      "code": "CHLPOSR",
+      "description": "Parking (on-street/ road-side)",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2277,8 +2289,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Public Toilet Usage",
-      "code": "CH.Public_Toilet_Usage",
+      "businessService": "CHLPTU",
+      "code": "CHLPTU",
+      "description": "Public Toilet Usage",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2290,8 +2303,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Septic Tank cleaning/ Desludging",
-      "code": "CH.Septic_Tank_cleaning/Desludging",
+      "businessService": "CHLSTCD",
+      "code": "CHLSTCD",
+      "description": "Septic Tank cleaning/ Desludging",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2303,8 +2317,9 @@
       "groupedTo": "Service_Requests"
     },
     {
-      "businessService": "Challans.Public events",
-      "code": "CH.Public_events",
+      "businessService": "CHLPE",
+      "code": "CHLPE",
+      "description": "Public events",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2316,8 +2331,9 @@
       "groupedTo": "Service_Requests"
     },
     {
-      "businessService": "Challans.Rallies",
-      "code": "CH.Rallies",
+      "businessService": "CHLRL",
+      "code": "CHLRL",
+      "description": "Rallies",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2329,8 +2345,9 @@
       "groupedTo": "Service_Requests"
     },
     {
-      "businessService": "Challans.Processions",
-      "code": "CH.Processions",
+      "businessService": "CHLPRS",
+      "code": "CHLPRS",
+      "description": "Processions",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2342,8 +2359,9 @@
       "groupedTo": "Service_Requests"
     },
     {
-      "businessService": "Challans.Duplicate copy of Birth Certificate  ",
-      "code": "CH.Duplicate_copy_of_Birth_Certificate ",
+      "businessService": "CHLDCBC",
+      "code": "CHLDCBC",
+      "description": "Duplicate copy of Birth Certificate",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2355,8 +2373,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Duplicate copy of Death Certificate",
-      "code": "CH.Duplicate_copy_of_Death_Certificate",
+      "businessService": "CHLDCDC",
+      "code": "CHLDCDC",
+      "description": "Duplicate copy of Death Certificate",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2368,8 +2387,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Duplicate copy of Marriage Certificate",
-      "code": "CH.Duplicate_copy_of_Marriage_Certificate",
+      "businessService": "CHLDCMC",
+      "code": "CHLDCMC",
+      "description": "Duplicate copy of Marriage Certificate",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2381,8 +2401,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Insurance Claim Recovery",
-      "code": "CH.Insurance_Claim_Recovery",
+      "businessService": "CHLICR",
+      "code": "CHLICR",
+      "description": "Insurance Claim Recovery",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2394,8 +2415,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Interest Income",
-      "code": "CH.Interest_Income",
+      "businessService": "CHLII",
+      "code": "CHLII",
+      "description": "Interest Income",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2407,8 +2429,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Deposits forfeited",
-      "code": "CH.Deposits_forfeited",
+      "businessService": "CHLDF",
+      "code": "CHLDF",
+      "description": "Deposits forfeited",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2420,8 +2443,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.Lapsed Deposits",
-      "code": "CH.Lapsed_Deposits",
+      "businessService": "CHLLPD",
+      "code": "CHLLPD",
+      "description": "Lapsed Deposits",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2433,8 +2457,9 @@
       "groupedTo": "Enforcements_and_Dues"
     },
     {
-      "businessService": "Challans.RDF",
-      "code": "CH.RDF",
+      "businessService": "CHLRDF",
+      "code": "CHLRDF",
+      "description": "RDF",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2446,8 +2471,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Compost",
-      "code": "CH.Compost",
+      "businessService": "CHLCMP",
+      "code": "CHLCMP",
+      "description": "Compost",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2459,8 +2485,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Scrap",
-      "code": "CH.Scrap",
+      "businessService": "CHLSCP",
+      "code": "CHLSCP",
+      "description": "Scrap",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2472,8 +2499,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "Challans.Treated waste water",
-      "code": "CH.Treated_waste_water",
+      "businessService": "CHLWTR",
+      "code": "CHLWTR",
+      "description": "Water Tank Request",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2485,8 +2513,9 @@
       "groupedTo": "Service_Requests"
     },
     {
-      "businessService": "Challans.Disposal of old vehicles/Equipments",
-      "code": "CH.Disposal_of_old_vehicles/Equipments",
+      "businessService": "CHLDOVE",
+      "code": "CHLDOVE",
+      "description": "Disposal of old vehicles/ Equipments",
       "collectionModesNotAllowed": [
         "DD"
       ],
