@@ -4,31 +4,31 @@
     "Categories": [
         {
             "categories": "Septic Tank cleaning and Desludging",
-            "fee": 1,
+            "fee": 50,
             "tenantId": "hp.Shimla",
             "active": true
         },
         {
             "categories": "Rallies",
-            "fee": 2,
+            "fee": 60,
             "tenantId": "hp.Shimla",
             "active": true
         },
         {
             "categories": "Public events",
-            "fee": 3,
+            "fee": 70,
             "tenantId": "hp.Shimla",
             "active": true
         },
         {
             "categories": "Processions",
-            "fee": 4,
+            "fee": 40,
             "tenantId": "hp.Shimla",
             "active": true
         },
         {
-            "categories": "Treated waste water",
-            "fee": 5,
+            "categories": "Water Tank Request",
+            "fee": 45,
             "tenantId": "hp.Shimla",
             "active": true
         }
