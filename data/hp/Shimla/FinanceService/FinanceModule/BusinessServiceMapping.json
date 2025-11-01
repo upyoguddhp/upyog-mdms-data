@@ -7,12 +7,15 @@
       "voucherCreationEnabled":true,
       "fund":"01",
       "function":"909100",
-      "department":"DEPT_25",
+      "department":"DEPT_13",
       "functionary":"",
       "scheme":"",
       "subscheme":"",
-      "validFrom":1759301545,
-      "validTo":1853995945,
+      "validFrom":1234567890,
+      "validTo":2345678901,
+      "serviceAttributeMappingEnabled":true,
+      "serviceAttributeUrl":"/property-services/property/_search?tenantId=%s&propertyIds=%s",
+      "serviceAttributeKey":"Properties.usageCategory",
       "serviceAttributeTaxHead" : "PT_TAX"
     },
     {
