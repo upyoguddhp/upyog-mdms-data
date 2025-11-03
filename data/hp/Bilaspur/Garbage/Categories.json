@@ -293,7 +293,7 @@
         {
             "categories": "Commercial",
             "subcategories": "Malls",
-            "subcategorytype": "",
+            "subcategorytype": "Malls",
             "bplRebatePercentage": 0,
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
