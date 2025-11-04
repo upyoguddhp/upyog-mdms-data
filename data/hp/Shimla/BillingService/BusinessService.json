@@ -48,7 +48,7 @@
     },
     {
       "businessService": "TradeLicense",
-      "code": "TL",
+      "code": "NewTL",
       "collectionModesNotAllowed": [
         "DD",
         "OFFLINE_NEFT",
@@ -1178,8 +1178,8 @@
       "isActive": true
     },
     {
-      "businessService": "TL.RENEWAL",
-      "code": "TL.RENEWAL",
+      "businessService": "NewTL.RENEWAL",
+      "code": "NewTL.RENEWAL",
       "collectionModesNotAllowed": [
         "DD"
       ],

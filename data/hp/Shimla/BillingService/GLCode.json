@@ -3,12 +3,12 @@
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
-		"code": "TL",
+		"code": "NewTL",
 		"glcode": 1401101,
 		"cb": "hp.Shimla"
 	},
 	{
-		"code": "TL",
+		"code": "NewTL",
 		"glcode": 1401102,
 		"cb": "hp.Shimla"
 	}
