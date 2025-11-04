@@ -34,7 +34,7 @@
     },
     {
       "businessService": "TradeLicense",
-      "code": "TL",
+      "code": "NewTL",
       "collectionModesNotAllowed": [
         "DD",
         "OFFLINE_NEFT",

@@ -177,15 +177,15 @@
       "validTo": 2345678901
     },
     {
-      "billingservicecode": "TL",
-      "taxhead": "TL_TAX",
+      "billingservicecode": "NewTL",
+      "taxhead": "NewTL_TAX",
       "glcode": "1401101",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
-      "billingservicecode": "TL",
-      "taxhead": "TL_ROUNDOFF",
+      "billingservicecode": "NewTL",
+      "taxhead": "NewTL_ROUNDOFF",
       "glcode": "1808003",
       "validFrom": 1234567890,
       "validTo": 2345678901
