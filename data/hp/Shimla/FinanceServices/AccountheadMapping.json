@@ -53,7 +53,28 @@
       "glcode": "1808003",
       "validFrom": 1759301545,
       "validTo": 1853995945
-    }
+    },
+    {
+  "billingservicecode": "ADVT",
+  "taxhead": "ADVT.HOARDINGS_TAX",
+  "glcode": "1301014",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+},
+{
+  "billingservicecode": "ADVT",
+  "taxhead": "ADV_CGST",
+  "glcode": "2201002",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+},
+{
+  "billingservicecode": "ADVT",
+  "taxhead": "ADV_SGST",
+  "glcode": "2201002",
+  "validFrom": 1759301545,
+  "validTo": 1853995945
+}
   ],
   "InstrumentGLcodeMapping": [
     {
