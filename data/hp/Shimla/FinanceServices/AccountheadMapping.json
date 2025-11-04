@@ -27,29 +27,29 @@
       "serviceAttribute":"NONRESIDENTIAL.INDUSTRIAL"
     },
     {
-      "billingservicecode": "TL",
-      "taxhead": "TL_TAX",
+      "billingservicecode": "NewTL",
+      "taxhead": "NewTL_TAX",
       "glcode": "1401101",
       "validFrom": 1759301545,
       "validTo": 1853995945
     },
     {
-      "billingservicecode": "TL",
-      "taxhead": "TL_ROUNDOFF",
+      "billingservicecode": "NewTL",
+      "taxhead": "NewTL_ROUNDOFF",
       "glcode": "1808003",
       "validFrom": 1759301545,
       "validTo": 1853995945
     },
     {
-      "billingservicecode": "TL",
-      "taxhead": "TL_ADHOC_REBATE",
+      "billingservicecode": "NewTL",
+      "taxhead": "NewTL_ADHOC_REBATE",
       "glcode": "2717003",
       "validFrom": 1759301545,
       "validTo": 1853995945
     },
     {
-      "billingservicecode": "TL",
-      "taxhead": "TL_ADHOC_PENALTY",
+      "billingservicecode": "NewTL",
+      "taxhead": "NewTL_ADHOC_PENALTY",
       "glcode": "1808003",
       "validFrom": 1759301545,
       "validTo": 1853995945

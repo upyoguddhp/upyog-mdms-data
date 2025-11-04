@@ -40,7 +40,7 @@
       "validTo": 2345678901
     },
     {
-      "code": "TL",
+      "code": "NewTL",
       "voucherCreationEnabled": true,
       "fund": "0407",
       "function": "000201",

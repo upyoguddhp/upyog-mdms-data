@@ -67,8 +67,8 @@
       ]
     },
     {
-      "module": "TL",
-      "code": "TL",
+      "module": "NewTL",
+      "code": "NewTL",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
       "active": true,
       "order":2,
