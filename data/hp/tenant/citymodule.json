@@ -50,10 +50,10 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hp.Shimla"
         },
         {
-          "code": "pg.cityb"
+          "code": "hp.cityb"
         },
         {
           "code": "pg.cityc"
