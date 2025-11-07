@@ -162,7 +162,13 @@
       "tenantId": "hp.Kangra",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 1
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Kangra",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 0
     }
   ]
 }
