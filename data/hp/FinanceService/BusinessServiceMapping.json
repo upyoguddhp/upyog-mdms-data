@@ -27,16 +27,16 @@
       "validTo":2345678901
     },
     {
-      "code":"TL",
+      "code":"NewTL",
       "voucherCreationEnabled":true,
-      "fund":"01",
+      "fund":"0407",
       "function":"000201",
-      "department":"DEPT_13",
+      "department":"DEPT_25",
       "functionary":"",
       "scheme":"",
       "subscheme":"",
-      "validFrom":1234567890,
-      "validTo":2345678901
+    "validFrom": 1759301545,
+      "validTo": 1853995945
     },
     {
       "code":"REV_GRANTS",
