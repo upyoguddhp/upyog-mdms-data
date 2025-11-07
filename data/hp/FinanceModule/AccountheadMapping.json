@@ -178,7 +178,7 @@
     },
     {
       "billingservicecode": "NewTL",
-      "taxhead": "NewTL_TAX",
+      "taxhead": "LCF.New_Trade_License_Fee_TAX",
       "glcode": "1401101",
     "validFrom": 1759301545,
       "validTo": 1853995945
