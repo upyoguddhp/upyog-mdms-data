@@ -1,31 +1,7 @@
 {
-  "tenantId": "hp",
+  "tenantId": "hp.Sundernagar",
   "moduleName": "FinanceModule",
   "BusinessServiceMapping": [
-    {
-      "code":"PT",
-      "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"909100",
-      "department":"DEPT_13",
-      "functionary":"",
-      "scheme":"",
-      "subscheme":"",
-      "validFrom":1234567890,
-      "validTo":2345678901
-    },
-    {
-      "code":"FIRENOC",
-      "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"101100",
-      "department":"DEPT_13",
-      "functionary":"",
-      "scheme":"",
-      "subscheme":"",
-      "validFrom":1234567890,
-      "validTo":2345678901
-    },
     {
       "code":"NewTL",
       "voucherCreationEnabled":true,
@@ -35,56 +11,8 @@
       "functionary":"",
       "scheme":"",
       "subscheme":"",
-    "validFrom": 1759301545,
+      "validFrom": 1759301545,
       "validTo": 1853995945
-    },
-    {
-      "code":"REV_GRANTS",
-      "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"000201",
-      "department":"DEPT_25",
-      "functionary":"",
-      "scheme":"",
-      "subscheme":"",
-      "validFrom":1234567890,
-      "validTo":2345678901
-    },
-    {
-      "code":"DISP_FIXED_ASSET.LAND",
-      "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"000201",
-      "department":"DEPT_25",
-      "functionary":"",
-      "scheme":"",
-      "subscheme":"",
-      "validFrom":1234567890,
-      "validTo":2345678901
-    },
-    {
-      "code":"DISP_FIXED_ASSET.BUILDING",
-      "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"000201",
-      "department":"DEPT_25",
-      "functionary":"",
-      "scheme":"",
-      "subscheme":"",
-      "validFrom":1234567890,
-      "validTo":2345678901
-    },
-    {
-      "code":"DISP_FIXED_ASSET.MOTOR_VEHICLE",
-      "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"000201",
-      "department":"DEPT_25",
-      "functionary":"",
-      "scheme":"",
-      "subscheme":"",
-      "validFrom":1234567890,
-      "validTo":2345678901
     }
   ]
 }
