@@ -40,12 +40,32 @@
 	{
       "name": "Arya Samaj Mandir",
       "code": "11308",
-	  "active":"true"
+	    "active":"true"
     },
 	{
       "name": "Tehsil",
       "code": "11309",
 	  "active":"true"
+    },
+    {
+      "name": "Near Ward 4",
+      "code": "11310",
+	    "active":"true"
+    },
+    {
+      "name": "Near Ward 6",
+      "code": "11311",
+	    "active":"true"
+    },
+    {
+      "name": "Near Ward 8",
+      "code": "11312",
+	    "active":"true"
+    },
+    {
+      "name": "Near Ward 9",
+      "code": "11313",
+	    "active":"true"
     }
   ]
 }

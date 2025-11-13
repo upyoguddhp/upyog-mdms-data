@@ -2303,51 +2303,9 @@
       "groupedTo": "Proceeds_and_Realizations"
     },
     {
-      "businessService": "CHLSTCD",
-      "code": "CHLSTCD",
-      "description": "Septic Tank cleaning/ Desludging",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
-    },
-    {
-      "businessService": "CHLPE",
-      "code": "CHLPE",
-      "description": "Public events",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
-    },
-    {
-      "businessService": "CHLRL",
-      "code": "CHLRL",
-      "description": "Rallies",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
-    },
-    {
-      "businessService": "CHLPRS",
-      "code": "CHLPRS",
-      "description": "Processions",
+      "businessService": "RequestService",
+      "code": "REQSERV",
+      "description": "Request as service",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2497,20 +2455,6 @@
       "isActive": true,
       "type": "Adhoc",
       "groupedTo": "Proceeds_and_Realizations"
-    },
-    {
-      "businessService": "CHLWTR",
-      "code": "CHLWTR",
-      "description": "Water Tank Request",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
     },
     {
       "businessService": "CHLDOVE",
