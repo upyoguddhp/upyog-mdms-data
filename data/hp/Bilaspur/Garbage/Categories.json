@@ -70,7 +70,7 @@
             "isAdditonalCostAdded": false,
             "variableUnitCost": 0,
             "fixedUnitCost": 0,
-            "fee": 300,
+            "fee": 50,
             "tenantId": "hp.Bilaspur",
             "active": true
         },
