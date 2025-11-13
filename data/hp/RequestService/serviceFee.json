@@ -4,7 +4,7 @@
     "Categories": [
         {
             "categories": "Septic Tank cleaning and Desludging",
-            "code": "CH.Septic_Tank_cleaning_and_Desludging_FEE",
+            "code": "CH.Septic_Tank_cleaning_Desludging_FEE",
             "fee": 50,
             "tenantId": "hp",
             "fromDate": 1690736733460,
