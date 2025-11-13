@@ -1822,8 +1822,8 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
-      "service": "CHLSTCD",
-      "code": "CHSTCD2025",
+      "service": "REQSERV",
+      "code": "REQSERV2025",
       "financialYear": "2024-29"
     },
     {
