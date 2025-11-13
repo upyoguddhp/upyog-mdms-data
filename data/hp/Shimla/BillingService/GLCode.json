@@ -1,16 +1,16 @@
 {
-	"tenantId": "pg.citya",
+	"tenantId": "hp.Shimla",
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
-		"code": "BIRTH_CERT",
-		"glcode": null,
-		"cb": "pg.citya"
+		"code": "NewTL",
+		"glcode": 1401101,
+		"cb": "hp.Shimla"
 	},
 	{
-		"code": "DEATH_CERT",
-		"glcode": null,
-		"cb": "pg.citya"
+		"code": "NewTL",
+		"glcode": 1401102,
+		"cb": "hp.Shimla"
 	}
 	]
 }
