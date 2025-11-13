@@ -1,13 +1,30 @@
 {
-  "tenantId": "hp",
+  "tenantId": "hp.Sundernagar",
   "moduleName": "FinanceModule",
   "TaxHeadMasterGlCodeMapping": [
     {
-      "billingservicecode": "NewTL",
-      "taxhead": "LCF.New_Trade_License_Fee_TAX",
-      "glcode": "1401101",
+      "billingservicecode": "PT",
+      "taxhead": "PT_TAX",
+      "glcode": "1100101",
       "validFrom": 1759301545,
-      "validTo": 1853995945
+      "validTo": 1853995945,
+      "serviceAttribute":"RESIDENTIAL"
+    }, 
+    {
+      "billingservicecode": "PT",
+      "taxhead": "PT_TAX",
+      "glcode": "1100102",
+      "validFrom": 1759301545,
+      "validTo": 1853995945,
+      "serviceAttribute":"NONRESIDENTIAL.COMMERCIAL"
+    },
+    {
+      "billingservicecode": "PT",
+      "taxhead": "PT_TAX",
+      "glcode": "1100103",
+      "validFrom": 1759301545,
+      "validTo": 1853995945,
+      "serviceAttribute":"NONRESIDENTIAL.INDUSTRIAL"
     }
   ],
   "InstrumentGLcodeMapping": [
@@ -31,9 +48,9 @@
     },
     {
       "instrumenttype": "Online",
-      "glcode": "1401101",
-      "validFrom": 1759301545,
-      "validTo": 1853995945
+      "glcode": "4502001",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
     },
     {
       "instrumenttype": "Card",

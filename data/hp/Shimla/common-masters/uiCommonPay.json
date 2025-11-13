@@ -71,11 +71,11 @@
       ]
     },
     {
-      "code": "TL",
+      "code": "NewTL",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "tradelicense-receipt",
       "billKey": "tradelicense-bill",
-      "pdfModule":"TL",
+      "pdfModule":"NewTL",
       "cancelReceipt": false,
       "cancelBill": false,
       "arrears": false,
