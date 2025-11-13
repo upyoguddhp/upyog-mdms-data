@@ -6214,10 +6214,10 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
-      "service": "CHLSTCD",
-      "name": "CH.Septic_Tank_cleaning/Desludging_TAX",
-      "code": "CH.Septic_Tank_cleaning/Desludging_TAX",
+      "category": "CHARGES",
+      "service": "REQSERV",
+      "name": "CH.Septic_Tank_cleaning_Desludging_FEE",
+      "code": "CH.Septic_Tank_cleaning_Desludging_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -6225,33 +6225,13 @@
     },
     {
       "category": "CHARGES",
-      "service": "CHLSTCD",
-      "name": "CH.Septic_Tank_cleaning/Desludging_FIELD_FEE",
-      "code": "CH.Septic_Tank_cleaning/Desludging_FIELD_FEE",
+      "service": "REQSERV",
+      "name": "CH.Rallies_FEE",
+      "code": "CH.Rallies_FEE",
       "isDebit": false,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "CHLSTCD",
-      "name": "CH.Septic_Tank_cleaning/Desludging_CGST",
-      "code": "CH.Septic_Tank_cleaning/Desludging_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "CHLSTCD",
-      "name": "CH.Septic_Tank_cleaning/Desludging_SGST",
-      "code": "CH.Septic_Tank_cleaning/Desludging_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "TAX",

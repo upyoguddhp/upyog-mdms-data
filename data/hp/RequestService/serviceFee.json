@@ -1,48 +1,48 @@
 {
-    "tenantId": "hp.Shimla",
+    "tenantId": "hp",
     "moduleName": "RequestService",
     "Categories": [
         {
             "categories": "Septic Tank cleaning and Desludging",
-            "code": "RS.Septic_Tank_cleaning_and_Desludging",
+            "code": "CH.Septic_Tank_cleaning_and_Desludging",
             "fee": 50,
-            "tenantId": "hp.Shimla",
+            "tenantId": "hp",
             "fromDate": 1690736733460,
             "toDate": 1893456000000,
             "active": true
         },
         {
             "categories": "Rallies",
-            "code": "RS.Rallies",
+            "code": "CH.Rallies",
             "fee": 60,
-            "tenantId": "hp.Shimla",
+            "tenantId": "hp",
             "fromDate": 1690736733460,
             "toDate": 1893456000000,
             "active": true
         },
         {
             "categories": "Public events",
-            "code": "RS.Public_events",
+            "code": "CH.Public_events",
             "fee": 70,
-            "tenantId": "hp.Shimla",
+            "tenantId": "hp",
             "fromDate": 1690736733460,
             "toDate": 1893456000000,
             "active": true
         },
         {
             "categories": "Processions",
-            "code": "RS.Processions",
+            "code": "CH.Processions",
             "fee": 40,
-            "tenantId": "hp.Shimla",
+            "tenantId": "hp",
             "fromDate": 1690736733460,
             "toDate": 1893456000000,
             "active": true
         },
         {
             "categories": "Water Tank Request",
-            "code": "RS.Water_Tank_Request",
+            "code": "CH.Water_Tank_Request",
             "fee": 45,
-            "tenantId": "hp.Shimla",
+            "tenantId": "hp",
             "fromDate": 1690736733460,
             "toDate": 1893456000000,
             "active": true
