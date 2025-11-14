@@ -11741,6 +11741,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1608,
+      "name": "",
+      "url": "/garbage-service/garbage-bills/_cancelbill",
+      "displayName": "Create Garbage Arear",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
