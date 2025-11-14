@@ -747,6 +747,10 @@
             "idname": "gb.receipt.id"
         },
         {
+            "format": "GB_BULK//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "gb_bulk.receipt.id"
+        },
+        {
             "format": "PT//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "property.receipt.id"
         }
