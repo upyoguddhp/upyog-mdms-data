@@ -173,6 +173,10 @@
     {
       "tenantId": "hp.Daulatpur",
       "price": 50
+    },
+    {
+      "tenantId": "hp.PoantaSahib",
+      "price": 50
     }
   ]
 }
