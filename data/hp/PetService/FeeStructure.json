@@ -169,6 +169,14 @@
     {
       "tenantId": "hp.Chowari",
       "price": 100
+    },
+    {
+      "tenantId": "hp.Daulatpur",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.PoantaSahib",
+      "price": 50
     }
   ]
 }

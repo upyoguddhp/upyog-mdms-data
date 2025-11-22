@@ -22,7 +22,7 @@
         },
         {
             "categories": "Public events",
-            "code": "CH.Public_events",
+            "code": "CH.Public_events_FEE",
             "fee": 70,
             "tenantId": "hp",
             "fromDate": 1690736733460,
@@ -31,7 +31,7 @@
         },
         {
             "categories": "Processions",
-            "code": "CH.Processions",
+            "code": "CH.Processions_FEE",
             "fee": 40,
             "tenantId": "hp",
             "fromDate": 1690736733460,
@@ -40,7 +40,7 @@
         },
         {
             "categories": "Water Tank Request",
-            "code": "CH.Water_Tank_Request",
+            "code": "CH.Water_Tank_Request_FEE",
             "fee": 45,
             "tenantId": "hp",
             "fromDate": 1690736733460,
