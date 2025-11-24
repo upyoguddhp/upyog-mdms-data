@@ -9939,6 +9939,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1601,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "COLL_RECEIPT_CREATOR",
       "actionid": 709,
       "actioncode": "",
@@ -29075,6 +29081,12 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1607,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1608,
       "actioncode": "",
       "tenantId": "hp"
     }
