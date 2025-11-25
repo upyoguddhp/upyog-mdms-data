@@ -162,7 +162,7 @@
             "tenantId": "hp.Bilaspur",
             "feeStructureOf": "tradeCategory",
             "type": "Transportation & Logistics",
-            "price": 0
+            "price": 1
         },
         {
             "tenantId": "hp.Bilaspur",
