@@ -1,7 +1,7 @@
 {
   "tenantId": "hp.Palampur",
   "moduleName": "Garbage",
-  "FeeStructure": [
+  "Categories": [
     {
       "categories": "Residential",
       "subcategories": "Household",
@@ -1333,7 +1333,8 @@
       "fee": 500,
       "tenantId": "hp.Palampur",
       "active": "TRUE"
-    },{
+    },
+    {
       "categories": "Commercial",
       "subcategories": "Banks",
       "subcategorytype": "Bank Floor Area > 1000 sq.ft",
