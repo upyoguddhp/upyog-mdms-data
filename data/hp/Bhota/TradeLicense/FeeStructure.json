@@ -163,6 +163,12 @@
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 300
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
     }
   ]
 }

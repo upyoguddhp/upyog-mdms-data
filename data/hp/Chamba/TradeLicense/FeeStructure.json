@@ -163,6 +163,12 @@
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 1500
+    },
+    {
+      "tenantId": "hp.Chamba",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
     }
   ]
 }
