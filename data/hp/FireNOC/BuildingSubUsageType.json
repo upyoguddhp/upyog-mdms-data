@@ -1,0 +1,146 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "BuildingSubUsageType": [
+    {
+      "buildingUsageTypeCode": "BU01",
+      "subTypeCode": "BSU01",
+      "buildingSubUsageType": "Hotel",
+      "subDivisionNBC": "A4",
+      "buildingSubUsageTypeNBC": "Hotel"
+    },
+    {
+      "buildingUsageTypeCode": "BU01",
+      "subTypeCode": "BSU02",
+      "buildingSubUsageType": "Apartment",
+      "subDivisionNBC": "A5",
+      "buildingSubUsageTypeNBC": "Apartment House"
+    },
+    {
+      "buildingUsageTypeCode": "BU01",
+      "subTypeCode": "BSU03",
+      "buildingSubUsageType": "Single-Family Residence",
+      "subDivisionNBC": "A1",
+      "buildingSubUsageTypeNBC": "Detached Residential"
+    },
+    {
+      "buildingUsageTypeCode": "BU01",
+      "subTypeCode": "BSU04",
+      "buildingSubUsageType": "Dormitory",
+      "subDivisionNBC": "A3",
+      "buildingSubUsageTypeNBC": "Dormitories"
+    },
+    {
+      "buildingUsageTypeCode": "BU02",
+      "subTypeCode": "BSU05",
+      "buildingSubUsageType": "School",
+      "subDivisionNBC": "B1",
+      "buildingSubUsageTypeNBC": "Educational Building"
+    },
+    {
+      "buildingUsageTypeCode": "BU02",
+      "subTypeCode": "BSU06",
+      "buildingSubUsageType": "College / University",
+      "subDivisionNBC": "B2",
+      "buildingSubUsageTypeNBC": "Educational Complex"
+    },
+    {
+      "buildingUsageTypeCode": "BU03",
+      "subTypeCode": "BSU07",
+      "buildingSubUsageType": "Hospital",
+      "subDivisionNBC": "C1",
+      "buildingSubUsageTypeNBC": "Institutional (Health Care)"
+    },
+    {
+      "buildingUsageTypeCode": "BU03",
+      "subTypeCode": "BSU08",
+      "buildingSubUsageType": "Nursing Home",
+      "subDivisionNBC": "C2",
+      "buildingSubUsageTypeNBC": "Institutional (Care Home)"
+    },
+    {
+      "buildingUsageTypeCode": "BU04",
+      "subTypeCode": "BSU09",
+      "buildingSubUsageType": "Theatre",
+      "subDivisionNBC": "D1",
+      "buildingSubUsageTypeNBC": "Assembly (Theatre)"
+    },
+    {
+      "buildingUsageTypeCode": "BU04",
+      "subTypeCode": "BSU10",
+      "buildingSubUsageType": "Auditorium",
+      "subDivisionNBC": "D2",
+      "buildingSubUsageTypeNBC": "Assembly (Hall)"
+    },
+    {
+      "buildingUsageTypeCode": "BU05",
+      "subTypeCode": "BSU11",
+      "buildingSubUsageType": "Office Building",
+      "subDivisionNBC": "E1",
+      "buildingSubUsageTypeNBC": "Business Building"
+    },
+    {
+      "buildingUsageTypeCode": "BU05",
+      "subTypeCode": "BSU12",
+      "buildingSubUsageType": "IT / Software Office",
+      "subDivisionNBC": "E2",
+      "buildingSubUsageTypeNBC": "Business (IT Office)"
+    },
+    {
+      "buildingUsageTypeCode": "BU06",
+      "subTypeCode": "BSU13",
+      "buildingSubUsageType": "Shopping Mall",
+      "subDivisionNBC": "F1",
+      "buildingSubUsageTypeNBC": "Mercantile Building"
+    },
+    {
+      "buildingUsageTypeCode": "BU06",
+      "subTypeCode": "BSU14",
+      "buildingSubUsageType": "Retail Shop",
+      "subDivisionNBC": "F2",
+      "buildingSubUsageTypeNBC": "Small Shops"
+    },
+    {
+      "buildingUsageTypeCode": "BU07",
+      "subTypeCode": "BSU15",
+      "buildingSubUsageType": "Factory",
+      "subDivisionNBC": "G1",
+      "buildingSubUsageTypeNBC": "Industrial Building"
+    },
+    {
+      "buildingUsageTypeCode": "BU07",
+      "subTypeCode": "BSU16",
+      "buildingSubUsageType": "Workshop",
+      "subDivisionNBC": "G2",
+      "buildingSubUsageTypeNBC": "Industrial (Workshop)"
+    },
+    {
+      "buildingUsageTypeCode": "BU08",
+      "subTypeCode": "BSU17",
+      "buildingSubUsageType": "Warehouse",
+      "subDivisionNBC": "H1",
+      "buildingSubUsageTypeNBC": "Storage Warehouse"
+    },
+    {
+      "buildingUsageTypeCode": "BU08",
+      "subTypeCode": "BSU18",
+      "buildingSubUsageType": "Cold Storage",
+      "subDivisionNBC": "H2",
+      "buildingSubUsageTypeNBC": "Cold Storage"
+    },
+    {
+      "buildingUsageTypeCode": "BU09",
+      "subTypeCode": "BSU19",
+      "buildingSubUsageType": "Chemical Plant",
+      "subDivisionNBC": "J1",
+      "buildingSubUsageTypeNBC": "Hazardous Industrial"
+    },
+    {
+      "buildingUsageTypeCode": "BU09",
+      "subTypeCode": "BSU20",
+      "buildingSubUsageType": "Explosives Storage",
+      "subDivisionNBC": "J2",
+      "buildingSubUsageTypeNBC": "Hazardous Storage"
+    }
+  ]
+}
