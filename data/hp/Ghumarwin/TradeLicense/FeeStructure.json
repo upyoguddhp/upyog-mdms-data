@@ -19,6 +19,13 @@
         {
             "tenantId": "hp.Ghumarwin",
             "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 2200,
+            "periodOfLicense": 10
+        },
+        {
+            "tenantId": "hp.Ghumarwin",
+            "feeStructureOf": "scaleOfBusiness",
             "type": "Medium",
             "price": 500,
             "periodOfLicense": 1
