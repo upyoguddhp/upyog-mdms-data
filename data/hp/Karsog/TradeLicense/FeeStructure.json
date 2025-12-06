@@ -168,7 +168,7 @@
       "tenantId": "hp.Karsog",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 1
+      "price": 0
     }
   ]
 }
