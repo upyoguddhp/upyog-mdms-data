@@ -2455,6 +2455,20 @@
       "isActive": true,
       "type": "Adhoc",
       "groupedTo": "Municipal_Receipts_and_Certificates"
+    },
+    {
+      "businessService": "CHLTAH",
+      "code": "CHLTAH",
+      "description": "Temporary Ad Hoardings",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     }
   ]
 }
