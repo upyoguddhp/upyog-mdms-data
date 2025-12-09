@@ -19,20 +19,6 @@
     {
       "tenantId": "hp.Chamba",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 9600,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Chamba",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 14400,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Chamba",
-      "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
       "price": 2100,
       "periodOfLicense": 1
@@ -47,20 +33,6 @@
     {
       "tenantId": "hp.Chamba",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 18000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Chamba",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 27000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Chamba",
-      "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
       "price": 3600,
       "periodOfLicense": 1
@@ -71,20 +43,6 @@
       "type": "Large",
       "price": 12000,
       "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Chamba",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 24000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Chamba",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 36000,
-      "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Chamba",

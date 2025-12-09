@@ -1,144 +1,132 @@
 {
-    "tenantId": "hp.Ghumarwin",
+    "tenantId": "hp.Chowari",
     "moduleName": "TradeLicense",
     "FeeStructure": [
         {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "scaleOfBusiness",
             "type": "Small",
+            "price": 100,
+            "periodOfLicense": 1
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Small",
+            "price": 300,
+            "periodOfLicense": 5
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
             "price": 200,
             "periodOfLicense": 1
         },
         {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "scaleOfBusiness",
-            "type": "Small",
-            "price": 900,
+            "type": "Medium",
+            "price": 700,
             "periodOfLicense": 5
         },
         {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "scaleOfBusiness",
-            "type": "Medium",
-            "price": 500,
+            "type": "Large",
+            "price": 300,
             "periodOfLicense": 1
         },
         {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "scaleOfBusiness",
-            "type": "Medium",
-            "price": 2250,
+            "type": "Large",
+            "price": 800,
             "periodOfLicense": 5
         },
         {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "scaleOfBusiness",
-            "type": "Large",
-            "price": 1000,
-            "periodOfLicense": 1
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "scaleOfBusiness",
-            "type": "Large",
-            "price": 4500,
-            "periodOfLicense": 5
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Agriculture",
-            "price": 100
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Automotive",
-            "price": 200
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Banking Finance Services Insurance (BFSI)",
-            "price": 500
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Common Trades",
-            "price": 100
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Education, Skills & Development",
-            "price": 500
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-            "price": 100
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Handloom & Handicrafts",
-            "price": 100
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "IT/ ITES Services",
-            "price": 300
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Luxury Goods",
-            "price": 300
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": "Manufacturing, Industries and Industrial Materials",
-            "price": 500
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "tradeCategory",
-            "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
             "price": 1000
         },
         {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
-            "type": "Tourism & Hospitality",
-            "price": 500
+            "type": "Automotive",
+            "price": 3000
         },
         {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
-            "type": "Transportation & Logistics",
+            "type": "Banking Finance Services Insurance (BFSI)",
+            "price": 3000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Common Trades",
+            "price": 4000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Education, Skills & Development",
+            "price": 3000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+            "price": 1000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Handloom & Handicrafts",
             "price": 300
         },
         {
-            "tenantId": "hp.Ghumarwin",
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "IT/ ITES Services",
+            "price": 3000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Luxury Goods",
+            "price": 3000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Manufacturing, Industries and Industrial Materials",
+            "price": 1500
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+            "price": 5000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Tourism & Hospitality",
+            "price": 5000
+        },
+        {
+            "tenantId": "hp.Chowari",
+            "feeStructureOf": "tradeCategory",
+            "type": "Transportation & Logistics",
+            "price": 1500
+        },
+        {
+            "tenantId": "hp.Chowari",
             "feeStructureOf": "zone",
             "type": "A",
-            "price": 1
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "zone",
-            "type": "B",
-            "price": 1
-        },
-        {
-            "tenantId": "hp.Ghumarwin",
-            "feeStructureOf": "zone",
-            "type": "C",
-            "price": 1
+            "price": 3
         }
     ]
 }
