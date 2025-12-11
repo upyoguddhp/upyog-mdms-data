@@ -11758,7 +11758,7 @@
     {
       "id": 1609,
       "name": "",
-      "url": "/rdf-monitoring/site/obpass-request",
+      "url": "/rdf-monitoring/rdfinfo/obpass-request",
       "displayName": "OBPAS Request ID",
       "orderNumber": 1,
       "queryParams": null,
