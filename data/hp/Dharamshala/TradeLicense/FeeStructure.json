@@ -163,6 +163,12 @@
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 1
+    },
+    {
+      "tenantId": "hp.DharamShala",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 0
     }
   ]
 }

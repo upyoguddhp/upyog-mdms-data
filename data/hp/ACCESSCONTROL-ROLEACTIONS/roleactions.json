@@ -8830,18 +8830,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 1609,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1609,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 1610,
       "actioncode": "",
       "tenantId": "hp"
@@ -29089,6 +29077,19 @@
       "actionid": 1608,
       "actioncode": "",
       "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1609,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1609,
+      "actioncode": "",
+      "tenantId": "hp"
     }
+    
   ]
 }

@@ -11754,6 +11754,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1609,
+      "name": "",
+      "url": "/rdf-monitoring/rdfinfo/obpass-request",
+      "displayName": "OBPAS Request ID",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
