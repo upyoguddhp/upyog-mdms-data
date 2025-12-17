@@ -18,7 +18,7 @@
       "categories": "Residential",
       "subcategories": "Household",
       "subcategorytype": "Area More Than 2000 Sq. Feet",
-      "bplRebatePercentage": 40,
+      "bplRebatePercentage": 0,
       "isAdditonalCostAdded": true,
       "variableUnitCost": 100,
       "fixedUnitCost": 0,
