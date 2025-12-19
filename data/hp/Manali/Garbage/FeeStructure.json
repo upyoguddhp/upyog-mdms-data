@@ -358,7 +358,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 500,
       "tenantId": "hp.Manali",
       "active": true
     },
