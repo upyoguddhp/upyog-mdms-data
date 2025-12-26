@@ -48,85 +48,85 @@
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Agriculture",
-            "price": 1000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Automotive",
-            "price": 3000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Banking Finance Services Insurance (BFSI)",
-            "price": 3000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Common Trades",
-            "price": 4000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Education, Skills & Development",
-            "price": 3000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-            "price": 1000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Handloom & Handicrafts",
-            "price": 300
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "IT/ ITES Services",
-            "price": 3000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Luxury Goods",
-            "price": 3000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Manufacturing, Industries and Industrial Materials",
-            "price": 1500
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-            "price": 5000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Tourism & Hospitality",
-            "price": 5000
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Transportation & Logistics",
-            "price": 1500
+            "price": 0
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "zone",
             "type": "A",
-            "price": 3
+            "price": 0
         }
     ]
 }
