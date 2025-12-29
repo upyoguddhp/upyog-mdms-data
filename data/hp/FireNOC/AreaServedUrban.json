@@ -1,0 +1,459 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "AreaServedUrban": [
+    {
+      "districtCode": "DC01",
+      "districtName": "Bilaspur",
+      "ulbCode": "ULB01",
+      "ulbName": "Municipal Council, Bilaspur"
+    },
+    {
+      "districtCode": "DC02",
+      "districtName": "Bilaspur",
+      "ulbCode": "ULB02",
+      "ulbName": "Municipal Council, Shri. Naina Devi Ji"
+    },
+    {
+      "districtCode": "DC03",
+      "districtName": "Bilaspur",
+      "ulbCode": "ULB03",
+      "ulbName": "Municipal Council, Ghumarwin"
+    },
+    {
+      "districtCode": "DC04",
+      "districtName": "Bilaspur",
+      "ulbCode": "ULB04",
+      "ulbName": "Nagar Panchayat, Talai"
+    },
+    {
+      "districtCode": "DC05",
+      "districtName": "Bilaspur",
+      "ulbCode": "ULB05",
+      "ulbName": "Nagar Panchayat, Jhundutta"
+    },
+    {
+      "districtCode": "DC06",
+      "districtName": "Bilaspur",
+      "ulbCode": "ULB06",
+      "ulbName": "Nagar Panchayat, Swarghat"
+    },
+
+    {
+      "districtCode": "DC07",
+      "districtName": "Chamba",
+      "ulbCode": "ULB07",
+      "ulbName": "Municipal Council, Chamba"
+    },
+    {
+      "districtCode": "DC08",
+      "districtName": "Chamba",
+      "ulbCode": "ULB08",
+      "ulbName": "Municipal Council, Dalhousie"
+    },
+    {
+      "districtCode": "DC09",
+      "districtName": "Chamba",
+      "ulbCode": "ULB09",
+      "ulbName": "Nagar Panchayat, Chowari"
+    },
+    {
+      "districtCode": "DC10",
+      "districtName": "Chamba",
+      "ulbCode": "ULB10",
+      "ulbName": "Nagar Panchayat, Banikhet"
+    },
+
+    {
+      "districtCode": "DC11",
+      "districtName": "Hamirpur",
+      "ulbCode": "ULB11",
+      "ulbName": "Municipal Corporation, Hamirpur"
+    },
+    {
+      "districtCode": "DC12",
+      "districtName": "Hamirpur",
+      "ulbCode": "ULB12",
+      "ulbName": "Municipal Council, Sujanpur-Tihra"
+    },
+    {
+      "districtCode": "DC13",
+      "districtName": "Hamirpur",
+      "ulbCode": "ULB13",
+      "ulbName": "Municipal Council, Nadaun"
+    },
+    {
+      "districtCode": "DC14",
+      "districtName": "Hamirpur",
+      "ulbCode": "ULB14",
+      "ulbName": "Nagar Panchayat, Bhotta"
+    },
+    {
+      "districtCode": "DC15",
+      "districtName": "Hamirpur",
+      "ulbCode": "ULB15",
+      "ulbName": "Nagar Panchayat, Barsar"
+    },
+    {
+      "districtCode": "DC16",
+      "districtName": "Hamirpur",
+      "ulbCode": "ULB16",
+      "ulbName": "Nagar Panchayat, Bhoranj"
+    },
+
+    {
+      "districtCode": "DC17",
+      "districtName": "Kangra",
+      "ulbCode": "ULB17",
+      "ulbName": "Municipal Corporation, Dharamshala"
+    },
+    {
+      "districtCode": "DC18",
+      "districtName": "Kangra",
+      "ulbCode": "ULB18",
+      "ulbName": "Municipal Corporation, Palampur"
+    },
+    {
+      "districtCode": "DC19",
+      "districtName": "Kangra",
+      "ulbCode": "ULB19",
+      "ulbName": "Municipal Council, Kangra"
+    },
+    {
+      "districtCode": "DC20",
+      "districtName": "Kangra",
+      "ulbCode": "ULB20",
+      "ulbName": "Municipal Council, Nurpur"
+    },
+    {
+      "districtCode": "DC21",
+      "districtName": "Kangra",
+      "ulbCode": "ULB21",
+      "ulbName": "Municipal Council, Nagrota-Bagwan"
+    },
+    {
+      "districtCode": "DC22",
+      "districtName": "Kangra",
+      "ulbCode": "ULB22",
+      "ulbName": "Municipal Council, Dehra"
+    },
+    {
+      "districtCode": "DC23",
+      "districtName": "Kangra",
+      "ulbCode": "ULB23",
+      "ulbName": "Municipal Council, Jawalamukhi"
+    },
+    {
+      "districtCode": "DC24",
+      "districtName": "Kangra",
+      "ulbCode": "ULB24",
+      "ulbName": "Municipal Council, Baijnath-Paprola"
+    },
+    {
+      "districtCode": "DC25",
+      "districtName": "Kangra",
+      "ulbCode": "ULB25",
+      "ulbName": "Nagar Panchayat, Jawali"
+    },
+    {
+      "districtCode": "DC26",
+      "districtName": "Kangra",
+      "ulbCode": "ULB26",
+      "ulbName": "Nagar Panchayat, Shahpur"
+    },
+    {
+      "districtCode": "DC27",
+      "districtName": "Kangra",
+      "ulbCode": "ULB27",
+      "ulbName": "Nagar Panchayat, Nagrota-Surian"
+    },
+    {
+      "districtCode": "DC28",
+      "districtName": "Kangra",
+      "ulbCode": "ULB28",
+      "ulbName": "Nagar Panchayat, Kotla"
+    },
+    {
+      "districtCode": "DC29",
+      "districtName": "Kangra",
+      "ulbCode": "ULB29",
+      "ulbName": "Nagar Panchayat, Khundian"
+    },
+
+    {
+      "districtCode": "DC30",
+      "districtName": "Kullu",
+      "ulbCode": "ULB30",
+      "ulbName": "Municipal Council, Kullu"
+    },
+    {
+      "districtCode": "DC31",
+      "districtName": "Kullu",
+      "ulbCode": "ULB31",
+      "ulbName": "Municipal Council, Manali"
+    },
+    {
+      "districtCode": "DC32",
+      "districtName": "Kullu",
+      "ulbCode": "ULB32",
+      "ulbName": "Nagar Panchayat, Bhuntar"
+    },
+    {
+      "districtCode": "DC33",
+      "districtName": "Kullu",
+      "ulbCode": "ULB33",
+      "ulbName": "Nagar Panchayat, Banjar"
+    },
+    {
+      "districtCode": "DC34",
+      "districtName": "Kullu",
+      "ulbCode": "ULB34",
+      "ulbName": "Nagar Panchayat, Nirmand"
+    },
+
+    {
+      "districtCode": "DC35",
+      "districtName": "Mandi",
+      "ulbCode": "ULB35",
+      "ulbName": "Municipal Corporation, Mandi"
+    },
+    {
+      "districtCode": "DC36",
+      "districtName": "Mandi",
+      "ulbCode": "ULB36",
+      "ulbName": "Municipal Council, Sundernagar"
+    },
+    {
+      "districtCode": "DC37",
+      "districtName": "Mandi",
+      "ulbCode": "ULB37",
+      "ulbName": "Municipal Council, Sarkaghat"
+    },
+    {
+      "districtCode": "DC38",
+      "districtName": "Mandi",
+      "ulbCode": "ULB38",
+      "ulbName": "Municipal Council, Jogindernagar"
+    },
+    {
+      "districtCode": "DC39",
+      "districtName": "Mandi",
+      "ulbCode": "ULB39",
+      "ulbName": "Municipal Council, Nerchowk"
+    },
+    {
+      "districtCode": "DC40",
+      "districtName": "Mandi",
+      "ulbCode": "ULB40",
+      "ulbName": "Nagar Panchayat, Rewalsar"
+    },
+    {
+      "districtCode": "DC41",
+      "districtName": "Mandi",
+      "ulbCode": "ULB41",
+      "ulbName": "Nagar Panchayat, Karsog"
+    },
+    {
+      "districtCode": "DC42",
+      "districtName": "Mandi",
+      "ulbCode": "ULB42",
+      "ulbName": "Nagar Panchayat, Dharampur"
+    },
+    {
+      "districtCode": "DC43",
+      "districtName": "Mandi",
+      "ulbCode": "ULB43",
+      "ulbName": "Nagar Panchayat, Sandhole"
+    },
+    {
+      "districtCode": "DC44",
+      "districtName": "Mandi",
+      "ulbCode": "ULB44",
+      "ulbName": "Nagar Panchayat, Baldwara"
+    },
+
+    {
+      "districtCode": "DC45",
+      "districtName": "Shimla",
+      "ulbCode": "ULB45",
+      "ulbName": "Municipal Corporation, Shimla"
+    },
+    {
+      "districtCode": "DC46",
+      "districtName": "Shimla",
+      "ulbCode": "ULB46",
+      "ulbName": "Municipal Council, Rohru"
+    },
+    {
+      "districtCode": "DC47",
+      "districtName": "Shimla",
+      "ulbCode": "ULB47",
+      "ulbName": "Municipal Council, Rampur"
+    },
+    {
+      "districtCode": "DC48",
+      "districtName": "Shimla",
+      "ulbCode": "ULB48",
+      "ulbName": "Municipal Council, Theog"
+    },
+    {
+      "districtCode": "DC49",
+      "districtName": "Shimla",
+      "ulbCode": "ULB49",
+      "ulbName": "Municipal Council, Sunni"
+    },
+    {
+      "districtCode": "DC50",
+      "districtName": "Shimla",
+      "ulbCode": "ULB50",
+      "ulbName": "Nagar Panchayat, Narkanda"
+    },
+    {
+      "districtCode": "DC51",
+      "districtName": "Shimla",
+      "ulbCode": "ULB51",
+      "ulbName": "Nagar Panchayat, Chopal"
+    },
+    {
+      "districtCode": "DC52",
+      "districtName": "Shimla",
+      "ulbCode": "ULB52",
+      "ulbName": "Nagar Panchayat, Kotkhai"
+    },
+    {
+      "districtCode": "DC53",
+      "districtName": "Shimla",
+      "ulbCode": "ULB53",
+      "ulbName": "Nagar Panchayat, Jubbal"
+    },
+    {
+      "districtCode": "DC54",
+      "districtName": "Shimla",
+      "ulbCode": "ULB54",
+      "ulbName": "Nagar Panchayat, Chirgaon"
+    },
+    {
+      "districtCode": "DC55",
+      "districtName": "Shimla",
+      "ulbCode": "ULB55",
+      "ulbName": "Nagar Panchayat, Nerwa"
+    },
+
+    {
+      "districtCode": "DC56",
+      "districtName": "Sirmour",
+      "ulbCode": "ULB56",
+      "ulbName": "Municipal Council, Nahan"
+    },
+    {
+      "districtCode": "DC57",
+      "districtName": "Sirmour",
+      "ulbCode": "ULB57",
+      "ulbName": "Municipal Council, Paonta-Sahib"
+    },
+    {
+      "districtCode": "DC58",
+      "districtName": "Sirmour",
+      "ulbCode": "ULB58",
+      "ulbName": "Nagar Panchayat, Rajgarh"
+    },
+    {
+      "districtCode": "DC59",
+      "districtName": "Sirmour",
+      "ulbCode": "ULB59",
+      "ulbName": "Nagar Panchayat, Shillai"
+    },
+
+    {
+      "districtCode": "DC60",
+      "districtName": "Solan",
+      "ulbCode": "ULB60",
+      "ulbName": "Municipal Corporation, Solan"
+    },
+    {
+      "districtCode": "DC61",
+      "districtName": "Solan",
+      "ulbCode": "ULB61",
+      "ulbName": "Municipal Corporation, Baddi"
+    },
+    {
+      "districtCode": "DC62",
+      "districtName": "Solan",
+      "ulbCode": "ULB62",
+      "ulbName": "Municipal Council, Nalagarh"
+    },
+    {
+      "districtCode": "DC63",
+      "districtName": "Solan",
+      "ulbCode": "ULB63",
+      "ulbName": "Municipal Council, Parwanoo"
+    },
+    {
+      "districtCode": "DC64",
+      "districtName": "Solan",
+      "ulbCode": "ULB64",
+      "ulbName": "Nagar Panchayat, Kandaghat"
+    },
+    {
+      "districtCode": "DC65",
+      "districtName": "Solan",
+      "ulbCode": "ULB65",
+      "ulbName": "Nagar Panchayat, Arki"
+    },
+    {
+      "districtCode": "DC66",
+      "districtName": "Solan",
+      "ulbCode": "ULB66",
+      "ulbName": "Nagar Panchayat, Kunihar"
+    },
+
+    {
+      "districtCode": "DC67",
+      "districtName": "Una",
+      "ulbCode": "ULB67",
+      "ulbName": "Municipal Corporation, Una"
+    },
+    {
+      "districtCode": "DC68",
+      "districtName": "Una",
+      "ulbCode": "ULB68",
+      "ulbName": "Municipal Council, Santokhgarh"
+    },
+    {
+      "districtCode": "DC69",
+      "districtName": "Una",
+      "ulbCode": "ULB69",
+      "ulbName": "Municipal Council, Mehatpur-Basdehra"
+    },
+    {
+      "districtCode": "DC70",
+      "districtName": "Una",
+      "ulbCode": "ULB70",
+      "ulbName": "Nagar Panchayat, Dalautpur-Chowk"
+    },
+    {
+      "districtCode": "DC71",
+      "districtName": "Una",
+      "ulbCode": "ULB71",
+      "ulbName": "Nagar Panchayat, Gagret"
+    },
+    {
+      "districtCode": "DC72",
+      "districtName": "Una",
+      "ulbCode": "ULB72",
+      "ulbName": "Nagar Panchayat, Amb"
+    },
+    {
+      "districtCode": "DC73",
+      "districtName": "Una",
+      "ulbCode": "ULB73",
+      "ulbName": "Nagar Panchayat, Tahliwal"
+    },
+    {
+      "districtCode": "DC74",
+      "districtName": "Una",
+      "ulbCode": "ULB74",
+      "ulbName": "Nagar Panchayat, Bangana"
+    }
+  ]
+}

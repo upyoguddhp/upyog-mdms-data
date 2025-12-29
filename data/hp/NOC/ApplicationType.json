@@ -1,0 +1,14 @@
+{
+  "tenantId": "hp",
+  "moduleName": "NOC",
+  "ApplicationType": [
+    {
+      "code": "PROVISIONAL",
+      "active": true
+    },
+    {
+      "code": "REGULAR",
+      "active": true
+    }
+  ]
+}

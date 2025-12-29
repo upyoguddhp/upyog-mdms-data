@@ -296,6 +296,25 @@
           ]
         }
       ]
+    },
+    {
+  "tenantId": "hp",
+  "businessService": "PROPERTY_EMPLOYEE",
+  "business": "PT",
+  "states": [
+    {
+      "state": "INITIATED",
+      "isStartState": true,
+      "isTerminateState": false,
+      "actions": [
+        {
+          "action": "INITIATE",
+          "roles": "PT_DOC_VERIFIER"
+        }
+      ]
     }
+  ]
+ }
+
   ]
 }

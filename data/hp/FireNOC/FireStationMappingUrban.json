@@ -1,0 +1,66 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "FireStationMappingUrban": [
+    {
+      "districtCode": "DC01",
+      "ulbCode": "ULB01",
+      "fireStationCode": "FS01",
+      "fireStationName": "Shimla Fire Station"
+    },
+    {
+      "districtCode": "DC01",
+      "ulbCode": "ULB02",
+      "fireStationCode": "FS02",
+      "fireStationName": "Dhalli Fire Station"
+    },
+    {
+      "districtCode": "DC02",
+      "ulbCode": "ULB03",
+      "fireStationCode": "FS03",
+      "fireStationName": "Solan Fire Station"
+    },
+    {
+      "districtCode": "DC02",
+      "ulbCode": "ULB04",
+      "fireStationCode": "FS04",
+      "fireStationName": "Parwanoo Fire Station"
+    },
+    {
+      "districtCode": "DC03",
+      "ulbCode": "ULB05",
+      "fireStationCode": "FS05",
+      "fireStationName": "Mandi Fire Station"
+    },
+    {
+      "districtCode": "DC03",
+      "ulbCode": "ULB06",
+      "fireStationCode": "FS06",
+      "fireStationName": "Sundernagar Fire Station"
+    },
+    {
+      "districtCode": "DC04",
+      "ulbCode": "ULB07",
+      "fireStationCode": "FS07",
+      "fireStationName": "Kangra Fire Station"
+    },
+    {
+      "districtCode": "DC04",
+      "ulbCode": "ULB08",
+      "fireStationCode": "FS08",
+      "fireStationName": "Dharamshala Fire Station"
+    },
+    {
+      "districtCode": "DC05",
+      "ulbCode": "ULB09",
+      "fireStationCode": "FS09",
+      "fireStationName": "Kullu Fire Station"
+    },
+    {
+      "districtCode": "DC05",
+      "ulbCode": "ULB10",
+      "fireStationCode": "FS10",
+      "fireStationName": "Manali Fire Station"
+    }
+  ]
+}
