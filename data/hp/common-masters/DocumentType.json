@@ -1,0 +1,21 @@
+{
+  "tenantId": "hp",
+  "moduleName": "common-masters",
+  "DocumentType": [
+    {
+      "code": "NOC.FIRE",
+      "active": true,
+      "description": "Fire NOC document"
+    },
+    {
+      "code": "NOC.AIRPORT",
+      "active": true,
+      "description": "Airport authority NOC document"
+    },
+    {
+      "code": "NOC.WATER",
+      "active": true,
+      "description": "Water NOC document"
+    }
+  ]
+}

@@ -865,12 +865,17 @@
     {
       "code": "CHALLAN_CREATOR",
       "name": "CHALLAN CREATOR",
-      "description": "One who generate the challan"
+      "description": "One who generates the challan"
     },
     {
       "code": "REQUEST_APPROVER",
       "name": "REQUEST APPROVER",
       "description": "Request Approver"
+    },
+    {
+      "code": "BILL_COLLECTOR",
+      "name": "BILL COLLECTOR",
+      "description": "One who collect bills"
     }
     
   ]

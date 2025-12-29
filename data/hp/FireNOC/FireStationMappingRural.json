@@ -1,0 +1,119 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "FireStationMappingRural": [
+    {
+      "districtCode": "DC01",
+      "subDistrictCode": "SDC01",
+      "fireStationCode": "FS01",
+      "fireStationName": "Shimla Fire Station"
+    },
+    {
+      "districtCode": "DC01",
+      "subDistrictCode": "SDC02",
+      "fireStationCode": "FS01",
+      "fireStationName": "Shimla Fire Station"
+    },
+    {
+      "districtCode": "DC01",
+      "subDistrictCode": "SDC03",
+      "fireStationCode": "FS01",
+      "fireStationName": "Shimla Fire Station"
+    },
+
+    {
+      "districtCode": "DC02",
+      "subDistrictCode": "SDC04",
+      "fireStationCode": "FS02",
+      "fireStationName": "Solan Fire Station"
+    },
+    {
+      "districtCode": "DC02",
+      "subDistrictCode": "SDC05",
+      "fireStationCode": "FS02",
+      "fireStationName": "Solan Fire Station"
+    },
+
+    {
+      "districtCode": "DC03",
+      "subDistrictCode": "SDC06",
+      "fireStationCode": "FS03",
+      "fireStationName": "Mandi Fire Station"
+    },
+    {
+      "districtCode": "DC03",
+      "subDistrictCode": "SDC07",
+      "fireStationCode": "FS03",
+      "fireStationName": "Mandi Fire Station"
+    },
+
+    {
+      "districtCode": "DC04",
+      "subDistrictCode": "SDC08",
+      "fireStationCode": "FS04",
+      "fireStationName": "Kangra Fire Station"
+    },
+    {
+      "districtCode": "DC04",
+      "subDistrictCode": "SDC09",
+      "fireStationCode": "FS04",
+      "fireStationName": "Kangra Fire Station"
+    },
+
+    {
+      "districtCode": "DC05",
+      "subDistrictCode": "SDC10",
+      "fireStationCode": "FS05",
+      "fireStationName": "Kullu Fire Station"
+    },
+
+    {
+      "districtCode": "DC06",
+      "subDistrictCode": "SDC11",
+      "fireStationCode": "FS06",
+      "fireStationName": "Chamba Fire Station"
+    },
+
+    {
+      "districtCode": "DC07",
+      "subDistrictCode": "SDC12",
+      "fireStationCode": "FS07",
+      "fireStationName": "Hamirpur Fire Station"
+    },
+
+    {
+      "districtCode": "DC08",
+      "subDistrictCode": "SDC13",
+      "fireStationCode": "FS08",
+      "fireStationName": "Bilaspur Fire Station"
+    },
+
+    {
+      "districtCode": "DC09",
+      "subDistrictCode": "SDC14",
+      "fireStationCode": "FS09",
+      "fireStationName": "Una Fire Station"
+    },
+
+    {
+      "districtCode": "DC10",
+      "subDistrictCode": "SDC15",
+      "fireStationCode": "FS10",
+      "fireStationName": "Sirmaur Fire Station"
+    },
+
+    {
+      "districtCode": "DC11",
+      "subDistrictCode": "SDC16",
+      "fireStationCode": "FS11",
+      "fireStationName": "Kinnaur Fire Station"
+    },
+
+    {
+      "districtCode": "DC12",
+      "subDistrictCode": "SDC17",
+      "fireStationCode": "FS12",
+      "fireStationName": "Lahaul & Spiti Fire Station"
+    }
+  ]
+}

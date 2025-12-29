@@ -1,0 +1,96 @@
+{
+  "tenantId": "hp",
+  "moduleName": "NOC",
+  "DocumentTypeMapping": [
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "FIRE_NOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.FIRE",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "FIRE_NOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.FIRE",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "FIRE_NOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.FIRE",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "AIRPORT_AUTHORITY",
+      "docTypes": [
+        {
+          "documentType": "NOC.AIRPORT",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "AIRPORT_AUTHORITY",
+      "docTypes": [
+        {
+          "documentType": "NOC.AIRPORT",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "AIRPORT_AUTHORITY",
+      "docTypes": [
+        {
+          "documentType": "NOC.AIRPORT",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "WATER_NOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.WATER",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "WATER_NOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.WATER",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "WATER_NOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.WATER",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

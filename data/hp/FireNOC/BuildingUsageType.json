@@ -1,0 +1,60 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "BuildingUsageType": [
+    {
+      "buildingUsageTypeCode": "BU01",
+      "buildingUsageType": "Residential",
+      "buildingGroupNBC": "Group A",
+      "buildingUsageTypeNBC": "Residential"
+    },
+    {
+      "buildingUsageTypeCode": "BU02",
+      "buildingUsageType": "Educational Institute",
+      "buildingGroupNBC": "Group B",
+      "buildingUsageTypeNBC": "Educational"
+    },
+    {
+      "buildingUsageTypeCode": "BU03",
+      "buildingUsageType": "Institutional",
+      "buildingGroupNBC": "Group C",
+      "buildingUsageTypeNBC": "Institutional"
+    },
+    {
+      "buildingUsageTypeCode": "BU04",
+      "buildingUsageType": "Assembly",
+      "buildingGroupNBC": "Group D",
+      "buildingUsageTypeNBC": "Assembly"
+    },
+    {
+      "buildingUsageTypeCode": "BU05",
+      "buildingUsageType": "Business",
+      "buildingGroupNBC": "Group E",
+      "buildingUsageTypeNBC": "Business"
+    },
+    {
+      "buildingUsageTypeCode": "BU06",
+      "buildingUsageType": "Mercantile",
+      "buildingGroupNBC": "Group F",
+      "buildingUsageTypeNBC": "Mercantile"
+    },
+    {
+      "buildingUsageTypeCode": "BU07",
+      "buildingUsageType": "Industrial",
+      "buildingGroupNBC": "Group G",
+      "buildingUsageTypeNBC": "Industrial"
+    },
+    {
+      "buildingUsageTypeCode": "BU08",
+      "buildingUsageType": "Storage",
+      "buildingGroupNBC": "Group H",
+      "buildingUsageTypeNBC": "Storage"
+    },
+    {
+      "buildingUsageTypeCode": "BU09",
+      "buildingUsageType": "Hazardous",
+      "buildingGroupNBC": "Group J",
+      "buildingUsageTypeNBC": "Hazardous"
+    }
+  ]
+}

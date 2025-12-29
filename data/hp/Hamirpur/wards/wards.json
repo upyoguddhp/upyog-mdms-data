@@ -5,62 +5,107 @@
     {
       "name": "Hira Nagar",
       "code": "11493",
-	  "active":"true"
+      "active": "true"
     },
     {
       "name": "Ram Nagar",
       "code": "11502",
-	  "active":"true"
+      "active": "true"
     },
     {
       "name": "Subhash Nagar",
       "code": "11503",
-	  "active":"true"
+      "active": "true"
     },
     {
       "name": "Krishna Nagar",
       "code": "11494",
-	  "active":"true"
+      "active": "true"
     },
     {
       "name": "Partap Nagar",
       "code": "11495",
-	  "active":"true"
+      "active": "true"
     },
     {
       "name": "Shiv Nagar",
       "code": "11496",
-	  "active":"true"
+      "active": "true"
     },
     {
       "name": "Brij Nagar",
       "code": "11497",
-	  "active":"true"
+      "active": "true"
     },
-	{
+    {
       "name": "Brij Nagar",
       "code": "11497",
-	  "active":"true"
+      "active": "true"
     },
-	{
+    {
       "name": "Gandhi Nagar",
       "code": "11498",
-	  "active":"true"
+      "active": "true"
     },
-	{
+    {
       "name": "Dev Nagar",
       "code": "11499",
-	  "active":"true"
+      "active": "true"
     },
-	{
+    {
       "name": "Naya Nagar",
       "code": "11500",
-	  "active":"true"
+      "active": "true"
     },
-	{
+    {
       "name": "Roop Nagar",
       "code": "11501",
-	  "active":"true"
+      "active": "true"
+    },
+    {
+      "name": "NIT",
+      "code": "11502",
+      "active": "true"
+    },
+    {
+      "name": "Mati Tihra",
+      "code": "11503",
+      "active": "true"
+    },
+    {
+      "name": "Jhaniara",
+      "code": "11504",
+      "active": "true"
+    },
+    {
+      "name": "Daruhi",
+      "code": "11505",
+      "active": "true"
+    },
+    {
+      "name": "Anu Kalan",
+      "code": "11506",
+      "active": "true"
+    },
+    {
+      "name": "Bahal",
+      "code": "11507",
+      "active": "true"
+    },
+    {
+      "name": "Bajuri",
+      "code": "11508",
+      "active": "true"
+    },
+    {
+      "name": "Baroha",
+      "code": "11509",
+      "active": "true"
+    },
+    {
+      "name": "Halana",
+      "code": "11510",
+      "active": "true"
     }
   ]
 }

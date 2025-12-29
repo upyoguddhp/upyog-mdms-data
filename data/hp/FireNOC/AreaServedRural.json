@@ -1,0 +1,376 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "AreaServedRural": [
+        {
+          "districtCode": "DC01",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC01",
+          "subDistrictName": "Shimla Rural"
+        },
+        {
+          "districtCode": "DC02",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC02",
+          "subDistrictName": "Theog"
+        },
+        {
+          "districtCode": "DC03",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC03",
+          "subDistrictName": "Rohru"
+        },
+        {
+          "districtCode": "DC04",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC04",
+          "subDistrictName": "Chopal"
+        },
+        {
+          "districtCode": "DC05",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC05",
+          "subDistrictName": "Rampur"
+        },
+        {
+          "districtCode": "DC06",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC06",
+          "subDistrictName": "Narkanda"
+        },
+        {
+          "districtCode": "DC07",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC07",
+          "subDistrictName": "Sunni"
+        },
+        {
+          "districtCode": "DC08",
+          "districtName": "Shimla",
+          "subDistrictCode": "SDC08",
+          "subDistrictName": "Kotkhai"
+        },
+
+        {
+          "districtCode": "DC09",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC09",
+          "subDistrictName": "Dharamshala"
+        },
+        {
+          "districtCode": "DC10",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC10",
+          "subDistrictName": "Palampur"
+        },
+        {
+          "districtCode": "DC11",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC11",
+          "subDistrictName": "Kangra"
+        },
+        {
+          "districtCode": "DC12",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC12",
+          "subDistrictName": "Nurpur"
+        },
+        {
+          "districtCode": "DC13",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC13",
+          "subDistrictName": "Dehra"
+        },
+        {
+          "districtCode": "DC14",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC14",
+          "subDistrictName": "Jawalamukhi"
+        },
+        {
+          "districtCode": "DC15",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC15",
+          "subDistrictName": "Nagrota Bagwan"
+        },
+        {
+          "districtCode": "DC16",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC16",
+          "subDistrictName": "Baijnath"
+        },
+        {
+          "districtCode": "DC17",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC17",
+          "subDistrictName": "Jawali"
+        },
+        {
+          "districtCode": "DC18",
+          "districtName": "Kangra",
+          "subDistrictCode": "SDC18",
+          "subDistrictName": "Shahpur"
+        },
+
+        {
+          "districtCode": "DC19",
+          "districtName": "Kullu",
+          "subDistrictCode": "SDC19",
+          "subDistrictName": "Kullu"
+        },
+        {
+          "districtCode": "DC20",
+          "districtName": "Kullu",
+          "subDistrictCode": "SDC20",
+          "subDistrictName": "Manali"
+        },
+        {
+          "districtCode": "DC21",
+          "districtName": "Kullu",
+          "subDistrictCode": "SDC21",
+          "subDistrictName": "Bhuntar"
+        },
+        {
+          "districtCode": "DC22",
+          "districtName": "Kullu",
+          "subDistrictCode": "SDC22",
+          "subDistrictName": "Banjar"
+        },
+        {
+          "districtCode": "DC23",
+          "districtName": "Kullu",
+          "subDistrictCode": "SDC23",
+          "subDistrictName": "Nirmand"
+        },
+
+        {
+          "districtCode": "DC24",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC24",
+          "subDistrictName": "Mandi"
+        },
+        {
+          "districtCode": "DC25",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC25",
+          "subDistrictName": "Sundernagar"
+        },
+        {
+          "districtCode": "DC26",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC26",
+          "subDistrictName": "Sarkaghat"
+        },
+        {
+          "districtCode": "DC27",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC27",
+          "subDistrictName": "Jogindernagar"
+        },
+        {
+          "districtCode": "DC28",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC28",
+          "subDistrictName": "Rewalsar"
+        },
+        {
+          "districtCode": "DC29",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC29",
+          "subDistrictName": "Karsog"
+        },
+        {
+          "districtCode": "DC30",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC30",
+          "subDistrictName": "Nerchowk"
+        },
+        {
+          "districtCode": "DC31",
+          "districtName": "Mandi",
+          "subDistrictCode": "SDC31",
+          "subDistrictName": "Dharampur"
+        },
+
+        {
+          "districtCode": "DC32",
+          "districtName": "Bilaspur",
+          "subDistrictCode": "SDC32",
+          "subDistrictName": "Bilaspur"
+        },
+        {
+          "districtCode": "DC33",
+          "districtName": "Bilaspur",
+          "subDistrictCode": "SDC33",
+          "subDistrictName": "Ghumarwin"
+        },
+        {
+          "districtCode": "DC34",
+          "districtName": "Bilaspur",
+          "subDistrictCode": "SDC34",
+          "subDistrictName": "Talai"
+        },
+        {
+          "districtCode": "DC35",
+          "districtName": "Bilaspur",
+          "subDistrictCode": "SDC35",
+          "subDistrictName": "Jhandutta"
+        },
+
+        {
+          "districtCode": "DC36",
+          "districtName": "Chamba",
+          "subDistrictCode": "SDC36",
+          "subDistrictName": "Chamba"
+        },
+        {
+          "districtCode": "DC37",
+          "districtName": "Chamba",
+          "subDistrictCode": "SDC37",
+          "subDistrictName": "Dalhousie"
+        },
+        {
+          "districtCode": "DC38",
+          "districtName": "Chamba",
+          "subDistrictCode": "SDC38",
+          "subDistrictName": "Churah"
+        },
+        {
+          "districtCode": "DC39",
+          "districtName": "Chamba",
+          "subDistrictCode": "SDC39",
+          "subDistrictName": "Banikhet"
+        },
+
+        {
+          "districtCode": "DC40",
+          "districtName": "Sirmaur",
+          "subDistrictCode": "SDC40",
+          "subDistrictName": "Nahan"
+        },
+        {
+          "districtCode": "DC41",
+          "districtName": "Sirmaur",
+          "subDistrictCode": "SDC41",
+          "subDistrictName": "Rajgarh"
+        },
+        {
+          "districtCode": "DC42",
+          "districtName": "Sirmaur",
+          "subDistrictCode": "SDC42",
+          "subDistrictName": "Shillai"
+        },
+        {
+          "districtCode": "DC43",
+          "districtName": "Sirmaur",
+          "subDistrictCode": "SDC43",
+          "subDistrictName": "Paonta Sahib"
+        },
+
+        {
+          "districtCode": "DC44",
+          "districtName": "Solan",
+          "subDistrictCode": "SDC44",
+          "subDistrictName": "Solan"
+        },
+        {
+          "districtCode": "DC45",
+          "districtName": "Solan",
+          "subDistrictCode": "SDC45",
+          "subDistrictName": "Nalagarh"
+        },
+        {
+          "districtCode": "DC46",
+          "districtName": "Solan",
+          "subDistrictCode": "SDC46",
+          "subDistrictName": "Kandaghat"
+        },
+        {
+          "districtCode": "DC47",
+          "districtName": "Solan",
+          "subDistrictCode": "SDC47",
+          "subDistrictName": "Arki"
+        },
+        {
+          "districtCode": "DC48",
+          "districtName": "Solan",
+          "subDistrictCode": "SDC48",
+          "subDistrictName": "Kunihar"
+        },
+
+        {
+          "districtCode": "DC49",
+          "districtName": "Una",
+          "subDistrictCode": "SDC49",
+          "subDistrictName": "Una"
+        },
+        {
+          "districtCode": "DC50",
+          "districtName": "Una",
+          "subDistrictCode": "SDC50",
+          "subDistrictName": "Santokhgarh"
+        },
+        {
+          "districtCode": "DC51",
+          "districtName": "Una",
+          "subDistrictCode": "SDC51",
+          "subDistrictName": "Gagret"
+        },
+        {
+          "districtCode": "DC52",
+          "districtName": "Una",
+          "subDistrictCode": "SDC52",
+          "subDistrictName": "Bangana"
+        },
+        {
+          "districtCode": "DC53",
+          "districtName": "Una",
+          "subDistrictCode": "SDC53",
+          "subDistrictName": "Amb"
+        },
+
+        {
+          "districtCode": "DC54",
+          "districtName": "Kinnaur",
+          "subDistrictCode": "SDC54",
+          "subDistrictName": "Reckong Peo"
+        },
+        {
+          "districtCode": "DC55",
+          "districtName": "Kinnaur",
+          "subDistrictCode": "SDC55",
+          "subDistrictName": "Kalpa"
+        },
+        {
+          "districtCode": "DC56",
+          "districtName": "Kinnaur",
+          "subDistrictCode": "SDC56",
+          "subDistrictName": "Pooh"
+        },
+        {
+          "districtCode": "DC57",
+          "districtName": "Kinnaur",
+          "subDistrictCode": "SDC57",
+          "subDistrictName": "Sangla"
+        },
+
+        {
+          "districtCode": "DC58",
+          "districtName": "Lahaul & Spiti",
+          "subDistrictCode": "SDC58",
+          "subDistrictName": "Keylong (Lahaul)"
+        },
+        {
+          "districtCode": "DC59",
+          "districtName": "Lahaul & Spiti",
+          "subDistrictCode": "SDC59",
+          "subDistrictName": "Kaza (Spiti)"
+        },
+        {
+          "districtCode": "DC60",
+          "districtName": "Lahaul & Spiti",
+          "subDistrictCode": "SDC60",
+          "subDistrictName": "Purik / Tabo"
+        }
+      ]
+    }
