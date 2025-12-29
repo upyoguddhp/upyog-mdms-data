@@ -29079,15 +29079,129 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "PROPERTY_APPROVER",
       "actionid": 1609,
-      "actioncode": "",
+      "tenantId": "hp.Shimla"
+    },
+    {
+      "rolecode": "PROPERTY_APPROVER",
+      "actionid": 1610,
+      "tenantId": "hp.Shimla"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1611,
       "tenantId": "hp"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1609,
-      "actioncode": "",
+      "rolecode": "EMPLOYEE",
+      "actionid": 1612,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1613,
+      "tenantId": "EMPLOYEE"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1614,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1615,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1616,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1617,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1618,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1619,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1620,
+      "tenantId": "hp"
+    },
+    
+     {
+      "rolecode": "PROPERTY_APPROVER",
+      "actionid": 1610,
+      "tenantId": "hp.Shimla"
+    },
+    {
+      "rolecode": "PROPERTY_APPROVER",
+      "actionid": 1611,
+      "tenantId": "hp.Shimla"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1612,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1613,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1614,
+      "tenantId": "EMPLOYEE"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1615,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1616,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1617,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1618,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1619,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1620,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1621,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1622,
       "tenantId": "hp"
     }
     
