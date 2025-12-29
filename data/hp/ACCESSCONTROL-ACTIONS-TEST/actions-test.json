@@ -11768,7 +11768,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1610,
       "name": "Cancel Property Bill",
@@ -11811,7 +11810,9 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "",
-      "allowedRoles": ["EMPLOYEE"]
+      "allowedRoles": [
+        "EMPLOYEE"
+      ]
     },
     {
       "id": 1614,
@@ -11923,6 +11924,19 @@
       "enabled": true,
       "serviceCode": "NOC",
       "tenantId": "hp"
+    },
+    {
+      "id": 1589,
+      "name": "MRF Search Manure Produces List",
+      "url": "/rdf-monitoring/mrf/wet-waste-processed-list",
+      "displayName": "MRF Manure Produced List",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
