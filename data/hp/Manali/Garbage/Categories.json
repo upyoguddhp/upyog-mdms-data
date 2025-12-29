@@ -358,7 +358,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 500,
       "tenantId": "hp.Manali",
       "active": true
     },
@@ -632,7 +632,7 @@
       "subcategorytype": "Government Office (Official)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": true,
-      "variableUnitCost": 75,
+      "variableUnitCost": 50,
       "fixedUnitCost": 0,
       "fee": 50,
       "tenantId": "hp.Manali",

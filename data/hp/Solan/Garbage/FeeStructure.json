@@ -466,7 +466,7 @@
 			"isAdditonalCostAdded": false,
 			"variableUnitCost": 0,
 			"fixedUnitCost": 0,
-			"fee": 750,
+			"fee": 700,
 			"tenantId": "hp.Solan",
 			"active": true
 		},
