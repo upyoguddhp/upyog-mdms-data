@@ -62,15 +62,20 @@
       "active": "true",
       "isStatelevel": "false"
     },
-	{
-		"businessService": "GB_CITIZEN",
-		"active": "true",
-		"isStatelevel": "false"
-	},
-	{
-		"businessService": "GB_EMPLOYEE",
-		"active": "true",
-		"isStatelevel": "false"
-	}
+    {
+      "businessService": "GB_CITIZEN",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "GB_EMPLOYEE",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "NOC",
+      "active": "true",
+      "isStatelevel": "false"
+    }
   ]
 }

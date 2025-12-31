@@ -21,6 +21,10 @@
 	{
       "code": "PGR",
       "isStateLevel": true
+    },
+    {
+      "code": "NOC",
+      "isStateLevel": true
     }
   ]
 }
