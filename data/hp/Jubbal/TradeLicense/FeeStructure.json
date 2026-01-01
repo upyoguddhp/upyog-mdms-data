@@ -1,0 +1,174 @@
+{
+  "tenantId": "hp.Jubbal",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 80,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 800,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1600,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 2400,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1900,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2700,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 800,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 2000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 3200,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 4200,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 120
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 80
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 400
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 800
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 600
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 400
+    },
+    {
+      "tenantId": "hp.Jubbal",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 3
+    }
+  ]
+}
