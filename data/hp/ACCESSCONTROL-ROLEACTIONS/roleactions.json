@@ -29203,6 +29203,24 @@
       "rolecode": "EMPLOYEE",
       "actionid": 1622,
       "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1612,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1621,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1619,
+      "actioncode": "",
+      "tenantId": "hp"
     }
     
   ]
