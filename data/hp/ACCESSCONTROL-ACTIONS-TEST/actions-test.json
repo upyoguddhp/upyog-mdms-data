@@ -11937,6 +11937,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1624,
+      "name": "One Time Settlement Create Request",
+      "url": "/rdf-monitoring/msme/create-application",
+      "displayName": "One Time settlement Create Request",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1625,
+      "name": "One Time Settlement Update",
+      "url": "/rdf-monitoring/msme/update-application",
+      "displayName": "One Time Settlement Update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
