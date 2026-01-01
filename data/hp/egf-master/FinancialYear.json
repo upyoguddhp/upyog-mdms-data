@@ -617,6 +617,34 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "TL"
+    },
+    {
+      "id": "44",
+      "tenantId": "hp",
+      "finYearRange": "2026-27",
+      "name": "2026-27",
+      "code": "2026-27",
+      "startingDate": 1775005283000,
+      "endingDate": 1806537563000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+    {
+      "id": "45",
+      "tenantId": "hp",
+      "finYearRange": "2027-28",
+      "name": "2027-28",
+      "code": "2027-28",
+      "startingDate": 1806541283000,
+      "endingDate": 1838159963000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
     }
   ]
 }
