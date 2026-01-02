@@ -11963,6 +11963,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1626,
+      "name": "One Time Settlement Search Application",
+      "url": "/rdf-monitoring/msme/get-applications",
+      "displayName": "One Time Settlement Search Application",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }

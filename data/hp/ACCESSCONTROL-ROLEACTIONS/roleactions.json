@@ -29215,6 +29215,12 @@
       "actionid": 1625,
       "actioncode": "",
       "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1626,
+      "actioncode": "",
+      "tenantId": "hp"
     }
     
   ]
