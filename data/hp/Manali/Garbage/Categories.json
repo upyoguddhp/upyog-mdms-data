@@ -476,7 +476,7 @@
       "subcategorytype": "Private offices (Non-Official)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": true,
-      "variableUnitCost": 50,
+      "variableUnitCost": 100,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Manali",

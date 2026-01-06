@@ -48,85 +48,85 @@
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 100
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 100
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 5000
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 100
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 2500
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 100
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 100
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 100
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 100
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 1500
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 500
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 500
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 500
+      "price": 1
     },
     {
       "tenantId": "hp.Bhota",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 3
+      "price": 0
     }
   ]
 }
