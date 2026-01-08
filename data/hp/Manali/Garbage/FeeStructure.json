@@ -629,7 +629,7 @@
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Office",
-      "subcategorytype": "Government Office (Official)",
+      "subcategorytype": "State Government Office (Official)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": true,
       "variableUnitCost": 50,
@@ -641,7 +641,31 @@
     {
       "categories": "Govt Establishments",
       "subcategories": "Government Office",
-      "subcategorytype": "Government Office (Non-Official)",
+      "subcategorytype": "State Government Office (Non-Official)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 100,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Manali",
+      "active": true
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Government Office",
+      "subcategorytype": "Central Government Office (Official)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": true,
+      "variableUnitCost": 50,
+      "fixedUnitCost": 0,
+      "fee": 50,
+      "tenantId": "hp.Manali",
+      "active": true
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Government Office",
+      "subcategorytype": "Central Government Office (Non-Official)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": true,
       "variableUnitCost": 100,
