@@ -11976,6 +11976,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+        {
+      "id": 1627,
+      "name": "Resend SMS",
+      "url": "/notification-sms/send-sms",
+      "displayName": "Resend SMS",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
