@@ -21,10 +21,10 @@
     {
       "code": "WATER_NOC",
       "isActive": true,
-      "offlineWF": "WATER_NOC_OFFLINE",
-      "onlineWF": "WATER_NOC_SRV",
+      "offlineWF": "NOC",
+      "onlineWF": "NOC",
       "mode": "online",
-      "NocUserRole": "WATER_NOC_APPROVER"
+      "NocUserRole": "NOC_APPROVER"
     }
   ]
 }
