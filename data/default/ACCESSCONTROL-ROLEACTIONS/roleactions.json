@@ -13927,6 +13927,19 @@
       "actionid": 1535,
       "actioncode": "",
       "tenantid": "default"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1536,
+      "actioncode": "",
+      "tenantid": "hp"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1536,
+      "actioncode": "",
+      "tenantid": "hp"
     }
+    
   ]
 }
