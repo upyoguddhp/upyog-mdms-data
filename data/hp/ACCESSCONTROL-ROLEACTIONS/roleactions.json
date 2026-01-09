@@ -29138,8 +29138,7 @@
       "actionid": 1620,
       "tenantId": "hp"
     },
-    
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1610,
       "tenantId": "hp.Shimla"
@@ -29230,10 +29229,15 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 1627,
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1628,
       "actioncode": "",
       "tenantId": "hp"
     }
-    
   ]
 }
