@@ -29227,9 +29227,21 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-     {
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1629,
       "actioncode": "",
       "tenantId": "hp"
     }
