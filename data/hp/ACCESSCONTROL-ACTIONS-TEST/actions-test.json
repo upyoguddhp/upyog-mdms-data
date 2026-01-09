@@ -12002,6 +12002,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1629,
+      "name": "resend-counter",
+      "url": "notification-sms/resend-counter",
+      "displayName": "Resend-counter",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
