@@ -29079,14 +29079,14 @@
       "tenantId": "hp"
     },
     {
-      "rolecode": "PROPERTY_APPROVER",
+      "rolecode": "EMPLOYEE",
       "actionid": 1609,
-      "tenantId": "hp.Shimla"
+      "tenantId": "hp"
     },
     {
-      "rolecode": "PROPERTY_APPROVER",
+      "rolecode": "CITIZEN",
       "actionid": 1610,
-      "tenantId": "hp.Shimla"
+      "tenantId": "hp"
     },
     {
       "rolecode": "EMPLOYEE",
@@ -29138,14 +29138,13 @@
       "actionid": 1620,
       "tenantId": "hp"
     },
-    
-     {
-      "rolecode": "PROPERTY_APPROVER",
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 1610,
       "tenantId": "hp.Shimla"
     },
     {
-      "rolecode": "PROPERTY_APPROVER",
+      "rolecode": "EMPLOYEE",
       "actionid": 1611,
       "tenantId": "hp.Shimla"
     },
@@ -29203,7 +29202,48 @@
       "rolecode": "EMPLOYEE",
       "actionid": 1622,
       "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1624,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1625,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1626,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1627,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "hp"
     }
-    
   ]
 }
