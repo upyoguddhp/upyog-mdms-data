@@ -294,27 +294,104 @@
               "uuid": "2efb9036-f895-11e8-8eb2-f2801f1b9fd1"
             }
           ]
+        },
+         {
+          "businessServiceId": "NOC",
+          "state": "",
+          "applicableNextStates": "PENDING_APPROVAL",
+          "applicableActions": "INITIATE",
+          "docUploadRequired": "false",
+          "UpdateAllowed": "true",
+          "isTerminateState": "false",
+          "isStartState": "true",
+          "uuid": "noc-start-state-uuid",
+          "tenantId": "hp",
+          "actions": [
+            {
+              "stateId": "noc-start-state-uuid",
+              "action": "INITIATE",
+              "nextStateId": "noc-pending-state-uuid",
+              "roles": "CITIZEN",
+              "tenantId": "hp",
+              "uuid": "noc-initiate-action-uuid"
+            }
+          ]
+        },
+        {
+          "businessServiceId": "NOC",
+          "state": "PENDING_APPROVAL",
+          "applicableNextStates": "APPROVED,REJECTED",
+          "applicableActions": "APPROVE,REJECT",
+          "docUploadRequired": "false",
+          "UpdateAllowed": "true",
+          "isTerminateState": "false",
+          "isStartState": "false",
+          "uuid": "noc-pending-state-uuid",
+          "tenantId": "hp",
+          "actions": [
+            {
+              "stateId": "noc-pending-state-uuid",
+              "action": "APPROVE",
+              "nextStateId": "noc-approved-state-uuid",
+              "roles": "NOC_APPROVER",
+              "tenantId": "hp",
+              "uuid": "noc-approve-action-uuid"
+            },
+            {
+              "stateId": "noc-pending-state-uuid",
+              "action": "REJECT",
+              "nextStateId": "noc-rejected-state-uuid",
+              "roles": "NOC_APPROVER",
+              "tenantId": "hp",
+              "uuid": "noc-reject-action-uuid"
+            }
+          ]
+        },
+        {
+          "businessServiceId": "NOC",
+          "state": "APPROVED",
+          "applicableNextStates": "",
+          "applicableActions": "",
+          "docUploadRequired": "false",
+          "UpdateAllowed": "false",
+          "isTerminateState": "true",
+          "isStartState": "false",
+          "uuid": "noc-approved-state-uuid",
+          "tenantId": "hp",
+          "actions": []
+        },
+        {
+          "businessServiceId": "NOC",
+          "state": "REJECTED",
+          "applicableNextStates": "",
+          "applicableActions": "",
+          "docUploadRequired": "false",
+          "UpdateAllowed": "false",
+          "isTerminateState": "true",
+          "isStartState": "false",
+          "uuid": "noc-rejected-state-uuid",
+          "tenantId": "hp",
+          "actions": []
         }
       ]
     },
     {
-  "tenantId": "hp",
-  "businessService": "PROPERTY_EMPLOYEE",
-  "business": "PT",
-  "states": [
-    {
-      "state": "INITIATED",
-      "isStartState": true,
-      "isTerminateState": false,
-      "actions": [
+      "tenantId": "hp",
+      "businessService": "PROPERTY_EMPLOYEE",
+      "business": "PT",
+      "states": [
         {
-          "action": "INITIATE",
-          "roles": "PT_DOC_VERIFIER"
+          "state": "INITIATED",
+          "isStartState": true,
+          "isTerminateState": false,
+          "actions": [
+            {
+              "action": "INITIATE",
+              "roles": "PT_DOC_VERIFIER"
+            }
+          ]
         }
       ]
     }
-  ]
- }
-
   ]
 }
