@@ -61,6 +61,66 @@
                     "required": false
                 }
             ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "ELECTRICITY_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICITY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ELECTRICITY_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICITY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "ELECTRICITY_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICITY",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "WATER_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "WATER_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "WATER_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER",
+                    "required": false
+                }
+            ]
         }
     ]
 }
