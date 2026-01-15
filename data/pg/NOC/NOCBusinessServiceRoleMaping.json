@@ -25,6 +25,14 @@
                 "ELECTRICITY_NOC_APPROVER"
             ],
             "i18nKey": "WF_FIRE_NOC_ELECTRICITY_NOC_SRV"
+        },
+        {
+            "code": "WATER_NOC_SRV",
+            "active": true,
+            "roles": [
+                "WATER_NOC_APPROVER"
+            ],
+            "i18nKey": "WF_FIRE_NOC_WATER_NOC_SRV"
         }
     ]
 }

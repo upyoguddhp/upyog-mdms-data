@@ -91,6 +91,36 @@
                     "required": false
                 }
             ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "WATER_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "WATER_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "WATER_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER",
+                    "required": false
+                }
+            ]
         }
     ]
 }
