@@ -1992,9 +1992,6 @@
       "businessService": "GarbageCollection",
       "code": "GB",
       "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
@@ -2048,9 +2045,6 @@
       "businessService": "PROPERTY_EMPLOYEE",
       "code": "PROPERTY_EMPLOYEE",
       "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
@@ -2062,9 +2056,6 @@
       "businessService": "PROPERTY",
       "code": "PROPERTY",
       "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
