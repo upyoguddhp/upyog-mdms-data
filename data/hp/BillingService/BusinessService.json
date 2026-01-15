@@ -2043,7 +2043,7 @@
     },
     {
       "businessService": "PROPERTY_EMPLOYEE",
-      "code": "PROPERTY_EMPLOYEE",
+      "code": "PROPERTY_EMPLOYEE", 
       "collectionModesNotAllowed": [
         "POSTAL_ORDER"
       ],
