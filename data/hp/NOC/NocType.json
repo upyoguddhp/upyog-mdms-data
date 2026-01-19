@@ -33,6 +33,15 @@
       "onlineWF": "ELECTRICITY_NOC_SRV",
       "mode": "online",
       "NocUserRole": "ELECTRICITY_NOC_APPROVER"
+    },
+
+    {
+      "code": "NOC",
+      "isActive": true,
+      "offlineWF": "NOC",
+      "onlineWF": "NOC",
+      "mode": "online",
+      "NocUserRole": "NOC_APPROVER"
     }
   ]
 }
