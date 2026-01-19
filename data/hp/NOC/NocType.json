@@ -34,7 +34,6 @@
       "mode": "online",
       "NocUserRole": "ELECTRICITY_NOC_APPROVER"
     },
-
     {
       "code": "NOC",
       "isActive": true,
