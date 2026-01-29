@@ -344,8 +344,8 @@
     },
     {
       "code": "NOC_APPROVER",
-      "name": "NoC counter Approver",
-      "description": "Fire NOC Approver"
+      "name": "Noc Approver",
+      "description": "One who approve NOC"
     },
     {
       "code": "BPA_ARCHITECT",
@@ -667,17 +667,17 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
-	{
+    {
       "code": "PT_REPORT_VIEWER",
       "name": "PT Report Viewer",
       "description": "PT User that can view tabular reports"
     },
-	{
+    {
       "code": "PGR_REPORT_VIEWER",
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
-	{
+    {
       "code": "MCOLLECT_REPORT_VIEWER",
       "name": "MCollect Report Viewer",
       "description": "MCollect User that can view tabular reports"
@@ -772,7 +772,7 @@
       "name": "Hall Document Verifier",
       "description": "Hall Application Document Verifier"
     },
-	{
+    {
       "code": "SITE_APPROVER",
       "name": "Site Approver",
       "description": "SITE Application Approver"
@@ -801,7 +801,7 @@
       "code": "SECRETARY",
       "name": "Secretary",
       "description": "Secretary"
-    } ,
+    },
     {
       "code": "ASSET_CREATOR",
       "name": "ASSET CREATOR",
@@ -838,22 +838,22 @@
       "description": "RDF Admin User"
     },
     {
-      "code":"RDF_VERIFIER",
+      "code": "RDF_VERIFIER",
       "name": "RDF VERIFIER",
       "description": "RDF ULB VERIFIER"
     },
     {
-      "code":"RDF_CEMENT_FACTORY_NODAL",
+      "code": "RDF_CEMENT_FACTORY_NODAL",
       "name": "RDF CEMENT FACTORY NODAL",
       "description": "CEMENT FACTORY NODAL"
     },
     {
-      "code":"UD_ADMIN",
+      "code": "UD_ADMIN",
       "name": "UD ADMIN",
       "description": "UD ADMIN"
     },
     {
-      "code":"SEVA_BANDHU",
+      "code": "SEVA_BANDHU",
       "name": "Seva Bandhu",
       "description": "Seva Bandhu"
     },
@@ -876,7 +876,11 @@
       "code": "BILL_COLLECTOR",
       "name": "BILL COLLECTOR",
       "description": "One who collect bills"
+    },
+    {
+      "code": "NOC_NODAL",
+      "name": "Noc Verifier",
+      "description": "One who verify Noc"
     }
-    
   ]
 }
