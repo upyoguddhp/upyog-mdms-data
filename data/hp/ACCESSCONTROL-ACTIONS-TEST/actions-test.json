@@ -12015,6 +12015,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1630,
+      "name": "Reverse Rebate Amount",
+      "url": "/garbage-service/garbage-accounts-scheduler/reverse-rebate-amount",
+      "displayName": "Reverse Rebate Amount",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
