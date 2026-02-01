@@ -6902,6 +6902,16 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "NOC",
+      "name": "NOC Fee",
+      "code": "NOC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
     }
   ]
 }
