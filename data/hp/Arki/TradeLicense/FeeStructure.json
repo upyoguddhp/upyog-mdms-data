@@ -13,7 +13,7 @@
       "tenantId": "hp.Arki",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 400,
+      "price": 1,
       "periodOfLicense": 5
     },
     {
@@ -27,7 +27,7 @@
       "tenantId": "hp.Arki",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 400,
+      "price": 1,
       "periodOfLicense": 5
     },
     {
@@ -48,85 +48,79 @@
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 2000
+      "price": 1800
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price":200
+      "price":0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 200
+      "price": 300
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Arki",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 200
+      "price": 0
     },
-    {
-      "tenantId": "hp.Arki",
-      "feeStructureOf": "zone",
-      "type": "A",
-      "price": 1
-    }
   ]
 }
