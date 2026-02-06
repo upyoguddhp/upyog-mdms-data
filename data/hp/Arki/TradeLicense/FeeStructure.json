@@ -1,0 +1,174 @@
+{
+  "tenantId": "hp.Arki",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 400,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 700,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1000,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 400,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 700,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 100,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
+    }
+  ]
+}
