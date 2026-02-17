@@ -1,0 +1,126 @@
+{
+  "tenantId": "hp.Arki",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 1800
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price":0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 0
+    },
+    {
+      "tenantId": "hp.Arki",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 0
+    }
+  ]
+}

@@ -2474,6 +2474,18 @@
       "isActive": true,
       "type": "Adhoc",
       "groupedTo": "Municipal_Receipts_and_Certificates"
-    }
+    },
+    {
+      "businessService": "NOC",
+      "code": "NOC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "callBackForApportioning": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
+      "isBillAmendmentEnabled": false,
+      "billGenerationEnabled": true
+  }
+
   ]
 }

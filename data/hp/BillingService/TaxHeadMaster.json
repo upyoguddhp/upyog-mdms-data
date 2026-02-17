@@ -6904,6 +6904,16 @@
       "isRequired": false
     },
     {
+      "category": "FEE",
+      "service": "NOC",
+      "name": "NOC Fee",
+      "code": "NOC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
       "category": "PENALTY",
       "service": "GB",
       "name": "Garbage Penalty",
