@@ -12016,7 +12016,20 @@
       "code": "null",
       "path": ""
     },
-    {
+
+     {  "id": 1630,
+      "name": "Create Pet Registration Renewal",
+      "url": "/pet-services/pet-registration/_renewal",
+      "displayName": "Create Pet Registration Renewal",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+     {
       "id": 1631,
       "name": "sevabandu-calendar",
       "url": "/rdf-monitoring/sevabandhu/_calendar",
