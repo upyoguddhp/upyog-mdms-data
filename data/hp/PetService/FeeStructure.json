@@ -177,6 +177,10 @@
     {
       "tenantId": "hp.PoantaSahib",
       "price": 50
+    },
+    {
+      "tenantId": "hp.Parwanoo",
+      "price": 300
     }
   ]
 }

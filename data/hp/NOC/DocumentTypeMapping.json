@@ -91,6 +91,36 @@
           "required": false
         }
       ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "ELECTRICITY_AUTHORITY",
+      "docTypes": [
+        {
+          "documentType": "NOC.ELECTRICITY",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "ELECTRICITY_AUTHORITY",
+      "docTypes": [
+        {
+          "documentType": "NOC.ELECTRICITY",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "ELECTRICITY_AUTHORITY",
+      "docTypes": [
+        {
+          "documentType": "NOC.ELECTRICITY",
+          "required": false
+        }
+      ]
     }
   ]
 }

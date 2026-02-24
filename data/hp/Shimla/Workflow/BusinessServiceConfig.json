@@ -6,7 +6,7 @@
       "code": "NEWTL",
       "isStateLevel": true
     },
-	{
+    {
       "code": "BPA",
       "isStateLevel": true
     },
@@ -14,8 +14,12 @@
       "code": "FIRENOC",
       "isStateLevel": true
     },
-	{
+    {
       "code": "SITE",
+      "isStateLevel": true
+    },
+    {
+      "code": "NOC",
       "isStateLevel": true
     }
   ]

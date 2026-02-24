@@ -10753,6 +10753,19 @@
       "serviceCode": "Employee",
       "code": "null",
       "path": "Employee Management.Employee Masters.Employee.SearchEmployee"
-    }
+    },
+    {
+  "id": 1536,
+  "name": "TaxCalculator",
+  "url": "/property-services/property-scheduler/tax-calculator",
+  "displayName": "Tax Calculator",
+  "orderNumber": 1,
+  "parentModule": "PROPERTY",
+  "enabled": true,
+  "serviceCode": "Property",
+  "code": "TAX_CALCULATOR",
+  "path": "Property Services.Property Scheduler.Tax Calculator"
+}
+
   ]
 }
