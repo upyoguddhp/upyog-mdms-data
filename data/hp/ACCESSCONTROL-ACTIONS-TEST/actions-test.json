@@ -12132,6 +12132,20 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 1638,
+      "name": "bulk bill uploads",
+      "url": "/property-services/property-scheduler/bulk-uploads",
+      "displayName": "Sevabandhu Booking Request Update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
+    
   ]
 }
