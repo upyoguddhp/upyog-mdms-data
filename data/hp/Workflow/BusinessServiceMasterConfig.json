@@ -91,6 +91,11 @@
       "businessService": "NOC",
       "active": "true",
       "isStatelevel": "false"
+    },
+     {
+      "businessService": "SEVABANDHU",
+      "active": "true",
+      "isStatelevel": "true"
     }
   ]
 }

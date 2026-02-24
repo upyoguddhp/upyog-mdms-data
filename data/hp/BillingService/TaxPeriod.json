@@ -1953,6 +1953,14 @@
       "service": "CHLTAH",
       "code": "CHTAH2025",
       "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "NOC",
+      "code": "NOC2025",
+      "financialYear": "2024-29"
     }
   ]
 }
