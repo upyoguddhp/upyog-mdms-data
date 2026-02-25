@@ -11810,9 +11810,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "",
-      "allowedRoles": [
-        "EMPLOYEE"
-      ]
+      "allowedRoles": ["EMPLOYEE"]
     },
     {
       "id": 1614,
@@ -11977,7 +11975,7 @@
       "code": "null",
       "path": ""
     },
-        {
+    {
       "id": 1627,
       "name": "Resend SMS",
       "url": "/notification-sms/send-sms",
@@ -12017,7 +12015,7 @@
       "path": ""
     },
     {
-      "id": 1630, 
+      "id": 1630,
       "name": "Reverse Rebate Amount",
       "url": "/garbage-service/garbage-accounts-scheduler/reverse-rebate-amount",
       "displayName": "Reverse Rebate Amount",
@@ -12030,8 +12028,8 @@
       "path": ""
     },
 
-     {  "id": 1631,
-       {  "id": 1630,
+    {
+      "id": 1631,
       "name": "Create Pet Registration Renewal",
       "url": "/pet-services/pet-registration/_renewal",
       "displayName": "Create Pet Registration Renewal",
@@ -12043,7 +12041,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1632,
       "name": "sevabandu-calendar",
       "url": "/rdf-monitoring/sevabandhu/_calendar",
@@ -12055,8 +12053,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
-     {
+    },
+    {
       "id": 1633,
       "name": "sevabandu-userbookinghistory",
       "url": "/rdf-monitoring/sevabandhu/_userbookinghistory",
@@ -12108,7 +12106,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1637,
       "name": "sevabandu-getreviewrattingsummery",
       "url": "/rdf-monitoring/sevabandhu/_getreviewrattingsummery",
@@ -12121,7 +12119,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1638,
       "name": "sevabandu-bookingupdate",
       "url": "/rdf-monitoring/sevabandhu/_bookingupdate",
@@ -12133,7 +12131,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    } ,
+    },
     {
       "id": 1639,
       "name": "bulk bill uploads",
