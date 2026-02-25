@@ -29195,7 +29195,7 @@
       "tenantId": "hp.Shimla"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "CITIZEN",
       "actionid": 1612,
       "tenantId": "hp"
     },
@@ -29241,6 +29241,11 @@
     },
     {
       "rolecode": "EMPLOYEE",
+      "actionid": 1621,
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 1621,
       "tenantId": "hp"
     },
