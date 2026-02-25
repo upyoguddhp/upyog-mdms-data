@@ -757,6 +757,10 @@
     {
       "format": "PT//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "property.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chldw.receipt.id"
     }
   ]
 }
