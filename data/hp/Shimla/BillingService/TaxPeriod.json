@@ -94,72 +94,72 @@
       "fromDate": 1459449000000,
       "toDate": 1490984999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2016",
+      "service": "NewTL",
+      "code": "NewTLAN2016",
       "financialYear": "2016-17"
     },
     {
       "fromDate": 1490985000000,
       "toDate": 1522520999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2017",
+      "service": "NewTL",
+      "code": "NewTLAN2017",
       "financialYear": "2017-18"
     },
     {
       "fromDate": 1522521000000,
       "toDate": 1554056999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2018",
+      "service": "NewTL",
+      "code": "NewTLAN2018",
       "financialYear": "2018-19"
     },
     {
       "fromDate": 1554057000000,
       "toDate": 1585679399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2019",
+      "service": "NewTL",
+      "code": "NewTLAN2019",
       "financialYear": "2019-20"
     },
     {
       "fromDate": 1585679400000,
       "toDate": 1617215399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2020",
+      "service": "NewTL",
+      "code": "NewTLAN2020",
       "financialYear": "2020-21"
     },
     {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2020",
+      "service": "NewTL",
+      "code": "NewTLAN2020",
       "financialYear": "2021-22"
     },
     {
       "fromDate": 1648751400000,
       "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2022",
+      "service": "NewTL",
+      "code": "NewTLAN2022",
       "financialYear": "2022-23"
     },
     {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2023",
+      "service": "NewTL",
+      "code": "NewTLAN2023",
       "financialYear": "2023-24"
     },
     {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2024",
+      "service": "NewTL",
+      "code": "NewTLAN2024",
       "financialYear": "2024-25"
     },
     {
@@ -310,16 +310,16 @@
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLRENEWAL2024",
+      "service": "NewTL",
+      "code": "NewTLRENEWAL2024",
       "financialYear": "2024-25"
     },
     {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLRENEWAL2023",
+      "service": "NewTL",
+      "code": "NewTLRENEWAL2023",
       "financialYear": "2023-24"
     },
     {

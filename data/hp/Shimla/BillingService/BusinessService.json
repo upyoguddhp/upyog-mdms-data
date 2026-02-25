@@ -48,20 +48,6 @@
     },
     {
       "businessService": "TradeLicense",
-      "code": "TL",
-      "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "demandUpdateTime": 604800000,
-      "isVoucherCreationEnabled": true
-    },
-    {
-      "businessService": "TradeLicense",
       "code": "NewTL",
       "collectionModesNotAllowed": [
         "DD",
@@ -1178,8 +1164,8 @@
       "isActive": true
     },
     {
-      "businessService": "TL.RENEWAL",
-      "code": "TL.RENEWAL",
+      "businessService": "NewTL.RENEWAL",
+      "code": "NewTL.RENEWAL",
       "collectionModesNotAllowed": [
         "DD"
       ],

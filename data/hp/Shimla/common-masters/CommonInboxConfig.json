@@ -14,7 +14,7 @@
               }
         },
         {
-            "moduleName": "TL",
+            "moduleName": "NewTL",
             "BusinessService": "NewTL",
             "roles": ["TL_CEMP", "TL_DOC_VERIFIER","TL_APPROVER","TL_FIELD_INSPECTOR"],
             "active": false,
@@ -50,7 +50,7 @@
               }
         },
         {
-            "moduleName": "TL",
+            "moduleName": "NewTL",
             "BusinessService": "DIRECTRENEWAL",
             "roles": ["TL_CEMP", "TL_DOC_VERIFIER","TL_APPROVER","TL_FIELD_INSPECTOR"],
             "active": true,
@@ -62,7 +62,7 @@
               }
         },
         {
-            "moduleName": "TL",
+            "moduleName": "NewTL",
             "BusinessService": "EDITRENEWAL",
             "roles": ["TL_CEMP", "TL_DOC_VERIFIER","TL_APPROVER","TL_FIELD_INSPECTOR"],
             "active": true,
