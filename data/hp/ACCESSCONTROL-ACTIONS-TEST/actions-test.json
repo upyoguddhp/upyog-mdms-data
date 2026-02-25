@@ -12027,6 +12027,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+       {
+      "id": 1631,
+      "name": "Renewal Trade License",
+      "url": "/tl-services/v1/NewTL/_renewal",
+      "displayName": "Renewal Trade License",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 1632,
+      "name": "pgr-services Data fetch",
+      "url": "/pgr-services/data-dashboard/data-metrics",
+      "displayName": "Data-metrics",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "163",
+      "enabled": true,
+      "serviceCode": "GRV",
+      "code": "null",
+      "path": "Grievance Redressal.Grievance.Create Complaint"
     }
   ]
 }

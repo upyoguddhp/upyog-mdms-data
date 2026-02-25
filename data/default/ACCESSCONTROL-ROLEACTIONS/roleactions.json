@@ -3086,6 +3086,12 @@
       "actioncode": "",
       "tenantid": "default"
     },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantid": "default"
+    },
     {
       "rolecode": "GA",
       "actionid": 288,
@@ -13936,7 +13942,13 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 1536,
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantid": "hp"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1537,
       "actioncode": "",
       "tenantid": "hp"
     }
