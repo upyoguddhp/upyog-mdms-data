@@ -181,6 +181,10 @@
     {
       "tenantId": "hp.Parwanoo",
       "price": 300
-    }
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "price": 1000
+    },
   ]
 }
