@@ -185,6 +185,10 @@
     {
       "tenantId": "hp.Nalagarh",
       "price": 1000
+    },
+    {
+      "tenantId": "hp.Chopal",
+      "price": 50
     }
   ]
 }
