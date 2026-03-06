@@ -6,121 +6,121 @@
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "scaleOfBusiness",
             "type": "Small",
-            "price": 50,
-            "periodOfLicense": 1
-        },
-        {
-            "tenantId": "hp.Narkanda",
-            "feeStructureOf": "scaleOfBusiness",
-            "type": "Small",
-            "price": 250,
-            "periodOfLicense": 5
-        },
-        {
-            "tenantId": "hp.Narkanda",
-            "feeStructureOf": "scaleOfBusiness",
-            "type": "Medium",
-            "price": 70,
-            "periodOfLicense": 1
-        },
-        {
-            "tenantId": "hp.Narkanda",
-            "feeStructureOf": "scaleOfBusiness",
-            "type": "Medium",
-            "price": 350,
-            "periodOfLicense": 5
-        },
-        {
-            "tenantId": "hp.Narkanda",
-            "feeStructureOf": "scaleOfBusiness",
-            "type": "Large",
             "price": 100,
             "periodOfLicense": 1
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "scaleOfBusiness",
-            "type": "Large",
+            "type": "Small",
             "price": 500,
+            "periodOfLicense": 5
+        },
+        {
+            "tenantId": "hp.Narkanda",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 150,
+            "periodOfLicense": 1
+        },
+        {
+            "tenantId": "hp.Narkanda",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Medium",
+            "price": 750,
+            "periodOfLicense": 5
+        },
+        {
+            "tenantId": "hp.Narkanda",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 200,
+            "periodOfLicense": 1
+        },
+        {
+            "tenantId": "hp.Narkanda",
+            "feeStructureOf": "scaleOfBusiness",
+            "type": "Large",
+            "price": 1000,
             "periodOfLicense": 5
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Agriculture",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Automotive",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Banking Finance Services Insurance (BFSI)",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Common Trades",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Education, Skills & Development",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Handloom & Handicrafts",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "IT/ ITES Services",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Luxury Goods",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Manufacturing, Industries and Industrial Materials",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Tourism & Hospitality",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
             "feeStructureOf": "tradeCategory",
             "type": "Transportation & Logistics",
-            "price": 20
+            "price": 100
         },
         {
             "tenantId": "hp.Narkanda",
