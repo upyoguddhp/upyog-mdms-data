@@ -189,6 +189,10 @@
     {
       "tenantId": "hp.Chopal",
       "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "price": 700
     }
   ]
 }
