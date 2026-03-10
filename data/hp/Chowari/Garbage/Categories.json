@@ -5,26 +5,26 @@
     {
       "categories": "Residential",
       "subcategories": "Household",
-      "subcategorytype": "Area Less Than 2000 Sq. Feet",
+      "subcategorytype": "Area less than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": "50",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Residential",
       "subcategories": "Household",
-      "subcategorytype": "Area More Than 2000 Sq. Feet",
+      "subcategorytype": "Area more than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": "50",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -34,9 +34,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -46,9 +46,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -58,9 +58,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -70,9 +70,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -82,9 +82,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -94,9 +94,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -106,9 +106,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -118,9 +118,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -130,9 +130,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -142,9 +142,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -154,9 +154,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -166,9 +166,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -178,9 +178,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -190,21 +190,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Marriage Halls (monthly)",
-      "subcategorytype": "Private Marriage Halls (monthly)",
+      "subcategories": "Private Marriage Halls",
+      "subcategorytype": "Private Marriage Halls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": "500",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -214,9 +214,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -226,21 +226,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
-      "subcategories": "Nursing Homes",
+      "subcategories": "Private Hospital",
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": "500",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -250,9 +250,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -262,9 +262,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -274,9 +274,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -286,9 +286,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -298,21 +298,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": "100",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Govt High/ Senior Secondary School",
-      "subcategorytype": "Govt High / Senior Secondary School",
+      "subcategories": "Govt Senior/ Senior Secondary School",
+      "subcategorytype": "Govt Senior/ Senior Secondary School",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -322,9 +322,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": "50",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -334,57 +334,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 400,
+      "fee": "400",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 2 Rooms)",
+      "subcategories": "State Govt Office",
+      "subcategorytype": "State Govt Office",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 3-5 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 6-10 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 11-20 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -394,93 +358,33 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 2 Rooms)",
+      "subcategorytype": "ULB Office",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": "300",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 3-5 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 6-10 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 11-20 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 50 Beds",
+      "subcategorytype": "Govt Hospitals",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": "500",
       "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Chowari",
-      "active": "TRUE"
+      "active": true
     }
   ]
 }
