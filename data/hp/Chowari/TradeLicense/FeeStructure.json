@@ -12,13 +12,6 @@
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "scaleOfBusiness",
-            "type": "Small",
-            "price": 300,
-            "periodOfLicense": 5
-        },
-        {
-            "tenantId": "hp.Chowari",
-            "feeStructureOf": "scaleOfBusiness",
             "type": "Medium",
             "price": 200,
             "periodOfLicense": 1
@@ -26,77 +19,63 @@
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "scaleOfBusiness",
-            "type": "Medium",
-            "price": 700,
-            "periodOfLicense": 5
-        },
-        {
-            "tenantId": "hp.Chowari",
-            "feeStructureOf": "scaleOfBusiness",
             "type": "Large",
             "price": 300,
             "periodOfLicense": 1
         },
         {
             "tenantId": "hp.Chowari",
-            "feeStructureOf": "scaleOfBusiness",
-            "type": "Large",
-            "price": 800,
-            "periodOfLicense": 5
-        },
-        {
-            "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Agriculture",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Automotive",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Banking Finance Services Insurance (BFSI)",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Common Trades",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Education, Skills & Development",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-            "price": 0
+            "price": 1000
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Handloom & Handicrafts",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "IT/ ITES Services",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Luxury Goods",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
@@ -120,13 +99,13 @@
             "tenantId": "hp.Chowari",
             "feeStructureOf": "tradeCategory",
             "type": "Transportation & Logistics",
-            "price": 0
+            "price": 100
         },
         {
             "tenantId": "hp.Chowari",
             "feeStructureOf": "zone",
             "type": "A",
-            "price": 0
+            "price": 1
         }
     ]
 }
