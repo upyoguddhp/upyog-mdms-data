@@ -10,7 +10,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "50",
+      "fee": 50,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -22,7 +22,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "50",
+      "fee": 50,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -34,7 +34,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -46,7 +46,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -58,7 +58,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -70,7 +70,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -82,7 +82,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -94,7 +94,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -106,7 +106,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -118,7 +118,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -130,7 +130,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -142,7 +142,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -154,7 +154,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -166,7 +166,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -178,7 +178,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -190,7 +190,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -202,7 +202,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "500",
+      "fee": 500,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -214,7 +214,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -226,7 +226,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -238,7 +238,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "500",
+      "fee": 500,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -250,7 +250,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -262,7 +262,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -274,7 +274,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -286,7 +286,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -298,7 +298,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "100",
+      "fee": 100,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -310,7 +310,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -322,7 +322,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "50",
+      "fee": 50,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -334,7 +334,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "400",
+      "fee": 400,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -346,7 +346,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -358,7 +358,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -370,7 +370,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "300",
+      "fee": 300,
       "tenantId": "hp.Chowari",
       "active": true
     },
@@ -382,7 +382,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": "500",
+      "fee": 500,
       "tenantId": "hp.Chowari",
       "active": true
     }
