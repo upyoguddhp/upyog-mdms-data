@@ -861,6 +861,10 @@
     {
       "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "chltah.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "reqserv.receipt.id"
     }
  
     
