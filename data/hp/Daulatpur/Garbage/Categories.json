@@ -16,7 +16,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Tea shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -28,8 +28,8 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
-      "subcategorytype": "Confectionery & Bakery",
+      "subcategories": "Shops",
+      "subcategorytype": "Confectionary & Backery",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
@@ -40,7 +40,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shop (Wholesale)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -52,7 +52,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Vegetable & Fruit Shop (Retail)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -64,8 +64,8 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
-      "subcategorytype": "Groceries & daily needs",
+      "subcategories": "Shops",
+      "subcategorytype": "Groceries & Daily needs shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
@@ -76,8 +76,8 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
-      "subcategorytype": "Cloth shop",
+      "subcategories": "Shops",
+      "subcategorytype": "Clothes  shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
@@ -88,8 +88,8 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
-      "subcategorytype": "Dhaba’s",
+      "subcategories": "Shops",
+      "subcategorytype": "Dhabas",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
@@ -100,7 +100,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Barber shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -112,7 +112,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Book depot",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -124,8 +124,8 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
-      "subcategorytype": "Crookery shop",
+      "subcategories": "Shops",
+      "subcategorytype": "Crockery ",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
@@ -136,7 +136,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Pesticide & Fungicide",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -148,7 +148,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Shoes shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -160,8 +160,8 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
-      "subcategorytype": "Jeweller",
+      "subcategories": "Shops",
+      "subcategorytype": "Jewellar",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
@@ -172,7 +172,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Electronics & Electrician  ",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -184,7 +184,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Tailoring & clothing",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -196,7 +196,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Boutique",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -208,7 +208,7 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Meat & fish shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -220,13 +220,49 @@
     },
     {
       "categories": "Commercial",
-      "subcategories": "Shop",
+      "subcategories": "Shops",
       "subcategorytype": "Hardware",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 50,
+      "tenantId": "hp.Daulatpur",
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Restaurants ",
+      "subcategorytype": "Private Restaurant  ",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Daulatpur",
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels  ",
+      "subcategorytype": "0-3 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Daulatpur",
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private Hotels  ",
+      "subcategorytype": "3-10 Rooms",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
       "tenantId": "hp.Daulatpur",
       "active": true
     },
@@ -425,6 +461,18 @@
     {
       "categories": " Govt Establishments",
       "subcategories": "Govt Offices",
+      "subcategorytype": "Post Office",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Daulatpur",
+      "active": true
+    },
+    {
+      "categories": " Govt Establishments",
+      "subcategories": "Govt Offices",
       "subcategorytype": "Govt Hospital",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
@@ -436,13 +484,25 @@
     },
     {
       "categories": "Bank",
-      "subcategories": "Bank Govt. & Private",
+      "subcategories": "Bank Govt. & Priavate",
       "subcategorytype": "Bank",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 750,
+      "tenantId": "hp.Daulatpur",
+      "active": true
+    },
+    {
+      "categories": "Hospital & Health Care",
+      "subcategories": "Private Hospital",
+      "subcategorytype": "Up to 30 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 1500,
       "tenantId": "hp.Daulatpur",
       "active": true
     },
@@ -467,6 +527,18 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 200,
+      "tenantId": "hp.Daulatpur",
+      "active": true
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Other",
+      "subcategorytype": "Other",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 50,
       "tenantId": "hp.Daulatpur",
       "active": true
     }
