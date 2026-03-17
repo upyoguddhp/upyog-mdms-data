@@ -1992,9 +1992,6 @@
       "businessService": "GarbageCollection",
       "code": "GB",
       "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
@@ -2046,11 +2043,8 @@
     },
     {
       "businessService": "PROPERTY_EMPLOYEE",
-      "code": "PROPERTY_EMPLOYEE",
+      "code": "PROPERTY_EMPLOYEE", 
       "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
@@ -2062,9 +2056,6 @@
       "businessService": "PROPERTY",
       "code": "PROPERTY",
       "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
@@ -2188,7 +2179,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLUC",
@@ -2202,7 +2193,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLRFE",
@@ -2216,7 +2207,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLTD",
@@ -2230,7 +2221,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLBCVC",
@@ -2244,7 +2235,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLFPBG",
@@ -2258,7 +2249,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLMEUC",
@@ -2272,7 +2263,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLPOSR",
@@ -2286,7 +2277,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLPTU",
@@ -2300,54 +2291,12 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
-      "businessService": "CHLSTCD",
-      "code": "CHLSTCD",
-      "description": "Septic Tank cleaning/ Desludging",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
-    },
-    {
-      "businessService": "CHLPE",
-      "code": "CHLPE",
-      "description": "Public events",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
-    },
-    {
-      "businessService": "CHLRL",
-      "code": "CHLRL",
-      "description": "Rallies",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
-    },
-    {
-      "businessService": "CHLPRS",
-      "code": "CHLPRS",
-      "description": "Processions",
+      "businessService": "RequestService",
+      "code": "REQSERV",
+      "description": "Request as service",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -2370,7 +2319,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLDCDC",
@@ -2384,7 +2333,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLDCMC",
@@ -2398,7 +2347,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLICR",
@@ -2412,7 +2361,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLII",
@@ -2426,7 +2375,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLDF",
@@ -2440,7 +2389,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLLPD",
@@ -2454,7 +2403,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Enforcements_and_Dues"
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     },
     {
       "businessService": "CHLRDF",
@@ -2468,7 +2417,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLCMP",
@@ -2482,7 +2431,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLSCP",
@@ -2496,21 +2445,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
-    },
-    {
-      "businessService": "CHLWTR",
-      "code": "CHLWTR",
-      "description": "Water Tank Request",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "groupedTo": "Service_Requests"
+      "groupedTo": "Municipal_Receipts_and_Certificates"
     },
     {
       "businessService": "CHLDOVE",
@@ -2524,7 +2459,33 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "groupedTo": "Proceeds_and_Realizations"
-    }
+      "groupedTo": "Municipal_Receipts_and_Certificates"
+    },
+    {
+      "businessService": "CHLTAH",
+      "code": "CHLTAH",
+      "description": "Temporary Ad Hoardings",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Municipal_Receipts_and_Certificates"
+    },
+    {
+      "businessService": "NOC",
+      "code": "NOC",
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "callBackForApportioning": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
+      "isBillAmendmentEnabled": false,
+      "billGenerationEnabled": true
+  }
+
   ]
 }

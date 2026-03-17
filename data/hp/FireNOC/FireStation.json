@@ -1,0 +1,146 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "FireStation": [
+    {
+      "code": "FS01",
+      "name": "Reckong Peo"
+    },
+    {
+      "code": "FS02",
+      "name": "Rampur"
+    },
+    {
+      "code": "FS03",
+      "name": "Rohru"
+    },
+    {
+      "code": "FS04",
+      "name": "Chopal (Sub Fire Station)"
+    },
+    {
+      "code": "FS05",
+      "name": "Mall Road Shimla"
+    },
+    {
+      "code": "FS06",
+      "name": "Chhota Shimla"
+    },
+    {
+      "code": "FS07",
+      "name": "Tilaknagar (Shimla)"
+    },
+    {
+      "code": "FS08",
+      "name": "Nahan"
+    },
+    {
+      "code": "FS09",
+      "name": "Paonta Sahib"
+    },
+    {
+      "code": "FS10",
+      "name": "Shillar (Sub Fire Station)"
+    },
+    {
+      "code": "FS11",
+      "name": "Bilaspur"
+    },
+    {
+      "code": "FS12",
+      "name": "Jhandutta (Sub Fire Station)"
+    },
+    {
+      "code": "FS13",
+      "name": "Mandi"
+    },
+    {
+      "code": "FS14",
+      "name": "Gohar (Sub Fire Station)"
+    },
+    {
+      "code": "FS15",
+      "name": "Thunag (Sub Fire Station)"
+    },
+    {
+      "code": "FS16",
+      "name": "Dharampur (Sub Fire Station)"
+    },
+    {
+      "code": "FS17",
+      "name": "Nerchowk(Rewalsar) (Sub Fire Station)"
+    },
+    {
+      "code": "FS18",
+      "name": "Kullu"
+    },
+    {
+      "code": "FS19",
+      "name": "Manali"
+    },
+    {
+      "code": "FS20",
+      "name": "Keylong (Sub Fire Station)"
+    },
+    {
+      "code": "FS21",
+      "name": "Udaipur (Sub Fire Station)"
+    },
+    {
+      "code": "FS22",
+      "name": "Chamba"
+    },
+    {
+      "code": "FS23",
+      "name": "Bhattiyat (Sub Fire Station)"
+    },
+    {
+      "code": "FS24",
+      "name": "Dharamshala"
+    },
+    {
+      "code": "FS25",
+      "name": "Palampur"
+    },
+    {
+      "code": "FS26",
+      "name": "Kangra"
+    },
+    {
+      "code": "FS27",
+      "name": "Dheera (Sub Fire Station)"
+    },
+    {
+      "code": "FS28",
+      "name": "Shahpur (Sub Fire Station)"
+    },
+    {
+      "code": "FS29",
+      "name": "Hamirpur"
+    },
+    {
+      "code": "FS30",
+      "name": "Solan"
+    },
+    {
+      "code": "FS31",
+      "name": "Parwanoo"
+    },
+    {
+      "code": "FS32",
+      "name": "Nalagarh"
+    },
+    {
+      "code": "FS33",
+      "name": "Baddi"
+    },
+    {
+      "code": "FS34",
+      "name": "Una"
+    },
+    {
+      "code": "FS35",
+      "name": "Bangana (Sub Fire Station)"
+    }
+  ]
+}

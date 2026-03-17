@@ -1321,6 +1321,29 @@
       "fee": 400,
       "tenantId": "hp.Palampur",
       "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Palampur",
+      "active": "TRUE"
+    },{
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Bank Floor Area > 1000 sq.ft",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 750,
+      "tenantId": "hp.Palampur",
+      "active": "TRUE"
     }
   ]
 }

@@ -168,7 +168,7 @@
             "tenantId": "hp.Gagret",
             "feeStructureOf": "zone",
             "type": "A",
-            "price": 0
+            "price": 1
         }
     ]
 }

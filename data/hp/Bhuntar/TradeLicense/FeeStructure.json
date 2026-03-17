@@ -163,6 +163,12 @@
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 2500
+    },
+    {
+      "tenantId": "hp.Bhuntar",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
     }
   ]
 }

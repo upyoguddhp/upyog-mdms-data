@@ -163,6 +163,12 @@
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 800
+    },
+    {
+      "tenantId": "hp.Tahliwal",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
     }
   ]
 }

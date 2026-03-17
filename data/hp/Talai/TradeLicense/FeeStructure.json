@@ -6,84 +6,84 @@
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Talai",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 900,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Talai",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1800,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Talai",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 2700,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Talai",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
       "price": 500,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 2000,
+      "type": "Medium",
+      "price": 2250,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
+      "type": "Medium",
       "price": 4500,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 6000,
+      "type": "Medium",
+      "price": 6750,
       "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
+      "type": "Large",
       "price": 1000,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 4000,
+      "type": "Large",
+      "price": 4500,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
+      "type": "Large",
       "price": 9000,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 12000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 2000,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 8000,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 18000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Talai",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 24000,
+      "price": 13500,
       "periodOfLicense": 15
     },
     {
@@ -96,7 +96,7 @@
       "tenantId": "hp.Talai",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 150
+      "price": 200
     },
     {
       "tenantId": "hp.Talai",
@@ -114,7 +114,7 @@
       "tenantId": "hp.Talai",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 200
+      "price": 500
     },
     {
       "tenantId": "hp.Talai",
@@ -132,13 +132,13 @@
       "tenantId": "hp.Talai",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 100
+      "price": 300
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 250
+      "price": 300
     },
     {
       "tenantId": "hp.Talai",
@@ -162,12 +162,24 @@
       "tenantId": "hp.Talai",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 250
+      "price": 300
     },
     {
       "tenantId": "hp.Talai",
       "feeStructureOf": "zone",
       "type": "A",
+      "price": 3
+    },
+    {
+      "tenantId": "hp.Talai",
+      "feeStructureOf": "zone",
+      "type": "B",
+      "price": 2
+    },
+    {
+      "tenantId": "hp.Talai",
+      "feeStructureOf": "zone",
+      "type": "C",
       "price": 1
     }
   ]

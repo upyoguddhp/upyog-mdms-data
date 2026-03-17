@@ -1,0 +1,107 @@
+{
+  "tenantId": "hp",
+  "moduleName": "FireNOC",
+  "FireNOCFee": [
+    {
+      "fireStationCode": "FS01",
+      "buildingUsageTypeCode": "BU01",
+      "subTypeCode": "BSU01",
+      "newFee": 1000,
+      "provisionalFee": 200,
+      "renewFee": 800
+    },
+    {
+      "fireStationCode": "FS02",
+      "buildingUsageTypeCode": "BU01",
+      "subTypeCode": "BSU02",
+      "newFee": 2000,
+      "provisionalFee": 1000,
+      "renewFee": 2000
+    },
+
+    {
+      "fireStationCode": "FS03",
+      "buildingUsageTypeCode": "BU02",
+      "subTypeCode": "BSU01",
+      "newFee": 1500,
+      "provisionalFee": 500,
+      "renewFee": 1200
+    },
+    {
+      "fireStationCode": "FS04",
+      "buildingUsageTypeCode": "BU02",
+      "subTypeCode": "BSU02",
+      "newFee": 1800,
+      "provisionalFee": 700,
+      "renewFee": 1500
+    },
+
+    {
+      "fireStationCode": "FS05",
+      "buildingUsageTypeCode": "BU03",
+      "subTypeCode": "BSU01",
+      "newFee": 900,
+      "provisionalFee": 300,
+      "renewFee": 700
+    },
+    {
+      "fireStationCode": "FS06",
+      "buildingUsageTypeCode": "BU03",
+      "subTypeCode": "BSU02",
+      "newFee": 1200,
+      "provisionalFee": 400,
+      "renewFee": 1000
+    },
+
+    {
+      "fireStationCode": "FS07",
+      "buildingUsageTypeCode": "BU04",
+      "subTypeCode": "BSU01",
+      "newFee": 1100,
+      "provisionalFee": 350,
+      "renewFee": 900
+    },
+    {
+      "fireStationCode": "FS08",
+      "buildingUsageTypeCode": "BU04",
+      "subTypeCode": "BSU02",
+      "newFee": 1300,
+      "provisionalFee": 450,
+      "renewFee": 1100
+    },
+
+    {
+      "fireStationCode": "FS09",
+      "buildingUsageTypeCode": "BU05",
+      "subTypeCode": "BSU01",
+      "newFee": 1400,
+      "provisionalFee": 600,
+      "renewFee": 1200
+    },
+    {
+      "fireStationCode": "FS10",
+      "buildingUsageTypeCode": "BU05",
+      "subTypeCode": "BSU02",
+      "newFee": 1600,
+      "provisionalFee": 650,
+      "renewFee": 1400
+    },
+
+    {
+      "fireStationCode": "FS11",
+      "buildingUsageTypeCode": "BU06",
+      "subTypeCode": "BSU01",
+      "newFee": 1700,
+      "provisionalFee": 750,
+      "renewFee": 1500
+    },
+    {
+      "fireStationCode": "FS12",
+      "buildingUsageTypeCode": "BU06",
+      "subTypeCode": "BSU02",
+      "newFee": 1900,
+      "provisionalFee": 850,
+      "renewFee": 1700
+    }
+  ]
+}

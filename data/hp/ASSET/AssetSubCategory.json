@@ -99,6 +99,12 @@
         "assetCategory": "COMMERCIAL"
       },
       {
+        "name": "Shops",
+        "code": "SHOPS",
+        "active": true,
+        "assetCategory": "COMMERCIAL"
+      },
+      {
         "name": "NA",
         "code": "NA",
         "active": true,

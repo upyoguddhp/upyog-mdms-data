@@ -165,13 +165,13 @@
       "price": 100
     },
     {
-      "tenantId": "hp.Ghumarwin",
+      "tenantId": "hp.Nalagarh",
       "feeStructureOf": "zone",
       "type": "A",
       "price": 1
     },
     {
-      "tenantId": "hp.Ghumarwin",
+      "tenantId": "hp.Nalagarh",
       "feeStructureOf": "zone",
       "type": "B",
       "price": 1
