@@ -29367,14 +29367,8 @@
         "actionid": 1638,
         "actioncode": "",
         "tenantId": "hp"
-      },
-      {
-        "rolecode": "CITIZEN",
-        "actionid": 1638,
-        "actioncode": "",
-        "tenantId": "hp"
       }
-
+     
        
   ]
 }
