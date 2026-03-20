@@ -12053,6 +12053,19 @@
       "serviceCode": "GRV",
       "code": "null",
       "path": "Grievance Redressal.Grievance.Create Complaint"
+    },
+      {
+      "id": 1633,
+      "name": "property-services Data fetch",
+      "url": "/property-services/data-dashboard/data-metrics",
+      "displayName": "Data-metrics",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "163",
+      "enabled": true,
+      "serviceCode": "GRV",
+      "code": "null",
+      "path": "Grievance Redressal.Grievance.Create Complaint"
     }
   ]
 }
