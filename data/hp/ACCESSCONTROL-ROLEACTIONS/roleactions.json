@@ -29455,7 +29455,20 @@
       "actioncode": "",
       
       "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1643,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1643,
+      "actioncode": "",
+      "tenantId": "hp"
     }
+   
 
 
   ]
