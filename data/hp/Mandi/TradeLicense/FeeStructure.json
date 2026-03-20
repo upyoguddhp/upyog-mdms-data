@@ -7,42 +7,42 @@
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": 100,
-        "periodOfLicense": "1"
+        "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Small",
         "price": 500,
-        "periodOfLicense": "5"
+        "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": 500,
-        "periodOfLicense": "1"
+        "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Medium",
         "price": 2500,
-        "periodOfLicense": "5"
+        "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": 1000,
-        "periodOfLicense": "1"
+        "periodOfLicense": 1
     },
     {
         "tenantId": "hp.Mandi",
         "feeStructureOf": "scaleOfBusiness",
         "type": "Large",
         "price": 5000,
-        "periodOfLicense": "5"
+        "periodOfLicense": 5
     },
     {
         "tenantId": "hp.Mandi",
