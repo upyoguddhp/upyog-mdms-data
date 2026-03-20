@@ -62,7 +62,7 @@
         "tenantId": "hp.Mandi",
         "feeStructureOf": "tradeCategory",
         "type": "Banking Finance Services Insurance (BFSI)",
-        "price": 0,
+        "price": 1,
         "periodOfLicense": ""
     },
     {
@@ -139,7 +139,7 @@
         "tenantId": "hp.Mandi",
         "feeStructureOf": "zone",
         "type": "A",
-        "price": 1,
+        "price": 0,
         "periodOfLicense": ""
     }
 ]
