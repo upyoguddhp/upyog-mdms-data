@@ -757,6 +757,106 @@
     {
       "format": "PT//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "property.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chldw.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlcdw.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chllc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlec.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chluc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chluc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlrfe.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chltd.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlbcvc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlfpbg.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlmeuc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlposr.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlptu.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chldcbc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chldcdc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chldcmc.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlicr.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlii.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chldf.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chllpd.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlrdf.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlcmp.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chlscp.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chldove.receipt.id"
+    },
+    {
+      "format": "CHL//[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "chltah.receipt.id"
     }
   ]
 }
