@@ -27746,7 +27746,7 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-       {
+    {
       "rolecode": "CITIZEN",
       "actionid": 1630,
       "actioncode": "",
@@ -29314,7 +29314,7 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-     {
+   {
       "rolecode": "EMPLOYEE",
       "actionid": 1640,
       "actioncode": "",
@@ -29326,7 +29326,7 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1641,
       "actioncode": "",
@@ -29350,7 +29350,7 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1639,
       "actioncode": "",
@@ -29386,7 +29386,7 @@
         "actioncode": "",
         "tenantId": "hp"
       },
-       {
+      {
         "rolecode": "EMPLOYEE",
         "actionid": 1636,
         "actioncode": "",
@@ -29416,15 +29416,12 @@
         "actioncode": "",
         "tenantId": "hp"
       },
-       {
+      {
         "rolecode": "CITIZEN",
         "actionid": 1638,
         "actioncode": "",
         "tenantId": "hp"
       },
-     
-      
-
          {
       "rolecode": "EMPLOYEE",
       "actionid": 1630,
@@ -29437,19 +29434,19 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-     {
+    {
       "rolecode": "CITIZEN",
       "actionid": 1632,
       "actioncode": "",
       "tenantId": "hp"
     },
-       {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1633,
       "actioncode": "",
       "tenantId": "hp"
     },
-      {
+    {
       "rolecode": "CITIZEN",
       "actionid": 1633,
       "actioncode": "",
@@ -29468,8 +29465,5 @@
       "actioncode": "",
       "tenantId": "hp"
     }
-   
-
-
   ]
 }
