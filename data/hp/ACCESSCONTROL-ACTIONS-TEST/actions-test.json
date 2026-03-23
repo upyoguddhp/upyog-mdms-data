@@ -12183,7 +12183,24 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1643,
+      "name": "search file according ward and ulbname",
+      "url": "/hpud-dms-service/dms/downloadFileAccrordingToDate",
+      "displayName": "search file according ward and ulbname",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
+
+
+
+
     
   ]
 }
