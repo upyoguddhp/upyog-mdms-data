@@ -13,21 +13,21 @@
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 400,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 1000,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 1800,
       "periodOfLicense": 15
     },
     {
@@ -41,21 +41,21 @@
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 800,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 1400,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 2000,
       "periodOfLicense": 15
     },
     {
@@ -69,100 +69,100 @@
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 1600,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 2800,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 4000,
       "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 1
+      "price": 250
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 1
+      "price": 350
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 1
+      "price": 1000
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 1
+      "price": 300
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 1
+      "price": 800
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 50
+      "price": 500
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 1
+      "price": 200
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 1
+      "price": 400
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 1
+      "price": 1000
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 1
+      "price": 800
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 1
+      "price": 1000
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 1
+      "price": 900
     },
     {
       "tenantId": "hp.Chopal",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 1
+      "price": 800
     },
     {
       "tenantId": "hp.Chopal",
