@@ -12144,6 +12144,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1640,
+      "name": "Update Custom Amount In Garbage Bills",
+      "url": "/garbage-service/garbage-accounts-scheduler/_updateCustomAmount",
+      "displayName": "Update Custom Amount In Garbage Bills",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }

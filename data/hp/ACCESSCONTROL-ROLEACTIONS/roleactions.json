@@ -29411,6 +29411,18 @@
         "actionid": 1639,
         "actioncode": "",
         "tenantId": "hp"
+      },
+      {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1640,
+        "actioncode": "",
+        "tenantId": "hp"
+      },
+      {
+        "rolecode": "CITIZEN",
+        "actionid": 1640,
+        "actioncode": "",
+        "tenantId": "hp"
       } 
   ]
 }
