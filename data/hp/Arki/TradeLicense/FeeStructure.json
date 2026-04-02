@@ -121,6 +121,12 @@
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
       "price": 0
+    },
+    {
+      "tenantId": "hp.Shimla",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
     }
   ]
 }
