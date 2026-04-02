@@ -193,6 +193,10 @@
     {
       "tenantId": "hp.Jawalamukhi",
       "price": 700
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "price": 500
     }
   ]
 }

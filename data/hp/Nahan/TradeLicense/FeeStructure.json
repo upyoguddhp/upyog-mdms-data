@@ -13,162 +13,162 @@
       "tenantId": "hp.Nahan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 500,
+      "price": 400,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1000,
+      "price": 1,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1500,
+      "price": 1,
       "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 100,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 500,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1500,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
       "price": 150,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 600,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Nahan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Nahan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Nahan",
+      "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 750,
+      "price": 1000,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Nahan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 3500,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1500,
+      "price": 1,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 2250,
+      "price": 1,
       "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 1
+      "price": 100
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 1
+      "price": 150
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 1
+      "price": 500
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 1
+      "price": 100
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 1
+      "price": 200
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 1
+      "price": 100
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 1
+      "price": 100
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 1
+      "price": 100
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 1
+      "price": 250
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 1
+      "price": 500
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 1
+      "price": 1000
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 1
+      "price": 500
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 1
+      "price": 250
     },
     {
       "tenantId": "hp.Nahan",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 0
+      "price": 1
     }
   ]
 }
