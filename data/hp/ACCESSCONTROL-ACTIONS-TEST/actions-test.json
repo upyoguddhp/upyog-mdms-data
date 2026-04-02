@@ -12196,11 +12196,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
-
-
-
-
-    
+    },
+    {
+      "id": 1644,
+      "name": "get garbage trackers",
+      "url": "/garbage-service/garbage-accounts-scheduler/extract-tracker",
+      "displayName": "Get Garbage Trackers",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1645,
+      "name": "get property tax trackers",
+      "url": "/property-services/property-scheduler/extract-tracker",
+      "displayName": "Get Property Tax Trackers",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }    
   ]
 }
