@@ -4,7 +4,7 @@
   "TaxHeadMaster": [
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt adhoc rebate",
       "code": "PT_ADHOC_REBATE",
       "isDebit": true,
@@ -13,7 +13,7 @@
     },
     {
       "category": "ADVANCE_COLLECTION",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt advance carry forward",
       "code": "PT_ADVANCE_CARRYFORWARD",
       "isDebit": true,
@@ -22,7 +22,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt owner exemption",
       "code": "PT_OWNER_EXEMPTION",
       "isDebit": false,
@@ -32,7 +32,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
       "isDebit": false,
@@ -42,7 +42,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt unit usage excemption",
       "code": "PT_UNIT_USAGE_EXEMPTION",
       "isDebit": false,
@@ -52,7 +52,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt adhoc penalty",
       "code": "PT_ADHOC_PENALTY",
       "isDebit": false,
@@ -62,7 +62,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "propertytax",
       "code": "PT_TAX",
       "isDebit": false,
@@ -72,7 +72,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt fire cess",
       "code": "PT_FIRE_CESS",
       "isDebit": false,
@@ -82,7 +82,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt cancer cess",
       "code": "PT_CANCER_CESS",
       "isDebit": false,
@@ -92,7 +92,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt time penalty",
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
@@ -102,7 +102,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt time interest",
       "code": "PT_TIME_INTEREST",
       "isDebit": false,
@@ -112,7 +112,7 @@
     },
     {
       "category": "TAX",
-      "service": "TL",
+      "service": "NewTL",
       "name": "tl tax",
       "code": "TL_TAX",
       "isDebit": false,
@@ -121,7 +121,7 @@
     },
     {
       "category": "TAX",
-      "service": "TL",
+      "service": "NewTL",
       "name": "tl roundoff",
       "code": "TL_ROUNDOFF",
       "isDebit": false,
@@ -130,7 +130,7 @@
     },
     {
       "category": "TAX",
-      "service": "TL",
+      "service": "NewTL",
       "name": "tl adhoc rebate",
       "code": "TL_ADHOC_REBATE",
       "isDebit": true,
@@ -139,7 +139,7 @@
     },
     {
       "category": "TAX",
-      "service": "TL",
+      "service": "NewTL",
       "name": "tl adhoc penalty",
       "code": "TL_ADHOC_PENALTY",
       "isDebit": false,
@@ -148,7 +148,7 @@
     },
     {
       "category": "REBATE",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "pt debit decimal",
       "code": "PT_DECIMAL_CEILING_DEBIT",
       "isDebit": true,
@@ -157,7 +157,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "pt credit decimal",
       "code": "PT_DECIMAL_CEILING_CREDIT",
       "isDebit": false,
@@ -166,7 +166,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "pt decimal roundOff",
       "code": "PT_ROUNDOFF",
       "isDebit": false,
@@ -801,7 +801,7 @@
     },
     {
       "category": "FEE",
-      "service": "TL",
+      "service": "NewTL",
       "name": "TL Renewal Tax",
       "code": "TL_RENEWAL_TAX",
       "isDebit": false,
@@ -811,7 +811,7 @@
     },
     {
       "category": "REBATE",
-      "service": "TL",
+      "service": "NewTL",
       "name": "TL Renewal Rebate",
       "code": "TL_RENEWAL_REBATE",
       "isDebit": true,
@@ -821,7 +821,7 @@
     },
     {
       "category": "PENALTY",
-      "service": "TL",
+      "service": "NewTL",
       "name": "TL Renewal Penalty",
       "code": "TL_RENEWAL_PENALTY",
       "isDebit": false,
@@ -831,7 +831,7 @@
     },
     {
       "category": "TAX",
-      "service": "TL",
+      "service": "NewTL",
       "name": "TL Renewal adhoc rebate",
       "code": "TL_RENEWAL_ADHOC_REBATE",
       "isDebit": true,
@@ -841,7 +841,7 @@
     },
     {
       "category": "TAX",
-      "service": "TL",
+      "service": "NewTL",
       "name": "TL Renewal adhoc penalty",
       "code": "TL_RENEWAL_ADHOC_PENALTY",
       "isDebit": false,
@@ -1281,7 +1281,7 @@
     },
     {
       "category": "TAX",
-      "service": "TL",
+      "service": "NewTL",
       "name": "LCF.Trade_License_Fee_TAX",
       "code": "LCF.Trade_License_Fee_TAX",
       "isDebit": false,

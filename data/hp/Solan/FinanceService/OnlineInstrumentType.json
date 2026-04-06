@@ -3,7 +3,7 @@
   "moduleName": "FinanceModule",
   "OnlineGLCodeMapping": [
     {
-      "servicecode": "PT",
+      "servicecode": "PROPERTY",
       "glcode": "4502001",
       "validFrom": 1234567890,
       "validTo": 2345678901
@@ -11,6 +11,12 @@
     {
       "servicecode": "NewTL",
       "glcode": "1401102",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+    },
+        {
+      "servicecode": "GB",
+      "glcode": "1405005",
       "validFrom": 1759301545,
       "validTo": 1853995945
     },
