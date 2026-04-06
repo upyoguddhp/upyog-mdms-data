@@ -6,7 +6,7 @@
       "fromDate": 1680307199000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2023",
       "financialYear": "2023-24"
     },
@@ -14,7 +14,7 @@
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2023",
       "financialYear": "2023-24"
     },
@@ -22,7 +22,7 @@
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2024",
       "financialYear": "2024-25"
     },
@@ -81,6 +81,14 @@
       "service": "PT",
       "code": "PTAN2016",
       "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1775028851000,
+      "toDate": 1901172851000,
+      "periodCycle": "ANNUAL",
+      "service": "PROPERTY",
+      "code": "PROPERTY2027",
+      "financialYear": "2026-27"
     },
     {
       "fromDate": 1459449000000,
@@ -153,6 +161,14 @@
       "service": "TL",
       "code": "TLAN2024",
       "financialYear": "2024-25"
+    },
+        {
+      "fromDate": 1775028851000,
+      "toDate": 1901172851000,
+      "periodCycle": "ANNUAL",
+      "service": "NewTL",
+      "code": "NewTL2-27",
+      "financialYear": "2026-27"
     },
 	{
       "fromDate": 1711909800000,
@@ -1713,6 +1729,14 @@
 		"service": "GB_EMPLOYEE",
 		"code": "GB2025",
 		"financialYear": "2024-29"
-	}
+	},
+      {
+      "fromDate": 1743492851000,
+      "toDate": 1901172851000,
+      "periodCycle": "YEARLY",
+      "service": "GB",
+      "code": "GB2027",
+      "financialYear": "2026-27"
+    },
   ]
 }
