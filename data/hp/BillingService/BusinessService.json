@@ -3,8 +3,8 @@
   "moduleName": "BillingService",
   "BusinessService": [
     {
-      "businessService": "PropertyTax",
-      "code": "PT",
+      "businessService": "PROPERTY",
+      "code": "PROPERTY",
       "collectionModesNotAllowed": [
         "DD",
         "OFFLINE_NEFT",
@@ -33,8 +33,8 @@
       "isVoucherCreationEnabled": false
     },
     {
-      "businessService": "TradeLicense",
-      "code": "TL",
+      "businessService": "NewTL",
+      "code": "NewTL",
       "collectionModesNotAllowed": [
         "DD",
         "OFFLINE_NEFT",
@@ -47,7 +47,7 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "TradeLicense",
+      "businessService": "NewTL",
       "code": "NewTL",
       "collectionModesNotAllowed": [
         "DD",
@@ -1989,7 +1989,7 @@
       "isActive": true
     },
     {
-      "businessService": "GarbageCollection",
+      "businessService": "GB",
       "code": "GB",
       "collectionModesNotAllowed": [
         "POSTAL_ORDER"
@@ -2000,7 +2000,7 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "GarbageCollection",
+      "businessService": "GB",
       "code": "GB_BULK",
       "collectionModesNotAllowed": [
         "DD",
@@ -2028,7 +2028,7 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "Site Booking",
+      "businessService": "ADVT",
       "code": "ADVT",
       "collectionModesNotAllowed": [
         "DD",
