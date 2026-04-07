@@ -1,6 +1,6 @@
 {
-  "tenantId": "hp.Parwanoo",
-  "moduleName": "FinanceModule",
+  "tenantId": "hp.Nalagarh",
+  "moduleName": "Parwanoo",
   "AccountCodeTemplate": [
     {
       "code": "EB1",
