@@ -1,5 +1,5 @@
 {
-  "tenantId": "hp.PontaSahib",
+  "tenantId": "hp.PoantaSahib",
   "moduleName": "BillingService",
   "TaxHeadMaster": [
     {
@@ -1281,7 +1281,7 @@
     },
     {
       "category": "TAX",
-      "service": "NewTL",
+      "service": "TL",
       "name": "LCF.Trade_License_Fee_TAX",
       "code": "LCF.Trade_License_Fee_TAX",
       "isDebit": false,
@@ -1529,7 +1529,7 @@
       "order": "0",
       "isRequired": false
     },
-  {
+	{
       "category": "TAX",
       "service": "TB.Challan_Under_section_156",
       "name": "TB.Challan_Under_section_156_TAX",
@@ -5726,7 +5726,7 @@
   "isRequired": true,
   "isDiscountApplicable": false
 },
-     {
+	   {
       "category": "FEE",
       "service": "WSReconnection",
       "name": "Water application form fee",
@@ -5736,7 +5736,7 @@
       "order": "0",
       "isRequired": false
     },
-  {
+	{
       "category": "FEE",
       "service": "SWReconnection",
       "name": "Sewerage application form fee",
@@ -5756,23 +5756,23 @@
         "order": "0",
         "isRequired": false
       },
-     {
+	   {
       "category": "CHARGES",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application road cutting charge",
       "code": "WS_ROAD_CUTTING_CHARGE_BERMCUTTINGKATCHA",
-      "roadType":"BERMCUTTINGKATCHA",       
+      "roadType":"BERMCUTTINGKATCHA",		    
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
       "isRequired": false
     },
-        {
+	      {
       "category": "CHARGES",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application road cutting charge",
       "code": "WS_ROAD_CUTTING_CHARGE_BMPREMIXROAD",
-      "roadType":"BMPREMIXROAD",        
+      "roadType":"BMPREMIXROAD",		    
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
@@ -5800,7 +5800,7 @@
     },
     {
       "category": "FEE",
-      "service": "CHB",
+      "service": "chb-services",
       "name": "LCF.CommunityHall_Fee",
       "code": "LCF.CommunityHall_Fee",
       "isDebit": false,
@@ -5808,25 +5808,35 @@
       "order": "0",
       "isRequired": true
     },
-  {
-    "category": "ADVANCE_COLLECTION",
-    "service": "chb-services",
-    "name": "LCF.CommunityHall_Fee",
-    "code": "LCF.CommunityHall_Fee",
-    "isDebit": false,
-    "isActualDemand": true,
-    "order": "0",
-    "isRequired": true
-  },
-  {
-    "category": "FEE",
-    "service": "PROPERTY",
-    "name": "LCF.Property_Tax_Collection_Fee",
-    "code": "LCF.Property_Tax_Collection_Fee",
-    "isDebit": false,
-    "isActualDemand": true,
-    "order": "0",
-    "isRequired": true
-  }
+	{
+		"category": "FEE",
+		"service": "chb-services",
+		"name": "LCF.CommunityHall_Fee",
+		"code": "LCF.CommunityHall_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	},
+	{
+		"category": "ADVANCE_COLLECTION",
+		"service": "chb-services",
+		"name": "LCF.CommunityHall_Fee",
+		"code": "LCF.CommunityHall_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	},
+	{
+		"category": "FEE",
+		"service": "PROPERTY",
+		"name": "LCF.Property_Tax_Collection_Fee",
+		"code": "LCF.Property_Tax_Collection_Fee",
+		"isDebit": false,
+		"isActualDemand": true,
+		"order": "0",
+		"isRequired": true
+	}
   ]
 }

@@ -6,7 +6,7 @@
       "fromDate": 1680307199000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2023",
       "financialYear": "2023-24"
     },
@@ -14,7 +14,7 @@
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2023",
       "financialYear": "2023-24"
     },
@@ -22,7 +22,7 @@
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2024",
       "financialYear": "2024-25"
     },
@@ -30,7 +30,7 @@
       "fromDate": 1648751400000,
       "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2022",
       "financialYear": "2022-23"
     },
@@ -38,7 +38,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2021",
       "financialYear": "2021-22"
     },
@@ -46,7 +46,7 @@
       "fromDate": 1585679400000,
       "toDate": 1617175799000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2020",
       "financialYear": "2020-21"
     },
@@ -54,7 +54,7 @@
       "fromDate": 1554076799000,
       "toDate": 1585679399000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2019",
       "financialYear": "2019-20"
     },
@@ -62,7 +62,7 @@
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2018",
       "financialYear": "2018-19"
     },
@@ -70,7 +70,7 @@
       "fromDate": 1491004800000,
       "toDate": 1522540798000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2017",
       "financialYear": "2017-18"
     },
@@ -78,15 +78,31 @@
       "fromDate": 1459468800000,
       "toDate": 1491004799000,
       "periodCycle": "ANNUAL",
-      "service": "PT",
+      "service": "PROPERTY",
       "code": "PTAN2016",
       "financialYear": "2016-17"
+    },
+        {
+      "fromDate": 1743492851000,
+      "toDate": 1774942451000,
+      "periodCycle": "ANNUAL",
+      "service": "PROPERTY",
+      "code": "PTAN2025",
+      "financialYear": "2025-26"
+    },
+        {
+      "fromDate": 1775028851000,
+      "toDate": 1806478451000,
+      "periodCycle": "ANNUAL",
+      "service": "PROPERTY",
+      "code": "PTAN2027",
+      "financialYear": "2026-27"
     },
     {
       "fromDate": 1459449000000,
       "toDate": 1490984999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2016",
       "financialYear": "2016-17"
     },
@@ -94,7 +110,7 @@
       "fromDate": 1490985000000,
       "toDate": 1522520999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2017",
       "financialYear": "2017-18"
     },
@@ -102,7 +118,7 @@
       "fromDate": 1522521000000,
       "toDate": 1554056999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2018",
       "financialYear": "2018-19"
     },
@@ -110,7 +126,7 @@
       "fromDate": 1554057000000,
       "toDate": 1585679399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2019",
       "financialYear": "2019-20"
     },
@@ -118,7 +134,7 @@
       "fromDate": 1585679400000,
       "toDate": 1617215399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2020",
       "financialYear": "2020-21"
     },
@@ -126,7 +142,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2020",
       "financialYear": "2021-22"
     },
@@ -134,7 +150,7 @@
       "fromDate": 1648751400000,
       "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2022",
       "financialYear": "2022-23"
     },
@@ -142,7 +158,7 @@
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2023",
       "financialYear": "2023-24"
     },
@@ -150,9 +166,17 @@
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2024",
       "financialYear": "2024-25"
+    },
+            {
+      "fromDate": 1775028851000,
+      "toDate": 1806478451000,
+      "periodCycle": "ANNUAL",
+      "service": "NewTL",
+      "code": "TLAN2027",
+      "financialYear": "2026-27"
     },
 	{
       "fromDate": 1711909800000,
@@ -298,11 +322,27 @@
       "code": "ADHAN2023",
       "financialYear": "2016-25"
     },
+            {
+      "fromDate": 1775028851000,
+      "toDate": 1806478451000,
+      "periodCycle": "ANNUAL",
+      "service": "NewTL",
+      "code": "TLRENEWAL2027",
+      "financialYear": "2026-27"
+    },
+            {
+      "fromDate": 1775028851000,
+      "toDate": 1806478451000,
+      "periodCycle": "ANNUAL",
+      "service": "NewTL",
+      "code": "TLRENEWAL2026",
+      "financialYear": "2026-27"
+    },
 	{
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2024",
       "financialYear": "2024-25"
     },
@@ -310,7 +350,7 @@
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2023",
       "financialYear": "2023-24"
     },
@@ -318,7 +358,7 @@
       "fromDate": 1648751400000,
       "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2022",
       "financialYear": "2022-23"
     },
@@ -326,14 +366,14 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2021",
       "financialYear": "2021-22"
     },{
       "fromDate": 1585679400000,
       "toDate": 1617215399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2020",
       "financialYear": "2020-21"
     },
@@ -341,7 +381,7 @@
       "fromDate": 1554057000000,
       "toDate": 1585679399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2019",
       "financialYear": "2019-20"
     },
@@ -349,7 +389,7 @@
       "fromDate": 1522521000000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2018",
       "financialYear": "2018-19"
     },
@@ -357,7 +397,7 @@
       "fromDate": 1490985000000,
       "toDate": 1522520999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2017",
       "financialYear": "2017-18"
     },
@@ -365,7 +405,7 @@
       "fromDate": 1459449000000,
       "toDate": 1490984999000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2016",
       "financialYear": "2016-17"
     },

@@ -3,7 +3,7 @@
   "moduleName": "FinanceModule",
   "BusinessServiceMapping": [
     {
-      "code": "PT",
+      "code": "PROPERTY",
       "voucherCreationEnabled": true,
       "fund": "01",
       "function": "909100",
@@ -14,6 +14,31 @@
       "validFrom": 1759301545,
       "validTo": 1853995945,
       "serviceAttributeTaxHead": "PT_TAX"
+    },
+    {
+      "code": "GB",
+      "voucherCreationEnabled": true,
+      "fund": "01",
+      "function": "909100",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1759301545,
+      "validTo": 1853995945,
+      "serviceAttributeTaxHead": "LCF.Garbage_Collection_Fee"
+    },
+    {
+      "code": "chb-services",
+      "voucherCreationEnabled": true,
+      "fund": "01",
+      "function": "909100",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1759301545,
+      "validTo": 1853995945,
     },
     {
       "code": "ADVT",

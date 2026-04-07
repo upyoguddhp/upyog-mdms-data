@@ -3,7 +3,7 @@
   "moduleName": "FinanceModule",
   "TaxHeadMasterGlCodeMapping": [
     {
-      "billingservicecode": "PT",
+      "billingservicecode": "PROPERTY",
       "taxhead": "PT_TAX",
       "glcode": "1100101",
       "validFrom": 1759301545,
@@ -11,16 +11,16 @@
       "serviceAttribute":"RESIDENTIAL"
     }, 
     {
-      "billingservicecode": "PT",
-      "taxhead": "PT_TAX",
+      "billingservicecode": "PROPERTY",
+      "taxhead": "PROPERTY",
       "glcode": "1100102",
       "validFrom": 1759301545,
       "validTo": 1853995945,
       "serviceAttribute":"NONRESIDENTIAL.COMMERCIAL"
     },
     {
-      "billingservicecode": "PT",
-      "taxhead": "PT_TAX",
+      "billingservicecode": "PROPERTY",
+      "taxhead": "PROPERTY",
       "glcode": "1100103",
       "validFrom": 1759301545,
       "validTo": 1853995945,
@@ -28,7 +28,7 @@
     },
     {
       "billingservicecode": "NewTL",
-      "taxhead": "NewTL_TAX",
+      "taxhead": "LCF.New_Trade_License_Fee_TAX",
       "glcode": "1401101",
       "validFrom": 1759301545,
       "validTo": 1853995945
@@ -72,6 +72,20 @@
   "billingservicecode": "ADVT",
   "taxhead": "ADV_SGST",
   "glcode": "2201002",
+  "validFrom": 1759301545,
+  "validTo": 1853995945
+},
+{
+  "billingservicecode": "chb-services",
+  "taxhead": "LCF.CommunityHall_Fee",
+  "glcode": "1301005",
+  "validFrom": 1759301545,
+  "validTo": 1853995945
+},
+{
+  "billingservicecode": "GB",
+  "taxhead": "LCF.Garbage_Collection_Fee",
+  "glcode": "1405005",
   "validFrom": 1759301545,
   "validTo": 1853995945
 }
