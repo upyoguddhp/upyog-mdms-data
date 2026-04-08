@@ -12196,7 +12196,21 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    }, 
+     {
+      "id": 1644,
+      "name": "search file according ward and ulbname",
+      "url": "/hpud-dms-service/dms/deleteFileAlfresco",
+      "displayName": "delete file from alfresco last 15 days data bulk upload generated file",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
+
 
 
 
