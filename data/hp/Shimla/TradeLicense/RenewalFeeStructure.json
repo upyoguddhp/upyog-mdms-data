@@ -1,174 +1,174 @@
 {
-  "tenantId": "hp.Nahan",
+  "tenantId": "hp.Shimla",
   "moduleName": "TradeLicense",
-  "FeeStructure": [
+  "RenewalFeeStructure": [
     {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 100,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
       "price": 400,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 1,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 1,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Nahan",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 150,
       "periodOfLicense": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 600,
+      "type": "Small",
+      "price": 2000,
       "periodOfLicense": 5
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1,
+      "type": "Small",
+      "price": 4000,
       "periodOfLicense": 10
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1,
+      "type": "Small",
+      "price": 6000,
       "periodOfLicense": 15
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 600,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Shimla",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 3000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Shimla",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 6000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Shimla",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 9000,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
       "price": 1000,
       "periodOfLicense": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 3500,
+      "price": 5000,
       "periodOfLicense": 5
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 10000,
       "periodOfLicense": 10
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 15000,
       "periodOfLicense": 15
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 100
+      "price": 10000
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 150
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 500
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 100
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 200
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 100
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 100
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 100
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 250
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 500
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 1000
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 500
+      "price": 1
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 250
+      "price": 0
     },
     {
-      "tenantId": "hp.Nahan",
+      "tenantId": "hp.Shimla",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 1
+      "price": 0
     }
   ]
 }
