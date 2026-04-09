@@ -769,6 +769,18 @@
       "fee": 400,
       "tenantId": "hp.Kandaghat",
       "active": "true"
+    },
+    {
+      "categories": "Himuda Colony",
+      "subcategories": "Colony",
+      "subcategorytype": "Colony",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 5000,
+      "tenantId": "hp.Kandaghat",
+      "active": "true"
     }
   ]
 }
