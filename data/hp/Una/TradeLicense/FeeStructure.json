@@ -168,13 +168,13 @@
             "tenantId": "hp.Una",
             "feeStructureOf": "zone",
             "type": "A",
-            "price": 1
+            "price": 2.5
         },
         {
             "tenantId": "hp.Una",
             "feeStructureOf": "zone",
             "type": "B",
-            "price": 1
+            "price": 2.5
         }
     ]
 }
