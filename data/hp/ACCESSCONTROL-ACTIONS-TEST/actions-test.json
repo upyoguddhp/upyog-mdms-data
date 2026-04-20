@@ -12157,6 +12157,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1641,
+      "name": "Update Custom Amount In Property Bills",
+      "url": "/property-services/property-scheduler/_updateCustomAmount",
+      "displayName": "Update Custom Amount In Property Bills",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
