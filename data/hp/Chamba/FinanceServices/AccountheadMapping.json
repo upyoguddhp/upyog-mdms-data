@@ -88,6 +88,13 @@
   "glcode": "1405005",
   "validFrom": 1759301545,
   "validTo": 1853995945
+},
+{
+  "billingservicecode": "PROPERTY",
+  "taxhead": "LCF.Property_Tax_Collection_Fee",
+  "glcode": "1109001",
+  "validFrom": 1759301545,
+  "validTo": 1853995945
 }
   ],
   "InstrumentGLcodeMapping": [
