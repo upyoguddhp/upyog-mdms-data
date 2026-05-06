@@ -67,6 +67,12 @@
       "glcode": "4502001",
       "validFrom": 1234567890,
       "validTo": 2345678901
+    },
+    {
+      "servicecode": "GB",
+      "glcode": "1405005",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
     }
   ]
 }
