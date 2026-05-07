@@ -64,7 +64,7 @@
     },
     {
       "applicationType": "PROVISIONAL",
-      "nocType": "WATER_NOC",
+      "nocType": "WATERNOC",
       "docTypes": [
         {
           "documentType": "NOC.WATER",
@@ -74,7 +74,7 @@
     },
     {
       "applicationType": "NEW",
-      "nocType": "WATER_NOC",
+      "nocType": "WATERNOC",
       "docTypes": [
         {
           "documentType": "NOC.WATER",
@@ -84,10 +84,100 @@
     },
     {
       "applicationType": "RENEW",
-      "nocType": "WATER_NOC",
+      "nocType": "WATERNOC",
       "docTypes": [
         {
           "documentType": "NOC.WATER",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "ELECTRICITYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.ELECTRICITY",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "ELECTRICITYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.ELECTRICITY",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "ELECTRICITYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.ELECTRICITY",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "CANOPYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.CANOPY",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "CANOPYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.CANOPY",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "CANOPYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.CANOPY",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "BARNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.BAR",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "BARNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.BAR",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "BARNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.BAR",
           "required": false
         }
       ]
@@ -118,6 +208,96 @@
       "docTypes": [
         {
           "documentType": "NOC.ELECTRICITY",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "SALEOFPROPERTYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.SALEOFPROPERTYNOC",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "SALEOFPROPERTYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.SALEOFPROPERTYNOC",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "SALEOFPROPERTYNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.SALEOFPROPERTYNOC",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "SEWERAGENOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.SEWERAGE",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "SEWERAGENOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.SEWERAGE",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "SEWERAGENOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.SEWERAGE",
+          "required": false
+        }
+      ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "BOREWELLNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.BOREWELL",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "BOREWELLNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.BOREWELL",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "BOREWELLNOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.BOREWELL",
           "required": false
         }
       ]

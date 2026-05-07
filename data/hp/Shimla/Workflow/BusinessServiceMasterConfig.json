@@ -76,6 +76,41 @@
       "businessService": "NOC",
       "active": "true",
       "isStatelevel": "false"
+    },
+    {
+      "businessService": "WATERNOC",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "ELECTRICITYNOC",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "CANOPYNOC",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "BARNOC",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "SEWERAGENOC",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "BOREWELLNOC",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
+      "businessService": "SALEOFPROPERTYNOC",
+      "active": "true",
+      "isStatelevel": "false"
     }
   ]
 }

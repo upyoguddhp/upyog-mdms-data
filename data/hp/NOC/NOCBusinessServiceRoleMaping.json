@@ -19,12 +19,44 @@
       "i18nKey": "WF_FIRE_NOC_AIRPORT_NOC_SRV"
     },
     {
-      "code": "WATER_NOC_SRV",
+      "code": "WATERNOC",
       "active": true,
       "roles": [
         "WATER_NOC_APPROVER"
       ],
-      "i18nKey": "WF_WATER_NOC_WATER_NOC_SRV"
+      "i18nKey": "WATERNOC"
+    },
+    {
+      "code": "ELECTRICITYNOC",
+      "active": true,
+      "roles": [
+        "ELECTRICITY_NOC_APPROVER"
+      ],
+      "i18nKey": "ELECTRICITYNOC"
+    },
+    {
+      "code": "CANOPYNOC",
+      "active": true,
+      "roles": [
+        "CANOPY_NOC_APPROVER"
+      ],
+      "i18nKey": "CANOPYNOC"
+    },
+    {
+      "code": "BARNOC",
+      "active": true,
+      "roles": [
+        "BAR_NOC_APPROVER"
+      ],
+      "i18nKey": "BARNOC"
+    },
+    {
+      "code": "SALEOFPROPERTYNOC",
+      "active": true,
+      "roles": [
+        "SALEOFPROPERTY_NOC_APPROVER"
+      ],
+      "i18nKey": "SALEOFPROPERTYNOC"
     },
     {
       "code": "NOC",
@@ -33,6 +65,22 @@
         "NOC_APPROVER"
       ],
       "i18nKey": "WF_NOC"
+    },
+    {
+      "code": "SEWERAGENOC",
+      "active": true,
+      "roles": [
+        "SEWERAGE_NOC_APPROVER"
+      ],
+      "i18nKey": "SEWERAGENOC"
+    },
+    {
+      "code": "BOREWELLNOC",
+      "active": true,
+      "roles": [
+        "BOREWELL_NOC_APPROVER"
+      ],
+      "i18nKey": "BOREWELLNOC"
     },
     {
       "code": "ELECTRICITY_NOC_SRV",
