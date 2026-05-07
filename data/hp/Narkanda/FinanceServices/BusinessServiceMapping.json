@@ -16,6 +16,19 @@
       "serviceAttributeTaxHead": "PT_TAX"
     },
     {
+      "code": "PROPERTY",
+      "voucherCreationEnabled": true,
+      "fund": "01",
+      "function": "909100",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1759301545,
+      "validTo": 1853995945,
+      "serviceAttributeTaxHead": "LCF.Property_Tax_Collection_Fee"
+    },
+    {
       "code": "GB",
       "voucherCreationEnabled": true,
       "fund": "01",
