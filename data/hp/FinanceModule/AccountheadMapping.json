@@ -88,6 +88,7 @@
   "glcode": "1405005",
   "validFrom": 1759301545,
   "validTo": 1853995945
+<<<<<<< HEAD
 },
 {
   "billingservicecode": "PROPERTY",
@@ -95,6 +96,8 @@
   "glcode": "1109001",
   "validFrom": 1759301545,
   "validTo": 1853995945
+=======
+>>>>>>> e861c8aabaac8de56a2e0b45ffa8d43e4dfd2db9
 }
   ],
   "InstrumentGLcodeMapping": [
