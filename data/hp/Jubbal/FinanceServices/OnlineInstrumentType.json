@@ -4,7 +4,7 @@
   "OnlineGLCodeMapping": [
     {
       "servicecode": "PROPERTY",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
@@ -16,55 +16,55 @@
     },
     {
       "servicecode": "FIRENOC",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "BPA.NC_APP_FEE",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "BPA.NC_SAN_FEE",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "BPAREG",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "BPA.LOW_RISK_PERMIT_FEE",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "WS",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "WS.ONE_TIME_FEE",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "SW",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
     {
       "servicecode": "SW.ONE_TIME_FEE",
-      "glcode": "4502000",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
