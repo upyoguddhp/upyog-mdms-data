@@ -4,7 +4,7 @@
   "BusinessService": [
     {
       "businessService": "PropertyTax",
-      "code": "PROPERTY",
+      "code": "PT",
       "collectionModesNotAllowed": [
         "DD",
         "OFFLINE_NEFT",
