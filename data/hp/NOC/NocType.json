@@ -67,12 +67,12 @@
       "NocUserRole": "BOREWELL_NOC_APPROVER"
     },
     {
-      "code": "SALEOFPROPERTYNOC",
+      "code": "PROPERTYNOC",
       "isActive": true,
-      "offlineWF": "SALEOFPROPERTY_NOC_OFFLINE",
-      "onlineWF": "SALEOFPROPERTYNOC",
+      "offlineWF": "PROPERTY_NOC_OFFLINE",
+      "onlineWF": "PROPERTYNOC",
       "mode": "online",
-      "NocUserRole": "SALEOFPROPERTY_NOC_APPROVER"
+      "NocUserRole": "PROPERTY_NOC_APPROVER"
     },
     {
       "code": "ELECTRICITY_NOC",

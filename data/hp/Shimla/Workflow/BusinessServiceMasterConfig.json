@@ -108,7 +108,7 @@
       "isStatelevel": "false"
     },
     {
-      "businessService": "SALEOFPROPERTYNOC",
+      "businessService": "PROPERTYNOC",
       "active": "true",
       "isStatelevel": "false"
     }

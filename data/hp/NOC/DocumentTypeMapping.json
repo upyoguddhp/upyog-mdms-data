@@ -214,30 +214,30 @@
     },
     {
       "applicationType": "PROVISIONAL",
-      "nocType": "SALEOFPROPERTYNOC",
+      "nocType": "PROPERTYNOC",
       "docTypes": [
         {
-          "documentType": "NOC.SALEOFPROPERTYNOC",
+          "documentType": "NOC.PROPERTY",
           "required": true
         }
       ]
     },
     {
       "applicationType": "NEW",
-      "nocType": "SALEOFPROPERTYNOC",
+      "nocType": "PROPERTYNOC",
       "docTypes": [
         {
-          "documentType": "NOC.SALEOFPROPERTYNOC",
+          "documentType": "NOC.PROPERTY",
           "required": true
         }
       ]
     },
     {
       "applicationType": "RENEW",
-      "nocType": "SALEOFPROPERTYNOC",
+      "nocType": "PROPERTYNOC",
       "docTypes": [
         {
-          "documentType": "NOC.SALEOFPROPERTYNOC",
+          "documentType": "NOC.PROPERTY",
           "required": false
         }
       ]

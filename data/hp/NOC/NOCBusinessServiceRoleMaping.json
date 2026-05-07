@@ -51,12 +51,12 @@
       "i18nKey": "BARNOC"
     },
     {
-      "code": "SALEOFPROPERTYNOC",
+      "code": "PROPERTYNOC",
       "active": true,
       "roles": [
-        "SALEOFPROPERTY_NOC_APPROVER"
+        "PROPERTY_NOC_APPROVER"
       ],
-      "i18nKey": "SALEOFPROPERTYNOC"
+      "i18nKey": "PROPERTYNOC"
     },
     {
       "code": "NOC",
