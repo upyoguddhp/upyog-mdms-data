@@ -1989,7 +1989,7 @@
       "isActive": true
     },
     {
-      "businessService": "GarbageCollection",
+      "businessService": "GB",
       "code": "GB",
       "collectionModesNotAllowed": [
         "POSTAL_ORDER"
@@ -2000,7 +2000,7 @@
       "isVoucherCreationEnabled": true
     },
     {
-      "businessService": "GarbageCollection",
+      "businessService": "GB",
       "code": "GB_BULK",
       "collectionModesNotAllowed": [
         "DD",

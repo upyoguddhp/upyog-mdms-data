@@ -16,6 +16,19 @@
       "serviceAttributeTaxHead": "PT_TAX"
     },
     {
+      "code": "PROPERTY",
+      "voucherCreationEnabled": true,
+      "fund": "01",
+      "function": "909100",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1759301545,
+      "validTo": 1853995945,
+      "serviceAttributeTaxHead": "LCF.Property_Tax_Collection_Fee"
+    },
+    {
       "code": "GB",
       "voucherCreationEnabled": true,
       "fund": "01",
@@ -29,6 +42,18 @@
       "serviceAttributeTaxHead": "LCF.Garbage_Collection_Fee"
     },
     {
+      "code": "chb-services",
+      "voucherCreationEnabled": true,
+      "fund": "01",
+      "function": "909100",
+      "department": "DEPT_25",
+      "functionary": "",
+      "scheme": "",
+      "subscheme": "",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+    },
+    {
       "code": "ADVT",
       "voucherCreationEnabled": true,
       "fund": "0407",
@@ -38,8 +63,7 @@
       "scheme": "",
       "subscheme": "",
       "validFrom": 1759301545,
-      "validTo": 1853995945,
-      "serviceAttributeTaxHead": "ADVT.HOARDINGS_TAX"
+      "validTo": 1853995945
     },
     {
       "code": "FIRENOC",
@@ -63,9 +87,7 @@
       "scheme": "",
       "subscheme": "",
       "validFrom": 1759301545,
-      "validTo": 1853995945,
-      "serviceAttributeTaxHead": "LCF.New_Trade_License_Fee_TAX"
-
+      "validTo": 1853995945
     },
     {
       "code": "REV_GRANTS",

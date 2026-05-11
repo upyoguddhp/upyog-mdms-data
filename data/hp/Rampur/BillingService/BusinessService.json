@@ -19,6 +19,18 @@
       "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
+      "businessService": "PROPERTY",
+      "code": "LCF.Property_Tax_Collection_Fee",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
       "businessService": "WaterCharges",
       "code": "WC",
       "collectionModesNotAllowed": [
@@ -110,7 +122,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "type": "Adhoc",
-	  "isActive": false,
+      "isActive": false,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -124,7 +136,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "type": "Adhoc",
-	  "isActive": true,
+      "isActive": true,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -2006,7 +2018,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
-	{
+    {
       "businessService": "SWReconnection",
       "code": "SWReconnection",
       "collectionModesNotAllowed": [
@@ -2042,7 +2054,7 @@
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
-	{
+    {
       "businessService": "chb-services",
       "code": "chb-services",
       "collectionModesNotAllowed": [
@@ -2070,62 +2082,61 @@
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
-	{
-		"businessService": "PROPERTY_EMPLOYEE",
-		"code": "PROPERTY_EMPLOYEE",
-		"collectionModesNotAllowed": [
-			"DD",
-			"OFFLINE_NEFT",
-			"OFFLINE_RTGS",
-			"POSTAL_ORDER"
-		],
-		"partPaymentAllowed": false,
-		"isAdvanceAllowed": false,
-		"demandUpdateTime": 604800000,
-		"isVoucherCreationEnabled": true
-	},
-	{
-		"businessService": "PROPERTY_CITIZEN",
-		"code": "PROPERTY_CITIZEN",
-		"collectionModesNotAllowed": [
-			"DD",
-			"OFFLINE_NEFT",
-			"OFFLINE_RTGS",
-			"POSTAL_ORDER"
-		],
-		"partPaymentAllowed": false,
-		"isAdvanceAllowed": false,
-		"demandUpdateTime": 604800000,
-		"isVoucherCreationEnabled": true
-	},
-	{
-		"businessService": "GB_EMPLOYEE",
-		"code": "GB_EMPLOYEE",
-		"collectionModesNotAllowed": [
-			"DD",
-			"OFFLINE_NEFT",
-			"OFFLINE_RTGS",
-			"POSTAL_ORDER"
-		],
-		"partPaymentAllowed": false,
-		"isAdvanceAllowed": false,
-		"demandUpdateTime": 604800000,
-		"isVoucherCreationEnabled": true
-	},
-	{
-		"businessService": "GB_CITIZEN",
-		"code": "GB_CITIZEN",
-		"collectionModesNotAllowed": [
-			"DD",
-			"OFFLINE_NEFT",
-			"OFFLINE_RTGS",
-			"POSTAL_ORDER"
-		],
-		"partPaymentAllowed": false,
-		"isAdvanceAllowed": false,
-		"demandUpdateTime": 604800000,
-		"isVoucherCreationEnabled": true
-	}
-
+    {
+      "businessService": "PROPERTY_EMPLOYEE",
+      "code": "PROPERTY_EMPLOYEE",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
+    {
+      "businessService": "PROPERTY_CITIZEN",
+      "code": "PROPERTY_CITIZEN",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
+    {
+      "businessService": "GB_EMPLOYEE",
+      "code": "GB_EMPLOYEE",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
+    {
+      "businessService": "GB_CITIZEN",
+      "code": "GB_CITIZEN",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    }
   ]
 }

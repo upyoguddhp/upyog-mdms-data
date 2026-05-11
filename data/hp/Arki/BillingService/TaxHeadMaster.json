@@ -5781,7 +5781,7 @@
     {
       "category": "FEE",
       "service": "GB",
-      "name": "LCF.Garbage_Collection_Fee",
+      "name": "Garbage Collection Fee",
       "code": "LCF.Garbage_Collection_Fee",
       "isDebit": false,
       "isActualDemand": true,
