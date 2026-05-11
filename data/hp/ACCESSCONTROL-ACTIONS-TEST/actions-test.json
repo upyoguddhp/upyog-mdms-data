@@ -12225,12 +12225,38 @@
       "code": "null",
       "path": ""
     }  ,
-     {
+    {
       "id": 1646,
       "name": "search file according ward and ulbname",
       "url": "/hpud-dms-service/dms/deleteFileAlfresco",
       "displayName": "delete file from alfresco last 15 days data bulk upload generated file",
        "displayName": "search file according ward and ulbname",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1647,
+      "name": "Update Custom Amount In Garbage Bills",
+      "url": "/garbage-service/garbage-accounts-scheduler/_updateCustomAmount",
+      "displayName": "Update Custom Amount In Garbage Bills",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1648,
+      "name": "Update Custom Amount In Property Bills",
+      "url": "/property-services/property-scheduler/_updateCustomAmount",
+      "displayName": "Update Custom Amount In Property Bills",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",

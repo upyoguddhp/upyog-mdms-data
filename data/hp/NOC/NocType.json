@@ -19,12 +19,60 @@
       "NocUserRole": "AIRPORT_AUTHORITY_APPROVER"
     },
     {
-      "code": "WATER_NOC",
+      "code": "WATERNOC",
       "isActive": true,
       "offlineWF": "WATER_NOC_OFFLINE",
-      "onlineWF": "WATER_NOC_SRV",
+      "onlineWF": "WATERNOC",
       "mode": "online",
       "NocUserRole": "WATER_NOC_APPROVER"
+    },
+    {
+      "code": "ELECTRICITYNOC",
+      "isActive": true,
+      "offlineWF": "ELECTRICITY_NOC_OFFLINE",
+      "onlineWF": "ELECTRICITYNOC",
+      "mode": "online",
+      "NocUserRole": "ELECTRICITY_NOC_APPROVER"
+    },
+    {
+      "code": "CANOPYNOC",
+      "isActive": true,
+      "offlineWF": "CANOPY_NOC_OFFLINE",
+      "onlineWF": "CANOPYNOC",
+      "mode": "online",
+      "NocUserRole": "CANOPY_NOC_APPROVER"
+    },
+    {
+      "code": "BARNOC",
+      "isActive": true,
+      "offlineWF": "BAR_NOC_OFFLINE",
+      "onlineWF": "BARNOC",
+      "mode": "online",
+      "NocUserRole": "BAR_NOC_APPROVER"
+    },
+    {
+      "code": "SEWERAGENOC",
+      "isActive": true,
+      "offlineWF": "SEWERAGE_NOC_OFFLINE",
+      "onlineWF": "SEWERAGENOC",
+      "mode": "online",
+      "NocUserRole": "SEWERAGE_NOC_APPROVER"
+    },
+    {
+      "code": "BOREWELLNOC",
+      "isActive": true,
+      "offlineWF": "BOREWELL_NOC_OFFLINE",
+      "onlineWF": "BOREWELLNOC",
+      "mode": "online",
+      "NocUserRole": "BOREWELL_NOC_APPROVER"
+    },
+    {
+      "code": "PROPERTYNOC",
+      "isActive": true,
+      "offlineWF": "PROPERTY_NOC_OFFLINE",
+      "onlineWF": "PROPERTYNOC",
+      "mode": "online",
+      "NocUserRole": "PROPERTY_NOC_APPROVER"
     },
     {
       "code": "ELECTRICITY_NOC",
