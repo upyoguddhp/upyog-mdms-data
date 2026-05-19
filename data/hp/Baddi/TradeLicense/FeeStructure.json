@@ -6,85 +6,43 @@
       "tenantId": "hp.Baddi",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1000,
+      "price": 250,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
+      "price": 1250,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2500,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 12500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
       "price": 5000,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 10000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 1300,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 200,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 800,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1400,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 2600,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 500,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 2000,
+      "price": 25000,
       "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 3500,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Baddi",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 6500,
-      "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Baddi",
@@ -108,7 +66,7 @@
       "tenantId": "hp.Baddi",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 500
+      "price": 1
     },
     {
       "tenantId": "hp.Baddi",
@@ -168,7 +126,7 @@
       "tenantId": "hp.Baddi",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 1
+      "price": 0
     }
   ]
 }
