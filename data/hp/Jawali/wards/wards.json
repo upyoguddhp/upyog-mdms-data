@@ -37,15 +37,25 @@
       "code": "1297077",
 	  "active":"true"
     },
-	{
+	  {
       "name": "Luxmi Narayan Temple",
       "code": "1297078",
 	  "active":"true"
     },
-	{
+	  {
       "name": "Civil Hospital Jawali",
       "code": "1297079",
 	  "active":"true"
+    },
+    {
+      "name": "Basantpur",
+      "code": "1297080",
+    "active":"true"
+    },
+    {
+      "name": "Dhan",
+      "code": "1297081",
+    "active":"true"
     }
   ]
 }
