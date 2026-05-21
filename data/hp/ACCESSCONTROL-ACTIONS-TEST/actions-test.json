@@ -12264,6 +12264,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1649,
+      "name": "Garbage Service preview bill",
+      "url": "/garbage-service/garbage-accounts-scheduler/bill-generator/preview",
+      "displayName": "Garbage Service preview bill",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
