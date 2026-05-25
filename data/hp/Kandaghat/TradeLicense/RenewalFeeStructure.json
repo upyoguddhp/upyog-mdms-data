@@ -1,0 +1,132 @@
+{
+    "tenantId": "hp.Kandaghat",
+    "moduleName": "TradeLicense",
+    "RenewalFeeStructure":[
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 100,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 300,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 5000,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 2000
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 300
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 500
+    },
+    {
+      "tenantId": "hp.Kandaghat",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
+    }
+  ]
+}
