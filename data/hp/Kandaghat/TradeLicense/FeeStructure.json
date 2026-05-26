@@ -13,7 +13,7 @@
       "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1,
+      "price": 0,
       "periodOfLicense": 5
     },
     {
@@ -27,7 +27,7 @@
       "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 1,
+      "price": 0,
       "periodOfLicense": 5
     },
     {
@@ -41,7 +41,7 @@
       "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 1,
+      "price": 0,
       "periodOfLicense": 5
     },
     {
