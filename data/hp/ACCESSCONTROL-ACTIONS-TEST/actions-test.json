@@ -12277,6 +12277,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1650,
+      "name": "Property Service send email",
+      "url": "/property-services/property-scheduler/send-property-email",
+      "displayName": "Property Service send email",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1651,
+      "name": "Mail Tracker Create",
+      "url": "/notification-sms/mail-tracker-create",
+      "displayName": "Mail Tracker Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
