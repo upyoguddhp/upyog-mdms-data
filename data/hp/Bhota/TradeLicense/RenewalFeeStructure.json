@@ -1,0 +1,132 @@
+{
+  "tenantId": "hp.Bhota",
+  "moduleName": "TradeLicense",
+  "RenewalFeeStructure": [
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 100,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 500,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 2500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Bhota",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 0
+    }
+  ]
+}
