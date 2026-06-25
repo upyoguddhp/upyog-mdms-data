@@ -103,6 +103,12 @@
       "code": "11596",
       "wardNumber": "7",
       "active": "true"
+    },
+    {
+      "name": "Government Ward",
+      "code": "00000",
+      "wardNumber": "18",
+      "active": "true"
     }
   ]
 }

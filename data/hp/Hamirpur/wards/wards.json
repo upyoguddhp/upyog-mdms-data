@@ -37,11 +37,7 @@
       "code": "11497",
       "active": "true"
     },
-    {
-      "name": "Brij Nagar",
-      "code": "11497",
-      "active": "true"
-    },
+
     {
       "name": "Gandhi Nagar",
       "code": "11498",
@@ -60,51 +56,6 @@
     {
       "name": "Roop Nagar",
       "code": "11501",
-      "active": "true"
-    },
-    {
-      "name": "NIT",
-      "code": "11502",
-      "active": "true"
-    },
-    {
-      "name": "Mati Tihra",
-      "code": "11503",
-      "active": "true"
-    },
-    {
-      "name": "Jhaniara",
-      "code": "11504",
-      "active": "true"
-    },
-    {
-      "name": "Daruhi",
-      "code": "11505",
-      "active": "true"
-    },
-    {
-      "name": "Anu Kalan",
-      "code": "11506",
-      "active": "true"
-    },
-    {
-      "name": "Bahal",
-      "code": "11507",
-      "active": "true"
-    },
-    {
-      "name": "Bajuri",
-      "code": "11508",
-      "active": "true"
-    },
-    {
-      "name": "Baroha",
-      "code": "11509",
-      "active": "true"
-    },
-    {
-      "name": "Halana",
-      "code": "11510",
       "active": "true"
     }
   ]

@@ -10765,7 +10765,22 @@
   "serviceCode": "Property",
   "code": "TAX_CALCULATOR",
   "path": "Property Services.Property Scheduler.Tax Calculator"
-}
+},
+ {
+      "id": 1537,
+      "name": "pgr-services Data fetch",
+      "url": "/pgr-services/data-dashboard/data-metrics",
+      "displayName": "Data-metrics",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "163",
+      "enabled": true,
+      "serviceCode": "GRV",
+      "code": "null",
+      "path": "Grievance Redressal.Grievance.Create Complaint"
+    }
+
+
 
   ]
 }

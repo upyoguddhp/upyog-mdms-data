@@ -181,6 +181,22 @@
     {
       "tenantId": "hp.Parwanoo",
       "price": 300
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "price": 1000
+    },
+    {
+      "tenantId": "hp.Chopal",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "price": 700
+    },
+    {
+      "tenantId": "hp.Hamirpur",
+      "price": 500
     }
   ]
 }
