@@ -881,11 +881,16 @@
       "code": "NOC_NODAL",
       "name": "Noc Verifier",
       "description": "One who verify Noc"
-    }, 
-     {
+    },
+    {
       "code": "SERVICE_PROVIDER",
       "name": "SERVICE PROVIDER",
-      "description": "One who provides services" 
+      "description": "One who provides services"
+    },
+    {
+      "code": "ULB_ADMIN",
+      "name": "ULB ADMIN",
+      "description": "Can View Reports"
     }
   ]
 }
