@@ -547,6 +547,13 @@
 			"active": true,
 			"PetType": "Dog",
 			"isBannedPet": false
+		},
+		{
+			"name": "English Pointer",
+			"code": "ENGLISHPOINTER",
+			"active": true,
+			"PetType": "Dog",
+			"isBannedPet": false
 		}
 	]
 }
