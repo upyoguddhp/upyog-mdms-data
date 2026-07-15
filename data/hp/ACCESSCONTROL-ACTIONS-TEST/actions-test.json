@@ -12225,7 +12225,7 @@
       "code": "null",
       "path": ""
     }  ,
-     {
+    {
       "id": 1646,
       "name": "search file according ward and ulbname",
       "url": "/hpud-dms-service/dms/deleteFileAlfresco",
@@ -12241,22 +12241,9 @@
     },
     {
       "id": 1647,
-      "name": "Agnc",
-      "url": "/rdf-monitoring/agncpet/_manage-dogs",
-      "displayName": "Agnc",
-      "orderNumber": 1,
-      "queryParams": null,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1647,
-      "name": "Agnc",
-      "url": "/rdf-monitoring/agncpet/_manage-dogs",
-      "displayName": "Agnc",
+      "name": "Update Custom Amount In Garbage Bills",
+      "url": "/garbage-service/garbage-accounts-scheduler/_updateCustomAmount",
+      "displayName": "Update Custom Amount In Garbage Bills",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
@@ -12267,9 +12254,9 @@
     },
     {
       "id": 1648,
-      "name": "Agnc",
-      "url": "/rdf-monitoring/agncpet/_agency-manage",
-      "displayName": "Agnc",
+      "name": "Update Custom Amount In Property Bills",
+      "url": "/property-services/property-scheduler/_updateCustomAmount",
+      "displayName": "Update Custom Amount In Property Bills",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
@@ -12280,9 +12267,87 @@
     },
     {
       "id": 1649,
-      "name": "Agnc",
+      "name": "Garbage Service preview bill",
+      "url": "/garbage-service/garbage-accounts-scheduler/bill-generator/preview",
+      "displayName": "Garbage Service preview bill",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1650,
+      "name": "Property Service send email",
+      "url": "/property-services/property-scheduler/send-property-email",
+      "displayName": "Property Service send email",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1651,
+      "name": "Mail Tracker Create",
+      "url": "/notification-sms/mail-tracker-create",
+      "displayName": "Mail Tracker Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1652,
+      "name": "Localization",
+      "url": "/localization/messages/v1/_create",
+      "displayName": "Create Localization",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1553,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-dogs",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1554,
+      "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/_manage-event",
-      "displayName": "Agnc",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1555,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-agency",
+      "displayName": "RDF Monitoring",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
@@ -12291,5 +12356,7 @@
       "code": "null",
       "path": ""
     }
+ 
+ 
   ]
 }

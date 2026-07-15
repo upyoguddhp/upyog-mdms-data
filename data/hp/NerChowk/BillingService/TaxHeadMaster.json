@@ -4,7 +4,7 @@
   "TaxHeadMaster": [
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt adhoc rebate",
       "code": "PT_ADHOC_REBATE",
       "isDebit": true,
@@ -13,7 +13,7 @@
     },
     {
       "category": "ADVANCE_COLLECTION",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt advance carry forward",
       "code": "PT_ADVANCE_CARRYFORWARD",
       "isDebit": true,
@@ -22,7 +22,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt owner exemption",
       "code": "PT_OWNER_EXEMPTION",
       "isDebit": false,
@@ -32,7 +32,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
       "isDebit": false,
@@ -42,7 +42,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt unit usage excemption",
       "code": "PT_UNIT_USAGE_EXEMPTION",
       "isDebit": false,
@@ -52,7 +52,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt adhoc penalty",
       "code": "PT_ADHOC_PENALTY",
       "isDebit": false,
@@ -62,7 +62,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "propertytax",
       "code": "PT_TAX",
       "isDebit": false,
@@ -72,7 +72,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt fire cess",
       "code": "PT_FIRE_CESS",
       "isDebit": false,
@@ -82,7 +82,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt cancer cess",
       "code": "PT_CANCER_CESS",
       "isDebit": false,
@@ -92,7 +92,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt time penalty",
       "code": "PT_TIME_PENALTY",
       "isDebit": false,
@@ -102,7 +102,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "Pt time interest",
       "code": "PT_TIME_INTEREST",
       "isDebit": false,
@@ -148,7 +148,7 @@
     },
     {
       "category": "REBATE",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "pt debit decimal",
       "code": "PT_DECIMAL_CEILING_DEBIT",
       "isDebit": true,
@@ -157,7 +157,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "pt credit decimal",
       "code": "PT_DECIMAL_CEILING_CREDIT",
       "isDebit": false,
@@ -166,7 +166,7 @@
     },
     {
       "category": "TAX",
-      "service": "PT",
+      "service": "PROPERTY",
       "name": "pt decimal roundOff",
       "code": "PT_ROUNDOFF",
       "isDebit": false,

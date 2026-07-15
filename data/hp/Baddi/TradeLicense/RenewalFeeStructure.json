@@ -1,0 +1,132 @@
+{
+  "tenantId": "hp.Baddi",
+  "moduleName": "TradeLicense",
+  "RenewalFeeStructure": [
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 250,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1250,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2500,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 12500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 5000,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 25000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Baddi",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 0
+    }
+  ]
+}
