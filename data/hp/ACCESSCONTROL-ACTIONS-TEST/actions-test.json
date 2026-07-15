@@ -12238,6 +12238,58 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1647,
+      "name": "Agnc",
+      "url": "/rdf-monitoring/agncpet/_manage-dogs",
+      "displayName": "Agnc",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1647,
+      "name": "Agnc",
+      "url": "/rdf-monitoring/agncpet/_manage-dogs",
+      "displayName": "Agnc",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1648,
+      "name": "Agnc",
+      "url": "/rdf-monitoring/agncpet/_agency-manage",
+      "displayName": "Agnc",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1649,
+      "name": "Agnc",
+      "url": "/rdf-monitoring/agncpet/_manage-event",
+      "displayName": "Agnc",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
