@@ -12316,6 +12316,47 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1553,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-dogs",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1554,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-event",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1555,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-agency",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
+ 
+ 
   ]
 }

@@ -881,81 +881,11 @@
       "code": "NOC_NODAL",
       "name": "Noc Verifier",
       "description": "One who verify Noc"
-    },
-    {
+    }, 
+     {
       "code": "SERVICE_PROVIDER",
       "name": "SERVICE PROVIDER",
-      "description": "One who provides services"
-    },
-    {
-      "code": "WATER_NOC_VERIFIER",
-      "name": "Water Noc Verifier",
-      "description": "One who verifies Water Noc"
-    },
-    {
-      "code": "WATER_NOC_APPROVER",
-      "name": "Water Noc Approver",
-      "description": "One who approves Water Noc"
-    },
-    {
-      "code": "ELECTRICITY_NOC_VERIFIER",
-      "name": "Electricity Noc Verifier",
-      "description": "One who verifies Electricity Noc"
-    },
-    {
-      "code": "ELECTRICITY_NOC_APPROVER",
-      "name": "Electricity Noc Approver",
-      "description": "One who approves Electricity Noc"
-    },
-    {
-      "code": "CANOPY_NOC_VERIFIER",
-      "name": "Canopy Noc Verifier",
-      "description": "One who verifies Canopy Noc"
-    },
-    {
-      "code": "CANOPY_NOC_APPROVER",
-      "name": "Canopy Noc Approver",
-      "description": "One who approves Canopy Noc"
-    },
-    {
-      "code": "BAR_NOC_VERIFIER",
-      "name": "Bar Noc Verifier",
-      "description": "One who verifies Bar Noc"
-    },
-    {
-      "code": "BAR_NOC_APPROVER",
-      "name": "Bar Noc Approver",
-      "description": "One who approves Bar Noc"
-    },
-    {
-      "code": "SEWERAGE_NOC_VERIFIER",
-      "name": "Sewerage Noc Verifier",
-      "description": "One who verifies Sewerage Noc"
-    },
-    {
-      "code": "SEWERAGE_NOC_APPROVER",
-      "name": "Sewerage Noc Approver",
-      "description": "One who approves Sewerage Noc"
-    },
-    {
-      "code": "BOREWELL_NOC_VERIFIER",
-      "name": "Borewell Noc Verifier",
-      "description": "One who verifies Borewell Noc"
-    },
-    {
-      "code": "BOREWELL_NOC_APPROVER",
-      "name": "Borewell Noc Approver",
-      "description": "One who approves Borewell Noc"
-    },
-    {
-      "code": "PROPERTY_NOC_VERIFIER",
-      "name": "Property Noc Verifier",
-      "description": "One who verifies Property Noc"
-    },
-    {
-      "code": "PROPERTY_NOC_APPROVER",
-      "name": "Property Noc Approver",
-      "description": "One who approves Property Noc"
+      "description": "One who provides services" 
     }
   ]
 }
