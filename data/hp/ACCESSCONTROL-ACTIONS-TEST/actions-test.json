@@ -12303,6 +12303,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1652,
+      "name": "Property Service Search",
+      "url": "/property-services/property/owner-fuzzy/_search",
+      "displayName": "Property Service Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1653,
+      "name": "Property Service send notice",
+      "url": "/property-services/property-scheduler/send-property-notice",
+      "displayName": "Property Service send notice",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "Property Notice pdf",
+      "url": "/property-services/property/_generatePropertyNoticePdf",
+      "displayName": "Property Notice pdf",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
