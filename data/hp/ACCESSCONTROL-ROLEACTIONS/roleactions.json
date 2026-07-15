@@ -195,6 +195,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 636,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 637,
       "actioncode": "",
