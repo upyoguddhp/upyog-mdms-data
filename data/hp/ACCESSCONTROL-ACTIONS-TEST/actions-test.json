@@ -12372,7 +12372,7 @@
     {
       "id": 1657,
       "name": "RDF Monitoring",
-      "url": "/rdf-monitoring/agncpet/_manage-agency",
+      "url": "/rdf-monitoring/agncpet/_agency-manage",
       "displayName": "RDF Monitoring",
       "orderNumber": 1,
       "queryParams": null,
