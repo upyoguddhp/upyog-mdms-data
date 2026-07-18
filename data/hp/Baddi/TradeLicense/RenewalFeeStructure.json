@@ -1,7 +1,7 @@
 {
   "tenantId": "hp.Baddi",
   "moduleName": "TradeLicense",
-  "FeeStructure": [
+  "RenewalFeeStructure": [
     {
       "tenantId": "hp.Baddi",
       "feeStructureOf": "scaleOfBusiness",

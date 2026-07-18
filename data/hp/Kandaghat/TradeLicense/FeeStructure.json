@@ -1,132 +1,132 @@
 {
-  "tenantId": "hp.Baddi",
+  "tenantId": "hp.Kandaghat",
   "moduleName": "TradeLicense",
   "FeeStructure": [
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 250,
+      "price": 100,
       "periodOfLicense": 1
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1250,
+      "price": 0,
       "periodOfLicense": 5
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 2500,
+      "price": 300,
       "periodOfLicense": 1
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 12500,
+      "price": 0,
       "periodOfLicense": 5
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
       "price": 5000,
       "periodOfLicense": 1
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 25000,
+      "price": 0,
       "periodOfLicense": 5
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 1
+      "price": 2000
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 1
+      "price": 300
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 1
+      "price": 100
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 1
+      "price": 500
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 1
+      "price": 500
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 1
+      "price": 500
     },
     {
-      "tenantId": "hp.Baddi",
+      "tenantId": "hp.Kandaghat",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 0
+      "price": 1
     }
   ]
 }
