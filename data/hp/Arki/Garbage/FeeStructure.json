@@ -41,6 +41,18 @@
     {
       "categories": "Commercial",
       "subcategories": "Shops",
+      "subcategorytype": "Barber/Beauty Parlour",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 110,
+      "tenantId": "hp.Arki",
+      "active": "TRUE"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
       "subcategorytype": "Tea Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
