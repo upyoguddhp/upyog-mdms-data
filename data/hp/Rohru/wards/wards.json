@@ -36,6 +36,16 @@
       "name": "Bus Stand Area",
       "code": "8866",
       "active": "true"
+    },
+    {
+      "name": "Bhautinalla",
+      "code": "8869",
+      "active": "true"
+    },
+    {
+      "name": "Shaktinagar",
+      "code": "8870",
+      "active": "true"
     }
   ]
 }
