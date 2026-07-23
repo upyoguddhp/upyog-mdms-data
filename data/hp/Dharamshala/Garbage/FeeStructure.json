@@ -7,10 +7,10 @@
       "subcategories": "Household",
       "subcategorytype": "Area Less Than 2000 Sq. Feet",
       "bplRebatePercentage": 40,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 60,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 60,
+      "fee": 100,
       "tenantId": "hp.Dharamshala",
       "active": "true"
     },
