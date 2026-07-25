@@ -12316,6 +12316,152 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1653,
+      "name": "Property Service Search",
+      "url": "/property-services/property/owner-fuzzy/_search",
+      "displayName": "Property Service Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "Property Service send notice",
+      "url": "/property-services/property-scheduler/send-property-notice",
+      "displayName": "Property Service send notice",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1655,
+      "name": "Property Notice pdf",
+      "url": "/property-services/property/_generatePropertyNoticePdf",
+      "displayName": "Property Notice pdf",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1656,
+      "name": "Localization",
+      "url": "/localization/messages/v1/_create",
+      "displayName": "Create Localization",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1653,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-dogs",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-event",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1655,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-agency",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1656,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-complaints",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1657,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_agency-manage",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1658,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-shelters",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1659,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_search-agency",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
+
+ 
+ 
   ]
 }

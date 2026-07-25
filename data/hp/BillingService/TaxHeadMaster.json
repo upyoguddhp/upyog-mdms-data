@@ -9,7 +9,7 @@
       "code": "PT_ADHOC_REBATE",
       "isDebit": true,
       "isActualDemand": false,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "ADVANCE_COLLECTION",
@@ -18,7 +18,7 @@
       "code": "PT_ADVANCE_CARRYFORWARD",
       "isDebit": true,
       "isActualDemand": false,
-      "order": 0
+      "order": "0"
     },
     {
       "category": "TAX",
@@ -5772,6 +5772,15 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "GB",
+      "name": "Gb advance carry forward",
+      "code": "GB_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
     },
     {
       "category": "FEE",
