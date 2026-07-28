@@ -6936,8 +6936,8 @@
     {
       "category": "TAX",
       "service": "CHLRRPT",
-      "name": "CH.Recovery_of_remaining_Property_Tax_TAX",
-      "code": "CH.Recovery_of_remaining_Property_Tax_TAX",
+      "name": "CH.Recovery_of_remaining_Property_Tax_SGST",
+      "code": "CH.Recovery_of_remaining_Property_Tax_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
