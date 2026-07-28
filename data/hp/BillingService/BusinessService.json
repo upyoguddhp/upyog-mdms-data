@@ -2238,8 +2238,8 @@
       "groupedTo": "Violations_and_Recoveries_Settlement"
     },
       {
-      "businessService": "CHLRRPRT",
-      "code": "CHLRRPRT",
+      "businessService": "CHLRRPT",
+      "code": "CHLRRPT",
       "description": "Recovery of remaining Property Tax",
       "collectionModesNotAllowed": [
         "DD"
