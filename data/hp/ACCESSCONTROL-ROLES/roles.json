@@ -891,6 +891,11 @@
       "code": "ULB_ADMIN",
       "name": "ULB ADMIN",
       "description": "Can View Reports"
+    },
+    {
+      "code": "DIRECTORATE_UD",
+      "name": "Directorate UD",
+      "description": "Can View ULB Reports"
     }
   ]
 }
