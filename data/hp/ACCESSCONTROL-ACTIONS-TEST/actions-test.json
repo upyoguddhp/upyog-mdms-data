@@ -12666,6 +12666,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 1677,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/payment",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1678,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-vechicles",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1679,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/manage-user",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
