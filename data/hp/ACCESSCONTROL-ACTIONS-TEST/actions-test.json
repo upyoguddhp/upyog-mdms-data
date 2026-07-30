@@ -12644,7 +12644,7 @@
     {
       "id": 1675,
       "name": "Search Door Plate",
-      "url": "/digital-door-plate/door-plate/qr/_decrypt",
+      "url": "/digital-door-plate/qr/_decrypt",
       "displayName": "Search Door Plate",
       "orderNumber": 1,
       "queryParams": null,
@@ -12657,7 +12657,7 @@
     {
       "id": 1676,
       "name": "Search Door Plate",
-      "url": "/digital-door-plate/door-plate/qr/_generate",
+      "url": "/digital-door-plate/qr/_generate",
       "displayName": "Search Door Plate",
       "orderNumber": 1,
       "queryParams": null,
