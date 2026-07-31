@@ -29944,5 +29944,42 @@
       "actioncode": "",
       "tenantId": "hp"
     }
+    ,
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1680,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1680,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1681,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1681,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1682,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1682,
+      "actioncode": "",
+      "tenantId": "hp"
+    }
   ]
 }
