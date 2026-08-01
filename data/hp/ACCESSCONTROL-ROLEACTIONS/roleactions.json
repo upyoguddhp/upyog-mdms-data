@@ -29980,6 +29980,18 @@
       "actionid": 1682,
       "actioncode": "",
       "tenantId": "hp"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1683,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1683,
+      "actioncode": "",
+      "tenantId": "hp"
     }
   ]
 }

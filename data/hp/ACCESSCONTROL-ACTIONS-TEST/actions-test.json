@@ -12744,6 +12744,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    }, 
+    {
+      "id": 1683,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/search-admissions",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
