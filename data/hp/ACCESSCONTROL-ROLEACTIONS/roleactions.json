@@ -29992,6 +29992,18 @@
       "actionid": 1683,
       "actioncode": "",
       "tenantId": "hp"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1684,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1684,
+      "actioncode": "",
+      "tenantId": "hp"
     }
   ]
 }
