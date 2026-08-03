@@ -496,6 +496,18 @@
     },
     {
       "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Banks",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Dehra",
+      "active": "TRUE"
+    },
+    {
+      "categories": "Commercial",
       "subcategories": "Others",
       "subcategorytype": "Others",
       "bplRebatePercentage": 0,
