@@ -12783,6 +12783,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1686,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/sevabandhu/get-rdf-quantity",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
