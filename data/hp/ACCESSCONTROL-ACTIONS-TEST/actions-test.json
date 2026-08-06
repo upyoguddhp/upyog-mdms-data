@@ -12796,6 +12796,31 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
+    },{
+      "id": 1687,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/post-operative-details",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    } ,
+    {
+      "id": 1688,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/get-pre-operative-details",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }
