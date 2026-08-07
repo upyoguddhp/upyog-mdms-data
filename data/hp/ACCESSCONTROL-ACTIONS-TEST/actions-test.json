@@ -12821,6 +12821,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    }, 
+    {
+      "id": 1689,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/update-vet-examination",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     } 
   ]
 }
