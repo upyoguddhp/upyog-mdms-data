@@ -12873,6 +12873,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 1693,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/rdfinfo/assign-route-vehicle",
+      "displayName": "RDF ",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }
