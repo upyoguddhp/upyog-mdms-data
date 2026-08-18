@@ -6,7 +6,7 @@
       "categories": "Residential",
       "subcategories": "Household",
       "subcategorytype": "Area Less Than 2000 Sq. Feet",
-      "bplRebatePercentage": 0,
+      "bplRebatePercentage": 40,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
@@ -491,6 +491,18 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 1500,
+      "tenantId": "hp.Dehra",
+      "active": "TRUE"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Banks",
+      "subcategorytype": "Banks",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
       "tenantId": "hp.Dehra",
       "active": "TRUE"
     },

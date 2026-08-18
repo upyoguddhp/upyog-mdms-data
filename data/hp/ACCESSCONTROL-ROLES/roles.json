@@ -906,6 +906,11 @@
       "code": "ABC_CENTER_ADMIN",
       "name": "ABC app CENTER ADMIN",
       "description": "Can View Reports"
+    },
+    {
+      "code": "DIRECTORATE_UD",
+      "name": "Directorate UD",
+      "description": "Can View ULB Reports"
     } 
   ]
 }
