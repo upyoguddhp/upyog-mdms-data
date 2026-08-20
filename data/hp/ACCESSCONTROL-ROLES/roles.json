@@ -896,7 +896,7 @@
       "code": "ABC_ADMIN",
       "name": "ABC app  ADMIN",
       "description": "Can View Reports"
-    }, 
+    },
     {
       "code": "ABC_AGENCY_ADMIN",
       "name": "ABC app AGENCY ADMIN",
@@ -908,9 +908,24 @@
       "description": "Can View Reports"
     },
     {
+      "code": "DDP_SUPERVISOR",
+      "name": "Ddp Supervisor",
+      "description": "Supervise the DDP management"
+    },
+    {
+      "code": "DDP_CONTRACTOR",
+      "name": "Ddp Contractor",
+      "description": "Manage Garbage collector"
+    },
+    {
+      "code": "DDP_GRBG_COLLECTOR",
+      "name": "Ddp Garbage Collector",
+      "description": "Collect Garbage from door to door"
+    },
+    {
       "code": "DIRECTORATE_UD",
       "name": "Directorate UD",
       "description": "Can View ULB Reports"
-    } 
+    }
   ]
 }
