@@ -921,6 +921,11 @@
       "code": "DDP_GRBG_COLLECTOR",
       "name": "Ddp Garbage Collector",
       "description": "Collect Garbage from door to door"
+    },
+    {
+      "code": "DIRECTORATE_UD",
+      "name": "Directorate UD",
+      "description": "Can View ULB Reports"
     }
   ]
 }

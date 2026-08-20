@@ -6913,6 +6913,46 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "CHLRRPT",
+      "name": "CH.Recovery_of_remaining_Property_Tax_TAX",
+      "code": "CH.Recovery_of_remaining_Property_Tax_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLRRPT",
+      "name": "CH.Recovery_of_remaining_Property_Tax_FIELDFEE",
+      "code": "CH.Recovery_of_remaining_Property_Tax_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLRRPT",
+      "name": "CH.Recovery_of_remaining_Property_Tax_CGST",
+      "code": "CH.Recovery_of_remaining_Property_Tax_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLRRPT",
+      "name": "CH.Recovery_of_remaining_Property_Tax_SGST",
+      "code": "CH.Recovery_of_remaining_Property_Tax_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "NOC",
       "name": "NOC Fee",

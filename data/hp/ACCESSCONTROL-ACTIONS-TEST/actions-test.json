@@ -12460,7 +12460,7 @@
       "path": ""
     },
     {
-      "id": 1660,
+      "id": 1664,
       "name": "Start Duty",
       "url": "/digital-door-plate/attendance/_startDuty",
       "displayName": "Start Duty",
@@ -12473,7 +12473,7 @@
       "path": ""
     },
     {
-      "id": 1661,
+      "id": 1665,
       "name": "End Duty",
       "url": "/digital-door-plate/attendance/_endDuty",
       "displayName": "End Duty",
@@ -12486,7 +12486,7 @@
       "path": ""
     },
     {
-      "id": 1662,
+      "id": 1666,
       "name": "Search Attendance",
       "url": "/digital-door-plate/attendance/_search",
       "displayName": "Search Attendance",
@@ -12499,7 +12499,7 @@
       "path": ""
     },
     {
-      "id": 1663,
+      "id": 1667,
       "name": "Attendance Summary",
       "url": "/digital-door-plate/attendance/_summary",
       "displayName": "Attendance Summary",
@@ -12512,7 +12512,7 @@
       "path": ""
     },
     {
-      "id": 1664,
+      "id": 1668,
       "name": "Scan Garbage Collection",
       "url": "/digital-door-plate/garbage-collection/_scan",
       "displayName": "Scan Garbage Collection",
@@ -12525,7 +12525,7 @@
       "path": ""
     },
     {
-      "id": 1665,
+      "id": 1669,
       "name": "Create Garbage Collection",
       "url": "/digital-door-plate/garbage-collection/_create",
       "displayName": "Create Garbage Collection",
@@ -12538,7 +12538,7 @@
       "path": ""
     },
     {
-      "id": 1666,
+      "id": 1670,
       "name": "Sync Garbage Collection",
       "url": "/digital-door-plate/garbage-collection/_sync",
       "displayName": "Sync Garbage Collection",
@@ -12551,7 +12551,7 @@
       "path": ""
     },
     {
-      "id": 1667,
+      "id": 1671,
       "name": "Update Garbage Collection",
       "url": "/digital-door-plate/garbage-collection/_update",
       "displayName": "Update Garbage Collection",
@@ -12564,7 +12564,7 @@
       "path": ""
     },
     {
-      "id": 1668,
+      "id": 1672,
       "name": "Search Garbage Collection",
       "url": "/digital-door-plate/garbage-collection/_search",
       "displayName": "Search Garbage Collection",
@@ -12577,7 +12577,7 @@
       "path": ""
     },
     {
-      "id": 1669,
+      "id": 1673,
       "name": "Generate Door Plate",
       "url": "/digital-door-plate/door-plate/_generate",
       "displayName": "Generate Door Plate",
@@ -12590,7 +12590,7 @@
       "path": ""
     },
     {
-      "id": 1670,
+      "id": 1674,
       "name": "Verify Door Plate Print",
       "url": "/digital-door-plate/door-plate/_verifyPrint",
       "displayName": "Verify Door Plate Print",
@@ -12603,7 +12603,7 @@
       "path": ""
     },
     {
-      "id": 1671,
+      "id": 1675,
       "name": "Install Door Plate",
       "url": "/digital-door-plate/door-plate/_install",
       "displayName": "Install Door Plate",
@@ -12616,7 +12616,7 @@
       "path": ""
     },
     {
-      "id": 1672,
+      "id": 1676,
       "name": "Search Door Plate",
       "url": "/digital-door-plate/door-plate/_search",
       "displayName": "Search Door Plate",
@@ -12629,7 +12629,7 @@
       "path": ""
     },
     {
-      "id": 1673,
+      "id": 1677,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/_manage-center",
       "displayName": "RDF Monitoring",
@@ -12642,7 +12642,7 @@
       "path": ""
     },
     {
-      "id": 1674,
+      "id": 1678,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/_manage-dogs",
       "displayName": "RDF Monitoring",
@@ -12655,7 +12655,7 @@
       "path": ""
     },
     {
-      "id": 1675,
+      "id": 1679,
       "name": "Search Door Plate",
       "url": "/digital-door-plate/qr/_decrypt",
       "displayName": "Search Door Plate",
@@ -12668,7 +12668,7 @@
       "path": ""
     },
     {
-      "id": 1676,
+      "id": 1680,
       "name": "Search Door Plate",
       "url": "/digital-door-plate/qr/_generate",
       "displayName": "Search Door Plate",
@@ -12681,7 +12681,7 @@
       "path": ""
     },
      {
-      "id": 1677,
+      "id": 1681,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/payment",
       "displayName": "RDF Monitoring",
@@ -12694,7 +12694,7 @@
       "path": ""
     },
     {
-      "id": 1678,
+      "id": 1682,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/_manage-vechicles",
       "displayName": "RDF Monitoring",
@@ -12707,7 +12707,7 @@
       "path": ""
     },
     {
-      "id": 1679,
+      "id": 1683,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/manage-user",
       "displayName": "RDF Monitoring",
@@ -12720,7 +12720,7 @@
       "path": ""
     },
     {
-      "id": 1680,
+      "id": 1684,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/_search-kannel",
       "displayName": "RDF Monitoring",
@@ -12733,7 +12733,7 @@
       "path": ""
     }, 
     {
-      "id": 1681,
+      "id": 1685,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/manage-admission",
       "displayName": "RDF Monitoring",
@@ -12746,7 +12746,7 @@
       "path": ""
     }, 
     {
-      "id": 1682,
+      "id": 1686,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/_manage-kannel",
       "displayName": "RDF Monitoring",
@@ -12759,7 +12759,7 @@
       "path": ""
     }, 
     {
-      "id": 1683,
+      "id": 1687,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/search-admissions",
       "displayName": "RDF Monitoring",
@@ -12772,7 +12772,7 @@
       "path": ""
     }, 
     {
-      "id": 1684,
+      "id": 1688,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/sevabandhu/search-quantity",
       "displayName": "RDF Monitoring",
@@ -12785,7 +12785,7 @@
       "path": ""
     }, 
     {
-      "id": 1685,
+      "id": 1689,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/sevabandhu/updaterdf-quantity",
       "displayName": "RDF Monitoring",
@@ -12798,7 +12798,7 @@
       "path": ""
     },
     {
-      "id": 1686,
+      "id": 1690,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/sevabandhu/get-rdf-quantity",
       "displayName": "RDF Monitoring",
@@ -12810,7 +12810,7 @@
       "code": "null",
       "path": ""
     },{
-      "id": 1687,
+      "id": 1691,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/post-operative-details",
       "displayName": "RDF Monitoring",
@@ -12823,7 +12823,7 @@
       "path": ""
     } ,
     {
-      "id": 1688,
+      "id": 1692,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/get-pre-operative-details",
       "displayName": "RDF Monitoring",
@@ -12836,7 +12836,7 @@
       "path": ""
     }, 
     {
-      "id": 1689,
+      "id": 1693,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/update-vet-examination",
       "displayName": "RDF Monitoring",
@@ -12849,7 +12849,7 @@
       "path": ""
     },
     {
-      "id": 1690,
+      "id": 1694,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/rdfinfo/create-route",
       "displayName": "RDF Monitoring",
@@ -12862,7 +12862,7 @@
       "path": ""
     },
     {
-      "id": 1691,
+      "id": 1695,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/rdfinfo/list-routes",
       "displayName": "RDF Monitoring",
@@ -12875,7 +12875,7 @@
       "path": ""
     } ,
     {
-      "id": 1692,
+      "id": 1696,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/analytics",
       "displayName": "RDF Monitoring",
@@ -12888,7 +12888,7 @@
       "path": ""
     },
     {
-      "id": 1693,
+      "id": 1697,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/rdfinfo/assign-route-vehicle",
       "displayName": "RDF ",

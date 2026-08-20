@@ -2237,6 +2237,20 @@
       "type": "Adhoc",
       "groupedTo": "Violations_and_Recoveries_Settlement"
     },
+      {
+      "businessService": "CHLRRPT",
+      "code": "CHLRRPT",
+      "description": "Recovery of remaining Property Tax",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Violations_and_Recoveries_Settlement"
+    },
     {
       "businessService": "CHLFPBG",
       "code": "CHLFPBG",
