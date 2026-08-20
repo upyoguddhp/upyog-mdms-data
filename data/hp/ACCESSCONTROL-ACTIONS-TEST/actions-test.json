@@ -12899,6 +12899,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    } 
+    },
+    {
+      "id": 1698,
+      "name": "Contractor Create",
+      "url": "/digital-door-plate/contractor/_create",
+      "displayName": "Contractor create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
