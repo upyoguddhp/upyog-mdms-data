@@ -12912,6 +12912,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1699,
+      "name": "Contractor Search",
+      "url": "/digital-door-plate/contractor/_search",
+      "displayName": "Contractor search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1700,
+      "name": "Collection create",
+      "url": "/digital-door-plate/garbage-collection/_create",
+      "displayName": "Collection create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1701,
+      "name": "Update Checque Transaction V2",
+      "url": "/pg-service/transaction/v2/_updateChequeTransaction",
+      "displayName": "Update Checque Transaction V2",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
