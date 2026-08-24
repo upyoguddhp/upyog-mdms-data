@@ -891,6 +891,11 @@
       "code": "ULB_ADMIN",
       "name": "ULB ADMIN",
       "description": "Can View Reports"
+    },
+        {
+      "code": "LMK",
+      "name": "LMK",
+      "description": "CSC center user Role"
     }
   ]
 }
