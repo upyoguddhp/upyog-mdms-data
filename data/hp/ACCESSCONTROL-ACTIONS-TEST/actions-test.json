@@ -12951,6 +12951,58 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1702,
+      "name": "Collector Create",
+      "url": "/digital-door-plate/garbage-collector/_create",
+      "displayName": "Collector Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1703,
+      "name": "Supervisor Create",
+      "url": "/digital-door-plate/garbage-supervisor/_create",
+      "displayName": "Supervisor Create",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1704,
+      "name": "Supervisor Search",
+      "url": "/digital-door-plate/garbage-supervisor/_search",
+      "displayName": "Supervisor Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1705,
+      "name": "Collector Search",
+      "url": "/digital-door-plate/garbage-collector/_search",
+      "displayName": "Collector Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
