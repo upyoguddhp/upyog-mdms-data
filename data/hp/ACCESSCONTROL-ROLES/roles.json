@@ -773,7 +773,7 @@
       "description": "Hall Application Document Verifier"
     },
     {
-      "code": "SITE_APPROVER",
+      "code": "-",
       "name": "Site Approver",
       "description": "SITE Application Approver"
     },
@@ -896,6 +896,16 @@
       "code": "DIRECTORATE_UD",
       "name": "Directorate UD",
       "description": "Can View ULB Reports"
+    },
+    {
+      "code": "DDP_PRINT_VENDOR",
+      "name": "DDP Print Vendor",
+      "description": "Can Print DDP PDF"
+    },
+    {
+      "code": "DDP_UD_ADMIN",
+      "name": "DDP UD Admin",
+      "description": "Can View DDP Reports"
     }
   ]
 }
