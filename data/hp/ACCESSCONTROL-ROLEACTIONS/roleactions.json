@@ -30156,28 +30156,17 @@
     },
     {
       "rolecode": "LMK",
-      "actionid": 1680,
+      "actionid": 1707,
       "actioncode": "",
       "tenantId": "hp"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 1680,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-     {
-      "rolecode": "LMK",
-      "actionid": 1681,
-      "actioncode": "",
-      "tenantId": "hp"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1681,
+      "actionid": 1707,
       "actioncode": "",
       "tenantId": "hp"
     }
+    
      
   ]
 }  
