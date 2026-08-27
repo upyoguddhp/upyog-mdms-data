@@ -28076,14 +28076,26 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-    {
+     {
       "rolecode": "CITIZEN",
-      "actionid": 1509,
+      "actionid": 1508,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "LMK",
+      "actionid": 1508,
       "actioncode": "",
       "tenantId": "hp"
     },
     {
       "rolecode": "EMPLOYEE",
+      "actionid": 1509,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "LMK",
       "actionid": 1509,
       "actioncode": "",
       "tenantId": "hp"
@@ -29877,6 +29889,19 @@
       "actionid": 1680,
       "actioncode": "",
       "tenantId": "hp"
+    },
+     {
+      "rolecode": "LMK",
+      "actionid": 1681,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1681,
+      "actioncode": "",
+      "tenantId": "hp"
     }
+     
   ]
 }
