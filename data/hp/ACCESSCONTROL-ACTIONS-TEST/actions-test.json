@@ -7298,18 +7298,6 @@
       "path": "Property Tax.PTIS Reports.PT Report V1 Metadata"
     },
     {
-      "id": 954,
-      "name": "MDMS Search",
-      "url": "/egov-mdms-service/v1/_search",
-      "displayName": "MDMS Search",
-      "orderNumber": 0,
-      "parentModule": "306",
-      "enabled": false,
-      "serviceCode": "MDMS Search",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 955,
       "name": "Search Compensatory Leaves",
       "url": "/hr-leave/compensatoryleaves/_search",
@@ -12720,9 +12708,15 @@
       "path": ""
     },
     {
+<<<<<<< HEAD
+      "id": 1680,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/csc-payment",
+=======
       "id": 1684,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/_search-kannel",
+>>>>>>> 195f49209b4b84ab199f89075456fd49746f9029
       "displayName": "RDF Monitoring",
       "orderNumber": 1,
       "queryParams": null,
@@ -12731,6 +12725,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+<<<<<<< HEAD
+=======
     }, 
     {
       "id": 1685,
@@ -13003,6 +12999,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+>>>>>>> 195f49209b4b84ab199f89075456fd49746f9029
     }
+    
   ]
 }
