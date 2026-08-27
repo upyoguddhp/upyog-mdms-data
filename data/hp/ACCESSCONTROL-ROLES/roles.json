@@ -893,6 +893,11 @@
       "description": "Can View Reports"
     },
     {
+      "code": "LMK",
+      "name": "LMK",
+      "description": "CSC center user Role"
+    },
+    {
       "code": "ABC_ADMIN",
       "name": "ABC app  ADMIN",
       "description": "Can View Reports"
