@@ -6,169 +6,127 @@
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 1500,
+      "price": 500,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 6000,
+      "price": 2000,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 12000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Dalhousie",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 18000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Dalhousie",
-      "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 2500,
+      "price": 1000,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
-      "price": 10000,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Dalhousie",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 20000,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Dalhousie",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 30000,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Dalhousie",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
       "price": 4000,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Dalhousie",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
-      "price": 16000,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 32000,
-      "periodOfLicense": 10
+      "price": 2000,
+      "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 48000,
-      "periodOfLicense": 15
+      "price": 8000,
+      "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 1500
+      "price": 500
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 5000
+      "price": 2000
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 5000
+      "price": 2000
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 1500
+      "price": 500
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 5000
+      "price": 2000
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 1000
+      "price": 500
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 1000
+      "price": 500
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 5000
+      "price": 2000
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 5000
+      "price": 2000
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 4000
+      "price": 200
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
-      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 5000
+      "type": "Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 200
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 5000
+      "price": 2000
     },
     {
       "tenantId": "hp.Dalhousie",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 5000
+      "price": 2000
     },
     {
-      "tenantId": "hp.Dalhouise",
+      "tenantId": "hp.Dalhousie",
       "feeStructureOf": "zone",
       "type": "A",
-      "price": 1
+      "price": 0
     }
   ]
 }

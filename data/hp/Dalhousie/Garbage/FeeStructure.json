@@ -5,26 +5,26 @@
     {
       "categories": "Residential",
       "subcategories": "Household",
-      "subcategorytype": "Area Less Than 2000 Sq. Feet",
+      "subcategorytype": "Area less than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Residential",
       "subcategories": "Household",
-      "subcategorytype": "Area More Than 2000 Sq. Feet",
+      "subcategorytype": "Area more than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -32,11 +32,11 @@
       "subcategorytype": "Pan Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -44,11 +44,11 @@
       "subcategorytype": "Tea Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -56,11 +56,11 @@
       "subcategorytype": "Confectionery & Veg Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 250,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -68,11 +68,11 @@
       "subcategorytype": "Vegetable & Fruit Shops (Wholesale)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -80,11 +80,11 @@
       "subcategorytype": "Vegetable & Fruit Shops (Retail)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 250,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -92,11 +92,11 @@
       "subcategorytype": "Groceries & Daily Needs Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -104,11 +104,11 @@
       "subcategorytype": "Clothes Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -116,11 +116,11 @@
       "subcategorytype": "Eateries (Food Production & Distribution)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 650,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -128,11 +128,11 @@
       "subcategorytype": "Eateries (Food Distribution Only)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -140,95 +140,95 @@
       "subcategorytype": "Meat & Fish Shops",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Dhaba",
+      "subcategorytype": "Dhabas",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 250,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Saloon/Beauty Parlour",
+      "subcategorytype": "Saloon",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Barber Shop (Capacity upto 5 Customers at a Time)",
+      "subcategorytype": "Barber Shop",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Barber Shop (Above 5 Customer)",
+      "subcategorytype": "Beauty Parlour",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 300,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Super Stores/Departmental Store",
-      "subcategorytype": "Super Stores/Departmental Store",
+      "subcategories": "Super Stores",
+      "subcategorytype": "Super Stores",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 350,
+      "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Malls",
-      "subcategorytype": "Big Malls",
+      "subcategorytype": "Malls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Restaurants",
-      "subcategorytype": "Restaurant",
+      "subcategorytype": "Private Restaurants",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -236,11 +236,11 @@
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -248,11 +248,11 @@
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -260,23 +260,23 @@
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2500,
+      "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Hotels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 500,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2500,
+      "fee": 4500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -284,11 +284,11 @@
       "subcategorytype": "Upto 10 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -296,11 +296,11 @@
       "subcategorytype": "11 - 20 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -308,35 +308,35 @@
       "subcategorytype": "21 - 30 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2500,
+      "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
       "subcategorytype": "More than 30 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 500,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2500,
+      "fee": 4500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Recreational Facilities",
+      "subcategories": "Clubs",
       "subcategorytype": "Clubs",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -344,11 +344,11 @@
       "subcategorytype": "2 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -356,11 +356,11 @@
       "subcategorytype": "3-5 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 300,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -368,11 +368,11 @@
       "subcategorytype": "6-10 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -380,23 +380,35 @@
       "subcategorytype": "11-20 Rooms",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Offices",
       "subcategorytype": "More than 20 Rooms",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 100,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Private/Govt Bank",
+      "subcategorytype": "Private/Govt Bank",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
+      "fixedUnitCost": 0,
+      "fee": 1000,
+      "tenantId": "hp.Dalhousie",
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -404,23 +416,23 @@
       "subcategorytype": "Upto 100 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Schools/ Institutions",
-      "subcategorytype": "101-200 Students",
+      "subcategorytype": "More than 100 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 1500,
+      "fee": 3500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -428,11 +440,11 @@
       "subcategorytype": "Upto 1000 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 1500,
+      "fee": 3500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -440,11 +452,11 @@
       "subcategorytype": "More than 1000 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 5000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -452,11 +464,11 @@
       "subcategorytype": "Upto 100 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -464,11 +476,11 @@
       "subcategorytype": "More than 100 Students",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -476,11 +488,11 @@
       "subcategorytype": "Only Tire Puncture Repair",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -488,11 +500,11 @@
       "subcategorytype": "Vehicle Repair",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 300,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -500,11 +512,11 @@
       "subcategorytype": "Vehicle Repair & Spare Part Retail",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -512,23 +524,23 @@
       "subcategorytype": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Workshops & Garages",
-      "subcategorytype": "Sawmill",
+      "subcategorytype": "Saw Mill",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -536,35 +548,47 @@
       "subcategorytype": "Street Vendors",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Marriage Halls (monthly)",
-      "subcategorytype": "Private Marriage Halls (monthly)",
+      "subcategories": "Street Hawkers",
+      "subcategorytype": "Street Hawkers",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Cinema Halls/Theatre",
-      "subcategorytype": "Cinema Halls/Theatre",
+      "subcategories": "Private Marriage Halls",
+      "subcategorytype": "Private Marriage Halls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Cinema Halls (Theatre & Multiplexes)",
+      "subcategorytype": "Cinema Halls (Theatre & Multiplexes)",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Dalhousie",
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -572,11 +596,11 @@
       "subcategorytype": "Slaughterhouse",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 5000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -584,11 +608,11 @@
       "subcategorytype": "Others",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -596,11 +620,11 @@
       "subcategorytype": "Micro Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -608,11 +632,11 @@
       "subcategorytype": "Small Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -620,11 +644,11 @@
       "subcategorytype": "Medium Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -632,11 +656,11 @@
       "subcategorytype": "Large Industry",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 4000,
+      "fee": 5000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -644,11 +668,11 @@
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -656,23 +680,23 @@
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Nursing Homes",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -680,11 +704,11 @@
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -692,23 +716,23 @@
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Rehabilitation Center",
       "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -716,11 +740,11 @@
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -728,23 +752,23 @@
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Old Age Homes",
-      "subcategorytype": "More Than 100 Beds",
+      "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -752,11 +776,11 @@
       "subcategorytype": "Upto 50 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -764,23 +788,23 @@
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
-      "subcategorytype": "More Than 100 Beds",
+      "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": true,
-      "variableUnitCost": 250,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 3000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -788,11 +812,11 @@
       "subcategorytype": "Laboratories",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -800,11 +824,11 @@
       "subcategorytype": "Private Clinics",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -812,11 +836,11 @@
       "subcategorytype": "Chemists",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -824,11 +848,11 @@
       "subcategorytype": "Others",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -836,11 +860,11 @@
       "subcategorytype": "Govt Primary School",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -848,23 +872,23 @@
       "subcategorytype": "Govt Middle School",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Govt High/ Senior Secondary School",
-      "subcategorytype": "Govt High / Senior Secondary School",
+      "subcategories": "Govt Senior/ Senior Secondary School",
+      "subcategorytype": "Govt Senior/ Senior Secondary School",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -872,11 +896,11 @@
       "subcategorytype": "Govt Angan Wadi",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -884,11 +908,11 @@
       "subcategorytype": "Govt College",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -896,59 +920,23 @@
       "subcategorytype": "Govt University",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 5000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 2 Rooms)",
+      "subcategories": "State Govt Office",
+      "subcategorytype": "State Govt Office",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 3-5 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 6-10 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 11-20 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -956,119 +944,59 @@
       "subcategorytype": "Central Govt Office",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Garden",
-      "subcategorytype": "Garden",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 2 Rooms)",
+      "subcategorytype": "ULB Office",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 3-5 Rooms)",
+      "subcategories": "Govt. Garden",
+      "subcategorytype": "Govt. Garden",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 6-10 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 11-20 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 50 Beds",
+      "subcategorytype": "Govt Hospitals",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
-      "fee": 1200,
+      "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "51 to 100 Beds",
+      "subcategories": "Govt Dispensary",
+      "subcategorytype": "Govt Dispensary",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1200,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Hospitals",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1200,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
-      "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -1076,59 +1004,35 @@
       "subcategorytype": "Govt Restaurants",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Government Hotel",
-      "subcategorytype": "Upto 10 Rooms",
+      "subcategories": "Govt Hotel",
+      "subcategorytype": "Govt Hotel",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Government Hotel",
-      "subcategorytype": "11 - 20 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Government Hotel",
-      "subcategorytype": "21 - 30 Rooms",
+      "subcategories": "Govt Marriage Halls/ Community Centres",
+      "subcategorytype": "Govt Marriage Halls/ Community Centres",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
-      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -1136,23 +1040,23 @@
       "subcategorytype": "Others",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
-      "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
-      "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
+      "subcategories": "Charitable Trust / NGO / any other Registered Group",
+      "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1160,11 +1064,11 @@
       "subcategorytype": "Private Garden",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1172,11 +1076,11 @@
       "subcategorytype": "Orphanages",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1184,59 +1088,35 @@
       "subcategorytype": "Heritage Site",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 200,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
       "subcategories": "Religious Site",
-      "subcategorytype": "Temple (Trust)",
+      "subcategorytype": "Religious Site",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
-      "subcategories": "Religious Site",
-      "subcategorytype": "Dham/Mandir",
+      "subcategories": "Dairy Cattle and Animal Sheds",
+      "subcategorytype": "Dairy Cattle and Animal Sheds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Religious Site",
-      "subcategorytype": "Public Meeting /Religious Congregation etc",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Cow Dung from cattle at households",
-      "subcategorytype": "Cow Dung From Cattle At Households",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1244,11 +1124,11 @@
       "subcategorytype": "Pet Shops",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1256,47 +1136,35 @@
       "subcategorytype": "Scrap Dealers",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
       "subcategories": "Construction & Demolition Waste Site",
-      "subcategorytype": "Small",
+      "subcategorytype": "Construction & Demolition Waste Site",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 1500,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
-      "subcategories": "Construction & Demolition Waste Site",
-      "subcategorytype": "Big",
+      "subcategories": "Any Other establishment not mentioned above",
+      "subcategorytype": "Any Other establishment not mentioned above",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1500,
-      "tenantId": "hp.Dalhousie",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Any Other Establishment Not Mentioned Above",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
+      "variableUnitCost": "",
       "fixedUnitCost": 0,
       "fee": 2000,
       "tenantId": "hp.Dalhousie",
-      "active": "true"
+      "active": true
     }
   ]
 }
