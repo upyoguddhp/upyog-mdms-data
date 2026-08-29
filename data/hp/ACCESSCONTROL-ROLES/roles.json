@@ -773,7 +773,7 @@
       "description": "Hall Application Document Verifier"
     },
     {
-      "code": "-",
+      "code": "SITE_APPROVER",
       "name": "Site Approver",
       "description": "SITE Application Approver"
     },
