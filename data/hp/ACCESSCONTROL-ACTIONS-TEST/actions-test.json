@@ -13017,7 +13017,21 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }  
+    },
+    {
+      "id": 1708,
+      "name": "Update DDP Workflow",
+      "url": "/digital-door-plate/door-plate/_updateDdpWorkflow",
+      "displayName": "Update DDP Workflow",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }
+
     
   ]
 }
