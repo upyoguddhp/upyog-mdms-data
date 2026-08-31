@@ -13030,13 +13030,25 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
-    ,
+    },
     {
       "id": 1709,
       "name": "Search DDP Printing Data",
       "url": "/garbage-service/garbage-accounts/_searchDdpPrintingData",
       "displayName": "Search DDP Printing Data",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1710,
+      "name": "sync garbage collection",
+      "url": "/digital-door-plate/garbage-collection/_sync",
+      "displayName": "Sync Garbage Collection",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
