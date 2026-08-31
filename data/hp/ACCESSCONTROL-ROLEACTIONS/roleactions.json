@@ -30189,6 +30189,18 @@
       "actionid": 1709,
       "actioncode": "",
       "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1710,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1710,
+      "actioncode": "",
+      "tenantId": "hp"
     }
     
      
