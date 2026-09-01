@@ -906,6 +906,21 @@
       "code": "ABC_CENTER_ADMIN",
       "name": "ABC app CENTER ADMIN",
       "description": "Can View Reports"
-    } 
+    },
+    {
+      "code": "DIRECTORATE_UD",
+      "name": "Directorate UD",
+      "description": "Can View ULB Reports"
+    },
+    {
+      "code": "DDP_PRINT_VENDOR",
+      "name": "DDP Print Vendor",
+      "description": "Can Print DDP PDF"
+    },
+    {
+      "code": "DDP_UD_ADMIN",
+      "name": "DDP UD Admin",
+      "description": "Can View DDP Reports"
+    }
   ]
 }
