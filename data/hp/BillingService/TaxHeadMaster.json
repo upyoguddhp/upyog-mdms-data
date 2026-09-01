@@ -5773,6 +5773,15 @@
       "order": "0",
       "isRequired": true
     },
+      {
+      "category": "ADVANCE_COLLECTION",
+      "service": "GB",
+      "name": "Gb advance carry forward",
+      "code": "GB_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
     {
       "category": "FEE",
       "service": "ADVT",

@@ -11977,7 +11977,7 @@
       "code": "null",
       "path": ""
     },
-        {
+    {
       "id": 1627,
       "name": "Resend SMS",
       "url": "/notification-sms/send-sms",
@@ -12016,7 +12016,8 @@
       "code": "null",
       "path": ""
     },
-       {  "id": 1630,
+    {
+      "id": 1630,
       "name": "Create Pet Registration Renewal",
       "url": "/pet-services/pet-registration/_renewal",
       "displayName": "Create Pet Registration Renewal",
@@ -12028,7 +12029,7 @@
       "code": "null",
       "path": ""
     },
-       {
+    {
       "id": 1631,
       "name": "Renewal Trade License",
       "url": "/tl-services/v1/NewTL/_renewal",
@@ -12041,7 +12042,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1632,
       "name": "pgr-services Data fetch",
       "url": "/pgr-services/data-dashboard/data-metrics",
@@ -12054,7 +12055,7 @@
       "code": "null",
       "path": "Grievance Redressal.Grievance.Create Complaint"
     },
-      {
+    {
       "id": 1633,
       "name": "property-services Data fetch",
       "url": "/property-services/data-dashboard/data-metrics",
@@ -12067,7 +12068,7 @@
       "code": "null",
       "path": "Grievance Redressal.Grievance.Create Complaint"
     },
-     {
+    {
       "id": 1634,
       "name": "sevabandu-calendar",
       "url": "/rdf-monitoring/sevabandhu/_calendar",
@@ -12079,8 +12080,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
-     {
+    },
+    {
       "id": 1635,
       "name": "sevabandu-userbookinghistory",
       "url": "/rdf-monitoring/sevabandhu/_userbookinghistory",
@@ -12132,7 +12133,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1639,
       "name": "sevabandu-getreviewrattingsummery",
       "url": "/rdf-monitoring/sevabandhu/_getreviewrattingsummery",
@@ -12145,7 +12146,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1640,
       "name": "sevabandu-bookingupdate",
       "url": "/rdf-monitoring/sevabandhu/_bookingupdate",
@@ -12157,7 +12158,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    } ,
+    },
     {
       "id": 1641,
       "name": "bulk bill uploads",
@@ -12171,7 +12172,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1642,
       "name": "bulk bill uploads",
       "url": "/property-services/property-scheduler/bulk-uploads",
@@ -12196,8 +12197,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
-    
+    },
     {
       "id": 1644,
       "name": "get garbage trackers",
@@ -12211,7 +12211,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1645,
       "name": "get property tax trackers",
@@ -12224,13 +12223,13 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }  ,
+    },
     {
       "id": 1646,
       "name": "search file according ward and ulbname",
       "url": "/hpud-dms-service/dms/deleteFileAlfresco",
       "displayName": "delete file from alfresco last 15 days data bulk upload generated file",
-       "displayName": "search file according ward and ulbname",
+      "displayName": "search file according ward and ulbname",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",
@@ -12316,6 +12315,577 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 1653,
+      "name": "Property Service Search",
+      "url": "/property-services/property/owner-fuzzy/_search",
+      "displayName": "Property Service Search",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "Property Service send notice",
+      "url": "/property-services/property-scheduler/send-property-notice",
+      "displayName": "Property Service send notice",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1655,
+      "name": "Property Notice pdf",
+      "url": "/property-services/property/_generatePropertyNoticePdf",
+      "displayName": "Property Notice pdf",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1656,
+      "name": "Localization",
+      "url": "/localization/messages/v1/_create",
+      "displayName": "Create Localization",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-event",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1655,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-agency",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1656,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-complaints",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1657,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_agency-manage",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1658,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-shelters",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1659,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_search-agency",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1660,
+      "name": "Start Duty",
+      "url": "/digital-door-plate/attendance/_startDuty",
+      "displayName": "Start Duty",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1661,
+      "name": "End Duty",
+      "url": "/digital-door-plate/attendance/_endDuty",
+      "displayName": "End Duty",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1662,
+      "name": "Search Attendance",
+      "url": "/digital-door-plate/attendance/_search",
+      "displayName": "Search Attendance",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1663,
+      "name": "Attendance Summary",
+      "url": "/digital-door-plate/attendance/_summary",
+      "displayName": "Attendance Summary",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1664,
+      "name": "Scan Garbage Collection",
+      "url": "/digital-door-plate/garbage-collection/_scan",
+      "displayName": "Scan Garbage Collection",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1665,
+      "name": "Create Garbage Collection",
+      "url": "/digital-door-plate/garbage-collection/_create",
+      "displayName": "Create Garbage Collection",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1666,
+      "name": "Sync Garbage Collection",
+      "url": "/digital-door-plate/garbage-collection/_sync",
+      "displayName": "Sync Garbage Collection",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1667,
+      "name": "Update Garbage Collection",
+      "url": "/digital-door-plate/garbage-collection/_update",
+      "displayName": "Update Garbage Collection",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1668,
+      "name": "Search Garbage Collection",
+      "url": "/digital-door-plate/garbage-collection/_search",
+      "displayName": "Search Garbage Collection",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1669,
+      "name": "Generate Door Plate",
+      "url": "/digital-door-plate/door-plate/_generate",
+      "displayName": "Generate Door Plate",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1670,
+      "name": "Verify Door Plate Print",
+      "url": "/digital-door-plate/door-plate/_verifyPrint",
+      "displayName": "Verify Door Plate Print",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1671,
+      "name": "Install Door Plate",
+      "url": "/digital-door-plate/door-plate/_install",
+      "displayName": "Install Door Plate",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1672,
+      "name": "Search Door Plate",
+      "url": "/digital-door-plate/door-plate/_search",
+      "displayName": "Search Door Plate",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1673,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-center",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1674,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-dogs",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1675,
+      "name": "Search Door Plate",
+      "url": "/digital-door-plate/qr/_decrypt",
+      "displayName": "Search Door Plate",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1676,
+      "name": "Search Door Plate",
+      "url": "/digital-door-plate/qr/_generate",
+      "displayName": "Search Door Plate",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 1677,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/payment",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1678,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-vechicles",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1679,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/manage-user",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1680,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_search-kannel",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1681,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/manage-admission",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1682,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/_manage-kannel",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1683,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/search-admissions",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1684,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/sevabandhu/search-quantity",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1685,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/sevabandhu/updaterdf-quantity",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1686,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/sevabandhu/get-rdf-quantity",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },{
+      "id": 1687,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/post-operative-details",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    } ,
+    {
+      "id": 1688,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/get-pre-operative-details",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1689,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/update-vet-examination",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1690,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/rdfinfo/create-route",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1691,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/rdfinfo/list-routes",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    } ,
+    {
+      "id": 1692,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/agncpet/analytics",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1693,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/rdfinfo/assign-route-vehicle",
+      "displayName": "RDF ",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }

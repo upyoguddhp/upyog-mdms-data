@@ -893,6 +893,21 @@
       "description": "Can View Reports"
     },
     {
+      "code": "ABC_ADMIN",
+      "name": "ABC app  ADMIN",
+      "description": "Can View Reports"
+    }, 
+    {
+      "code": "ABC_AGENCY_ADMIN",
+      "name": "ABC app AGENCY ADMIN",
+      "description": "Can View Reports"
+    },
+    {
+      "code": "ABC_CENTER_ADMIN",
+      "name": "ABC app CENTER ADMIN",
+      "description": "Can View Reports"
+    },
+    {
       "code": "DIRECTORATE_UD",
       "name": "Directorate UD",
       "description": "Can View ULB Reports"
