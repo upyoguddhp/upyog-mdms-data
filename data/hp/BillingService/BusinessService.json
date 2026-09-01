@@ -28,7 +28,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false
     },
@@ -1995,7 +1995,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
