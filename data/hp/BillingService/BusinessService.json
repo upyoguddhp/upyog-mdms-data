@@ -2048,7 +2048,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2059,7 +2059,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2073,7 +2073,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2087,7 +2087,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2101,7 +2101,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
