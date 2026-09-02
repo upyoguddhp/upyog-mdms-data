@@ -197,6 +197,10 @@
     {
       "tenantId": "hp.Hamirpur",
       "price": 500
+    },
+    {
+      "tenantId": "hp.Amb",
+      "price": 100
     }
   ]
 }
