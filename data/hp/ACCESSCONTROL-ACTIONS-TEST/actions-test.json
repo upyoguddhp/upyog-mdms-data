@@ -13056,6 +13056,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1711,
+      "name": "digital door plate contractor update",
+      "url": "/digital-door-plate/contractor/_update",
+      "displayName": "Digital Door Plate Contractor Update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1712,
+      "name": "digital door plate garbage supervisor update",
+      "url": "/digital-door-plate/garbage-supervisor/_update",
+      "displayName": "Digital Door Plate Garbage Supervisor Update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1713,
+      "name": "digital door plate garbage collector update",
+      "url": "/digital-door-plate/garbage-collector/_update",
+      "displayName": "Digital Door Plate Garbage Collector Update",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
 
     
