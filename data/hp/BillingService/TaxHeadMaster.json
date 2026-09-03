@@ -6961,6 +6961,16 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": true
+    },
+    {
+      "category": "PENALTY",
+      "service": "GB",
+      "name": "Garbage Penalty",
+      "code": "GARBAGE_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
     }
   ]
 }

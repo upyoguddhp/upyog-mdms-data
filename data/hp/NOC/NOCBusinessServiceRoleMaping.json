@@ -83,6 +83,14 @@
       "i18nKey": "BOREWELLNOC"
     },
     {
+      "code": "GARBAGENOC",
+      "active": true,
+      "roles": [
+        "GARBAGE_NOC_APPROVER"
+      ],
+      "i18nKey": "GARBAGENOC"
+    },
+    {
       "code": "ELECTRICITY_NOC_SRV",
       "active": true,
       "roles": [
