@@ -893,10 +893,15 @@
       "description": "Can View Reports"
     },
     {
+      "code": "LMK",
+      "name": "LMK",
+      "description": "CSC center user Role"
+    },
+    {
       "code": "ABC_ADMIN",
       "name": "ABC app  ADMIN",
       "description": "Can View Reports"
-    }, 
+    },
     {
       "code": "ABC_AGENCY_ADMIN",
       "name": "ABC app AGENCY ADMIN",
@@ -906,6 +911,21 @@
       "code": "ABC_CENTER_ADMIN",
       "name": "ABC app CENTER ADMIN",
       "description": "Can View Reports"
+    },
+    {
+      "code": "DDP_SUPERVISOR",
+      "name": "Ddp Supervisor",
+      "description": "Supervise the DDP management"
+    },
+    {
+      "code": "DDP_CONTRACTOR",
+      "name": "Ddp Contractor",
+      "description": "Manage Garbage collector"
+    },
+    {
+      "code": "DDP_GRBG_COLLECTOR",
+      "name": "Ddp Garbage Collector",
+      "description": "Collect Garbage from door to door"
     },
     {
       "code": "DIRECTORATE_UD",
