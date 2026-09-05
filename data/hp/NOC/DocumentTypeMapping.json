@@ -301,6 +301,36 @@
           "required": false
         }
       ]
+    },
+    {
+      "applicationType": "PROVISIONAL",
+      "nocType": "GARBAGENOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.GARBAGE",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "NEW",
+      "nocType": "GARBAGENOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.GARBAGE",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "nocType": "GARBAGENOC",
+      "docTypes": [
+        {
+          "documentType": "NOC.GARBAGE",
+          "required": false
+        }
+      ]
     }
   ]
 }
