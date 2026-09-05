@@ -470,6 +470,30 @@
       "tenantId": "hp.Kullu",
       "active": "true"
     },
+     {
+      "categories": "Commercial",
+      "subcategories": "Govt Office",
+      "subcategorytype": "ISBT Kullu",
+      "bplRebate %": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 20000,
+      "tenantId": "hp.Kullu",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Cinema Hall/Multiplex",
+      "subcategorytype": "Cinema Hall/Multiplex",
+      "bplRebate %": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 2000,
+      "tenantId": "hp.Kullu",
+      "active": "true"
+    },
     {
       "categories": "Industries",
       "subcategories": "Workshops & Garages",

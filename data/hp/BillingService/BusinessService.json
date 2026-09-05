@@ -13,7 +13,7 @@
       ],
       "partPaymentAllowed": true,
       "minAmountPayable": 100,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
@@ -28,7 +28,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false
     },
@@ -2048,7 +2048,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2059,7 +2059,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2073,7 +2073,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2087,7 +2087,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
@@ -2101,7 +2101,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
