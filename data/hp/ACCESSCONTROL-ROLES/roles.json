@@ -896,7 +896,7 @@
       "code": "ABC_ADMIN",
       "name": "ABC app  ADMIN",
       "description": "Can View Reports"
-    }, 
+    },
     {
       "code": "ABC_AGENCY_ADMIN",
       "name": "ABC app AGENCY ADMIN",
@@ -921,6 +921,11 @@
       "code": "DDP_UD_ADMIN",
       "name": "DDP UD Admin",
       "description": "Can View DDP Reports"
+    },
+    {
+      "code": "MIS_REPORT",
+      "name": "MIS Report",
+      "description": "Can View MIS Reports"
     }
   ]
 }
