@@ -1994,7 +1994,7 @@
       "collectionModesNotAllowed": [
         "POSTAL_ORDER"
       ],
-      "partPaymentAllowed": false,
+      "partPaymentAllowed": true,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true

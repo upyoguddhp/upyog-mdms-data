@@ -67,6 +67,14 @@
       "NocUserRole": "BOREWELL_NOC_APPROVER"
     },
     {
+      "code": "GARBAGENOC",
+      "isActive": true,
+      "offlineWF": "GARBAGE_NOC_OFFLINE",
+      "onlineWF": "GARBAGENOC",
+      "mode": "online",
+      "NocUserRole": "GARBAGE_NOC_APPROVER"
+    },
+    {
       "code": "PROPERTYNOC",
       "isActive": true,
       "offlineWF": "PROPERTY_NOC_OFFLINE",

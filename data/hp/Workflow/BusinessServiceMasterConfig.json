@@ -128,9 +128,19 @@
       "isStatelevel": "false"
     },
     {
+      "businessService": "GARBAGENOC",
+      "active": "true",
+      "isStatelevel": "false"
+    },
+    {
       "businessService": "PROPERTYNOC",
       "active": "true",
       "isStatelevel": "false"
+    },
+    {
+      "businessService": "pet-services-lmk",
+      "active": "true",
+      "isStatelevel": "true"
     }
   ]
 }
