@@ -3,6 +3,12 @@
   "moduleName": "FinanceModule",
   "BankAccountServiceMapping": [
     {
+      "businessDetails": "GB",
+      "bankAccount": "55136118262",
+      "bank": "State Bank of India",
+      "bankBranch": "SBIN0011851"
+    },
+    {
       "businessDetails": "DISP_FIXED_ASSET.BUILDING",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",

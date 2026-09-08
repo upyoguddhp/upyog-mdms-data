@@ -2043,7 +2043,7 @@
     },
     {
       "businessService": "PROPERTY_EMPLOYEE",
-      "code": "PROPERTY_EMPLOYEE", 
+      "code": "PROPERTY_EMPLOYEE",
       "collectionModesNotAllowed": [
         "POSTAL_ORDER"
       ],
@@ -2062,6 +2062,18 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
+    },
+    {
+      "businessService": "PROPERTY",
+      "code": "LCF.Property_Tax_Collection_Fee",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "PROPERTY_CITIZEN",
@@ -2237,7 +2249,7 @@
       "type": "Adhoc",
       "groupedTo": "Violations_and_Recoveries_Settlement"
     },
-      {
+    {
       "businessService": "CHLRRPT",
       "code": "CHLRRPT",
       "description": "Recovery of remaining Property Tax",
@@ -2499,7 +2511,6 @@
       "isVoucherCreationEnabled": false,
       "isBillAmendmentEnabled": false,
       "billGenerationEnabled": true
-  }
-
+    }
   ]
 }
