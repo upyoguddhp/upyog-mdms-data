@@ -5,26 +5,26 @@
     {
       "categories": "Residential",
       "subcategories": "Household",
-      "subcategorytype": "Area Less Than 2000 Sq. Feet",
+      "subcategorytype": "Area less than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": 30,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Residential",
       "subcategories": "Household",
-      "subcategorytype": "Area More Than 2000 Sq. Feet",
+      "subcategorytype": "Area more than 2000 Sq. Feet",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -34,9 +34,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -46,21 +46,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Confectionery & Veg Shop",
+      "subcategorytype": "Confectionery & Veg Shop  ",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -70,9 +70,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 800,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -82,9 +82,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -94,9 +94,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -106,21 +106,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Shops",
-      "subcategorytype": "Eateries(Food Production & Distribution)",
+      "subcategorytype": "Eateries (Food Production & Distribution)",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -130,9 +130,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -142,45 +142,33 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 150,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Super Stores/Departmental Store",
-      "subcategorytype": "Super Stores/Departmental Store",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 350,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Malls",
-      "subcategorytype": "Big Malls",
+      "subcategorytype": "Malls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
       "subcategories": "Private Restaurants",
-      "subcategorytype": "Restaurant",
+      "subcategorytype": "Private Restaurants",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -190,9 +178,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -202,9 +190,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -214,9 +202,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -226,9 +214,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -238,9 +226,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -250,9 +238,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -262,9 +250,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -274,33 +262,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Dharamshala/Sarai",
-      "subcategorytype": "Dharamshala/Sarai",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Recreational Facilities",
-      "subcategorytype": "Clubs",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -310,9 +274,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -322,9 +286,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -334,9 +298,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -346,9 +310,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -358,21 +322,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Banks",
-      "subcategorytype": "Bank <1000 sr.ft",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -382,9 +334,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -394,9 +346,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -406,9 +358,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 800,
+      "fee": 200,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -418,9 +370,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 800,
+      "fee": 200,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -430,9 +382,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -442,9 +394,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -454,9 +406,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -466,9 +418,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 250,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -478,9 +430,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -490,21 +442,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 750,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Street Vendors",
-      "subcategorytype": "Street Vendors",
+      "subcategories": "Street Vendors ",
+      "subcategorytype": "Street Vendors ",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
@@ -514,57 +466,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 50,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Commercial",
-      "subcategories": "Private Marriage Halls (monthly)",
-      "subcategorytype": "Private Marriage Halls (monthly)",
+      "subcategories": "Private Marriage Halls",
+      "subcategorytype": "Private Marriage Halls",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Cinema Halls/Theatre",
-      "subcategorytype": "Cinema Halls/Theatre",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Slaughterhouse",
-      "subcategorytype": "Slaughterhouse",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Commercial",
-      "subcategories": "Others",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -576,7 +492,7 @@
       "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -586,9 +502,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
+      "fee": 500,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -598,9 +514,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
+      "fee": 500,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Industries",
@@ -610,117 +526,45 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Nursing Homes",
-      "subcategorytype": "Upto 50 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Nursing Homes",
-      "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Nursing Homes",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 3000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "Upto 50 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 1000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "51 to 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Rehabilitation Center",
-      "subcategorytype": "More than 100 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 3000,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Hospitals & Health Care",
-      "subcategories": "Old Age Homes",
-      "subcategorytype": "Upto 50 Beds",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
       "fee": 500,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
-      "subcategories": "Old Age Homes",
+      "subcategories": "Nursing Homes",
+      "subcategorytype": "Upto 50 Beds",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 150,
+      "tenantId": "hp.Talai",
+      "active": true
+    },
+    {
+      "categories": "Hospitals & Health Care",
+      "subcategories": "Nursing Homes",
       "subcategorytype": "51 to 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
+      "fee": 200,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
-      "subcategories": "Old Age Homes",
-      "subcategorytype": "More Than 100 Beds",
+      "subcategories": "Nursing Homes",
+      "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1500,
+      "fee": 250,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -730,9 +574,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
+      "fee": 150,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -742,21 +586,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 200,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
       "subcategories": "Private Hospital",
-      "subcategorytype": "More Than 100 Beds",
+      "subcategorytype": "More than 100 Beds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 3000,
+      "fee": 250,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -766,9 +610,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -778,9 +622,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -790,9 +634,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 200,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Hospitals & Health Care",
@@ -802,9 +646,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -816,7 +660,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -828,19 +672,19 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Govt High/ Senior Secondary School",
-      "subcategorytype": "Govt High / Senior Secondary School",
+      "subcategories": "Govt Senior/ Senior Secondary School",
+      "subcategorytype": "Govt Senior/ Senior Secondary School",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -852,7 +696,7 @@
       "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -862,33 +706,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
+      "fee": 200,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Govt University",
-      "subcategorytype": "Govt University",
+      "subcategories": "State Govt Office",
+      "subcategorytype": "State Govt Office",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 5000,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "State/Central Govt Office",
-      "subcategorytype": "Offices ( 2 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -898,93 +730,45 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Garden",
-      "subcategorytype": "Garden",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
       "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "ULB Office",
-      "subcategorytype": "Offices ( 2 Rooms)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 100,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
       "subcategories": "Govt Hospitals",
-      "subcategorytype": "Upto 10 Beds",
+      "subcategorytype": "Govt Hospitals",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
+      "fee": 150,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Govt Dispensary/PHC/Civil Dispensary",
-      "subcategorytype": "Govt Dispensary/PHC/Civil Dispensary",
+      "subcategories": "Govt Dispensary",
+      "subcategorytype": "Govt Dispensary",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 300,
+      "fee": 150,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
-      "subcategories": "Govt Restaurants",
-      "subcategorytype": "Govt Restaurants",
+      "subcategories": "Govt Hotel",
+      "subcategorytype": "Govt Hotel",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Government Hotel",
-      "subcategorytype": "Upto 10 Rooms",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Govt Establishments",
-      "subcategories": "Govt Marriage Halls/ Community Centers(monthly)",
-      "subcategorytype": "Govt Marriage Halls/ Community Centers(monthly)",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Govt Establishments",
@@ -994,93 +778,45 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
-      "subcategories": "Charitable Trust / NGO / Any Other Registered Group",
-      "subcategorytype": "Charitable Trust / NGO / Any Other Registered Group",
+      "subcategories": "Charitable Trust / NGO / any other Registered Group",
+      "subcategorytype": "Charitable Trust / NGO / any other Registered Group",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Private Garden",
-      "subcategorytype": "Private Garden",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Orphanages",
-      "subcategorytype": "Orphanages",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Heritage Site",
-      "subcategorytype": "Heritage Site",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 200,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
       "subcategories": "Religious Site",
-      "subcategorytype": "Temple (Trust)",
+      "subcategorytype": "Religious Site",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 100,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
-      "subcategories": "Religious Site",
-      "subcategorytype": "Dham/Mandir",
+      "subcategories": "Dairy Cattle and Animal Sheds",
+      "subcategorytype": "Dairy Cattle and Animal Sheds",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 1000,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Cow Dung from cattle at households",
-      "subcategorytype": "Cow Dung From Cattle At Households",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 500,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1090,9 +826,9 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 500,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
@@ -1102,33 +838,21 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 300,
       "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     },
     {
       "categories": "Others",
-      "subcategories": "Construction & Demolition Waste Site",
-      "subcategorytype": "Small",
+      "subcategories": "Any Other establishment not mentioned above",
+      "subcategorytype": "Any Other establishment not mentioned above",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 2000,
+      "fee": 60,
       "tenantId": "hp.Talai",
-      "active": "true"
-    },
-    {
-      "categories": "Others",
-      "subcategories": "Any Other Establishment Not Mentioned Above",
-      "subcategorytype": "Others",
-      "bplRebatePercentage": 0,
-      "isAdditonalCostAdded": false,
-      "variableUnitCost": 0,
-      "fixedUnitCost": 0,
-      "fee": 2000,
-      "tenantId": "hp.Talai",
-      "active": "true"
+      "active": true
     }
   ]
 }
