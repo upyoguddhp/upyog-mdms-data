@@ -13095,6 +13095,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    }, 
+     {
+      "id": 1714,
+      "name": "Seva bandhu Endpoints",
+      "url": "/rdf-monitoring/sevabandhu/_addmonthlyunavailability",
+      "displayName": "Seva bandhu Endpoints",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
 
     

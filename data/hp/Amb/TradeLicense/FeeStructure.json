@@ -6,163 +6,163 @@
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Small",
-      "price": 100,
-      "periodOfLicense": 1
-    },
-    {
-      "tenantId": "hp.Amb",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
       "price": 400,
-      "periodOfLicense": 5
-    },
-    {
-      "tenantId": "hp.Amb",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 700,
-      "periodOfLicense": 10
-    },
-    {
-      "tenantId": "hp.Amb",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Small",
-      "price": 1300,
-      "periodOfLicense": 15
-    },
-    {
-      "tenantId": "hp.Amb",
-      "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 200,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 800,
+      "type": "Small",
+      "price": 1800,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 1400,
+      "type": "Small",
+      "price": 3800,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Medium",
-      "price": 2600,
+      "type": "Small",
+      "price": 5800,
       "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
-      "type": "Large",
+      "type": "Medium",
       "price": 500,
       "periodOfLicense": 1
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2300,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Amb",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 4800,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Amb",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 7300,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Amb",
+      "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 2000,
+      "price": 600,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Amb",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 2800,
       "periodOfLicense": 5
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 3500,
+      "price": 5800,
       "periodOfLicense": 10
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Large",
-      "price": 6500,
+      "price": 8800,
       "periodOfLicense": 15
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Agriculture",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Automotive",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Banking Finance Services Insurance (BFSI)",
-      "price": 1500
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Common Trades",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Education, Skills & Development",
-      "price": 500
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
-      "price": 1
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Handloom & Handicrafts",
-      "price": 200
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "IT/ ITES Services",
-      "price": 500
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Luxury Goods",
-      "price": 1000
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Manufacturing, Industries and Industrial Materials",
-      "price": 1000
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 1500
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Tourism & Hospitality",
-      "price": 1000
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",
       "feeStructureOf": "tradeCategory",
       "type": "Transportation & Logistics",
-      "price": 1000
+      "price": 0
     },
     {
       "tenantId": "hp.Amb",

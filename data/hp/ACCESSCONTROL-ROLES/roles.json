@@ -941,6 +941,11 @@
       "code": "DDP_UD_ADMIN",
       "name": "DDP UD Admin",
       "description": "Can View DDP Reports"
+    },
+    {
+      "code": "MIS_REPORT",
+      "name": "MIS Report",
+      "description": "Can View MIS Reports"
     }
   ]
 }

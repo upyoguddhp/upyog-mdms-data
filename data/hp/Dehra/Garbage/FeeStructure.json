@@ -1153,6 +1153,90 @@
       "fee": 500,
       "tenantId": "hp.Dehra",
       "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Stationery Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dehra",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Electronic Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dehra",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Bearuty Parlour/Saloon",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dehra",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Tailor/Boutique",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dehra",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Photostat/Commen Service Center",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dehra",
+      "active": "true"
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Confectionery Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dehra",
+      "active": "true"
+    },
+    {
+      "categories": "Others",
+      "subcategories": "Any Other Commercial Establishment Not Mentioned Above",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 100,
+      "tenantId": "hp.Dehra",
+      "active": "true"
     }
   ]
 }
