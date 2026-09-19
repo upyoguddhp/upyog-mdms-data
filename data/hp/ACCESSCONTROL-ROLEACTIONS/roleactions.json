@@ -28273,7 +28273,13 @@
       "actionid": 1523,
       "actioncode": "",
       "tenantId": "hp"
+    },{
+      "rolecode": "LMK",
+      "actionid": 1523,
+      "actioncode": "",
+      "tenantId": "hp"
     },
+
     {
       "rolecode": "ASSET_WF_CREATOR",
       "actionid": 1524,
