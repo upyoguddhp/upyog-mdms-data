@@ -2134,6 +2134,22 @@
       "groupedTo": "E_Challan"
     },
     {
+      "businessService": "CHLRFC",
+      "code": "CHLRFC",
+      "description": "Rahri/Fadi Challan",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "groupedTo": "E_Challan"
+    },
+    {
       "businessService": "CHLDW",
       "code": "CHLDW",
       "description": "Dumping of waste",
@@ -2183,6 +2199,20 @@
       "businessService": "CHLEC",
       "code": "CHLEC",
       "description": "Encroachment",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Violations_and_Recoveries_Settlement"
+    },
+    {
+      "businessService": "CHLASR",
+      "code": "CHLASR",
+      "description": "Arrear of Shop Rent",
       "collectionModesNotAllowed": [
         "DD"
       ],
