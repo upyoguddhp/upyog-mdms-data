@@ -27542,9 +27542,22 @@
       "actioncode": "",
       "tenantId": "hp"
     },
+    
     {
       "rolecode": "GB_APPROVER",
       "actionid": 1486,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "PROPERTY_NOC_VERIFIER",
+      "actionid": 1621,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+        {
+      "rolecode": "GARBAGE_NOC_VERIFIER",
+      "actionid": 1621,
       "actioncode": "",
       "tenantId": "hp"
     },
@@ -28273,13 +28286,13 @@
       "actionid": 1523,
       "actioncode": "",
       "tenantId": "hp"
-    },{
+    },
+    {
       "rolecode": "LMK",
       "actionid": 1523,
       "actioncode": "",
       "tenantId": "hp"
     },
-
     {
       "rolecode": "ASSET_WF_CREATOR",
       "actionid": 1524,
