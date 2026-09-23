@@ -519,6 +519,18 @@
       "active": "true"
     },
     {
+      "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Dhaba, Sweet Shop,coffee house, provisional Stores, Snacks Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 200,
+      "tenantId": "hp.Dehra",
+      "active": "true"
+    },
+    {
       "categories": "Industries",
       "subcategories": "Micro Industry",
       "subcategorytype": "Micro Industry",
