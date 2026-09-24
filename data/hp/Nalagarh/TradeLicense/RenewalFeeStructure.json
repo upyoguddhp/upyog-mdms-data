@@ -1,0 +1,180 @@
+{
+  "tenantId": "hp.Nalagarh",
+  "moduleName": "TradeLicense",
+  "RenewalFeeStructure": [
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 100,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1500,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 2000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 3000,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 300,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1500,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 3000,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 4500,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 750
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 100
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Nalagarh",
+      "feeStructureOf": "zone",
+      "type": "B",
+      "price": 1
+    }
+  ]
+}
