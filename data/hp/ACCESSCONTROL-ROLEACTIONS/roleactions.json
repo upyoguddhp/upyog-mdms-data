@@ -7809,6 +7809,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "LMK",
+      "actionid": 1490,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 698,
       "actioncode": "",
@@ -27506,6 +27512,12 @@
       "actioncode": "",
       "tenantId": "hp"
     },
+     {
+      "rolecode": "LMK",
+      "actionid": 1484,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 1485,
@@ -27675,6 +27687,13 @@
       "actioncode": "",
       "tenantId": "hp"
     },
+    {
+      "rolecode": "LMK",
+      "actionid": 1491,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    
     {
       "rolecode": "CITIZEN",
       "actionid": 1492,
