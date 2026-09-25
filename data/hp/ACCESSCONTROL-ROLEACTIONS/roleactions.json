@@ -30281,6 +30281,42 @@
       "actionid": 1713,
       "actioncode": "",
       "tenantId": "hp"
-    }
+    }, 
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1714,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1714,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1715,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1715,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1716,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1716,
+      "actioncode": "",
+      "tenantId": "hp"
+    }  
   ]
 }
