@@ -99,9 +99,9 @@
       "active": true
     },
     {
-      "categories": "Banks (more than one floor)/Office(11 to 30 Room)/Hospital and Nursing Home(S 1 to 100 beds) Temporary Labour(more than 50)/School(Above 300 Students)/ Vehicle (small tipper) on demand per trip",
-      "subcategories": "Banks (more than one floor)/Office(11 to 30 Room)/Hospital and Nursing Home(S 1 to 100 beds) Temporary Labour(more than 50)/School(Above 300 Students)/ Vehicle (small tipper) on demand per trip",
-      "subcategorytype": "Banks (more than one floor)/Office(11 to 30 Room)/Hospital and Nursing Home(S 1 to 100 beds) Temporary Labour(more than 50)/School(Above 300 Students)/ Vehicle (small tipper) on demand per trip",
+      "categories": "Banks (more than one floor)/Office(11 to 30 Room)/Hospital and Nursing Home(51 to 100 beds) Temporary Labour(more than 50)/School(Above 300 Students)/ Vehicle (small tipper) on demand per trip",
+      "subcategories": "Banks (more than one floor)/Office(11 to 30 Room)/Hospital and Nursing Home(51 to 100 beds) Temporary Labour(more than 50)/School(Above 300 Students)/ Vehicle (small tipper) on demand per trip",
+      "subcategorytype": "Banks (more than one floor)/Office(11 to 30 Room)/Hospital and Nursing Home(51 to 100 beds) Temporary Labour(more than 50)/School(Above 300 Students)/ Vehicle (small tipper) on demand per trip",
       "bplRebatePercentage": 0,
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
