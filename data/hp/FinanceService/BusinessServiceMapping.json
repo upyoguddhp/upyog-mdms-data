@@ -5,7 +5,7 @@
     {
       "code": "PROPERTY",
       "voucherCreationEnabled": true,
-      "fund": "01",
+      "fund": "0101",
       "function": "909100",
       "department": "DEPT_25",
       "functionary": "",
