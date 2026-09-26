@@ -34,7 +34,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 80,
       "tenantId": "hp.Dehra",
       "active": "true"
     },
@@ -46,7 +46,7 @@
       "isAdditonalCostAdded": false,
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
-      "fee": 100,
+      "fee": 80,
       "tenantId": "hp.Dehra",
       "active": "true"
     },
