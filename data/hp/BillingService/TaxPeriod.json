@@ -1734,6 +1734,14 @@
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",
+      "service": "CHLRFC",
+      "code": "CHLRFC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
       "service": "CHLCDW",
       "code": "CHCDWC2025",
       "financialYear": "2024-29"
@@ -1752,6 +1760,14 @@
       "periodCycle": "YEARLY",
       "service": "CHLEC",
       "code": "CHEC2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CHLASR",
+      "code": "CHLASR2025",
       "financialYear": "2024-29"
     },
     {
@@ -1954,7 +1970,7 @@
       "code": "CHTAH2025",
       "financialYear": "2024-29"
     },
-       {
+    {
       "fromDate": 1690736733460,
       "toDate": 1893456000000,
       "periodCycle": "YEARLY",

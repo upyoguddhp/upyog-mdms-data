@@ -1635,6 +1635,18 @@
             "active": true
         },
         {
+            "categories": "Govt Establishments",
+            "subcategories": "Jail",
+            "subcategorytype": "Jail",
+            "bplRebatePercentage": 0,
+            "isAdditonalCostAdded": false,
+            "variableUnitCost": 0,
+            "fixedUnitCost": 0,
+            "fee": 2000,
+            "tenantId": "hp.Mandi",
+            "active": true
+        },
+        {
             "categories": "Others",
             "subcategories": "Charitable Trust / NGO / any other Registered Group",
             "subcategorytype": "Charitable Trust / NGO / any other Registered Group",

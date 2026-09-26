@@ -4771,6 +4771,46 @@
     },
     {
       "category": "TAX",
+      "service": "CHLRFC",
+      "name": "CH.Rahri_Fadi_Challan_Penalty",
+      "code": "CH.Rahri_Fadi_Challan_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLRFC",
+      "name": "CH.Rahri_Fadi_Challan_FIELDFEE",
+      "code": "CH.Rahri_Fadi_Challan_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLRFC",
+      "name": "CH.Rahri_Fadi_Challan_CGST",
+      "code": "CH.Rahri_Fadi_Challan_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLRFC",
+      "name": "CH.Rahri_Fadi_Challan_SGST",
+      "code": "CH.Rahri_Fadi_Challan_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
       "service": "FTP.Telecom_tower_fees",
       "name": "FTP.Telecom_tower_fees_Penalty",
       "code": "FTP.Telecom_tower_fees_Penalty",
@@ -5897,6 +5937,46 @@
       "service": "CHLEC",
       "name": "CH.Encroachment_SGST",
       "code": "CH.Encroachment_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLASR",
+      "name": "CH.Arrear_Shop_Rent_Penalty",
+      "code": "CH.Arrear_Shop_Rent_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLASR",
+      "name": "CH.Arrear_Shop_Rent_FIELDFEE",
+      "code": "CH.Arrear_Shop_Rent_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLASR",
+      "name": "CH.Arrear_Shop_Rent_CGST",
+      "code": "CH.Arrear_Shop_Rent_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLASR",
+      "name": "CH.Arrear_Shop_Rent_SGST",
+      "code": "CH.Arrear_Shop_Rent_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",

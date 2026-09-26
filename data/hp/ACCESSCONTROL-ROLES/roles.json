@@ -946,6 +946,37 @@
       "code": "MIS_REPORT",
       "name": "MIS Report",
       "description": "Can View MIS Reports"
+    },
+    {
+      "code": "GARBAGE_NOC_VERIFIER",
+      "name": "Garbage NOC Verifier",
+      "description": "Garbage NOC Verifier"
+    },
+    {
+      "code": "PROPERTY_NOC_VERIFIER",
+      "name": "Property NOC Verifier",
+      "description": "Property NOC Verifier"
+    },
+    {
+      "code": "GARBAGE_NOC_APPROVER",
+      "name": "Garbage NOC Approver",
+      "description": "Garbage NOC Approver"
+    },
+    {
+      "code": "PROPERTY_NOC_APPROVER",
+      "name": "Property NOC Approver",
+      "description": "Property NOC Approver"
+    },
+    {
+      "code": "ELECTRICITY_NOC_VERIFIER",
+      "name": "Electricity NOC Verifier",
+      "description": "Electricity NOC Verifier"
+    },
+    {
+      "code": "ELECTRICITY_NOC_APPROVER",
+      "name": "Electricity NOC Approver",
+      "description": "Electricity NOC Approver"
     }
+    
   ]
 }

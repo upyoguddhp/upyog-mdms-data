@@ -8,15 +8,15 @@
       "glcode": "1100101",
       "validFrom": 1759301545,
       "validTo": 1853995945,
-      "serviceAttribute":"RESIDENTIAL"
-    }, 
+      "serviceAttribute": "RESIDENTIAL"
+    },
     {
       "billingservicecode": "PROPERTY",
       "taxhead": "PROPERTY",
       "glcode": "1100102",
       "validFrom": 1759301545,
       "validTo": 1853995945,
-      "serviceAttribute":"NONRESIDENTIAL.COMMERCIAL"
+      "serviceAttribute": "NONRESIDENTIAL.COMMERCIAL"
     },
     {
       "billingservicecode": "PROPERTY",
@@ -24,7 +24,7 @@
       "glcode": "1100103",
       "validFrom": 1759301545,
       "validTo": 1853995945,
-      "serviceAttribute":"NONRESIDENTIAL.INDUSTRIAL"
+      "serviceAttribute": "NONRESIDENTIAL.INDUSTRIAL"
     },
     {
       "billingservicecode": "NewTL",
@@ -55,47 +55,47 @@
       "validTo": 1853995945
     },
     {
-  "billingservicecode": "ADVT",
-  "taxhead": "ADVT.HOARDINGS_TAX",
-  "glcode": "1301014",
+      "billingservicecode": "ADVT",
+      "taxhead": "ADVT.HOARDINGS_TAX",
+      "glcode": "1301014",
       "validFrom": 1759301545,
       "validTo": 1853995945
-},
-{
-  "billingservicecode": "ADVT",
-  "taxhead": "ADV_CGST",
-  "glcode": "2201002",
+    },
+    {
+      "billingservicecode": "ADVT",
+      "taxhead": "ADV_CGST",
+      "glcode": "2201002",
       "validFrom": 1759301545,
       "validTo": 1853995945
-},
-{
-  "billingservicecode": "ADVT",
-  "taxhead": "ADV_SGST",
-  "glcode": "2201002",
-  "validFrom": 1759301545,
-  "validTo": 1853995945
-},
-{
-  "billingservicecode": "chb-services",
-  "taxhead": "LCF.CommunityHall_Fee",
-  "glcode": "1301005",
-  "validFrom": 1759301545,
-  "validTo": 1853995945
-},
-{
-  "billingservicecode": "GB",
-  "taxhead": "LCF.Garbage_Collection_Fee",
-  "glcode": "1405005",
-  "validFrom": 1759301545,
-  "validTo": 1853995945
-},
-{
-  "billingservicecode": "PROPERTY",
-  "taxhead": "LCF.Property_Tax_Collection_Fee",
-  "glcode": "1109001",
-  "validFrom": 1759301545,
-  "validTo": 1853995945
-}
+    },
+    {
+      "billingservicecode": "ADVT",
+      "taxhead": "ADV_SGST",
+      "glcode": "2201002",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+    },
+    {
+      "billingservicecode": "chb-services",
+      "taxhead": "LCF.CommunityHall_Fee",
+      "glcode": "1301005",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+    },
+    {
+      "billingservicecode": "GB",
+      "taxhead": "LCF.Garbage_Collection_Fee",
+      "glcode": "1405005",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+    },
+    {
+      "billingservicecode": "PROPERTY",
+      "taxhead": "LCF.Property_Tax_Collection_Fee",
+      "glcode": "1109001",
+      "validFrom": 1759301545,
+      "validTo": 1853995945
+    }
   ],
   "InstrumentGLcodeMapping": [
     {
