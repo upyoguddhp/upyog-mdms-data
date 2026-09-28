@@ -13095,8 +13095,45 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    }, 
+     {
+      "id": 1714,
+      "name": "Seva bandhu Endpoints",
+      "url": "/rdf-monitoring/sevabandhu/_addmonthlyunavailability",
+      "displayName": "Seva bandhu Endpoints",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1715,
+      "name": "RDF Monitoring",
+      "url": "/rdf-monitoring/rdfinfo/_searchdemand",
+      "displayName": "RDF Monitoring",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1716,
+      "name": "update garbage ddp workflow",
+      "url": "/garbage-service/garbage-accounts/_updateDdpWorkflow",
+      "displayName": "Update Garbage DDP Workflow",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
-
-    
   ]
 }
