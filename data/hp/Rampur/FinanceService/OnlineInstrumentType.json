@@ -1,10 +1,10 @@
 {
-  "tenantId": "hp.Shimla",
+  "tenantId": "hp.Rampur",
   "moduleName": "FinanceModule",
   "OnlineGLCodeMapping": [
     {
       "servicecode": "PROPERTY",
-      "glcode": "4502101",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
@@ -70,7 +70,7 @@
     },
     {
       "servicecode": "GB",
-      "glcode": "4502103",
+      "glcode": "4502100",
       "validFrom": 1234567890,
       "validTo": 2345678901
     }
