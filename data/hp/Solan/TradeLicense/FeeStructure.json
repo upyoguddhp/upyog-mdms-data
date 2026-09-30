@@ -9,6 +9,13 @@
       "price": 100,
       "periodOfLicense": 1
     },
+     {
+      "tenantId": "hp.Solan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 0,
+      "periodOfLicense": 3
+    },
     {
       "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
@@ -41,6 +48,13 @@
       "tenantId": "hp.Solan",
       "feeStructureOf": "scaleOfBusiness",
       "type": "Medium",
+      "price": 0,
+      "periodOfLicense": 3
+    },
+    {
+      "tenantId": "hp.Solan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
       "price": 5000,
       "periodOfLicense": 5
     },
@@ -64,6 +78,13 @@
       "type": "Large",
       "price": 2000,
       "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Solan",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 0,
+      "periodOfLicense": 3
     },
     {
       "tenantId": "hp.Solan",
@@ -149,8 +170,8 @@
     {
       "tenantId": "hp.Solan",
       "feeStructureOf": "tradeCategory",
-      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
-      "price": 1
+      "type": "Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 500
     },
     {
       "tenantId": "hp.Solan",
