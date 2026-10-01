@@ -5,46 +5,55 @@
     {
       "name": "Dhanubhagat Samadhi",
       "code": "11486",
+      "wardNumber": "1",
 	  "active":"true"
     },
     {
       "name": "Pattan Bazzar",
       "code": "11487",
+      "wardNumber": "2",
 	  "active":"true"
     },
     {
       "name": "Doorbhash Kendra/Daakghar Muhalla",
       "code": "11488",
+	    "wardNumber": "3",
 	  "active":"true"
     },
     {
       "name": "Inderpal Bus Stand",
       "code": "11489",
+	    "wardNumber": "4",
 	  "active":"true"
     },
     {
       "name": "Indoor Stadium",
       "code": "11490",
+	    "wardNumber": "5",
 	  "active":"true"
     },
     {
       "name": "Baba Balak Nath Temple",
       "code": "11491",
+	    "wardNumber": "6",
 	  "active":"true"
     },
     {
       "name": "Gugga Temple",
       "code": "11492",
+	    "wardNumber": "7",
 	  "active":"true"
     },
     {
       "name": "Amtar Stadium",
       "code": "11493",
+	    "wardNumber": "8",
 	  "active":"true"
     },
     {
       "name": "Bela",
       "code": "11494",
+	    "wardNumber": "9",
 	  "active":"true"
     }  
   ]
