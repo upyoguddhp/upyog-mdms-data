@@ -3,58 +3,105 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Muhalla Gurusar",
+      "name": "Lalsingi",
       "code": "11518",
+    "wardNumber": "1",
 	  "active":"true"
     },
     {
-      "name": "Muhalla Hakima",
+      "name": "Jhalera",
       "code": "11527",
+    "wardNumber": "2",
 	  "active":"true"
     },
     {
-      "name": "Muhalla Neelaghat",
+      "name": "Rainsary",
       "code": "11528",
+    "wardNumber": "3",
 	  "active":"true"
     },
     {
-      "name": "Muhalla Dharamshal Bhai Nirmal Singh",
+      "name": "Kotla Lower",
       "code": "11519",
+	  "wardNumber": "4",
 	  "active":"true"
     },
     {
-      "name": "Muhalla Galua",
+      "name": "Kotla Upper",
       "code": "11520",
+	  "wardNumber": "5",
 	  "active":"true"
     },
     {
-      "name": "Muhalla Khadpar",
+      "name": "Arniala Upper",
       "code": "11521",
+	  "wardNumber": "6",
 	  "active":"true"
     },
     {
-      "name": "Muhalla Nakian",
+      "name": "Arniala Lower",
       "code": "11522",
+	  "wardNumber": "7",
 	  "active":"true"
     },
 	{
-      "name": "Muhalla Purian",
+      "name": "Arya Nagar",
       "code": "11523",
+	  "wardNumber": "8",
 	  "active":"true"
     },
 	{
-      "name": "Muhalla Damdama",
+      "name": "Galua",
       "code": "11524",
+	  "wardNumber": "9",
 	  "active":"true"
     },
 	{
-      "name": "Muhalla Machlan",
+      "name": "Behli",
       "code": "11525",
+	  "wardNumber": "10",
 	  "active":"true"
     },
 	{
-      "name": "Muhalla Bag",
+      "name": "Shiv Nagar",
       "code": "11526",
+	  "wardNumber": "11",
+	  "active":"true"
+    },
+    {
+      "name": "Neelaghat",
+      "code": "11527",
+	  "wardNumber": "12",
+	  "active":"true"
+    },
+    {
+      "name": "Malahat",
+      "code": "11528",
+	  "wardNumber": "13",
+	  "active":"true"
+    },
+    {
+      "name": "Bharolian",
+      "code": "11529",
+	  "wardNumber": "14",
+	  "active":"true"
+    },
+    {
+      "name": "Rakkar Colony",
+      "code": "11530",
+	  "wardNumber": "15",
+	  "active":"true"
+    },
+     {
+      "name": "Kuthar",
+      "code": "11531",
+	  "wardNumber": "16",
+	  "active":"true"
+    },
+    {
+      "name": "Rampur",
+      "code": "11532",
+	  "wardNumber": "17",
 	  "active":"true"
     }
   ]
