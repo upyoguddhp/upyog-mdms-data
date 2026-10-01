@@ -976,7 +976,36 @@
       "code": "ELECTRICITY_NOC_APPROVER",
       "name": "Electricity NOC Approver",
       "description": "Electricity NOC Approver"
+    },
+    {
+      "code": "WATER_NOC_VERIFIER",
+      "name": "Water NOC Verifier",
+      "description": "Water NOC Verifier"
+    },
+    {
+      "code": "WATER_NOC_APPROVER",
+      "name": "Water NOC Approver",
+      "description": "Water NOC Approver"
+    },
+    {
+      "code": "BOREWELL_NOC_VERIFIER",
+      "name": "BoreWell NOC Verifier",
+      "description": "BoreWell NOC Verifier"
+    },
+    {
+      "code": "BOREWELL_NOC_APPROVER",
+      "name": "BoreWell NOC Approver",
+      "description": "BoreWell NOC Approver"
+    },
+    {
+      "code": "BAR_NOC_VERIFIER",
+      "name": "Bar NOC Verifier",
+      "description": "Bar NOC Verifier"
+    },
+    {
+      "code": "BAR_NOC_APPROVER",
+      "name": "Bar NOC Approver",
+      "description": "Bar NOC Approver"
     }
-    
   ]
 }
