@@ -3,39 +3,49 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Hospital ward",
+      "name": "Dhanubhagat Samadhi",
       "code": "11486",
 	  "active":"true"
     },
     {
-      "name": "Pattan Bazar Ward",
+      "name": "Pattan Bazzar",
       "code": "11487",
 	  "active":"true"
     },
     {
-      "name": "Jain Mohalla Ward",
+      "name": "Doorbhash Kendra/Daakghar Muhalla",
       "code": "11488",
 	  "active":"true"
     },
     {
-      "name": "Durbhasan Kendar/Dak Ghar Mohalla Ward",
+      "name": "Inderpal Bus Stand",
       "code": "11489",
 	  "active":"true"
     },
     {
-      "name": "Upper Bazar",
+      "name": "Indoor Stadium",
       "code": "11490",
 	  "active":"true"
     },
     {
-      "name": "Inder Pal Bus Stand",
+      "name": "Baba Balak Nath Temple",
       "code": "11491",
 	  "active":"true"
     },
     {
-      "name": "Doligharana & Nagarra ward",
+      "name": "Gugga Temple",
       "code": "11492",
 	  "active":"true"
-    }
+    },
+    {
+      "name": "Amtar Stadium",
+      "code": "11493",
+	  "active":"true"
+    },
+    {
+      "name": "Bela",
+      "code": "11494",
+	  "active":"true"
+    }  
   ]
 }
