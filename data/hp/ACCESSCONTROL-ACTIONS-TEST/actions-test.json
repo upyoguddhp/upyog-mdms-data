@@ -12056,19 +12056,7 @@
       "code": "null",
       "path": "Grievance Redressal.Grievance.Create Complaint"
     },
-    {
-      "id": 1634,
-      "name": "sevabandu-calendar",
-      "url": "/rdf-monitoring/sevabandhu/_calendar",
-      "displayName": "Sevabandhu Calendar",
-      "orderNumber": 1,
-      "queryParams": null,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": ""
-    },
+    
     {
       "id": 1635,
       "name": "sevabandu-userbookinghistory",
@@ -13127,6 +13115,19 @@
       "name": "update garbage ddp workflow",
       "url": "/garbage-service/garbage-accounts/_updateDdpWorkflow",
       "displayName": "Update Garbage DDP Workflow",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1717,
+      "name": "sevabandu-calendar",
+      "url": "/rdf-monitoring/sevabandhu/_calendar",
+      "displayName": "Sevabandhu Calendar",
       "orderNumber": 1,
       "queryParams": null,
       "parentModule": "",

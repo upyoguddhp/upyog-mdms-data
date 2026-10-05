@@ -27634,6 +27634,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "LMK",
+      "actionid": 1489,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "TL_VERIFIER",
       "actionid": 1489,
       "actioncode": "",
@@ -27653,6 +27659,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1490,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "LMK",
       "actionid": 1490,
       "actioncode": "",
       "tenantId": "hp"
@@ -27894,6 +27906,12 @@
     },
     {
       "rolecode": "EMPLOYEE",
+      "actionid": 1500,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+     {
+      "rolecode": "LMK",
       "actionid": 1500,
       "actioncode": "",
       "tenantId": "hp"
@@ -30323,6 +30341,18 @@
       "actionid": 1716,
       "actioncode": "",
       "tenantId": "hp"
-    }  
+    } ,
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1717,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1717,
+      "actioncode": "",
+      "tenantId": "hp"
+    }
   ]
 }
