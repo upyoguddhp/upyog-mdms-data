@@ -27965,6 +27965,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "LMK",
+      "actionid": 1502,
+      "actioncode": "",
+      "tenantId": "hp"
+    },  
+    {
       "rolecode": "CITIZEN",
       "actionid": 1503,
       "actioncode": "",
