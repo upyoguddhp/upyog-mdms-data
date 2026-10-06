@@ -5843,6 +5843,16 @@
       "isRequired": true
     },
     {
+      "category": "ADVANCE_COLLECTION",
+      "service": "NOC",
+      "name": "NOC ADVANCE CARRYFORWARD",
+      "code": "NOC_ADVANCE_CARRYFORWARD",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
       "category": "FEE",
       "service": "PROPERTY",
       "name": "LCF.Property_Tax_Collection_Fee",
