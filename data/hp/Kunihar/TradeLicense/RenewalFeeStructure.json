@@ -1,0 +1,132 @@
+{
+  "tenantId": "hp.Kunihar",
+  "moduleName": "TradeLicense",
+  "RenewalFeeStructure": [
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 1000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 1000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 200,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 1000,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 2000
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 200
+    },
+    {
+      "tenantId": "hp.Kunihar",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 1
+    }
+  ]
+}
