@@ -13134,6 +13134,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1717,
+      "name": "send property notice",
+      "url": "/property-services/property-scheduler/send-property-notice",
+      "displayName": "Send Property Notice",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
