@@ -13135,6 +13135,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    }, 
+    {
+      "id": 1718,
+      "name": "psg-bulk",
+      "url": "/rdf-monitoring/psg/bulk",
+      "displayName": "PSG Bulk",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
