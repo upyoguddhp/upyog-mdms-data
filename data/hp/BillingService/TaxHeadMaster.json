@@ -7051,6 +7051,46 @@
       "isActualDemand": true,
       "order": "2",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_Penalty",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_FIELDFEE",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_CGST",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_SGST",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
