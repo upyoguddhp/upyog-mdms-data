@@ -28259,6 +28259,12 @@
       "tenantId": "hp"
     },
     {
+      "rolecode": "LMK",
+      "actionid": 1514,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1514,
       "actioncode": "",
@@ -28800,6 +28806,12 @@
     },
     {
       "rolecode": "EMPLOYEE",
+      "actionid": 1562,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "LMK",
       "actionid": 1562,
       "actioncode": "",
       "tenantId": "hp"
