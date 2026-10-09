@@ -1985,6 +1985,38 @@
       "service": "NOC",
       "code": "NOC2025",
       "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CHLODOSW",
+      "code": "CHLODOSW2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CHLNSOWAS",
+      "code": "CHLNSOWAS2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CHLMOWADW",
+      "code": "CHLMOWADW2025",
+      "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CHLTWID",
+      "code": "CHLTWID2025",
+      "financialYear": "2024-29"
     }
   ]
 }
