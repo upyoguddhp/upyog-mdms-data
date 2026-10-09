@@ -28468,6 +28468,12 @@
       "actioncode": "",
       "tenantId": "hp"
     },
+     {
+      "rolecode": "LMK",
+      "actionid": 1534,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1534,
