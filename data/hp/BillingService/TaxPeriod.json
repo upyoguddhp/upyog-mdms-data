@@ -2017,6 +2017,14 @@
       "service": "CHLTWID",
       "code": "CHLTWID2025",
       "financialYear": "2024-29"
+    },
+    {
+      "fromDate": 1690736733460,
+      "toDate": 1893456000000,
+      "periodCycle": "YEARLY",
+      "service": "CHLVUC",
+      "code": "CHLVUC2025",
+      "financialYear": "2024-29"
     }
   ]
 }

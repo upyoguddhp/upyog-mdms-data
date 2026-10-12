@@ -146,11 +146,6 @@
       "businessService": "NewTL-lmk",
       "active": "true",
       "isStatelevel": "true"
-    },
-    {
-    "businessService": "CHLODOSE",
-    "active": "true",
-    "isStatelevel": "true"
-   }
+    }
   ]
 }
