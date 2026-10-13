@@ -1,0 +1,174 @@
+{
+  "tenantId": "hp.Jawalamukhi",
+  "moduleName": "TradeLicense",
+  "FeeStructure": [
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 50,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 50,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 0,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Small",
+      "price": 0,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 50,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 50,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 0,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Medium",
+      "price": 0,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 50,
+      "periodOfLicense": 1
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 50,
+      "periodOfLicense": 5
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 0,
+      "periodOfLicense": 10
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "scaleOfBusiness",
+      "type": "Large",
+      "price": 0,
+      "periodOfLicense": 15
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Agriculture",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Automotive",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Banking Finance Services Insurance (BFSI)",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Common Trades",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Education, Skills & Development",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Fairs, Festivals, Events, and Exhibitions (Temporary Licenses Only)",
+      "price": 1
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Handloom & Handicrafts",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "IT/ ITES Services",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Luxury Goods",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Manufacturing, Industries and Industrial Materials",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": " Regulated Products Like Tobacco,Petroleum, Chemicals & Other",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Tourism & Hospitality",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "tradeCategory",
+      "type": "Transportation & Logistics",
+      "price": 50
+    },
+    {
+      "tenantId": "hp.Jawalamukhi",
+      "feeStructureOf": "zone",
+      "type": "A",
+      "price": 0
+    }
+  ]
+}
