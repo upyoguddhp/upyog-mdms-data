@@ -67,6 +67,30 @@
       "glcode": "4502001",
       "validFrom": 1234567890,
       "validTo": 2345678901
+    },
+    {
+      "servicecode": "GB",
+      "glcode": "4502001",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+        {
+      "servicecode": "chb-services",
+      "glcode": "4502101",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "servicecode": "ADVT",
+      "glcode": "4502001",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
+    },
+    {
+      "servicecode": "pet-services",
+      "glcode": "4502001",
+      "validFrom": 1234567890,
+      "validTo": 2345678901
     }
   ]
 }
