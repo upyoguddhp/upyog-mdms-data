@@ -13,7 +13,7 @@
             "tenantId": "hp.Solan",
             "feeStructureOf": "scaleOfBusiness",
             "type": "Small",
-            "price": 0,
+            "price": 300,
             "periodOfLicense": 3
         },
         {
