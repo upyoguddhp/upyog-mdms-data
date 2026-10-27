@@ -12056,19 +12056,7 @@
       "code": "null",
       "path": "Grievance Redressal.Grievance.Create Complaint"
     },
-    {
-      "id": 1634,
-      "name": "sevabandu-calendar",
-      "url": "/rdf-monitoring/sevabandhu/_calendar",
-      "displayName": "Sevabandhu Calendar",
-      "orderNumber": 1,
-      "queryParams": null,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": ""
-    },
+    
     {
       "id": 1635,
       "name": "sevabandu-userbookinghistory",
@@ -13138,6 +13126,89 @@
     },
     {
       "id": 1717,
+      "name": "sevabandu-calendar",
+      "url": "/rdf-monitoring/sevabandhu/_calendar",
+      "displayName": "Sevabandhu Calendar",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 1718,
+      "name": "psg-bulk",
+      "url": "/rdf-monitoring/psg/bulk",
+      "displayName": "PSG Bulk",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1719,
+      "name": "mark-ready-for-printing",
+      "url": "/garbage-service/garbage-accounts-scheduler/mark-ready-for-printing",
+      "displayName": "Mark Ready for Printing",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1720,
+      "name": "Create NOC",
+      "url": "/noc-services/v1/noc/_generateNocCertificate",
+      "parentModule": "noc-services",
+      "displayName": "Create NOC",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "NOC",
+      "tenantId": "hp"
+    },
+    {
+      "id": 1721,
+      "name": "Create NOC",
+      "url": "/garbage-service/ddp-dispatch/_scan",
+      "parentModule": "noc-services",
+      "displayName": "Create NOC",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "NOC",
+      "tenantId": "hp"
+    },
+    {
+      "id": 1722,
+      "name": "Create NOC",
+      "url": "/garbage-service/ddp-dispatch/_submit",
+      "parentModule": "noc-services",
+      "displayName": "Create NOC",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "NOC",
+      "tenantId": "hp"
+    },
+    {
+      "id": 1723,
+      "name": "Create NOC",
+      "url": "/garbage-service/ddp-dispatch/_search",
+      "parentModule": "noc-services",
+      "displayName": "Create NOC",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "NOC",
+      "tenantId": "hp"
+    },
+    {
+      "id": 1724,
       "name": "send property notice",
       "url": "/property-services/property-scheduler/send-property-notice",
       "displayName": "Send Property Notice",
@@ -13150,7 +13221,7 @@
       "path": ""
     },
     {
-      "id": 1718,
+      "id": 1725,
       "name": "Garbage Bill Download in Counter",
       "url": "/billing-service/bill/v2/_generateBillReceipt",
       "displayName": "Garbage Bill Download in Counter",
