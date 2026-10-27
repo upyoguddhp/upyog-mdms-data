@@ -12656,7 +12656,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 1681,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/payment",
@@ -12707,7 +12707,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 1685,
       "name": "RDF Monitoring",
@@ -12720,7 +12720,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 1686,
       "name": "RDF Monitoring",
@@ -12733,7 +12733,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 1687,
       "name": "RDF Monitoring",
@@ -12746,7 +12746,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 1688,
       "name": "RDF Monitoring",
@@ -12759,7 +12759,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 1689,
       "name": "RDF Monitoring",
@@ -12785,7 +12785,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 1691,
       "name": "RDF Monitoring",
       "url": "/rdf-monitoring/agncpet/post-operative-details",
@@ -12797,7 +12798,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    } ,
+    },
     {
       "id": 1692,
       "name": "RDF Monitoring",
@@ -12810,7 +12811,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 1693,
       "name": "RDF Monitoring",
@@ -12849,7 +12850,7 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    } ,
+    },
     {
       "id": 1696,
       "name": "RDF Monitoring",
@@ -13083,8 +13084,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }, 
-     {
+    },
+    {
       "id": 1714,
       "name": "Seva bandhu Endpoints",
       "url": "/rdf-monitoring/sevabandhu/_addmonthlyunavailability",
@@ -13205,6 +13206,32 @@
       "enabled": true,
       "serviceCode": "NOC",
       "tenantId": "hp"
+    },
+    {
+      "id": 1724,
+      "name": "send property notice",
+      "url": "/property-services/property-scheduler/send-property-notice",
+      "displayName": "Send Property Notice",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1725,
+      "name": "Garbage Bill Download in Counter",
+      "url": "/billing-service/bill/v2/_generateBillReceipt",
+      "displayName": "Garbage Bill Download in Counter",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }

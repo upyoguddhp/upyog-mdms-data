@@ -27524,7 +27524,7 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-     {
+    {
       "rolecode": "LMK",
       "actionid": 1484,
       "actioncode": "",
@@ -27566,7 +27566,6 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-    
     {
       "rolecode": "GB_APPROVER",
       "actionid": 1486,
@@ -27579,7 +27578,7 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-        {
+    {
       "rolecode": "GARBAGE_NOC_VERIFIER",
       "actionid": 1621,
       "actioncode": "",
@@ -27717,7 +27716,6 @@
       "actioncode": "",
       "tenantId": "hp"
     },
-    
     {
       "rolecode": "CITIZEN",
       "actionid": 1492,
@@ -30371,7 +30369,7 @@
       "actionid": 1713,
       "actioncode": "",
       "tenantId": "hp"
-    }, 
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1714,
@@ -30489,6 +30487,30 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1723,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1724,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1724,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1725,
+      "actioncode": "",
+      "tenantId": "hp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1725,
       "actioncode": "",
       "tenantId": "hp"
     }

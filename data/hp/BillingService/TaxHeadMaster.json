@@ -7061,6 +7061,212 @@
       "isActualDemand": true,
       "order": "2",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_Penalty",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_FIELDFEE",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_CGST",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLODOSW",
+      "name": "CH.Open_Dumping_of_Solid_Waste_Challan_SGST",
+      "code": "CH.Open_Dumping_of_Solid_Waste_Challan_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+
+
+    {
+      "category": "TAX",
+      "service": "CHLNSOWAS",
+      "name": "CH.Non-Segregation_of_Waste_at_Source_Penalty",
+      "code": "CH.Non-Segregation_of_Waste_at_Source_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLNSOWAS",
+      "name": "CH.Non-Segregation_of_Waste_at_Source_FIELDFEE",
+      "code": "CH.Non-Segregation_of_Waste_at_Source_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLNSOWAS",
+      "name": "CH.Non-Segregation_of_Waste_at_Source_CGST",
+      "code": "CH.Non-Segregation_of_Waste_at_Source_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLNSOWAS",
+      "name": "CH.Non-Segregation_of_Waste_at_Source_SGST",
+      "code": "CH.Non-Segregation_of_Waste_at_Source_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLMOWADW",
+      "name": "CH.Mixing_of_Wet_and_Dry_Waste_Penalty",
+      "code": "CH.Mixing_of_Wet_and_Dry_Waste_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLMOWADW",
+      "name": "CH.Mixing_of_Wet_and_Dry_Waste_FIELDFEE",
+      "code": "CH.Mixing_of_Wet_and_Dry_Waste_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLMOWADW",
+      "name": "CH.Mixing_of_Wet_and_Dry_Waste_CGST",
+      "code": "CH.Mixing_of_Wet_and_Dry_Waste_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLMOWADW",
+      "name": "CH.Mixing_of_Wet_and_Dry_Waste_SGST",
+      "code": "CH.Mixing_of_Wet_and_Dry_Waste_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+
+    {
+      "category": "TAX",
+      "service": "CHLTWID",
+      "name": "CH.Throwing_Waste_in_Drains_Penalty",
+      "code": "CH.Throwing_Waste_in_Drains_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLTWID",
+      "name": "CH.Throwing_Waste_in_Drains_FIELDFEE",
+      "code": "CH.Throwing_Waste_in_Drains_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLTWID",
+      "name": "CH.Throwing_Waste_in_Drains_CGST",
+      "code": "CH.Throwing_Waste_in_Drains_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLTWID",
+      "name": "CH.Throwing_Waste_in_Drains_SGST",
+      "code": "CH.Throwing_Waste_in_Drains_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    
+    {
+      "category": "TAX",
+      "service": "CHLVUC",
+      "name": "CH.Non-Payment_Violation_of_User_Charges_Penalty",
+      "code": "CH.Non-Payment_Violation_of_User_Charges_Penalty",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CHLVUC",
+      "name": "CH.Non-Payment_Violation_of_User_Charges_FIELDFEE",
+      "code": "CH.Non-Payment_Violation_of_User_Charges_FIELDFEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLVUC",
+      "name": "CH.Non-Payment_Violation_of_User_Charges_CGST",
+      "code": "CH.Non-Payment_Violation_of_User_Charges_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHLVUC",
+      "name": "CH.Non-Payment_Violation_of_User_Charges_SGST",
+      "code": "CH.Non-Payment_Violation_of_User_Charges_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
+
+
   ]
 }

@@ -2546,6 +2546,85 @@
       "isVoucherCreationEnabled": false,
       "isBillAmendmentEnabled": false,
       "billGenerationEnabled": true
+    },
+    {
+      "businessService": "CHLODOSW",
+      "code": "CHLODOSW",
+      "description": "Open Dumping of Solid Waste",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "groupedTo": "E_Challan"
+    },
+    {
+      "businessService": "CHLNSOWAS",
+      "code": "CHLNSOWAS",
+      "description": "Non-Segregation of Waste at Source",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "groupedTo": "E_Challan"
+    },
+    {
+      "businessService": "CHLMOWADW",
+      "code": "CHLMOWADW",
+      "description": "Mixing of Wet and Dry Waste",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "groupedTo": "E_Challan"
+    },
+
+    {
+      "businessService": "CHLTWID",
+      "code": "CHLTWID",
+      "description": "Throwing Waste in Drains",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get",
+      "groupedTo": "E_Challan"
+    },
+    {
+      "businessService": "CHLVUC",
+      "code": "CHLVUC",
+      "description": "Non-Payment / Violation of User Charges",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "groupedTo": "Violations_and_Recoveries_Settlement"
     }
   ]
 }

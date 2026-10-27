@@ -853,6 +853,30 @@
       "fee": 60,
       "tenantId": "hp.Talai",
       "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Others",
+      "subcategorytype": "Others",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 60,
+      "tenantId": "hp.Talai",
+      "active": true
+    },
+    {
+      "categories": "Commercial",
+      "subcategories": "Dharamshala",
+      "subcategorytype": "Dharamshala",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 500,
+      "tenantId": "hp.Talai",
+      "active": true
     }
   ]
 }

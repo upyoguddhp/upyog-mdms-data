@@ -3,9 +3,39 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Kunihar",
-      "code": "00000",
-	  "active":"true"
+      "name": "Kothi",
+      "code": "10001",
+      "active": "true"
+    },
+    {
+      "name": "Palura",
+      "code": "10002",
+      "active": "true"
+    },
+    {
+      "name": "Taj Darwar",
+      "code": "10003",
+      "active": "true"
+    },
+    {
+      "name": "Hatkot",
+      "code": "10004",
+      "active": "true"
+    },
+    {
+      "name": "Ucchagaon",
+      "code": "10005",
+      "active": "true"
+    },
+    {
+      "name": "Chaklu",
+      "code": "10006",
+      "active": "true"
+    },
+    {
+      "name": "Thawna",
+      "code": "10007",
+      "active": "true"
     }
   ]
 }
