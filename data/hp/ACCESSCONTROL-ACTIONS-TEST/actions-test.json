@@ -13232,6 +13232,32 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1726,
+      "name": "Generate QR Code",
+      "url": "/garbage-service/ddp-dispatch/_generateQr",
+      "displayName": "Generate QR Code",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1727,
+      "name": "receive ddp dispatch",
+      "url": "/garbage-service/ddp-dispatch/_receive",
+      "displayName": "Receive DDP Dispatch",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
