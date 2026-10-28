@@ -4,8 +4,45 @@
   "wards": [
     {
       "name": "Dharampur",
-      "code": "0000",
-	  "active":"true"
+      "code": "151511",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+     {
+      "name": "Chhapanoo",
+      "code": "151512",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+     {
+      "name": "Banwarkalan-I",
+      "code": "151513",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+     {
+      "name": "Banwarkalan-II",
+      "code": "151514",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+     {
+      "name": "Bardana-I",
+      "code": "151515",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+     {
+      "name": "Bardana-II",
+      "code": "151516",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+     {
+      "name": "Kalswayie",
+      "code": "151517",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

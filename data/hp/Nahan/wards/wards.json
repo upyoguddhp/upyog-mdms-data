@@ -5,62 +5,74 @@
     {
       "name": "Dhabon",
       "code": "11610",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Kacha Tank",
       "code": "11619",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "10"
     },
     {
       "name": "Jagannath Mandir",
       "code": "11620",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "11"
     },
     {
       "name": "Navni ka Bag",
       "code": "11621",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "12"
     },
     {
       "name": "Balmiki Basti",
       "code": "11622",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "13"
     },
     {
       "name": "Haripur",
       "code": "11611",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Shantisangam",
       "code": "11612",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
 	{
       "name": "Shamshergang",
       "code": "11613",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
 	{
       "name": "Amarpur",
       "code": "11614",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
 	{
       "name": "Naya Bazar",
       "code": "11615",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
 	{
       "name": "Upar ki Toli",
       "code": "11616",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
 	{
       "name": "Ranital",
       "code": "11617",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	{
       "name": "Rajpur",
@@ -70,7 +82,8 @@
 	{
       "name": "Miyan Mandir",
       "code": "11618",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }

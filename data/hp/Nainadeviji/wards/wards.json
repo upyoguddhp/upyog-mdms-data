@@ -5,37 +5,44 @@
     {
       "name": "Devi Ward",
       "code": "11547",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Tara Ward",
       "code": "11548",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Kalika Ward",
       "code": "11549",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Durga Ward",
       "code": "11550",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Sheetla Ward",
       "code": "11551",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Shakti Ward",
       "code": "11552",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Ambika Ward",
       "code": "11553",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

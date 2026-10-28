@@ -5,47 +5,56 @@
     {
       "name": "Dashlani",
       "code": "8862",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "1"
     },
     {
       "name": "Upper Bazar",
       "code": "8863",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "2"
     },
     {
       "name": "Main Bazar",
       "code": "8864",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "3"
     },
     {
       "name": "Seri & Samala",
       "code": "8865",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "4"
     },
     {
       "name": "Block Area",
       "code": "8867",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "6"
     },
     {
       "name": "Court Road Area",
       "code": "8868",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "7"
     },
     {
       "name": "Bus Stand Area",
       "code": "8866",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "5"
     },
     {
       "name": "Bhautinalla",
       "code": "8869",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "8"
     },
     {
       "name": "Shaktinagar",
       "code": "8870",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "9"
     }
   ]
 }

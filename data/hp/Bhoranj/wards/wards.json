@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Bhoranj",
-      "code": "00000",
-	  "active":"true"
+      "name": "Bhoranj-I",
+      "code": "919111",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Bhoranj-II",
+      "code": "919112",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Bassi-3",
+      "code": "919113",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Bhakreri -4",
+      "code": "919114",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Bhori-5",
+      "code": "919115",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Samwin-6",
+      "code": "919116",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Maliyan-7",
+      "code": "919117",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

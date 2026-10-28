@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Sandhole",
-      "code": "00000",
-	  "active":"true"
+      "name": "Sandhole-I",
+      "code": "141421",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Sandhole-II",
+      "code": "141422",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Sandhole-III",
+      "code": "141423",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Lasrana",
+      "code": "141424",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Duttwad-I",
+      "code": "141425",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Duttwad-II",
+      "code": "141426",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Kachhahali",
+      "code": "141427",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

@@ -5,37 +5,44 @@
     {
       "name": "Shamshi",
       "code": "11443",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Chhoti Shamshi",
       "code": "11444",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Chhoti Shamshi-II",
       "code": "11445",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Bhuntar  byepass",
       "code": "11446",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Bhuntar Middle area",
       "code": "11447",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Bhuntar lower area",
       "code": "11448",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Parla Bhuntar",
       "code": "11449",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

@@ -5,37 +5,44 @@
     {
       "name": "Chhol",
       "code": "8855",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Bawari Vala",
       "code": "8856",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Sarai Bhawan Ward",
       "code": "8857",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Stadium Ward",
       "code": "8858",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Giri Ward",
       "code": "8859",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Ram Bazar",
       "code": "8860",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Forest, Police & Tehsil  complex ward",
       "code": "8861",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }
