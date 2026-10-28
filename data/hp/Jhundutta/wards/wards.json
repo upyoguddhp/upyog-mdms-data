@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Tatih",
+      "name": "Thappar",
       "code": "11457",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
+    },
+     {
+      "name": "Anandghat",
+      "code": "11458",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+     {
+      "name": "Jethwi",
+      "code": "11459",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+     {
+      "name": "Badwarh",
+      "code": "11460",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+     {
+      "name": "Banda",
+      "code": "11461",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+     {
+      "name": "Jhandu",
+      "code": "11462",
+	  "active":"true",
+    "wardNumber": "6"
+    }, 
+    {
+      "name": "Baihren",
+      "code": "11463",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

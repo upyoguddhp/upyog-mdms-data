@@ -5,37 +5,44 @@
     {
       "name": "Bhiunta",
       "code": "2513268",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Bishnu",
       "code": "2513270",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Deem",
       "code": "2513269",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Pokhtu",
       "code": "2513271",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
     {
       "name": "Shigauli",
       "code": "2513266",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Sirkoti",
       "code": "2513265",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Sunarla",
       "code": "2513267",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     }
   ]
 }

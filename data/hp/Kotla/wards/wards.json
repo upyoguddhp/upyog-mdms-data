@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Kotla",
-      "code": "00000",
-	  "active":"true"
+      "name": "Balah G.M.S. Balah",
+      "code": "313111",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Kotla 1",
+      "code": "313112",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Kotla 2",
+      "code": "313113",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Nera",
+      "code": "313114",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Kotla 3",
+      "code": "313115",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Bhedkhad",
+      "code": "313116",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Latehar",
+      "code": "313117",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

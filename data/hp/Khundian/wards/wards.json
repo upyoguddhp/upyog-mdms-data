@@ -1,11 +1,48 @@
 {
-  "tenantId": "hp.Khundian",
+  "tenantId": "hp.Khundiyan",
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Tatih",
+      "name": "Khundyan",
       "code": "11457",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Lahru",
+      "code": "11458",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Sihoti",
+      "code": "11459",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Thamba",
+      "code": "11460",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Ballah",
+      "code": "11461",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Sihoti-Galoti ",
+      "code": "11462",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Galoti",
+      "code": "11463",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

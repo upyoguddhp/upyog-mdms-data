@@ -5,67 +5,80 @@
     {
       "name": "Bhantawali Bhuppur",
       "code": "68153",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Devinagar-I",
       "code": "68521",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "10"
     },
     {
       "name": "Devinagar-II",
       "code": "68522",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "11"
     },
     {
       "name": "Shubhkhera",
       "code": "1296819",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "12"
     },
     {
       "name": "Heerpur",
       "code": "1296820",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "13"
     },
     {
       "name": "Bhuppur Kedarpur",
       "code": "68154",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
 	{
       "name": "Badripur",
       "code": "68155",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
 	{
       "name": "Taruwala",
       "code": "68156",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
 	{
       "name": "Shamsherpur",
       "code": "68157",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
 	{
       "name": "Byepass",
       "code": "68158",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
 	{
       "name": "Hospital",
       "code": "68159",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
 	{
       "name": "Bus Stand",
       "code": "68160",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	{
       "name": "Kahar Basti",
       "code": "68161",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }

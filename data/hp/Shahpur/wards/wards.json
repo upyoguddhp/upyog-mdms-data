@@ -5,37 +5,44 @@
     {
       "name": "Chandroon",
       "code": "2513276",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber":"5"
     },
     {
       "name": "Gorda",
       "code": "2513277",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber":"6"
     },
     {
       "name": "Hara",
       "code": "2513273",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber":"2"
     },
     {
       "name": "Jhullar",
       "code": "2513274",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber":"3"
     },
     {
       "name": "Manjhiar",
       "code": "2513278",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber":"7"
     },
     {
       "name": "Shahpur",
       "code": "2513275",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber":"4"
     },
     {
       "name": "Siholpuri",
       "code": "2513272",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber":"1"
     }
   ]
 }

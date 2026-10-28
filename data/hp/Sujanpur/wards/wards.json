@@ -5,42 +5,50 @@
     {
       "name": "Chowatta Mohalla & Porian Mohalla",
       "code": "11477",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Nai Basi/Baba Swroopgir Mohalla",
       "code": "11478",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Mohalla Babaswroopgir, Jogi/Doli",
       "code": "11480",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Mohalla Harizan Basti, Darian",
       "code": "11481",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Mohalla Zhiber, Chargen/Balla",
       "code": "11482",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Mohalla Brahampuri-I",
       "code": "11483",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
     {
       "name": "Mohalla Brahampuri-II",
       "code": "11484",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	{
       "name": "Mohalla Chowatta /Jain & Dhangoo",
       "code": "11485",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }

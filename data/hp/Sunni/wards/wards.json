@@ -5,37 +5,44 @@
     {
       "name": "Dano Mandir",
       "code": "11637",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "1"
     },
     {
       "name": "Upper Bazar",
       "code": "11638",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "2"
     },
     {
       "name": "School Ward",
       "code": "11639",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "3"
     },
     {
       "name": "Bhakra Ward",
       "code": "11640",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "4"
     },
     {
       "name": "Lower Bazar",
       "code": "11641",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "5"
     },
     {
       "name": "Hospital Ward",
       "code": "11642",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "6"
     },
     {
       "name": "Hanuman Mandir ward",
       "code": "11643",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "7"
     }
   ]
 }

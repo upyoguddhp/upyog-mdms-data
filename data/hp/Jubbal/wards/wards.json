@@ -5,37 +5,44 @@
     {
       "name": "Purana Jubbal",
       "code": "8848",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Tehsil Colony",
       "code": "8849",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Palace",
       "code": "8850",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Post Office",
       "code": "8851",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Forest Colony",
       "code": "8852",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Hospital ward",
       "code": "8853",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Devra",
       "code": "8854",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

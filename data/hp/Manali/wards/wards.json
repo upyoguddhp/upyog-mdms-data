@@ -5,37 +5,44 @@
     {
       "name": "Dhungri",
       "code": "11425",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Bhajugi",
       "code": "11426",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "School area",
       "code": "11427",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Modal Town",
       "code": "11428",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Manu Market",
       "code": "11429",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Gompa Area",
       "code": "11430",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Police Station area",
       "code": "11431",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

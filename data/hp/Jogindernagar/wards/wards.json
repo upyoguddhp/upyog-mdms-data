@@ -5,42 +5,44 @@
     {
       "name": "Laxmi Bazar",
       "code": "11450",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Garoru",
       "code": "11451",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "College area",
       "code": "11452",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Samlot",
       "code": "2513271",
-	  "active":"true"
-    },
-    {
-      "name": "Samlot",
-      "code": "11453",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Upper Seri",
       "code": "11454",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Lower Seri",
       "code": "11455",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
 	{
       "name": "Shanan",
       "code": "11456",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

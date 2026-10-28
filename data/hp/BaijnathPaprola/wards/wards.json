@@ -5,57 +5,68 @@
     {
       "name": "Kasba Baijnath",
       "code": "1297049",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Paprola",
       "code": "1297058",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "10"
     },
     {
       "name": "Paproal Khas",
       "code": "1297059",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "11"
     },
     {
       "name": "Baijnath-I",
       "code": "1297050",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Baijnath-II",
       "code": "1297051",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Ghirtholi",
       "code": "1297052",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Pantehar",
       "code": "1297053",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
 	{
       "name": "Ustehar",
       "code": "1297054",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
 	{
       "name": "Kasba Paprola-I",
       "code": "1297055",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
 	{
       "name": "Kasba Paprola-II",
       "code": "1297056",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	{
       "name": "Kothi",
       "code": "1297057",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }

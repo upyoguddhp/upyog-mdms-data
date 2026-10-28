@@ -5,47 +5,56 @@
     {
       "name": "Adarsh Nagar",
       "code": "2513237",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Amb-1",
       "code": "2513233",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Amb-2",
       "code": "2513234",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Heeranagar1",
       "code": "2513235",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Heeranagar2",
       "code": "2513236",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Polian Jaswaln",
       "code": "2513232",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
 	{
       "name": "Pratap Nagar1",
       "code": "2513238",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
 	{
       "name": "Pratap Nagar2",
       "code": "2513239",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	{
       "name": "Pratap Nagar3",
       "code": "2513240",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }
