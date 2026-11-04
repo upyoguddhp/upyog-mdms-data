@@ -5,47 +5,56 @@
     {
       "name": "Hospital Wala  Ward",
       "code": "11572",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Fatakwala",
       "code": "11573",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Harizana Wala Ward",
       "code": "11574",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Miyansahib wala",
       "code": "11575",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Jainiawala",
       "code": "11576",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Bajajan Wala",
       "code": "11577",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
 	{
       "name": "Ghaiyan Wala",
       "code": "11578",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
 	{
       "name": "Bassiyan Wala",
       "code": "11579",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	{
       "name": "Vaida Wala",
       "code": "11580",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }

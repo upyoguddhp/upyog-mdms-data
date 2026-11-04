@@ -3,9 +3,58 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Barsar",
-      "code": "00000",
-	  "active":"true"
-    }
+      "name": "Thana -I",
+      "code": "818111",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Bani-2",
+      "code": "818112",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Tukhani-3",
+      "code": "818113",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Bhakreri-4",
+      "code": "818114",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Ghumarwin-5",
+      "code": "818115",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Mehre-6",
+      "code": "818116",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Shivnagar-8",
+      "code": "818117",
+	  "active":"true",
+    "wardNumber": "7"
+    },
+    {
+      "name": "Krishna Nagar-8",
+      "code": "818118",
+	  "active":"true",
+    "wardNumber": "8"
+    },
+    {
+      "name": "Badsar-9",
+      "code": "818119",
+	  "active":"true",
+    "wardNumber": "9"
+    } 
   ]
 }

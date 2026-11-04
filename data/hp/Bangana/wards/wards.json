@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
+      "name": "Nayli Uparali",
+      "code": "121231",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Rit Satrukha",
+      "code": "121232",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Baut",
+      "code": "121233",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Bhalet",
+      "code": "121234",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Muchhali Khas",
+      "code": "121235",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
       "name": "Bangana",
-      "code": "00000",
-	  "active":"true"
+      "code": "121236",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Chilli",
+      "code": "121237",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

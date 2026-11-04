@@ -5,37 +5,44 @@
     {
       "name": "Bijeshwar Mahadev",
       "code": "2513203",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
     {
       "name": "Dolag",
       "code": "2513200",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Himuda",
       "code": "2513198",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Lower Bazar",
       "code": "2513202",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": " Padav",
       "code": "2513199",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Rajeshwaree",
       "code": "2513201",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
 	{
       "name": "Silharee",
       "code": "2513197",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     }
   ]
 }

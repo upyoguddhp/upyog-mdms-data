@@ -3,9 +3,58 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Nagrota Surian",
-      "code": "0000",
-	  "active":"true"
+      "name": "Basa",
+      "code": "898911",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Bus Stand Nagrota Surian-I",
+      "code": "898912",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Railway Station Nagrota Surian-II",
+      "code": "898913",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Koteshwar Mahadev Katholi-I",
+      "code": "898914",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Panchvati Park Katholi-II",
+      "code": "898915",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Gurudwara Sahib Nagrota Surian-III",
+      "code": "898916",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Suknara",
+      "code": "898917",
+	  "active":"true",
+    "wardNumber": "7"
+    },
+    {
+      "name": "Vishwakarma Mandir Katholi-III",
+      "code": "898918",
+	  "active":"true",
+    "wardNumber": "8"
+    },
+    {
+      "name": "Pukharbad",
+      "code": "898919",
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }

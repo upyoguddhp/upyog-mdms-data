@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Shillai",
+      "name": "Mahasu Nagar Colony",
       "code": "11457",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Durga Nagar Colony",
+      "code": "11458",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Chudeshwar Maharaj Colony",
+      "code": "11459",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Rajasav Colony",
+      "code": "11460",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Shiva Colony",
+      "code": "11461",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Mahadev Colony",
+      "code": "11462",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Gugga Maharaj Colony",
+      "code": "11463",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "tenantId": "hp.Bir",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Bir (I)",
+      "code": "989811",
+      "active": "true",
+      "wardNumber": "1"
+    },
+    {
+      "name": "Gunehar",
+      "code": "989812",
+      "active": "true",
+      "wardNumber": "2"
+    },
+    {
+      "name": "Lahad",
+      "code": "989813",
+      "active": "true",
+      "wardNumber": "3"
+    },
+    {
+      "name": "Kotli",
+      "code": "989814",
+      "active": "true",
+      "wardNumber": "4"
+    },
+    {
+      "name": "Chowgan(I)",
+      "code": "989815",
+      "active": "true",
+      "wardNumber": "5"
+    },
+    {
+      "name": "Chowgan (II)",
+      "code": "989816",
+      "active": "true",
+      "wardNumber": "6"
+    },
+    {
+      "name": "Suja",
+      "code": "989817",
+      "active": "true",
+      "wardNumber": "7"
+    },
+    {
+      "name": "Bir (II)",
+      "code": "989818",
+      "active": "true",
+      "wardNumber": "8"
+    },
+    {
+      "name": "Kyori",
+      "code": "989819",
+      "active": "true",
+      "wardNumber": "9"
+    }
+  ]
+}

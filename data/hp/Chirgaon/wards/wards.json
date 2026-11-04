@@ -5,37 +5,44 @@
     {
       "name": "Bhonda Bazar",
       "code": "2513246",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Bhonda colony",
       "code": "2513247",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Chirgaon-I",
       "code": "2513244",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Chirgaon-II",
       "code": "2513245",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Mandli",
       "code": "2513250",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
     {
       "name": "Sundha",
       "code": "2513249",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Upper and Lower Bhonda",
       "code": "2513248",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     }
   ]
 }

@@ -5,37 +5,44 @@
     {
       "name": "Rewalsar-1",
       "code": "68116",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Rewalsar-2",
       "code": "68117",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Rewalsar-3",
       "code": "68118",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Rewalsar-4",
       "code": "68119",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Rewalsar-5",
       "code": "68120",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Rewalsar-6",
       "code": "68121",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": " Rewalsar-7",
       "code": "68122",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

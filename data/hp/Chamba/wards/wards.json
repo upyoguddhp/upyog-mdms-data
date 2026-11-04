@@ -5,62 +5,68 @@
     {
       "name": "Sultanpur",
       "code": "11270",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Julakari",
       "code": "11279",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "10"
     },
     {
       "name": "Hardaspura",
       "code": "11280",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "11"
     },
     {
       "name": "Kasakra",
       "code": "11271",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Chowgan",
       "code": "11272",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Hatnala",
       "code": "11273",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Jansali",
       "code": "11274",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
 	{
       "name": "Chountra",
       "code": "11275",
-	  "active":"true"
-    },
-	{
-      "name": "Jansali",
-      "code": "11274",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
 	{
       "name": "Surara",
       "code": "11276",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
 	{
       "name": "Sapri",
       "code": "11277",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	{
       "name": "Dharog",
       "code": "11278",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     }
   ]
 }

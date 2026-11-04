@@ -1,0 +1,48 @@
+{
+  "tenantId": "hp.Sangrah",
+  "moduleName": "wards",
+  "wards": [
+    {
+      "name": "Jawgadhar",
+      "code": "929811",
+      "active": "true",
+      "wardNumber": "1"
+    },
+    {
+      "name": "Main Bazar Sangrah",
+      "code": "929812",
+      "active": "true",
+      "wardNumber": "2"
+    },
+    {
+      "name": "Sangrah Town",
+      "code": "929813",
+      "active": "true",
+      "wardNumber": "3"
+    },
+    {
+      "name": "Pawra",
+      "code": "929814",
+      "active": "true",
+      "wardNumber": "4"
+    },
+    {
+      "name": "Tikkeri",
+      "code": "929815",
+      "active": "true",
+      "wardNumber": "5"
+    },
+    {
+      "name": "Dahar",
+      "code": "929816",
+      "active": "true",
+      "wardNumber": "6"
+    },
+    {
+      "name": "Goila-Kadoli",
+      "code": "929817",
+      "active": "true",
+      "wardNumber": "7"
+    }
+  ]
+}

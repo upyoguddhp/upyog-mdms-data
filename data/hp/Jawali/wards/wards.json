@@ -5,47 +5,56 @@
     {
       "name": "Bhanei",
       "code": "1297071",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Makrahan",
       "code": "1297072",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Lubh",
       "code": "1297073",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Mini Secretariat",
       "code": "1297074",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Kehrian Chowk",
       "code": "1297075",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "PWD Rest House",
       "code": "1297076",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Govt. Sr. Sec. School (Girls)",
       "code": "1297077",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
 	  {
       "name": "Luxmi Narayan Temple",
       "code": "1297078",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
 	  {
       "name": "Civil Hospital Jawali",
       "code": "1297079",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     },
     {
       "name": "Basantpur",

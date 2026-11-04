@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Banikhet",
-      "code": "00000",
-	  "active":"true"
+      "name": "Baikunth Nagar",
+      "code": "767611",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+    {
+      "name": "Pukhri",
+      "code": "767612",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+    {
+      "name": "Banikhet Bus Stand",
+      "code": "767613",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+    {
+      "name": "Banikhet Jarie-I",
+      "code": "767614",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+    {
+      "name": "Banikhet Jarie-II",
+      "code": "767615",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+    {
+      "name": "Banikhet Village",
+      "code": "767616",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+    {
+      "name": "Padher",
+      "code": "767617",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

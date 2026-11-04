@@ -5,37 +5,44 @@
     {
       "name": "Ravi Dass Nagar",
       "code": "68123",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Indira Nagar",
       "code": "68124",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": " Krishna Nagar",
       "code": "68125",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Narain Nagar",
       "code": "68126",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Rajeev Nagar",
       "code": "68127",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Lohiya Nagar",
       "code": "68128",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Jwala Nagar",
       "code": "68129",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

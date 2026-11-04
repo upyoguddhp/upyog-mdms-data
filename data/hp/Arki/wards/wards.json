@@ -5,37 +5,44 @@
     {
       "name": "Mahlaat-I",
       "code": "11565",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"  
     },
     {
       "name": "Miyanpur",
       "code": "11566",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Jhinwar Muhalla",
       "code": "11567",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Chaugan",
       "code": "11568",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Laxmi Narayan Temple",
       "code": "11569",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Titla Muhalla",
       "code": "11570",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
 	{
       "name": "Shilla Kakkar",
       "code": "11571",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

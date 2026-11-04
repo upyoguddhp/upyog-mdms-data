@@ -3,9 +3,46 @@
   "moduleName": "wards",
   "wards": [
     {
-      "name": "Baldwara",
-      "code": "0000",
-	  "active":"true"
+      "name": "Karani",
+      "code": "131321",
+	  "active":"true",
+    "wardNumber": "1"
+    },
+     {
+      "name": "Baldwara-II",
+      "code": "131322",
+	  "active":"true",
+    "wardNumber": "2"
+    },
+     {
+      "name": "Baldwara-III",
+      "code": "131323",
+	  "active":"true",
+    "wardNumber": "3"
+    },
+     {
+      "name": "Tarandol",
+      "code": "131324",
+	  "active":"true",
+    "wardNumber": "4"
+    },
+     {
+      "name": "Jamnaun",
+      "code": "131325",
+	  "active":"true",
+    "wardNumber": "5"
+    },
+     {
+      "name": "Harlayan",
+      "code": "131326",
+	  "active":"true",
+    "wardNumber": "6"
+    },
+     {
+      "name": "Khanot-II",
+      "code": "131327",
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }

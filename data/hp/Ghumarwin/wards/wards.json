@@ -5,47 +5,56 @@
     {
       "name": "Baddu Ward",
       "code": "68130",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Indira Market Ward",
       "code": "68131",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Ambedkar Ward",
       "code": "68132",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Kalyana Ward",
       "code": "68133",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Bajouha Ward",
       "code": "68134",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     },
     {
       "name": "Tikkari Ward",
       "code": "68135",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "8"
     },
     {
       "name": "Dakari Ward",
       "code": "68136",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "9"
     },
     {
       "name": "Harkukar Ward",
       "code": "68137",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Jagdamba Ward",
       "code": "68138",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     }
   ]
 }

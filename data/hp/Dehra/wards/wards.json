@@ -5,37 +5,44 @@
     {
       "name": "Rajgarh",
       "code": "1297038",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "1"
     },
     {
       "name": "Amarpuri",
       "code": "1297039",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "2"
     },
     {
       "name": "Hanuman Mandir",
       "code": "1297040",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "3"
     },
     {
       "name": "Gaytri Mandir",
       "code": "1297041",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "4"
     },
     {
       "name": "Dandeya-da-Peepal",
       "code": "1297042",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "5"
     },
     {
       "name": "Shiv Mandir",
       "code": "1297043",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "6"
     },
     {
       "name": "Kanju Peer",
       "code": "1297044",
-	  "active":"true"
+	  "active":"true",
+    "wardNumber": "7"
     }
   ]
 }
