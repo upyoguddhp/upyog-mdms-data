@@ -172,6 +172,18 @@
     },
     {
       "categories": "Commercial",
+      "subcategories": "Shops",
+      "subcategorytype": "Mobile Shop/Electrical Shop",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 110,
+      "tenantId": "hp.Arki",
+      "active": "TRUE"
+    },
+    {
+      "categories": "Commercial",
       "subcategories": "Super Stores/Departmental Store",
       "subcategorytype": "Super Stores/Departmental Store",
       "bplRebatePercentage": 0,
@@ -1247,6 +1259,30 @@
       "variableUnitCost": 0,
       "fixedUnitCost": 0,
       "fee": 300,
+      "tenantId": "hp.Arki",
+      "active": "TRUE"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Hospital",
+      "subcategorytype": "Govt Hospital",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
+      "tenantId": "hp.Arki",
+      "active": "TRUE"
+    },
+    {
+      "categories": "Govt Establishments",
+      "subcategories": "Govt Dispensary",
+      "subcategorytype": "Govt Dispensary",
+      "bplRebatePercentage": 0,
+      "isAdditonalCostAdded": false,
+      "variableUnitCost": 0,
+      "fixedUnitCost": 0,
+      "fee": 250,
       "tenantId": "hp.Arki",
       "active": "TRUE"
     },
