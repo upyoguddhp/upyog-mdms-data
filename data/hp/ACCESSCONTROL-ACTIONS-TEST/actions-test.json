@@ -13258,6 +13258,19 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1728,
+      "name": "ddp status count",
+      "url": "/digital-door-plate/door-plate/_ddpStatusCount",
+      "displayName": "DDP Status Count",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
