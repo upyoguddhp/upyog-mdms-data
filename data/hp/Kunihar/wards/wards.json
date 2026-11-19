@@ -5,37 +5,44 @@
     {
       "name": "Kothi",
       "code": "10001",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "1"
     },
     {
-      "name": "Palura",
+      "name": "Pulahra",
       "code": "10002",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "2"
     },
     {
-      "name": "Taj Darwar",
+      "name": "Raj Darwar",
       "code": "10003",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "3"
     },
     {
       "name": "Hatkot",
       "code": "10004",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "4"
     },
     {
       "name": "Ucchagaon",
       "code": "10005",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "5"
     },
     {
       "name": "Chaklu",
       "code": "10006",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "6"
     },
     {
       "name": "Thawna",
       "code": "10007",
-      "active": "true"
+      "active": "true",
+      "wardNumber": "7"
     }
   ]
 }
