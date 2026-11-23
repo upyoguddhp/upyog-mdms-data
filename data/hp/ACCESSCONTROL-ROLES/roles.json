@@ -938,6 +938,11 @@
       "description": "Can Print DDP PDF"
     },
     {
+      "code": "DDP_VERIFIER",
+      "name": "DDP Verifier",
+      "description": "Can verify DDP applications"
+    },
+    {
       "code": "DDP_UD_ADMIN",
       "name": "DDP UD Admin",
       "description": "Can View DDP Reports"
