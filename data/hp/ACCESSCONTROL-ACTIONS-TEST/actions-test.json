@@ -13271,6 +13271,17 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1729,
+      "name": "Create NOC",
+      "url": "/noc-services/v1/noc/_getNocTemplate",
+      "parentModule": "noc-services",
+      "displayName": "Create NOC",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "NOC",
+      "tenantId": "hp"
     }
   ]
 }
