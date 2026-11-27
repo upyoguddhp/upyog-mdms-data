@@ -10,7 +10,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 80,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -22,7 +22,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 160,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -34,7 +34,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 80,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -46,7 +46,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 120,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -58,7 +58,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 250,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -70,7 +70,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 800,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -82,7 +82,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -94,7 +94,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 100,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -106,7 +106,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 100,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -142,7 +142,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
+    "fee": 320,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -154,7 +154,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
+    "fee": 320,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -166,7 +166,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
+    "fee": 320,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -178,7 +178,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 200,
+    "fee": 320,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -190,7 +190,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -202,7 +202,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 300,
+    "fee": 1000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -214,7 +214,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 160,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -226,7 +226,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 300,
+    "fee": 480,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -250,7 +250,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -262,7 +262,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -274,7 +274,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 1000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -286,7 +286,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 600,
+    "fee": 1200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -346,7 +346,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 500,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -358,7 +358,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 1000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -370,7 +370,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -379,10 +379,10 @@
     "subcategories": "Homestays / Bread n Breakfasts / Paying Guest Facility / Hostels",
     "subcategorytype": "More than 30 Rooms",
     "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": false,
-    "variableUnitCost": 0,
+    "isAdditonalCostAdded": true,
+    "variableUnitCost": 300,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -394,7 +394,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 1000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -406,7 +406,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 100,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -418,7 +418,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -430,7 +430,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 1000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -442,7 +442,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -451,10 +451,10 @@
     "subcategories": "Private Offices",
     "subcategorytype": "More than 20 Rooms",
     "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": false,
-    "variableUnitCost": 0,
+    "isAdditonalCostAdded": true,
+    "variableUnitCost": 100,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -466,7 +466,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 800,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -478,7 +478,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 400,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -490,7 +490,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 250,
+    "fee": 500,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -502,7 +502,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1200,
+    "fee": 1500,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -514,7 +514,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1200,
+    "fee": 1500,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -550,7 +550,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 300,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -562,7 +562,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 80,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -574,7 +574,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -586,7 +586,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -598,7 +598,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 500,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -610,7 +610,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 80,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -658,7 +658,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 3000,
+    "fee": 3500,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -706,7 +706,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
+    "fee": 1500,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -718,7 +718,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -727,10 +727,10 @@
     "subcategories": "Nursing Homes",
     "subcategorytype": "More than 100 Beds",
     "bplRebatePercentage": 0,
-    "isAdditonalCostAdded": false,
-    "variableUnitCost": 0,
+    "isAdditonalCostAdded": true,
+    "variableUnitCost": 250,
     "fixedUnitCost": 0,
-    "fee": 1000,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -778,7 +778,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -790,7 +790,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 160,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -802,7 +802,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -814,7 +814,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 160,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -874,7 +874,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
+    "fee": 1200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -886,7 +886,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 50,
+    "fee": 100,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -898,7 +898,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 100,
+    "fee": 200,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -910,7 +910,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 500,
+    "fee": 1000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -922,7 +922,7 @@
     "isAdditonalCostAdded": false,
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
-    "fee": 1000,
+    "fee": 2000,
     "tenantId": "hp.Theog",
     "active": "true"
   },
@@ -971,6 +971,102 @@
     "variableUnitCost": 0,
     "fixedUnitCost": 0,
     "fee": 50,
+    "tenantId": "hp.Theog",
+    "active": "true"
+  },
+  {
+    "categories": "Commercial",
+    "subcategories": "Shops",
+    "subcategorytype": "daily needs, clothes",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": false,
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 100,
+    "tenantId": "hp.Theog",
+    "active": "true"
+  },
+  {
+    "categories": "Commercial",
+    "subcategories": "Shops",
+    "subcategorytype": "Sweet/Snacks Shop (Big)",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": false,
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 200,
+    "tenantId": "hp.Theog",
+    "active": "true"
+  },
+  {
+    "categories": "Govt Establishments",
+    "subcategories": "Government Schools",
+    "subcategorytype": "Government Schools",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": false,
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 160,
+    "tenantId": "hp.Theog",
+    "active": "true"
+  },
+  {
+    "categories": "Commercial",
+    "subcategories": "Factories",
+    "subcategorytype": "Manufacturing unit",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": false,
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 300,
+    "tenantId": "hp.Theog",
+    "active": "true"
+  },
+  {
+    "categories": "Commercial",
+    "subcategories": "Cinema Hall",
+    "subcategorytype": "Theatre, multiplex",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": false,
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 1500,
+    "tenantId": "hp.Theog",
+    "active": "true"
+  },
+  {
+    "categories": "Residential",
+    "subcategories": "Household",
+    "subcategorytype": "Cow dung from cattle at households",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": false,
+    "variableUnitCost": 0,
+    "fixedUnitCost": 0,
+    "fee": 250,
+    "tenantId": "hp.Theog",
+    "active": "True"
+  },
+  {
+    "categories": "Commercial",
+    "subcategories": "Banquet Hall/Hotel",
+    "subcategorytype": "Banquet Hall/Hotel",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": true,
+    "variableUnitCost": 2000,
+    "fixedUnitCost": 0,
+    "fee": 2000,
+    "tenantId": "hp.Theog",
+    "active": "true"
+  },
+  {
+    "categories": "Commercial",
+    "subcategories": "Special Hotels",
+    "subcategorytype": "More than 50 Rooms",
+    "bplRebatePercentage": 0,
+    "isAdditonalCostAdded": true,
+    "variableUnitCost": 2000,
+    "fixedUnitCost": 0,
+    "fee": 15000,
     "tenantId": "hp.Theog",
     "active": "true"
   }
